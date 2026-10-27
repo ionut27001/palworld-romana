@@ -45,7 +45,8 @@ arhaisme); unde n-a ieșit nimic curat, rămâne engleza. Testat în joc.
 ## Alte traduceri și susținere
 
 Am tradus și [Cyberpunk 2077](https://github.com/ionut27001/cp77-romana),
-[Assassin's Creed Shadows](https://github.com/ionut27001/acs-romana) și
+[Assassin's Creed Shadows](https://github.com/ionut27001/acs-romana),
+[Kingdom Come: Deliverance](https://github.com/ionut27001/kcd1-romana) și
 [Kingdom Come: Deliverance II](https://github.com/ionut27001/kcd2-romana). Vrei alt joc în română? Scrie-mi pe Nexus în
 comentarii. Dacă vrei să mă susții, îmi poți face cadou jocul pe care vrei să-l traduc, pe
 [Steam](https://steamcommunity.com/profiles/76561199120542317). Nu e obligatoriu: traducerile rămân gratuite.
