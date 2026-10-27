@@ -1,0 +1,95 @@
+{
+ "table": "DT_CharacterTeamMissionText",
+ "entries": [
+  {
+   "key": "DUNGEON_GRASS_TextData",
+   "en": "Verdant Hollow",
+   "ro": "Scobitura Înverzită"
+  },
+  {
+   "key": "DUNGEON_FOREST_TextData",
+   "en": "Secret Realm of the Forest",
+   "ro": "Tărâmul Secret al Pădurii"
+  },
+  {
+   "key": "DUNGEON_VOLCANO_TextData",
+   "en": "Blazing Cavern",
+   "ro": "Caverna Înflăcărată"
+  },
+  {
+   "key": "DUNGEON_DESERT_TextData",
+   "en": "Hidden Sanctum of the Desert",
+   "ro": "Sanctuarul Ascuns al Deșertului"
+  },
+  {
+   "key": "DUNGEON_SNOW_TextData",
+   "en": "Astral Frost Cavern",
+   "ro": "Caverna Înghețului Astral"
+  },
+  {
+   "key": "DUNGEON_SAKURAJIMA_TextData",
+   "en": "Celestial Sakura Cavern",
+   "ro": "Caverna Sakura Cerească"
+  },
+  {
+   "key": "DUNGEON_DARKISLAND_TextData",
+   "en": "Dark Cave of Feybreak",
+   "ro": "Peștera Întunecată din Feybreak"
+  },
+  {
+   "key": "DUNGEON_GRASSHARD_TextData",
+   "en": "Rayne Syndicate Smuggling Warehouse",
+   "ro": "Depozitul de contrabandă al Sindicatului Rayne"
+  },
+  {
+   "key": "DUNGEON_FORESTHARD_TextData",
+   "en": "Free Pal Alliance Illicit Trading Post",
+   "ro": "Punctul de comerț ilicit al Alianței Free Pal"
+  },
+  {
+   "key": "DUNGEON_VOLCANOHARD_TextData",
+   "en": "Eternal Pyre's Forbidden Market",
+   "ro": "Piața Interzisă a Rugului Etern"
+  },
+  {
+   "key": "DUNGEON_DESERTHARD_TextData",
+   "en": "PIDF Illegal Factory",
+   "ro": "Fabrica Ilegală PIDF"
+  },
+  {
+   "key": "DUNGEON_SNOWHARD_TextData",
+   "en": "PAL Genetic Research Laboratory",
+   "ro": "Laboratorul de Cercetare Genetică a Palilor"
+  },
+  {
+   "key": "DUNGEON_SAKURAJIMAHARD_TextData",
+   "en": "Moonflower's Secret Hideout",
+   "ro": "Ascunzătoarea secretă a celor de la Moonflower"
+  },
+  {
+   "key": "DUNGEON_DARKISLANDHARD_TextData",
+   "en": "Ancient Feybreak Ruins",
+   "ro": "Ruinele antice din Feybreak"
+  },
+  {
+   "key": "DUNGEON_SKYISLAND_TextData",
+   "en": "Sunreach Isle",
+   "ro": "Insula Sunreach"
+  },
+  {
+   "key": "DUNGEON_WORLDTREE_TextData",
+   "en": "World Tree Subterrenean City Ruins",
+   "ro": "Ruinele orașului subteran al Arborelui Lumii"
+  },
+  {
+   "key": "DUNGEON_SKYISLANDHARD_TextData",
+   "en": "Sunreach Dragon Husk",
+   "ro": "Carcasa dragonului din Sunreach"
+  },
+  {
+   "key": "DUNGEON_WORLDTREEHARD_TextData",
+   "en": "The World Tree's Forbidden Area",
+   "ro": "Zona interzisă a Arborelui Lumii"
+  }
+ ]
+}

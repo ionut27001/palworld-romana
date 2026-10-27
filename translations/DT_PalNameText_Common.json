@@ -1,0 +1,1615 @@
+{
+ "table": "DT_PalNameText_Common",
+ "entries": [
+  {
+   "key": "PAL_NAME_Alpaca_TextData",
+   "en": "Melpaca",
+   "ro": "Melpaca"
+  },
+  {
+   "key": "PAL_NAME_AmaterasuWolf_TextData",
+   "en": "Kitsun",
+   "ro": "Kitsun"
+  },
+  {
+   "key": "PAL_NAME_AmaterasuWolf_Dark_TextData",
+   "en": "Kitsun Noct",
+   "ro": "Kitsun Noct"
+  },
+  {
+   "key": "PAL_NAME_Anubis_TextData",
+   "en": "Anubis",
+   "ro": "Anubis"
+  },
+  {
+   "key": "PAL_NAME_BadCatgirl_TextData",
+   "en": "Nyafia",
+   "ro": "Nyafia"
+  },
+  {
+   "key": "PAL_NAME_Baphomet_TextData",
+   "en": "Incineram",
+   "ro": "Incineram"
+  },
+  {
+   "key": "PAL_NAME_Baphomet_Dark_TextData",
+   "en": "Incineram Noct",
+   "ro": "Incineram Noct"
+  },
+  {
+   "key": "PAL_NAME_Bastet_TextData",
+   "en": "Mau",
+   "ro": "Mau"
+  },
+  {
+   "key": "PAL_NAME_Bastet_Ice_TextData",
+   "en": "Mau Cryst",
+   "ro": "Mau Cryst"
+  },
+  {
+   "key": "PAL_NAME_BeardedDragon_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PAL_NAME_BerryGoat_TextData",
+   "en": "Caprity",
+   "ro": "Caprity"
+  },
+  {
+   "key": "PAL_NAME_BerryGoat_Dark_TextData",
+   "en": "Caprity Noct",
+   "ro": "Caprity Noct"
+  },
+  {
+   "key": "PAL_NAME_BirdDragon_TextData",
+   "en": "Vanwyrm",
+   "ro": "Vanwyrm"
+  },
+  {
+   "key": "PAL_NAME_BirdDragon_Ice_TextData",
+   "en": "Vanwyrm Cryst",
+   "ro": "Vanwyrm Cryst"
+  },
+  {
+   "key": "PAL_NAME_BlackCentaur_TextData",
+   "en": "Necromus",
+   "ro": "Necromus"
+  },
+  {
+   "key": "PAL_NAME_BlackFurDragon_TextData",
+   "en": "Dragostrophe",
+   "ro": "Dragostrophe"
+  },
+  {
+   "key": "PAL_NAME_BlackGriffon_TextData",
+   "en": "Shadowbeak",
+   "ro": "Shadowbeak"
+  },
+  {
+   "key": "PAL_NAME_BlackMetalDragon_TextData",
+   "en": "Astegon",
+   "ro": "Astegon"
+  },
+  {
+   "key": "PAL_NAME_BlackPuppy_TextData",
+   "en": "Smokie",
+   "ro": "Smokie"
+  },
+  {
+   "key": "PAL_NAME_BlackPuppy_Ice_TextData",
+   "en": "Smokie Cryst",
+   "ro": "Smokie Cryst"
+  },
+  {
+   "key": "PAL_NAME_BlueberryFairy_TextData",
+   "en": "Prunelia",
+   "ro": "Prunelia"
+  },
+  {
+   "key": "PAL_NAME_BlueDragon_TextData",
+   "en": "Azurobe",
+   "ro": "Azurobe"
+  },
+  {
+   "key": "PAL_NAME_BlueDragon_Ice_TextData",
+   "en": "Azurobe Cryst",
+   "ro": "Azurobe Cryst"
+  },
+  {
+   "key": "PAL_NAME_BluePlatypus_TextData",
+   "en": "Fuack",
+   "ro": "Fuack"
+  },
+  {
+   "key": "PAL_NAME_BluePlatypus_Fire_TextData",
+   "en": "Fuack Ignis",
+   "ro": "Fuack Ignis"
+  },
+  {
+   "key": "PAL_NAME_BlueThunderHorse_TextData",
+   "en": "Azurmane",
+   "ro": "Azurmane"
+  },
+  {
+   "key": "PAL_NAME_Boar_TextData",
+   "en": "Rushoar",
+   "ro": "Rushoar"
+  },
+  {
+   "key": "PAL_NAME_BrownRabbit_TextData",
+   "en": "Lapiron",
+   "ro": "Lapiron"
+  },
+  {
+   "key": "PAL_NAME_CandleGhost_TextData",
+   "en": "Sootseer",
+   "ro": "Sootseer"
+  },
+  {
+   "key": "PAL_NAME_CaptainPenguin_TextData",
+   "en": "Penking",
+   "ro": "Penking"
+  },
+  {
+   "key": "PAL_NAME_CaptainPenguin_Black_TextData",
+   "en": "Penking Lux",
+   "ro": "Penking Lux"
+  },
+  {
+   "key": "PAL_NAME_Carbunclo_TextData",
+   "en": "Lifmunk",
+   "ro": "Lifmunk"
+  },
+  {
+   "key": "PAL_NAME_CatBat_TextData",
+   "en": "Tombat",
+   "ro": "Tombat"
+  },
+  {
+   "key": "PAL_NAME_CatMage_TextData",
+   "en": "Katress",
+   "ro": "Katress"
+  },
+  {
+   "key": "PAL_NAME_CatMage_Fire_TextData",
+   "en": "Katress Ignis",
+   "ro": "Katress Ignis"
+  },
+  {
+   "key": "PAL_NAME_CatVampire_TextData",
+   "en": "Felbat",
+   "ro": "Felbat"
+  },
+  {
+   "key": "PAL_NAME_ChickenPal_TextData",
+   "en": "Chikipi",
+   "ro": "Chikipi"
+  },
+  {
+   "key": "PAL_NAME_ColorfulBird_TextData",
+   "en": "Tocotoco",
+   "ro": "Tocotoco"
+  },
+  {
+   "key": "PAL_NAME_CowPal_TextData",
+   "en": "Mozzarina",
+   "ro": "Mozzarina"
+  },
+  {
+   "key": "PAL_NAME_CuteButterfly_TextData",
+   "en": "Cinnamoth",
+   "ro": "Cinnamoth"
+  },
+  {
+   "key": "PAL_NAME_CuteFox_TextData",
+   "en": "Vixy",
+   "ro": "Vixy"
+  },
+  {
+   "key": "PAL_NAME_CuteMole_TextData",
+   "en": "Fuddler",
+   "ro": "Fuddler"
+  },
+  {
+   "key": "PAL_NAME_DarkAlien_TextData",
+   "en": "Xenovader",
+   "ro": "Xenovader"
+  },
+  {
+   "key": "PAL_NAME_DarkCrow_TextData",
+   "en": "Cawgnito",
+   "ro": "Cawgnito"
+  },
+  {
+   "key": "PAL_NAME_DarkMechaDragon_TextData",
+   "en": "Xenolord",
+   "ro": "Xenolord"
+  },
+  {
+   "key": "PAL_NAME_DarkMutant_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PAL_NAME_DarkScorpion_TextData",
+   "en": "Menasting",
+   "ro": "Menasting"
+  },
+  {
+   "key": "PAL_NAME_DarkScorpion_Ground_TextData",
+   "en": "Menasting Terra",
+   "ro": "Menasting Terra"
+  },
+  {
+   "key": "PAL_NAME_Deer_TextData",
+   "en": "Eikthyrdeer",
+   "ro": "Eikthyrdeer"
+  },
+  {
+   "key": "PAL_NAME_Deer_Ground_TextData",
+   "en": "Eikthyrdeer Terra",
+   "ro": "Eikthyrdeer Terra"
+  },
+  {
+   "key": "PAL_NAME_DessertBoss_TextData",
+   "en": "Marcus & Faleris",
+   "ro": "Marcus & Faleris"
+  },
+  {
+   "key": "PAL_NAME_DreamDemon_TextData",
+   "en": "Daedream",
+   "ro": "Daedream"
+  },
+  {
+   "key": "PAL_NAME_DrillGame_TextData",
+   "en": "Digtoise",
+   "ro": "Digtoise"
+  },
+  {
+   "key": "PAL_NAME_Eagle_TextData",
+   "en": "Galeclaw",
+   "ro": "Galeclaw"
+  },
+  {
+   "key": "PAL_NAME_ElecCat_TextData",
+   "en": "Sparkit",
+   "ro": "Sparkit"
+  },
+  {
+   "key": "PAL_NAME_ElecLion_TextData",
+   "en": "Boltmane",
+   "ro": "Boltmane"
+  },
+  {
+   "key": "PAL_NAME_ElecPanda_TextData",
+   "en": "Grizzbolt",
+   "ro": "Grizzbolt"
+  },
+  {
+   "key": "PAL_NAME_FairyDragon_TextData",
+   "en": "Elphidran",
+   "ro": "Elphidran"
+  },
+  {
+   "key": "PAL_NAME_FairyDragon_Water_TextData",
+   "en": "Elphidran Aqua",
+   "ro": "Elphidran Aqua"
+  },
+  {
+   "key": "PAL_NAME_FeatherOstrich_TextData",
+   "en": "Dazemu",
+   "ro": "Dazemu"
+  },
+  {
+   "key": "PAL_NAME_FengyunDeeper_TextData",
+   "en": "Fenglope",
+   "ro": "Fenglope"
+  },
+  {
+   "key": "PAL_NAME_FengyunDeeper_Electric_TextData",
+   "en": "Fenglope Lux",
+   "ro": "Fenglope Lux"
+  },
+  {
+   "key": "PAL_NAME_FireKirin_TextData",
+   "en": "Pyrin",
+   "ro": "Pyrin"
+  },
+  {
+   "key": "PAL_NAME_FireKirin_Dark_TextData",
+   "en": "Pyrin Noct",
+   "ro": "Pyrin Noct"
+  },
+  {
+   "key": "PAL_NAME_FlameBambi_TextData",
+   "en": "Rooby",
+   "ro": "Rooby"
+  },
+  {
+   "key": "PAL_NAME_FlameBuffalo_TextData",
+   "en": "Arsox",
+   "ro": "Arsox"
+  },
+  {
+   "key": "PAL_NAME_FlowerDinosaur_TextData",
+   "en": "Dinossom",
+   "ro": "Dinossom"
+  },
+  {
+   "key": "PAL_NAME_FlowerDinosaur_Electric_TextData",
+   "en": "Dinossom Lux",
+   "ro": "Dinossom Lux"
+  },
+  {
+   "key": "PAL_NAME_FlowerDoll_TextData",
+   "en": "Petallia",
+   "ro": "Petallia"
+  },
+  {
+   "key": "PAL_NAME_FlowerRabbit_TextData",
+   "en": "Flopie",
+   "ro": "Flopie"
+  },
+  {
+   "key": "PAL_NAME_FlyingManta_TextData",
+   "en": "Celaray",
+   "ro": "Celaray"
+  },
+  {
+   "key": "PAL_NAME_FlyingManta_Thunder_TextData",
+   "en": "Celaray Lux",
+   "ro": "Celaray Lux"
+  },
+  {
+   "key": "PAL_NAME_ForestBoss_TextData",
+   "en": "Lily & Lyleen",
+   "ro": "Lily & Lyleen"
+  },
+  {
+   "key": "PAL_NAME_FoxMage_TextData",
+   "en": "Wixen",
+   "ro": "Wixen"
+  },
+  {
+   "key": "PAL_NAME_FoxMage_Dark_TextData",
+   "en": "Wixen Noct",
+   "ro": "Wixen Noct"
+  },
+  {
+   "key": "PAL_NAME_Ganesha_TextData",
+   "en": "Teafant",
+   "ro": "Teafant"
+  },
+  {
+   "key": "PAL_NAME_Garm_TextData",
+   "en": "Direhowl",
+   "ro": "Direhowl"
+  },
+  {
+   "key": "PAL_NAME_GhostAnglerfish_TextData",
+   "en": "Ghangler",
+   "ro": "Ghangler"
+  },
+  {
+   "key": "PAL_NAME_GhostAnglerfish_Fire_TextData",
+   "en": "Ghangler Ignis",
+   "ro": "Ghangler Ignis"
+  },
+  {
+   "key": "PAL_NAME_GhostBeast_TextData",
+   "en": "Maraith",
+   "ro": "Maraith"
+  },
+  {
+   "key": "PAL_NAME_GhostRabbit_TextData",
+   "en": "Nitemary",
+   "ro": "Nitemary"
+  },
+  {
+   "key": "PAL_NAME_GhostRabbit_Grass_TextData",
+   "en": "Nitemary Botan",
+   "ro": "Nitemary Botan"
+  },
+  {
+   "key": "PAL_NAME_GoldenHorse_TextData",
+   "en": "Gildane",
+   "ro": "Gildane"
+  },
+  {
+   "key": "PAL_NAME_Gorilla_TextData",
+   "en": "Gorirat",
+   "ro": "Gorirat"
+  },
+  {
+   "key": "PAL_NAME_Gorilla_Ground_TextData",
+   "en": "Gorirat Terra",
+   "ro": "Gorirat Terra"
+  },
+  {
+   "key": "PAL_NAME_GrassBoss_TextData",
+   "en": "Zoe & Grizzbolt",
+   "ro": "Zoe & Grizzbolt"
+  },
+  {
+   "key": "PAL_NAME_GrassDragon_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PAL_NAME_GrassMammoth_TextData",
+   "en": "Mammorest",
+   "ro": "Mammorest"
+  },
+  {
+   "key": "PAL_NAME_GrassMammoth_Ice_TextData",
+   "en": "Mammorest Cryst",
+   "ro": "Mammorest Cryst"
+  },
+  {
+   "key": "PAL_NAME_GrassPanda_TextData",
+   "en": "Mossanda",
+   "ro": "Mossanda"
+  },
+  {
+   "key": "PAL_NAME_GrassPanda_Electric_TextData",
+   "en": "Mossanda Lux",
+   "ro": "Mossanda Lux"
+  },
+  {
+   "key": "PAL_NAME_GrassRabbitMan_TextData",
+   "en": "Verdash",
+   "ro": "Verdash"
+  },
+  {
+   "key": "PAL_NAME_GrimGirl_TextData",
+   "en": "Splatterina",
+   "ro": "Splatterina"
+  },
+  {
+   "key": "PAL_NAME_GuardianDog_TextData",
+   "en": "Yakumo",
+   "ro": "Yakumo"
+  },
+  {
+   "key": "PAL_NAME_HadesBird_TextData",
+   "en": "Helzephyr",
+   "ro": "Helzephyr"
+  },
+  {
+   "key": "PAL_NAME_HadesBird_Electric_TextData",
+   "en": "Helzephyr Lux",
+   "ro": "Helzephyr Lux"
+  },
+  {
+   "key": "PAL_NAME_HawkBird_TextData",
+   "en": "Nitewing",
+   "ro": "Nitewing"
+  },
+  {
+   "key": "PAL_NAME_Hedgehog_TextData",
+   "en": "Jolthog",
+   "ro": "Jolthog"
+  },
+  {
+   "key": "PAL_NAME_Hedgehog_Ice_TextData",
+   "en": "Jolthog Cryst",
+   "ro": "Jolthog Cryst"
+  },
+  {
+   "key": "PAL_NAME_HerculesBeetle_TextData",
+   "en": "Warsect",
+   "ro": "Warsect"
+  },
+  {
+   "key": "PAL_NAME_HerculesBeetle_Ground_TextData",
+   "en": "Warsect Terra",
+   "ro": "Warsect Terra"
+  },
+  {
+   "key": "PAL_NAME_Horus_TextData",
+   "en": "Faleris",
+   "ro": "Faleris"
+  },
+  {
+   "key": "PAL_NAME_Horus_Water_TextData",
+   "en": "Faleris Aqua",
+   "ro": "Faleris Aqua"
+  },
+  {
+   "key": "PAL_NAME_IceCrocodile_TextData",
+   "en": "Munchill",
+   "ro": "Munchill"
+  },
+  {
+   "key": "PAL_NAME_IceDeer_TextData",
+   "en": "Reindrix",
+   "ro": "Reindrix"
+  },
+  {
+   "key": "PAL_NAME_IceFox_TextData",
+   "en": "Foxcicle",
+   "ro": "Foxcicle"
+  },
+  {
+   "key": "PAL_NAME_IceHorse_TextData",
+   "en": "Frostallion",
+   "ro": "Frostallion"
+  },
+  {
+   "key": "PAL_NAME_IceHorse_Dark_TextData",
+   "en": "Frostallion Noct",
+   "ro": "Frostallion Noct"
+  },
+  {
+   "key": "PAL_NAME_IceNarwhal_TextData",
+   "en": "Whalaska",
+   "ro": "Whalaska"
+  },
+  {
+   "key": "PAL_NAME_IceNarwhal_Fire_TextData",
+   "en": "Whalaska Ignis",
+   "ro": "Whalaska Ignis"
+  },
+  {
+   "key": "PAL_NAME_IceSeal_TextData",
+   "en": "Polapup",
+   "ro": "Polapup"
+  },
+  {
+   "key": "PAL_NAME_IceWitch_TextData",
+   "en": "Icelyn",
+   "ro": "Icelyn"
+  },
+  {
+   "key": "PAL_NAME_JellyfishFairy_TextData",
+   "en": "Jelliette",
+   "ro": "Jelliette"
+  },
+  {
+   "key": "PAL_NAME_JellyfishGhost_TextData",
+   "en": "Jellroy",
+   "ro": "Jellroy"
+  },
+  {
+   "key": "PAL_NAME_JetDragon_TextData",
+   "en": "Jetragon",
+   "ro": "Jetragon"
+  },
+  {
+   "key": "PAL_NAME_Kelpie_TextData",
+   "en": "Kelpsea",
+   "ro": "Kelpsea"
+  },
+  {
+   "key": "PAL_NAME_Kelpie_Fire_TextData",
+   "en": "Kelpsea Ignis",
+   "ro": "Kelpsea Ignis"
+  },
+  {
+   "key": "PAL_NAME_KendoFrog_TextData",
+   "en": "Croajiro",
+   "ro": "Croajiro"
+  },
+  {
+   "key": "PAL_NAME_KendoFrog_Dark_TextData",
+   "en": "Croajiro Noct",
+   "ro": "Croajiro Noct"
+  },
+  {
+   "key": "PAL_NAME_KingAlpaca_TextData",
+   "en": "Kingpaca",
+   "ro": "Kingpaca"
+  },
+  {
+   "key": "PAL_NAME_KingAlpaca_Ice_TextData",
+   "en": "Kingpaca Cryst",
+   "ro": "Kingpaca Cryst"
+  },
+  {
+   "key": "PAL_NAME_KingBahamut_TextData",
+   "en": "Blazamut",
+   "ro": "Blazamut"
+  },
+  {
+   "key": "PAL_NAME_KingBahamut_Dragon_TextData",
+   "en": "Blazamut Ryu",
+   "ro": "Blazamut Ryu"
+  },
+  {
+   "key": "PAL_NAME_Kirin_TextData",
+   "en": "Univolt",
+   "ro": "Univolt"
+  },
+  {
+   "key": "PAL_NAME_Kirin_Ice_TextData",
+   "en": "Univolt Cryst",
+   "ro": "Univolt Cryst"
+  },
+  {
+   "key": "PAL_NAME_Kitsunebi_TextData",
+   "en": "Foxparks",
+   "ro": "Foxparks"
+  },
+  {
+   "key": "PAL_NAME_Kitsunebi_Ice_TextData",
+   "en": "Foxparks Cryst",
+   "ro": "Foxparks Cryst"
+  },
+  {
+   "key": "PAL_NAME_LavaGirl_TextData",
+   "en": "Flambelle",
+   "ro": "Flambelle"
+  },
+  {
+   "key": "PAL_NAME_LazyCatfish_TextData",
+   "en": "Dumud",
+   "ro": "Dumud"
+  },
+  {
+   "key": "PAL_NAME_LazyCatfish_Gold_TextData",
+   "en": "Dumud Gild",
+   "ro": "Dumud Gild"
+  },
+  {
+   "key": "PAL_NAME_LazyDragon_TextData",
+   "en": "Relaxaurus",
+   "ro": "Relaxaurus"
+  },
+  {
+   "key": "PAL_NAME_LazyDragon_Electric_TextData",
+   "en": "Relaxaurus Lux",
+   "ro": "Relaxaurus Lux"
+  },
+  {
+   "key": "PAL_NAME_LeafMomonga_TextData",
+   "en": "Herbil",
+   "ro": "Herbil"
+  },
+  {
+   "key": "PAL_NAME_LeafPrincess_TextData",
+   "en": "Lullu",
+   "ro": "Lullu"
+  },
+  {
+   "key": "PAL_NAME_LilyQueen_TextData",
+   "en": "Lyleen",
+   "ro": "Lyleen"
+  },
+  {
+   "key": "PAL_NAME_LilyQueen_Dark_TextData",
+   "en": "Lyleen Noct",
+   "ro": "Lyleen Noct"
+  },
+  {
+   "key": "PAL_NAME_LittleBriarRose_TextData",
+   "en": "Bristla",
+   "ro": "Bristla"
+  },
+  {
+   "key": "PAL_NAME_LizardMan_TextData",
+   "en": "Leezpunk",
+   "ro": "Leezpunk"
+  },
+  {
+   "key": "PAL_NAME_LizardMan_Fire_TextData",
+   "en": "Leezpunk Ignis",
+   "ro": "Leezpunk Ignis"
+  },
+  {
+   "key": "PAL_NAME_Manticore_TextData",
+   "en": "Blazehowl",
+   "ro": "Blazehowl"
+  },
+  {
+   "key": "PAL_NAME_Manticore_Dark_TextData",
+   "en": "Blazehowl Noct",
+   "ro": "Blazehowl Noct"
+  },
+  {
+   "key": "PAL_NAME_MimicDog_TextData",
+   "en": "Mimog",
+   "ro": "Mimog"
+  },
+  {
+   "key": "PAL_NAME_Monkey_TextData",
+   "en": "Tanzee",
+   "ro": "Tanzee"
+  },
+  {
+   "key": "PAL_NAME_Monkey_Fire_TextData",
+   "en": "Tanzee Ignis",
+   "ro": "Tanzee Ignis"
+  },
+  {
+   "key": "PAL_NAME_MoonQueen_TextData",
+   "en": "Selyne",
+   "ro": "Selyne"
+  },
+  {
+   "key": "PAL_NAME_MopBaby_TextData",
+   "en": "Swee",
+   "ro": "Swee"
+  },
+  {
+   "key": "PAL_NAME_MopKing_TextData",
+   "en": "Sweepa",
+   "ro": "Sweepa"
+  },
+  {
+   "key": "PAL_NAME_MushroomDragon_TextData",
+   "en": "Shroomer",
+   "ro": "Shroomer"
+  },
+  {
+   "key": "PAL_NAME_MushroomDragon_Dark_TextData",
+   "en": "Shroomer Noct",
+   "ro": "Shroomer Noct"
+  },
+  {
+   "key": "PAL_NAME_Mutant_TextData",
+   "en": "Lunaris",
+   "ro": "Lunaris"
+  },
+  {
+   "key": "PAL_NAME_MysteryMask_TextData",
+   "en": "Omascul",
+   "ro": "Omascul"
+  },
+  {
+   "key": "PAL_NAME_NaughtyCat_TextData",
+   "en": "Grintale",
+   "ro": "Grintale"
+  },
+  {
+   "key": "PAL_NAME_NegativeKoala_TextData",
+   "en": "Depresso",
+   "ro": "Depresso"
+  },
+  {
+   "key": "PAL_NAME_NegativeOctopus_TextData",
+   "en": "Killamari",
+   "ro": "Killamari"
+  },
+  {
+   "key": "PAL_NAME_NegativeOctopus_Neutral_TextData",
+   "en": "Killamari Primo",
+   "ro": "Killamari Primo"
+  },
+  {
+   "key": "PAL_NAME_NightBlueHorse_TextData",
+   "en": "Starryon",
+   "ro": "Starryon"
+  },
+  {
+   "key": "PAL_NAME_NightBlueHorse_Neutral_TextData",
+   "en": "Starryon Primo",
+   "ro": "Starryon Primo"
+  },
+  {
+   "key": "PAL_NAME_NightFox_TextData",
+   "en": "Nox",
+   "ro": "Nox"
+  },
+  {
+   "key": "PAL_NAME_NightLady_TextData",
+   "en": "Bellanoir",
+   "ro": "Bellanoir"
+  },
+  {
+   "key": "PAL_NAME_NightLady_Dark_TextData",
+   "en": "Bellanoir Libero",
+   "ro": "Bellanoir Libero"
+  },
+  {
+   "key": "PAL_NAME_OctopusGirl_TextData",
+   "en": "Gloopie",
+   "ro": "Gloopie"
+  },
+  {
+   "key": "PAL_NAME_OctopusGirl_Neutral_TextData",
+   "en": "Gloopie Primo",
+   "ro": "Gloopie Primo"
+  },
+  {
+   "key": "PAL_NAME_Penguin_TextData",
+   "en": "Pengullet",
+   "ro": "Pengullet"
+  },
+  {
+   "key": "PAL_NAME_Penguin_Electric_TextData",
+   "en": "Pengullet Lux",
+   "ro": "Pengullet Lux"
+  },
+  {
+   "key": "PAL_NAME_PinkCat_TextData",
+   "en": "Cattiva",
+   "ro": "Cattiva"
+  },
+  {
+   "key": "PAL_NAME_PinkKangaroo_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PAL_NAME_PinkLizard_TextData",
+   "en": "Lovander",
+   "ro": "Lovander"
+  },
+  {
+   "key": "PAL_NAME_PinkRabbit_TextData",
+   "en": "Ribbuny",
+   "ro": "Ribbuny"
+  },
+  {
+   "key": "PAL_NAME_PinkRabbit_Grass_TextData",
+   "en": "Ribbuny Botan",
+   "ro": "Ribbuny Botan"
+  },
+  {
+   "key": "PAL_NAME_PlantSlime_TextData",
+   "en": "Gumoss",
+   "ro": "Gumoss"
+  },
+  {
+   "key": "PAL_NAME_Plesiosaur_TextData",
+   "en": "Braloha",
+   "ro": "Braloha"
+  },
+  {
+   "key": "PAL_NAME_PoseidonOrca_TextData",
+   "en": "Neptilius",
+   "ro": "Neptilius"
+  },
+  {
+   "key": "PAL_NAME_PurpleSpider_TextData",
+   "en": "Tarantriss",
+   "ro": "Tarantriss"
+  },
+  {
+   "key": "PAL_NAME_QueenBee_TextData",
+   "en": "Elizabee",
+   "ro": "Elizabee"
+  },
+  {
+   "key": "PAL_NAME_RaijinDaughter_TextData",
+   "en": "Dazzi",
+   "ro": "Dazzi"
+  },
+  {
+   "key": "PAL_NAME_RaijinDaughter_Water_TextData",
+   "en": "Dazzi Noct",
+   "ro": "Dazzi Noct"
+  },
+  {
+   "key": "PAL_NAME_RedArmorBird_TextData",
+   "en": "Ragnahawk",
+   "ro": "Ragnahawk"
+  },
+  {
+   "key": "PAL_NAME_RobinHood_TextData",
+   "en": "Robinquill",
+   "ro": "Robinquill"
+  },
+  {
+   "key": "PAL_NAME_RobinHood_Ground_TextData",
+   "en": "Robinquill Terra",
+   "ro": "Robinquill Terra"
+  },
+  {
+   "key": "PAL_NAME_Ronin_TextData",
+   "en": "Bushi",
+   "ro": "Bushi"
+  },
+  {
+   "key": "PAL_NAME_Ronin_Dark_TextData",
+   "en": "Bushi Noct",
+   "ro": "Bushi Noct"
+  },
+  {
+   "key": "PAL_NAME_SaintCentaur_TextData",
+   "en": "Paladius",
+   "ro": "Paladius"
+  },
+  {
+   "key": "PAL_NAME_SakurajimaBoss_TextData",
+   "en": "Saya & Selyne",
+   "ro": "Saya & Selyne"
+  },
+  {
+   "key": "PAL_NAME_SakuraSaurus_TextData",
+   "en": "Broncherry",
+   "ro": "Broncherry"
+  },
+  {
+   "key": "PAL_NAME_SakuraSaurus_Water_TextData",
+   "en": "Broncherry Aqua",
+   "ro": "Broncherry Aqua"
+  },
+  {
+   "key": "PAL_NAME_ScorpionMan_TextData",
+   "en": "Prixter",
+   "ro": "Prixter"
+  },
+  {
+   "key": "PAL_NAME_ScorpionMan_Electric_TextData",
+   "en": "Prixter Lux",
+   "ro": "Prixter Lux"
+  },
+  {
+   "key": "PAL_NAME_Serpent_TextData",
+   "en": "Surfent",
+   "ro": "Surfent"
+  },
+  {
+   "key": "PAL_NAME_Serpent_Ground_TextData",
+   "en": "Surfent Terra",
+   "ro": "Surfent Terra"
+  },
+  {
+   "key": "PAL_NAME_SharkKid_TextData",
+   "en": "Gobfin",
+   "ro": "Gobfin"
+  },
+  {
+   "key": "PAL_NAME_SharkKid_Fire_TextData",
+   "en": "Gobfin Ignis",
+   "ro": "Gobfin Ignis"
+  },
+  {
+   "key": "PAL_NAME_SheepBall_TextData",
+   "en": "Lamball",
+   "ro": "Lamball"
+  },
+  {
+   "key": "PAL_NAME_SifuDog_TextData",
+   "en": "Dogen",
+   "ro": "Dogen"
+  },
+  {
+   "key": "PAL_NAME_SkyDragon_TextData",
+   "en": "Quivern",
+   "ro": "Quivern"
+  },
+  {
+   "key": "PAL_NAME_SkyDragon_Grass_TextData",
+   "en": "Quivern Botan",
+   "ro": "Quivern Botan"
+  },
+  {
+   "key": "PAL_NAME_SmallArmadillo_TextData",
+   "en": "Kikit",
+   "ro": "Kikit"
+  },
+  {
+   "key": "PAL_NAME_SnowBoss_TextData",
+   "en": "Victor & Shadowbeak",
+   "ro": "Victor & Shadowbeak"
+  },
+  {
+   "key": "PAL_NAME_SnowPeafowl_TextData",
+   "en": "Frostplume",
+   "ro": "Frostplume"
+  },
+  {
+   "key": "PAL_NAME_SnowTigerBeastman_TextData",
+   "en": "Bastigor",
+   "ro": "Bastigor"
+  },
+  {
+   "key": "PAL_NAME_SoldierBee_TextData",
+   "en": "Beegarde",
+   "ro": "Beegarde"
+  },
+  {
+   "key": "PAL_NAME_StuffedShark_TextData",
+   "en": "Finsider",
+   "ro": "Finsider"
+  },
+  {
+   "key": "PAL_NAME_StuffedShark_Fire_TextData",
+   "en": "Finsider Ignis",
+   "ro": "Finsider Ignis"
+  },
+  {
+   "key": "PAL_NAME_Suzaku_TextData",
+   "en": "Suzaku",
+   "ro": "Suzaku"
+  },
+  {
+   "key": "PAL_NAME_Suzaku_Water_TextData",
+   "en": "Suzaku Aqua",
+   "ro": "Suzaku Aqua"
+  },
+  {
+   "key": "PAL_NAME_SweetsSheep_TextData",
+   "en": "Woolipop",
+   "ro": "Woolipop"
+  },
+  {
+   "key": "PAL_NAME_SweetsSheep_Ground_TextData",
+   "en": "Woolipop Terra",
+   "ro": "Woolipop Terra"
+  },
+  {
+   "key": "PAL_NAME_TentacleTurtle_TextData",
+   "en": "Turtacle",
+   "ro": "Turtacle"
+  },
+  {
+   "key": "PAL_NAME_TentacleTurtle_Ground_TextData",
+   "en": "Turtacle Terra",
+   "ro": "Turtacle Terra"
+  },
+  {
+   "key": "PAL_NAME_ThunderBird_TextData",
+   "en": "Beakon",
+   "ro": "Beakon"
+  },
+  {
+   "key": "PAL_NAME_ThunderDog_TextData",
+   "en": "Rayhound",
+   "ro": "Rayhound"
+  },
+  {
+   "key": "PAL_NAME_ThunderDog_Ice_TextData",
+   "en": "Rayhound Cryst",
+   "ro": "Rayhound Cryst"
+  },
+  {
+   "key": "PAL_NAME_ThunderDragonMan_TextData",
+   "en": "Orserk",
+   "ro": "Orserk"
+  },
+  {
+   "key": "PAL_NAME_TropicalOstrich_TextData",
+   "en": "Palumba",
+   "ro": "Palumba"
+  },
+  {
+   "key": "PAL_NAME_Umihebi_TextData",
+   "en": "Jormuntide",
+   "ro": "Jormuntide"
+  },
+  {
+   "key": "PAL_NAME_Umihebi_Fire_TextData",
+   "en": "Jormuntide Ignis",
+   "ro": "Jormuntide Ignis"
+  },
+  {
+   "key": "PAL_NAME_VikingBoss_TextData",
+   "en": "Bjorn & Bastigor",
+   "ro": "Bjorn & Bastigor"
+  },
+  {
+   "key": "PAL_NAME_VioletFairy_TextData",
+   "en": "Vaelet",
+   "ro": "Vaelet"
+  },
+  {
+   "key": "PAL_NAME_VolcanicMonster_TextData",
+   "en": "Reptyro",
+   "ro": "Reptyro"
+  },
+  {
+   "key": "PAL_NAME_VolcanicMonster_Ice_TextData",
+   "en": "Reptyro Cryst",
+   "ro": "Reptyro Cryst"
+  },
+  {
+   "key": "PAL_NAME_VolcanoBoss_TextData",
+   "en": "Axel & Orserk",
+   "ro": "Axel & Orserk"
+  },
+  {
+   "key": "PAL_NAME_VolcanoDragon_omit_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PAL_NAME_WaterLizard_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PAL_NAME_WeaselDragon_TextData",
+   "en": "Chillet",
+   "ro": "Chillet"
+  },
+  {
+   "key": "PAL_NAME_WeaselDragon_Fire_TextData",
+   "en": "Chillet Ignis",
+   "ro": "Chillet Ignis"
+  },
+  {
+   "key": "PAL_NAME_Werewolf_TextData",
+   "en": "Loupmoon",
+   "ro": "Loupmoon"
+  },
+  {
+   "key": "PAL_NAME_Werewolf_Ice_TextData",
+   "en": "Loupmoon Cryst",
+   "ro": "Loupmoon Cryst"
+  },
+  {
+   "key": "PAL_NAME_WhiteAlienDragon_TextData",
+   "en": "Xenogard",
+   "ro": "Xenogard"
+  },
+  {
+   "key": "PAL_NAME_WhiteDeer_TextData",
+   "en": "Celesdir",
+   "ro": "Celesdir"
+  },
+  {
+   "key": "PAL_NAME_WhiteMoth_TextData",
+   "en": "Sibelyx",
+   "ro": "Sibelyx"
+  },
+  {
+   "key": "PAL_NAME_WhiteShieldDragon_TextData",
+   "en": "Silvegis",
+   "ro": "Silvegis"
+  },
+  {
+   "key": "PAL_NAME_WhiteTiger_TextData",
+   "en": "Cryolinx",
+   "ro": "Cryolinx"
+  },
+  {
+   "key": "PAL_NAME_WhiteTiger_Ground_TextData",
+   "en": "Cryolinx Terra",
+   "ro": "Cryolinx Terra"
+  },
+  {
+   "key": "PAL_NAME_Windchimes_TextData",
+   "en": "Hangyu",
+   "ro": "Hangyu"
+  },
+  {
+   "key": "PAL_NAME_Windchimes_Ice_TextData",
+   "en": "Hangyu Cryst",
+   "ro": "Hangyu Cryst"
+  },
+  {
+   "key": "PAL_NAME_WingGolem_TextData",
+   "en": "Knocklem",
+   "ro": "Knocklem"
+  },
+  {
+   "key": "PAL_NAME_WizardOwl_TextData",
+   "en": "Hoocrates",
+   "ro": "Hoocrates"
+  },
+  {
+   "key": "PAL_NAME_WoolFox_TextData",
+   "en": "Cremis",
+   "ro": "Cremis"
+  },
+  {
+   "key": "PAL_NAME_Yeti_TextData",
+   "en": "Wumpo",
+   "ro": "Wumpo"
+  },
+  {
+   "key": "PAL_NAME_Yeti_Grass_TextData",
+   "en": "Wumpo Botan",
+   "ro": "Wumpo Botan"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster001_TextData",
+   "en": "Green Slime",
+   "ro": "Green Slime"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster001_Blue_TextData",
+   "en": "Blue Slime",
+   "ro": "Blue Slime"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster001_Red_TextData",
+   "en": "Red Slime",
+   "ro": "Red Slime"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster001_Purple_TextData",
+   "en": "Purple Slime",
+   "ro": "Purple Slime"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster001_Pink_TextData",
+   "en": "Illuminant Slime",
+   "ro": "Illuminant Slime"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster001_Rainbow_TextData",
+   "en": "Rainbow Slime",
+   "ro": "Rainbow Slime"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster002_TextData",
+   "en": "Enchanted Sword",
+   "ro": "Enchanted Sword"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster003_TextData",
+   "en": "Cave Bat",
+   "ro": "Cave Bat"
+  },
+  {
+   "key": "PAL_NAME_YakushimaMonster003_Purple_TextData",
+   "en": "Illuminant Bat",
+   "ro": "Illuminant Bat"
+  },
+  {
+   "key": "PAL_NAME_YakushimaBoss001_TextData",
+   "en": "Eye of Cthulhu",
+   "ro": "Eye of Cthulhu"
+  },
+  {
+   "key": "PAL_NAME_YakushimaBoss001_Small_TextData",
+   "en": "Demon Eye",
+   "ro": "Demon Eye"
+  },
+  {
+   "key": "PAL_NAME_RAID_YakushimaBoss001_Green_TextData",
+   "en": "True Eye of Cthulhu",
+   "ro": "True Eye of Cthulhu"
+  },
+  {
+   "key": "PAL_NAME_RAID_YakushimaBoss002_TextData",
+   "en": "Moon Lord",
+   "ro": "Moon Lord"
+  },
+  {
+   "key": "PAL_NAME_LegendDeer_TextData",
+   "en": "Hartalis",
+   "ro": "Hartalis"
+  },
+  {
+   "key": "PAL_NAME_VolcanoDragon_TextData",
+   "en": "Moldron",
+   "ro": "Moldron"
+  },
+  {
+   "key": "PAL_NAME_HoodGhost_TextData",
+   "en": "Hoodle",
+   "ro": "Hoodle"
+  },
+  {
+   "key": "PAL_NAME_Sekhmet_TextData",
+   "en": "Sekhmet",
+   "ro": "Sekhmet"
+  },
+  {
+   "key": "PAL_NAME_RockBeast_TextData",
+   "en": "Pierdon",
+   "ro": "Pierdon"
+  },
+  {
+   "key": "PAL_NAME_RockBeast_Ice_TextData",
+   "en": "Pierdon Cryst",
+   "ro": "Pierdon Cryst"
+  },
+  {
+   "key": "PAL_NAME_MoonChild_TextData",
+   "en": "Wistella",
+   "ro": "Wistella"
+  },
+  {
+   "key": "PAL_NAME_ClownRabbit_TextData",
+   "en": "Dupin",
+   "ro": "Dupin"
+  },
+  {
+   "key": "PAL_NAME_CactusDoll_TextData",
+   "en": "Needoll",
+   "ro": "Needoll"
+  },
+  {
+   "key": "PAL_NAME_CactusDoll_Dark_TextData",
+   "en": "Needoll Noct",
+   "ro": "Needoll Noct"
+  },
+  {
+   "key": "PAL_NAME_GrassGolem_TextData",
+   "en": "Dualith",
+   "ro": "Dualith"
+  },
+  {
+   "key": "PAL_NAME_GrassGolem_Dark_TextData",
+   "en": "Dualith Noct",
+   "ro": "Dualith Noct"
+  },
+  {
+   "key": "PAL_NAME_CubeTurtle_TextData",
+   "en": "Tetroise",
+   "ro": "Tetroise"
+  },
+  {
+   "key": "PAL_NAME_SamuraiDog_TextData",
+   "en": "Pupperai",
+   "ro": "Pupperai"
+  },
+  {
+   "key": "PAL_NAME_MummyPal_TextData",
+   "en": "Gildra",
+   "ro": "Gildra"
+  },
+  {
+   "key": "PAL_NAME_KingSunfish_TextData",
+   "en": "Solmora",
+   "ro": "Solmora"
+  },
+  {
+   "key": "PAL_NAME_KingSunfish_Thunder_TextData",
+   "en": "Solmora Lux",
+   "ro": "Solmora Lux"
+  },
+  {
+   "key": "PAL_NAME_MonochromeQueen_TextData",
+   "en": "Solenne",
+   "ro": "Solenne"
+  },
+  {
+   "key": "PAL_NAME_ElecSnail_TextData",
+   "en": "Snock",
+   "ro": "Snock"
+  },
+  {
+   "key": "PAL_NAME_ElecSnail_Ground_TextData",
+   "en": "Snock Terra",
+   "ro": "Snock Terra"
+  },
+  {
+   "key": "PAL_NAME_SumoDog_TextData",
+   "en": "Bulldosu",
+   "ro": "Bulldosu"
+  },
+  {
+   "key": "PAL_NAME_VolcanicTurtle_TextData",
+   "en": "Unidentified Pal",
+   "ro": "Unidentified Pal"
+  },
+  {
+   "key": "PAL_NAME_ElecPomeranian_TextData",
+   "en": "Puffolt",
+   "ro": "Puffolt"
+  },
+  {
+   "key": "PAL_NAME_ElecLizard_TextData",
+   "en": "Slowatt",
+   "ro": "Slowatt"
+  },
+  {
+   "key": "PAL_NAME_RedFlowerBird_TextData",
+   "en": "Tropicaw",
+   "ro": "Tropicaw"
+  },
+  {
+   "key": "PAL_NAME_ThiefBird_TextData",
+   "en": "Roujay",
+   "ro": "Roujay"
+  },
+  {
+   "key": "PAL_NAME_ThunderFluffyBird_TextData",
+   "en": "Dynamoff",
+   "ro": "Dynamoff"
+  },
+  {
+   "key": "PAL_NAME_FluffyBird_TextData",
+   "en": "Muffly",
+   "ro": "Muffly"
+  },
+  {
+   "key": "PAL_NAME_FoxExorcist_TextData",
+   "en": "Flaracle",
+   "ro": "Flaracle"
+  },
+  {
+   "key": "PAL_NAME_ClioneTwins_TextData",
+   "en": "Amione",
+   "ro": "Amione"
+  },
+  {
+   "key": "PAL_NAME_DandelionGirl_TextData",
+   "en": "Souffline",
+   "ro": "Souffline"
+  },
+  {
+   "key": "PAL_NAME_SleeveRabbit_TextData",
+   "en": "Lapure",
+   "ro": "Lapure"
+  },
+  {
+   "key": "PAL_NAME_SmallYeti_TextData",
+   "en": "Snugloo",
+   "ro": "Snugloo"
+  },
+  {
+   "key": "PAL_NAME_StrawHatCat_TextData",
+   "en": "Unidentified Pal",
+   "ro": "Unidentified Pal"
+  },
+  {
+   "key": "PAL_NAME_CandleWitch_TextData",
+   "en": "Unidentified Pal",
+   "ro": "Unidentified Pal"
+  },
+  {
+   "key": "PAL_NAME_CloverFairy_TextData",
+   "en": "Clovee",
+   "ro": "Clovee"
+  },
+  {
+   "key": "PAL_NAME_GhostBlackCat_TextData",
+   "en": "Wispaw",
+   "ro": "Wispaw"
+  },
+  {
+   "key": "PAL_NAME_OniGhostGirl_TextData",
+   "en": "Bakemi",
+   "ro": "Bakemi"
+  },
+  {
+   "key": "PAL_NAME_LongCat_TextData",
+   "en": "Valentail",
+   "ro": "Valentail"
+  },
+  {
+   "key": "PAL_NAME_DarkFlameFox_TextData",
+   "en": "Majex",
+   "ro": "Majex"
+  },
+  {
+   "key": "PAL_NAME_LanternButler_TextData",
+   "en": "Loomen",
+   "ro": "Loomen"
+  },
+  {
+   "key": "PAL_NAME_VenusFlytrap_TextData",
+   "en": "Carnibora",
+   "ro": "Carnibora"
+  },
+  {
+   "key": "PAL_NAME_SwordCutlassfish_TextData",
+   "en": "Skutlass",
+   "ro": "Skutlass"
+  },
+  {
+   "key": "PAL_NAME_SnakeGirl_TextData",
+   "en": "Venusa",
+   "ro": "Venusa"
+  },
+  {
+   "key": "PAL_NAME_MushroomLady_TextData",
+   "en": "Mycora",
+   "ro": "Mycora"
+  },
+  {
+   "key": "PAL_NAME_KingWhale_TextData",
+   "en": "Panthalus",
+   "ro": "Panthalus"
+  },
+  {
+   "key": "PAL_NAME_BlueSkyDragon_TextData",
+   "en": "Shaolong",
+   "ro": "Shaolong"
+  },
+  {
+   "key": "PAL_NAME_Mothman_TextData",
+   "en": "Silvance",
+   "ro": "Silvance"
+  },
+  {
+   "key": "PAL_NAME_GhostDragon_TextData",
+   "en": "Eidrolon",
+   "ro": "Eidrolon"
+  },
+  {
+   "key": "PAL_NAME_FlowerPrince_TextData",
+   "en": "Dandilord",
+   "ro": "Dandilord"
+  },
+  {
+   "key": "PAL_NAME_WorldTreeDragon_TextData",
+   "en": "Astralym",
+   "ro": "Astralym"
+  },
+  {
+   "key": "PAL_NAME_GrassMinotaur_TextData",
+   "en": "Elgrove",
+   "ro": "Elgrove"
+  },
+  {
+   "key": "PAL_NAME_GrassMinotaur_Ice_TextData",
+   "en": "Elgrove Cryst",
+   "ro": "Elgrove Cryst"
+  },
+  {
+   "key": "PAL_NAME_LotusDragon_TextData",
+   "en": "Ophydia",
+   "ro": "Ophydia"
+  },
+  {
+   "key": "PAL_NAME_PandaGirl_TextData",
+   "en": "Leafan",
+   "ro": "Leafan"
+  },
+  {
+   "key": "PAL_NAME_KabukiMan_TextData",
+   "en": "Renjishi",
+   "ro": "Renjishi"
+  },
+  {
+   "key": "PAL_NAME_DomeArmorDragon_TextData",
+   "en": "Aegidron",
+   "ro": "Aegidron"
+  },
+  {
+   "key": "PAL_NAME_WhiteDeer_Dark_TextData",
+   "en": "Celesdir Noct",
+   "ro": "Celesdir Noct"
+  },
+  {
+   "key": "PAL_NAME_WingGolem_Fire_TextData",
+   "en": "Knocklem Ignis",
+   "ro": "Knocklem Ignis"
+  },
+  {
+   "key": "PAL_NAME_GhostDragon_Fire_TextData",
+   "en": "Eidrolon Ignis",
+   "ro": "Eidrolon Ignis"
+  },
+  {
+   "key": "PAL_NAME_FlowerDoll_Fire_TextData",
+   "en": "Petallia Ignis",
+   "ro": "Petallia Ignis"
+  },
+  {
+   "key": "PAL_NAME_IceSeal_Ground_TextData",
+   "en": "Polapup Terra",
+   "ro": "Polapup Terra"
+  },
+  {
+   "key": "PAL_NAME_SwordCutlassfish_Fire_TextData",
+   "en": "Skutlass Ignis",
+   "ro": "Skutlass Ignis"
+  },
+  {
+   "key": "PAL_NAME_WhiteMoth_Neutral_TextData",
+   "en": "Sibelyx Primo",
+   "ro": "Sibelyx Primo"
+  },
+  {
+   "key": "PAL_NAME_ThunderBird_Ice_TextData",
+   "en": "Beakon Cryst",
+   "ro": "Beakon Cryst"
+  },
+  {
+   "key": "PAL_NAME_CubeTurtle_Neutral_TextData",
+   "en": "Tetroise Primo",
+   "ro": "Tetroise Primo"
+  },
+  {
+   "key": "PAL_NAME_VolcanoDragon_Ice_TextData",
+   "en": "Moldron Cryst",
+   "ro": "Moldron Cryst"
+  },
+  {
+   "key": "PAL_NAME_SorajimaBoss_TextData",
+   "en": "Auri & Shaolong",
+   "ro": "Auri & Shaolong"
+  },
+  {
+   "key": "PAL_NAME_LastBoss_TextData",
+   "en": "Zenara & Astralym",
+   "ro": "Zenara & Astralym"
+  },
+  {
+   "key": "PAL_NAME_POLICE_PalRide_TextData",
+   "en": "PIDF Rider",
+   "ro": "PIDF Rider"
+  }
+ ]
+}

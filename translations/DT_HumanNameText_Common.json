@@ -1,0 +1,665 @@
+{
+ "table": "DT_HumanNameText_Common",
+ "entries": [
+  {
+   "key": "NAME_TEST_NPC_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_CITIZEN_TextData",
+   "en": "Islander",
+   "ro": "Insular"
+  },
+  {
+   "key": "NAME_VILLAGER_TextData",
+   "en": "Villager",
+   "ro": "Sătean"
+  },
+  {
+   "key": "NAME_QUESTMAN_TextData",
+   "en": "Quest Client",
+   "ro": "Client de misiune"
+  },
+  {
+   "key": "NAME_SELESPERSON_TextData",
+   "en": "Wandering Merchant",
+   "ro": "Negustor ambulant"
+  },
+  {
+   "key": "NAME_VISITING_TextData",
+   "en": "Visitor",
+   "ro": "Vizitator"
+  },
+  {
+   "key": "NAME_WEAPON_DEALER_TextData",
+   "en": "Weapons Dealer",
+   "ro": "Traficant de arme"
+  },
+  {
+   "key": "NAME_PAL_DEALER_TextData",
+   "en": "Pal Merchant",
+   "ro": "Negustor de Pali"
+  },
+  {
+   "key": "NAME_GUARD_TextData",
+   "en": "Guard",
+   "ro": "Gardian"
+  },
+  {
+   "key": "NAME_SecurityDrone_TextData",
+   "en": "Attack Chopper",
+   "ro": "Elicopter de atac"
+  },
+  {
+   "key": "NAME_Believer_TextData",
+   "en": "Free Pal Alliance Believer",
+   "ro": "Credincios al Alianței Pal Liber"
+  },
+  {
+   "key": "NAME_FireCult_TextData",
+   "en": "Brothers of the Eternal Pyre Martyr",
+   "ro": "Martir al Fraților Rugului Etern"
+  },
+  {
+   "key": "NAME_Labmen_TextData",
+   "en": "PAL Genetic Research Unit Executioner",
+   "ro": "Călău al Unității de Cercetare Genetică PAL"
+  },
+  {
+   "key": "NAME_POLICE_TextData",
+   "en": "PIDF Guard",
+   "ro": "Gardian PIDF"
+  },
+  {
+   "key": "NAME_POLICE_1_TextData",
+   "en": "PIDF Patrol",
+   "ro": "Patrulă PIDF"
+  },
+  {
+   "key": "NAME_POLICE_2_TextData",
+   "en": "PIDF Rifleman",
+   "ro": "Pușcaș PIDF"
+  },
+  {
+   "key": "NAME_POLICE_3_TextData",
+   "en": "PIDF Elite",
+   "ro": "Elită PIDF"
+  },
+  {
+   "key": "NAME_HUNTER_TextData",
+   "en": "Syndicate Thug",
+   "ro": "Bătăuș din Sindicat"
+  },
+  {
+   "key": "NAME_HUNTER_2_TextData",
+   "en": "Syndicate Gunner",
+   "ro": "Trăgător din Sindicat"
+  },
+  {
+   "key": "NAME_HUNTER_3_TextData",
+   "en": "Syndicate Hunter",
+   "ro": "Vânător din Sindicat"
+  },
+  {
+   "key": "NAME_HUNTER_4_TextData",
+   "en": "Syndicate Grenadier",
+   "ro": "Grenadier din Sindicat"
+  },
+  {
+   "key": "NAME_HUNTER_5_TextData",
+   "en": "Syndicate Cleaner",
+   "ro": "Curățător din Sindicat"
+  },
+  {
+   "key": "NAME_HUNTER_6_TextData",
+   "en": "Syndicate Elite",
+   "ro": "Elită din Sindicat"
+  },
+  {
+   "key": "NAME_HUNTER_BOSS_TextData",
+   "en": "Syndicate Crusher",
+   "ro": "Zdrobitor din Sindicat"
+  },
+  {
+   "key": "NAME_DarkTrader_TextData",
+   "en": "Black Marketeer",
+   "ro": "Samsar de pe piața neagră"
+  },
+  {
+   "key": "NAME_HUNTER_7_TextData",
+   "en": "Syndicate Veteran",
+   "ro": "Veteran din Sindicat"
+  },
+  {
+   "key": "NAME_HUNTER_8_TextData",
+   "en": "Syndicate Interceptor",
+   "ro": "Interceptor din Sindicat"
+  },
+  {
+   "key": "NAME_Ninja_TextData",
+   "en": "Moonflower Genin",
+   "ro": "Genin Moonflower"
+  },
+  {
+   "key": "NAME_Ninja_2_TextData",
+   "en": "Moonflower Jonin",
+   "ro": "Jonin Moonflower"
+  },
+  {
+   "key": "NAME_MedalTrader_TextData",
+   "en": "Medal Merchant",
+   "ro": "Negustor de medalii"
+  },
+  {
+   "key": "NAME_BOSS_Hunter_Rifle_TextData",
+   "en": "Hawk",
+   "ro": "Hawk"
+  },
+  {
+   "key": "NAME_BOSS_Hunter_Fat_GatlingGun_TextData",
+   "en": "Grill",
+   "ro": "Grill"
+  },
+  {
+   "key": "NAME_BOSS_Believer_CrossBow_TextData",
+   "en": "Ego",
+   "ro": "Ego"
+  },
+  {
+   "key": "NAME_BOSS_Believer_Fat_GiantClub_TextData",
+   "en": "Brick",
+   "ro": "Brick"
+  },
+  {
+   "key": "NAME_BOSS_Police_Rifle_TextData",
+   "en": "Whip",
+   "ro": "Whip"
+  },
+  {
+   "key": "NAME_BOSS_FireCult_FlameThrower_TextData",
+   "en": "Shadow",
+   "ro": "Shadow"
+  },
+  {
+   "key": "NAME_BOSS_Scientist_LaserRifle_TextData",
+   "en": "Whisk",
+   "ro": "Whisk"
+  },
+  {
+   "key": "NAME_BOSS_Ninja_TextData",
+   "en": "Fumble",
+   "ro": "Fumble"
+  },
+  {
+   "key": "NAME_BOSS_Male_NinjaElite_TextData",
+   "en": "Urchin",
+   "ro": "Urchin"
+  },
+  {
+   "key": "NAME_BOSS_Female_Soldier_TextData",
+   "en": "Jade",
+   "ro": "Jade"
+  },
+  {
+   "key": "NAME_BOSS_Female_Soldier02_TextData",
+   "en": "Dazzle",
+   "ro": "Dazzle"
+  },
+  {
+   "key": "NAME_BOSS_Female_Soldier03_TextData",
+   "en": "Aloha",
+   "ro": "Aloha"
+  },
+  {
+   "key": "NAME_BOSS_Female_Soldier04_TextData",
+   "en": "Nimble",
+   "ro": "Nimble"
+  },
+  {
+   "key": "NAME_BOSS_Male_Soldier_TextData",
+   "en": "Crash",
+   "ro": "Crash"
+  },
+  {
+   "key": "NAME_BOSS_Male_Soldier02_TextData",
+   "en": "Dart",
+   "ro": "Dart"
+  },
+  {
+   "key": "NAME_BOSS_Male_Soldier03_TextData",
+   "en": "Clint",
+   "ro": "Clint"
+  },
+  {
+   "key": "NAME_BOSS_Male_Soldier04_TextData",
+   "en": "Lasso",
+   "ro": "Lasso"
+  },
+  {
+   "key": "NAME_BOSS_Female_People_TextData",
+   "en": "Flare",
+   "ro": "Flare"
+  },
+  {
+   "key": "NAME_BOSS_Female_People02_TextData",
+   "en": "Siren",
+   "ro": "Siren"
+  },
+  {
+   "key": "NAME_BOSS_Female_People03_TextData",
+   "en": "Turncoat",
+   "ro": "Turncoat"
+  },
+  {
+   "key": "NAME_BOSS_Male_People_TextData",
+   "en": "Dyna",
+   "ro": "Dyna"
+  },
+  {
+   "key": "NAME_BOSS_Male_People2_TextData",
+   "en": "Mite",
+   "ro": "Mite"
+  },
+  {
+   "key": "NAME_BOSS_Male_People02_TextData",
+   "en": "Quill",
+   "ro": "Quill"
+  },
+  {
+   "key": "NAME_BOSS_Male_People03_TextData",
+   "en": "Scoot",
+   "ro": "Scoot"
+  },
+  {
+   "key": "NAME_BOSS_Male_DesertPeople_TextData",
+   "en": "Phantom",
+   "ro": "Phantom"
+  },
+  {
+   "key": "NAME_BOSS_Female_DesertPeople_TextData",
+   "en": "Whisper",
+   "ro": "Whisper"
+  },
+  {
+   "key": "NAME_BOSS_Viking_TextData",
+   "en": "Gnaw",
+   "ro": "Gnaw"
+  },
+  {
+   "key": "NAME_BOSS_VikingElite_TextData",
+   "en": "Cache",
+   "ro": "Cache"
+  },
+  {
+   "key": "NAME_BOSS_Police_Old_TextData",
+   "en": "Pinch",
+   "ro": "Pinch"
+  },
+  {
+   "key": "NAME_BOSS_DarkTrader_TextData",
+   "en": "Ram",
+   "ro": "Ram"
+  },
+  {
+   "key": "NAME_BOSS_Male_Trader01_TextData",
+   "en": "Skim",
+   "ro": "Skim"
+  },
+  {
+   "key": "NAME_BOSS_Male_Trader02_TextData",
+   "en": "Mimic",
+   "ro": "Mimic"
+  },
+  {
+   "key": "NAME_BOSS_Male_Trader03_TextData",
+   "en": "Billy",
+   "ro": "Billy"
+  },
+  {
+   "key": "NAME_BOSS_Hunter_Fat_GatlingGun_Quest_StrongOldMan_TextData",
+   "en": "Elder",
+   "ro": "Bătrânul"
+  },
+  {
+   "key": "NAME_Solider_TextData",
+   "en": "Sturdy Mercenary",
+   "ro": "Mercenar rezistent"
+  },
+  {
+   "key": "NAME_Recruiter_TextData",
+   "en": "Pal Recruiter",
+   "ro": "Recrutor de Pali"
+  },
+  {
+   "key": "NAME_CaravanLeader01_TextData",
+   "en": "Caravan Leader",
+   "ro": "Conducător de caravană"
+  },
+  {
+   "key": "NAME_Viking_TextData",
+   "en": "Feybreak Warrior",
+   "ro": "Războinic din Feybreak"
+  },
+  {
+   "key": "NAME_Viking_Elite_TextData",
+   "en": "Feybreak Berserker",
+   "ro": "Berserker din Feybreak"
+  },
+  {
+   "key": "NAME_Ambassador01_TextData",
+   "en": "Desert Town Ambassador ",
+   "ro": "Ambasador din Orașul Deșertului"
+  },
+  {
+   "key": "NAME_Blacksmith01_TextData",
+   "en": "Blacksmith in Training",
+   "ro": "Fierar ucenic"
+  },
+  {
+   "key": "NAME_Epicure01_TextData",
+   "en": "Gourmet Hunter",
+   "ro": "Vânător gurmand"
+  },
+  {
+   "key": "NAME_Escort_Warrior01_TextData",
+   "en": "Mercenary Bodyguard",
+   "ro": "Gărză de corp mercenară"
+  },
+  {
+   "key": "NAME_Escort_PalTamer01_TextData",
+   "en": "Pal Tamer Bodyguard",
+   "ro": "Gărză de corp îmblânzitor de Pali"
+  },
+  {
+   "key": "NAME_HUNTER_9_TextData",
+   "en": "Syndicate Laser Rifleman",
+   "ro": "Pușcaș cu laser al Sindicatului"
+  },
+  {
+   "key": "NAME_HUNTER_10_TextData",
+   "en": "Syndicate Crossbowman",
+   "ro": "Arbaletar al Sindicatului"
+  },
+  {
+   "key": "NAME_HUNTER_11_TextData",
+   "en": "Syndicate Swordsman",
+   "ro": "Spadasin al Sindicatului"
+  },
+  {
+   "key": "NAME_Believer_BOSS_TextData",
+   "en": "Free Pal Alliance Judicator",
+   "ro": "Judecător al Alianței Pal Liber"
+  },
+  {
+   "key": "NAME_Male_Soldier02_Invader_TextData",
+   "en": "Fiery Pal Tamer",
+   "ro": "Îmblânzitor înfocat de Pali"
+  },
+  {
+   "key": "NAME_Female_Soldier03_Invader_TextData",
+   "en": "Gemini Tamers",
+   "ro": "Îmblânzitori gemeni"
+  },
+  {
+   "key": "NAME_BattlePaltamer001_TextData",
+   "en": "Newbie Pal Tamer",
+   "ro": "Îmblânzitor novice de Pali"
+  },
+  {
+   "key": "NAME_BattlePaltamer002_TextData",
+   "en": "Up-and-Coming Pal Tamer",
+   "ro": "Îmblânzitor de Pali în ascensiune"
+  },
+  {
+   "key": "NAME_BattlePaltamer003_TextData",
+   "en": "Cruel Pal Tamer",
+   "ro": "Îmblânzitor crud de Pali"
+  },
+  {
+   "key": "NAME_BattlePaltamer004_TextData",
+   "en": "Veteran Pal Tamer",
+   "ro": "Îmblânzitor veteran de Pali"
+  },
+  {
+   "key": "NAME_BattlePaltamer005_TextData",
+   "en": "Vigorous Pal Tamer",
+   "ro": "Îmblânzitor viguros de Pali"
+  },
+  {
+   "key": "NAME_BattlePaltamer006_TextData",
+   "en": "Master Pal Tamer",
+   "ro": "Maestru îmblânzitor de Pali"
+  },
+  {
+   "key": "NAME_Female_Presenter01_TextData",
+   "en": "Friendly Pal Tamer",
+   "ro": "Îmblânzitoare prietenoasă de Pali"
+  },
+  {
+   "key": "NAME_Police_Chief_TextData",
+   "en": "Slacker Chief",
+   "ro": "Șef delăsător"
+  },
+  {
+   "key": "NAME_Police_old_Prisoner_TextData",
+   "en": "Jailed Ex-Chief",
+   "ro": "Fost șef întemnițat"
+  },
+  {
+   "key": "NAME_Police001_TextData",
+   "en": "Reincarnated Guy",
+   "ro": "Tip reîncarnat"
+  },
+  {
+   "key": "NAME_Reward_Emote_TextData",
+   "en": "Messenger of Love",
+   "ro": "Mesager al dragostei"
+  },
+  {
+   "key": "NAME_PalPassive_Doctor_TextData",
+   "en": "Dr. Brawn",
+   "ro": "Dr. Brawn"
+  },
+  {
+   "key": "NAME_QUEST_SCHOLAR01_TextData",
+   "en": "Legend-Loving Researcher",
+   "ro": "Cercetător pasionat de legende"
+  },
+  {
+   "key": "NAME_Reward_Paldex_TextData",
+   "en": "Pal Ecological Researcher",
+   "ro": "Cercetător în ecologia Pal"
+  },
+  {
+   "key": "NAME_Reward_BossDefeat_TextData",
+   "en": "Veteran Hunter",
+   "ro": "Vânător veteran"
+  },
+  {
+   "key": "NAME_QUEST_RANGER04_TextData",
+   "en": "Sweet-Smelling Hunter",
+   "ro": "Vânător cu miros plăcut"
+  },
+  {
+   "key": "NAME_GrassBoss_TextData",
+   "en": "Zoe",
+   "ro": "Zoe"
+  },
+  {
+   "key": "NAME_SurveyGirl_TextData",
+   "en": "Fia",
+   "ro": "Fia"
+  },
+  {
+   "key": "NAME_SurveyWoman_TextData",
+   "en": "Carla",
+   "ro": "Carla"
+  },
+  {
+   "key": "NAME_SurveyMan_TextData",
+   "en": "Gadel",
+   "ro": "Gadel"
+  },
+  {
+   "key": "NAME_StrongOldMan_TextData",
+   "en": "Harold",
+   "ro": "Harold"
+  },
+  {
+   "key": "NAME_WildlifeSanctuaryDrone_TextData",
+   "en": "Patrol Drone",
+   "ro": "Dronă de patrulare"
+  },
+  {
+   "key": "NAME_Police_Invader_Katana_TextData",
+   "en": "PIDF Blader",
+   "ro": "Spadasin PIDF"
+  },
+  {
+   "key": "NAME_Police_Invader_CrossBow_TextData",
+   "en": "PIDF Rioter",
+   "ro": "Rebel PIDF"
+  },
+  {
+   "key": "NAME_Police_Invader_LaserRifle_TextData",
+   "en": "PIDF Technophile",
+   "ro": "Tehnofil PIDF"
+  },
+  {
+   "key": "NAME_Police_Invader_GrenadeLauncher_TextData",
+   "en": "PIDF Veteran",
+   "ro": "Veteran PIDF"
+  },
+  {
+   "key": "NAME_Police_Invader_FlameThrower_TextData",
+   "en": "PIDF Cleaner",
+   "ro": "Curățător PIDF"
+  },
+  {
+   "key": "NAME_Police_Invader_RocketLauncher_TextData",
+   "en": "PIDF Rocketeer",
+   "ro": "Rachetier PIDF"
+  },
+  {
+   "key": "NAME_Police_Invader_MissileLauncher_TextData",
+   "en": "PIDF Interceptor",
+   "ro": "Interceptor PIDF"
+  },
+  {
+   "key": "NAME_Sorajima_Enemy_TextData",
+   "en": "Azure Covenant Enforcer",
+   "ro": "Executor al Legământului de Azur"
+  },
+  {
+   "key": "NAME_Caravan04_TextData",
+   "en": "Butcher in Training",
+   "ro": "Măcelar ucenic"
+  },
+  {
+   "key": "NAME_Caravan05_TextData",
+   "en": "Surf & Turf Master",
+   "ro": "Maestru Surf & Turf"
+  },
+  {
+   "key": "NAME_Caravan06_TextData",
+   "en": "Expert Hunter",
+   "ro": "Vânător expert"
+  },
+  {
+   "key": "NAME_Caravan07_TextData",
+   "en": "Legendary Game Hunter",
+   "ro": "Vânător legendar de vânat"
+  },
+  {
+   "key": "NAME_Caravan08_TextData",
+   "en": "Smugglers' Lackey",
+   "ro": "Lacheu al contrabandiștilor"
+  },
+  {
+   "key": "NAME_Caravan09_TextData",
+   "en": "Mercenary Supplier",
+   "ro": "Furnizor de mercenari"
+  },
+  {
+   "key": "NAME_Caravan10_TextData",
+   "en": "Heavy Arms Merchant",
+   "ro": "Negustor de armament greu"
+  },
+  {
+   "key": "NAME_Caravan11_TextData",
+   "en": "Legendary Ammo Merchant",
+   "ro": "Negustor legendar de muniție"
+  },
+  {
+   "key": "NAME_Caravan12_TextData",
+   "en": "Village Grocer",
+   "ro": "Băcan de sat"
+  },
+  {
+   "key": "NAME_Caravan13_TextData",
+   "en": "Farm Peddler",
+   "ro": "Negustor ambulant de fermă"
+  },
+  {
+   "key": "NAME_Caravan14_TextData",
+   "en": "Legendary Grocer",
+   "ro": "Băcan legendar"
+  },
+  {
+   "key": "NAME_Caravan15_TextData",
+   "en": "Shady Pharmacist",
+   "ro": "Farmacist dubios"
+  },
+  {
+   "key": "NAME_Caravan16_TextData",
+   "en": "Authorized Pharmacist",
+   "ro": "Farmacist autorizat"
+  },
+  {
+   "key": "NAME_Caravan17_TextData",
+   "en": "Legendary Pharmacist",
+   "ro": "Farmacist legendar"
+  },
+  {
+   "key": "NAME_Caravan18_TextData",
+   "en": "Bakery Stand Baker",
+   "ro": "Brutar de la tarabă"
+  },
+  {
+   "key": "NAME_Caravan19_TextData",
+   "en": "Local Restaurateur",
+   "ro": "Proprietar de restaurant local"
+  },
+  {
+   "key": "NAME_Caravan20_TextData",
+   "en": "Novice Gourmet",
+   "ro": "Gourmet novice"
+  },
+  {
+   "key": "NAME_Caravan21_TextData",
+   "en": "Legendary Gourmet",
+   "ro": "Gourmet legendar"
+  },
+  {
+   "key": "NAME_Caravan22_TextData",
+   "en": "Foraging Merchant",
+   "ro": "Negustor culegător"
+  },
+  {
+   "key": "NAME_Caravan23_TextData",
+   "en": "Authorized Materials Merchant",
+   "ro": "Negustor de materiale autorizat"
+  },
+  {
+   "key": "NAME_Caravan24_TextData",
+   "en": "Element Merchant",
+   "ro": "Negustor de elemente"
+  },
+  {
+   "key": "NAME_Caravan25_TextData",
+   "en": "Legendary Materials Merchant",
+   "ro": "Negustor de materiale legendar"
+  }
+ ]
+}

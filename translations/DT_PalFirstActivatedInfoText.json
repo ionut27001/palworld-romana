@@ -1,0 +1,1530 @@
+{
+ "table": "DT_PalFirstActivatedInfoText",
+ "entries": [
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Alpaca_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nincreases <characterName id=|KingAlpaca|/>'s Defense and Movement Speed.\r\n\r\nSometimes drops <itemName id=|Wool| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ncrește apărarea și viteza de deplasare a lui <characterName id=|KingAlpaca|/>.\r\n\r\nUneori lasă să cadă <itemName id=|Wool| style=|Status_Keyword|/> când este repartizat la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_AmaterasuWolf_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> damage and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/>. (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> și sunt imuni la <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/>. (Efectul nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Anubis_TextData",
+   "en": "When activated, \r\n<characterName id=|Anubis|/> changes the player's attack type to\r\n<img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> and increases Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</>.\r\n\r\nOccasionally evades attacks with a flash sidestep during battle.",
+   "ro": "Când este activată, \r\n<characterName id=|Anubis|/> schimbă tipul de atac al jucătorului în\r\n<img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> și crește atacul cu <Status_Up>{ReferencePassive1_EffectValue1}%</>.\r\n\r\nÎn timpul luptei, se eschivează ocazional din calea atacurilor cu un pas lateral fulgerător."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Baphomet_TextData",
+   "en": "When activated, \r\nattacks the targeted enemy with <activeSkillName id=|Unique_Baphomet_SwallowKite| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_Baphomet_SwallowKite| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.",
+   "ro": "Când este activată, \r\natacă inamicul vizat cu <activeSkillName id=|Unique_Baphomet_SwallowKite| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_Baphomet_SwallowKite| style=|Status_Keyword|/>, \r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Baphomet_Dark_TextData",
+   "en": "When activated, \r\nattacks the targeted enemy with <activeSkillName id=|Unique_Baphomet_Dark_DarkKite| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_Baphomet_Dark_DarkKite| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.",
+   "ro": "Când este activată, \r\natacă inamicul vizat cu <activeSkillName id=|Unique_Baphomet_Dark_DarkKite| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_Baphomet_Dark_DarkKite| style=|Status_Keyword|/>, \r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Bastet_TextData",
+   "en": "Sometimes digs up <itemName id=|Money| style=|Status_Keyword|/>\r\nwhen assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Uneori dezgroapă <itemName id=|Money| style=|Status_Keyword|/>\r\ncând este repartizat la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Bastet_Ice_TextData",
+   "en": "Sometimes drops <itemName id=|Iceorgan| style=|Status_Keyword|/>\r\nwhen assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Uneori lasă să cadă <itemName id=|Iceorgan| style=|Status_Keyword|/>\r\ncând este repartizat la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BeardedDragon_TextData",
+   "en": "This Pal is under investigation.",
+   "ro": "Acest Pal este în curs de investigare."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BerryGoat_TextData",
+   "en": "Sometimes drops <itemName id=|Berries| style=|Status_Keyword|/> from its back when assigned to <mapObjectName id=|MonsterFarm|/>.\r\n\r\nWhile in party,\r\nrestores <Status_Up>{Passive1_EffectValue1}</> Pal’s Hunger to the Pal with the lowest Hunger every 5 minutes. (Does not stack)",
+   "ro": "Uneori lasă să cadă <itemName id=|Berries| style=|Status_Keyword|/> de pe spinare când este repartizat la <mapObjectName id=|MonsterFarm|/>.\r\n\r\nCât timp este în echipă,\r\nrestabilește <Status_Up>{Passive1_EffectValue1}</> din foamea Palului cu cel mai scăzut nivel de foame o dată la 5 minute. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BirdDragon_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile in party,\r\nincreases damage player deals to enemy weak points by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nCât timp este în echipă,\r\ncrește daunele provocate de jucător punctelor slabe inamice cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BirdDragon_Ice_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile in party,\r\nincreases damage player deals to enemy weak points by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nCât timp este în echipă,\r\ncrește daunele provocate de jucător punctelor slabe inamice cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlackCentaur_TextData",
+   "en": "Can be ridden.\r\nCan <Status_Keyword>double jump</> while mounted.\r\n\r\nWhen <activeSkillName id=|Unique_BlackCentaur_TwoSpearRushes| style=|Status_Keyword|/> skill is activated, a <characterName id=|SaintCentaur|/> in your party will appear and attack alongside you.\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\nPoate executa <Status_Keyword>săritură dublă</> când este călărit.\r\n\r\nCând abilitatea <activeSkillName id=|Unique_BlackCentaur_TwoSpearRushes| style=|Status_Keyword|/> este activată, un <characterName id=|SaintCentaur|/> din echipa ta va apărea și va ataca alături de tine.\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlackFurDragon_TextData",
+   "en": "This Pal is under investigation.",
+   "ro": "Acest Pal este în curs de investigare."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlackGriffon_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile flying, \r\nMovement Speed is increased.\r\n\r\nEnhances <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> attacks by <Status_Up>{Passive1_EffectValue1}%</> while mounted.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timpul zborului, \r\nviteza de deplasare este crescută.\r\n\r\nConsolidează atacurile de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> cu <Status_Up>{Passive1_EffectValue1}%</> cât timp este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlackMetalDragon_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nIncreases the damage dealt to ores by <Status_Up>{Passive1_EffectValue1}%</>, and you can obtain <Status_Up>{Passive2_EffectValue1}%</> more <itemName id=|CopperOre| style=|Status_Keyword|/> while mounted.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nCrește daunele provocate minereurilor cu <Status_Up>{Passive1_EffectValue1}%</> și poți obține cu <Status_Up>{Passive2_EffectValue1}%</> mai mult <itemName id=|CopperOre| style=|Status_Keyword|/> cât timp este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlueDragon_TextData",
+   "en": "Can be ridden to travel on water.\r\n\r\nWhile mounted, \r\nchanges the player's attack type to <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.\r\n{ReferenceMsgId_SwimSpeedUp}",
+   "ro": "Poate fi călărit pentru a naviga pe apă.\r\n\r\nCât timp este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> și crește atacul cu <Status_Up>{Passive2_EffectValue1}%</>.\r\n{ReferenceMsgId_SwimSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BluePlatypus_TextData",
+   "en": "When activated, \r\n<characterName id=|BluePlatypus|/> body surfs towards an enemy and slams into them.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată, \r\n<characterName id=|BluePlatypus|/> glisează pe burtă spre un inamic și se izbește de el.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Boar_TextData",
+   "en": "Can be ridden.\r\nWhile mounted, increases efficiency of destroying Stone by <Status_Up>{Passive1_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\nCât timp este călărit, crește eficiența spargerii de piatră cu <Status_Up>{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BrownRabbit_TextData",
+   "en": "While in party,\r\nincreases the player's Defense by <Status_Up>{Passive1_EffectValue1}%</> while sprinting. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește apărarea jucătorului cu <Status_Up>{Passive1_EffectValue1}%</> în timpul sprintului. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CaptainPenguin_TextData",
+   "en": "While in party,\r\n<img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Carbunclo_TextData",
+   "en": "When activated, \r\nleaps onto the player's head and uses a submachine gun to follow up the player's attacks.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată,\r\nsare pe capul jucătorului și folosește un pistol-mitralieră pentru a continua atacurile jucătorului.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CatBat_TextData",
+   "en": "When activated, \r\nuses ultrasonic waves to detect nearby <Status_Keyword>dungeons, treasure chests, and scrap</>.\r\n{ReferenceMsgId_SearchAreaCoolTime}",
+   "ro": "Când este activată,\r\nfolosește unde ultrasonice pentru a detecta <Status_Keyword>temnițele, cuferele de comori și deșeurile</> din apropiere.\r\n{ReferenceMsgId_SearchAreaCoolTime}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CatMage_TextData",
+   "en": "While in party,\r\n<img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated.\r\n\r\nAlso has a <Status_Up>{Passive2_EffectValue1}%</> chance to prevent Pal Sphere consumption when thrown. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși.\r\n\r\nDe asemenea, are <Status_Up>{Passive2_EffectValue1}%</> șanse de a preveni consumul Sferei Pal când este aruncată.\r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CatVampire_TextData",
+   "en": "While fighting together, \r\ngrants the player and <characterName id=|CatVampire|/> a life steal effect that <Status_Keyword>restores</> <Status_Up>{Passive1_EffectValue1}%</> of damage dealt as <uiCommon id=|COMMON_STATUS_HP| style=|Status_Keyword|/>.\r\n",
+   "ro": "Cât timp luptați împreună,\r\noferă jucătorului și lui <characterName id=|CatVampire|/> un efect de furt de viață care <Status_Keyword>restabilește</> <Status_Up>{Passive1_EffectValue1}%</> din daunele provocate sub formă de <uiCommon id=|COMMON_STATUS_HP| style=|Status_Keyword|/>.\r\n"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ChickenPal_TextData",
+   "en": "Sometimes lays an <itemName id=|Egg| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Uneori face un <itemName id=|Egg| style=|Status_Keyword|/> când este atribuit la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ColorfulBird_TextData",
+   "en": "When activated, \r\nequips to the player and transforms into \r\nan egg launcher.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată,\r\nse echipează pe jucător și se transformă\r\nîntr-un lansator de ouă.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CowPal_TextData",
+   "en": "Sometimes drops <itemName id=|Milk| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Uneori produce <itemName id=|Milk| style=|Status_Keyword|/> când este atribuit la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CuteButterfly_TextData",
+   "en": "When activated, \r\nattacks the targeted enemy with <activeSkillName id=|PoisonFog| style=|Status_Keyword|/>.\r\n\r\nWhile at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_MonsterFarm| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Când este activată,\r\natacă inamicul țintit cu <activeSkillName id=|PoisonFog| style=|Status_Keyword|/>.\r\n\r\nCât timp este la o bază,\r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_MonsterFarm| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CuteFox_TextData",
+   "en": "Sometimes digs up items from the ground\r\nwhen assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Uneori dezgroapă obiecte din pământ\r\ncând este atribuit la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CuteMole_TextData",
+   "en": "While in party,\r\nimproves player mining efficiency by <Status_Up>{Passive1_EffectValue1}%</> and reduces <itemName id=|Stone| style=|Status_Keyword|/> weight by <Status_Up>{Passive2_EffectValue1}%</>. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nîmbunătățește eficiența mineritului pentru jucător cu <Status_Up>{Passive1_EffectValue1}%</> și reduce greutatea pentru <itemName id=|Stone| style=|Status_Keyword|/> cu <Status_Up>{Passive2_EffectValue1}%</>.\r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DarkCrow_TextData",
+   "en": "When activated, \r\ngrants <Status_Keyword>Night Vision</> to see in dark places.\r\nActivate again to turn off.\r\n\r\nSometimes digs up <itemName id=|Bone| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Când este activată,\r\noferă <Status_Keyword>Vedere nocturnă</> pentru a vedea în locurile întunecate.\r\nActivează din nou pentru a o opri.\r\n\r\nUneori dezgroapă <itemName id=|Bone| style=|Status_Keyword|/> când este atribuit la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DarkMutant_TextData",
+   "en": "This Pal is under investigation.",
+   "ro": "Acest Pal este în curs de investigare."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DarkScorpion_TextData",
+   "en": "While in party,\r\nplayer's Defense increases by <Status_Up>{Passive2_EffectValue1}%</>, and <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\napărarea jucătorului crește cu <Status_Up>{Passive2_EffectValue1}%</>, iar Palii de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Deer_TextData",
+   "en": "Can be ridden.\r\n\r\nCan perform a <Status_Keyword>double jump</> while mounted and increases lumbering efficiency by <Status_Up>{Passive1_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nPoate efectua o <Status_Keyword>săritură dublă</> când este încălecat și crește eficiența la tăiat lemne cu <Status_Up>{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Deer_Ground_TextData",
+   "en": "Can be ridden. \r\nCan perform a <Status_Keyword>double jump</> while mounted.\r\n\r\nWhile at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Deforest| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Poate fi călărit. \r\nPoate executa un <Status_Keyword>dublu salt</> în timp ce este călărit.\r\n\r\nCât timp este la o bază, \r\ncrește nivelul aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_Deforest| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DreamDemon_TextData",
+   "en": "While in party,\r\nappears near the player.\r\n\r\nAttacks hostile enemies with \r\n<img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> magic bullets.\r\nThese bullets will not reduce the target's Health below 1.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Cât timp este în echipă,\r\napare lângă tine.\r\n\r\nAtacă inamicii ostili cu \r\nproiectile magice de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/>.\r\nAceste proiectile nu vor reduce viața țintei sub 1.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DrillGame_TextData",
+   "en": "When activated, \r\nenters the <activeSkillName id=|Unique_DrillGame_ShellAttack| style=|Status_Keyword|/> state.\r\n\r\nFollows the player while spinning, increasing ore mining efficiency by <Status_Up>{ReferencePassive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\nintră în starea <activeSkillName id=|Unique_DrillGame_ShellAttack| style=|Status_Keyword|/>.\r\n\r\nUrmărește jucătorul în timp ce se învârte, crescând eficiența de minerit a minereului cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Eagle_TextData",
+   "en": "While in party,\r\nmodifies the performance of the equipped glider.\r\n\r\nEnables high-speed gliding and allows shooting with the right hand.\r\n{ReferenceMsgId_GriderPerformanceUp}",
+   "ro": "Cât timp este în echipă,\r\nmodifică performanța planorului echipat.\r\n\r\nPermite planarea de mare viteză și tragerea cu mâna dreaptă.\r\n{ReferenceMsgId_GriderPerformanceUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ElecCat_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops <itemName id=|ElectricOrgan| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n\r\nUneori lasă să cadă <itemName id=|ElectricOrgan| style=|Status_Keyword|/> când este repartizat la o <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ElecLion_TextData",
+   "en": "This Pal is under investigation.",
+   "ro": "Acest Pal este în curs de investigare."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ElecPanda_TextData",
+   "en": "Can be ridden.\r\n\r\nCan rapidly fire a minigun while mounted.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit.\r\n\r\nPoate trage rapid cu o mitralieră minigun în timp ce este călărit.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FairyDragon_TextData",
+   "en": "Can be ridden as a flying mount.\r\nWhile flying, \r\nMovement Speed is increased.\r\n\r\nWhile in party,\r\n<img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\nÎn timpul zborului, \r\nviteza de mișcare este mărită.\r\n\r\nCât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FairyDragon_Water_TextData",
+   "en": "Can be ridden as a flying mount.\r\nWhile flying, Movement Speed is increased.\r\n\r\nWhile in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> damage and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/>. \r\n(Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\nÎn timpul zborului, viteza de mișcare este mărită.\r\n\r\nCât timp este în echipă,\r\ntu și Palii din echipă primiți cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> și aveți imunitate la <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/>. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FeatherOstrich_TextData",
+   "en": "Can be ridden.\r\nMovement Speed is increased by <Status_Up>{Passive1_EffectValue1}%</> while mounted <Status_Keyword>on sand</>.",
+   "ro": "Poate fi călărit.\r\nViteza de mișcare crește cu <Status_Up>{Passive1_EffectValue1}%</> când este călărit <Status_Keyword>pe nisip</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FengyunDeeper_TextData",
+   "en": "Can be ridden.\r\nCan <Status_Keyword>double jump</> while mounted.\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\nPoate executa un <Status_Keyword>dublu salt</> în timp ce este călărit.\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FireKirin_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> și îi crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FireKirin_Dark_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to<img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> și îi crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlameBuffalo_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,the player gains \r\n<Status_Keyword>Cold Resistance</> <Status_Keyword>+2</>. (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă, obții \r\n<Status_Keyword>Rezistență la frig</> <Status_Keyword>+2</>. (Efectul nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nincrease Defense of <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ncrește Apărarea Palilor de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlowerDinosaur_Electric_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nincreases Defense of <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>.  (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ncrește Apărarea Palilor de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> cu <Status_Up>{Passive1_EffectValue1}%</>.  (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlowerDoll_TextData",
+   "en": "When activated, \r\nsoothing blossoms restore the player's Health by <Status_Up>{ActiveSkillMainValueByRank}%</>. \r\n\r\nWhile at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Seeding| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Când este activată, \r\nflorile calmante refac viața jucătorului cu <Status_Up>{ActiveSkillMainValueByRank}%</>. \r\n\r\nCât timp este la o bază, \r\nmărește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_Seeding| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlowerRabbit_TextData",
+   "en": "While in party,\r\nappears near the player.\r\n\r\nAutomatically picks up nearby items.\r\n{ReferenceMsgId_ItemCollectRangeUp}",
+   "ro": "Cât timp este în echipă,\r\napare lângă jucător.\r\n\r\nAdună automat obiectele din apropiere.\r\n{ReferenceMsgId_ItemCollectRangeUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlyingManta_TextData",
+   "en": "While in party,\r\nmodifies the performance of the equipped glider.\r\n\r\n<Status_Keyword>Prevents fall damage</> and extends the duration of high-speed gliding.\r\n{ReferenceMsgId_GriderPerformanceUp}",
+   "ro": "Cât timp este în echipă,\r\nmodifică performanța planorului echipat.\r\n\r\n<Status_Keyword>Previne daunele din cădere</> și prelungește durata planării de mare viteză.\r\n{ReferenceMsgId_GriderPerformanceUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FoxMage_TextData",
+   "en": "When activated, \r\n<characterName id=|FoxMage|/> changes the player's attack type to <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> and increases Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\n<characterName id=|FoxMage|/> schimbă tipul atacului jucătorului în <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> și îi mărește atacul cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Ganesha_TextData",
+   "en": "While in party,\r\nrestores <Status_Up>{Passive1_EffectValue1}%</> of the player's Health when Health falls below 30%. (Does not stack)\r\n({ReferencePassive1_EffectValue1}-second cooldown after activation)",
+   "ro": "Cât timp este în echipă,\r\nreface <Status_Up>{Passive1_EffectValue1}%</> din viața jucătorului când aceasta scade sub 30%. (Efectul nu se cumulează)\r\n(Timp de reîncărcare de {ReferencePassive1_EffectValue1} secunde după activare)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Garm_TextData",
+   "en": "Can be ridden.\r\nMoves slightly faster than most mounts.\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\nSe deplasează puțin mai rapid decât majoritatea animalelor de călărit.\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostBeast_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nall Party Pals' Active Skill cooldowns are reduced by <Status_Up>{Passive1_EffectValue1}%</> whenever you defeat an enemy. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ntimpul de reîncărcare al abilităților active ale tuturor Palilor din echipă este redus cu <Status_Up>{Passive1_EffectValue1}%</> de fiecare dată când învingi un inamic. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Gorilla_TextData",
+   "en": "When activated,\r\nunleashes a primal fury that increases <characterName id=|Gorilla|/>'s Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</> for a limited time.",
+   "ro": "Când este activată,\r\ndezlănțuie o furie primară care crește atacul lui <characterName id=|Gorilla|/> cu <Status_Up>{ReferencePassive1_EffectValue1}%</> pentru o perioadă limitată."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassMammoth_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted,\r\nincreases logging efficiency by <Status_Up>{Passive1_EffectValue1}%</> and mining efficiency by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit,\r\ncrește eficiența la tăiat lemne cu <Status_Up>{Passive1_EffectValue1}%</> și eficiența la minerit cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassMammoth_Ice_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted,\r\nincreases logging efficiency by <Status_Up>{Passive1_EffectValue1}%</> and mining efficiency by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit,\r\ncrește eficiența la tăiat lemne cu <Status_Up>{Passive1_EffectValue1}%</> și eficiența la minerit cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassPanda_TextData",
+   "en": "Can be ridden.\r\n\r\nCan rapidly fire a grenade launcher while mounted.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit.\r\n\r\nPoate trage rapid cu un lansator de grenade în timp ce este călărit.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassPanda_Electric_TextData",
+   "en": "Can be ridden.\r\n\r\nCan rapidly fire a grenade launcher while mounted.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit.\r\n\r\nPoate trage rapid cu un lansator de grenade în timp ce este călărit.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassRabbitMan_TextData",
+   "en": "While in party,\r\ngrants <Status_Keyword>{Passive1_EffectValue1}</> additional jump and <Status_Keyword>{Passive1_EffectValue2}</> additional mid-air dash. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\noferă <Status_Keyword>{Passive1_EffectValue1}</> săritură suplimentară și <Status_Keyword>{Passive1_EffectValue2}</> năpustire suplimentară în aer. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GuardianDog_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile fighting together, \r\n<Status_Up>{Passive1_EffectValue1}%</> increased chance of encountering pals with the same Passive Skill as this Pal.\r\n(Excludes certain Passive Skills)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp luptați împreună, \r\nșansa de a întâlni Pali cu aceeași abilitate pasivă ca a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</>.\r\n(Exclude anumite abilități pasive)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_HadesBird_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul atacului jucătorului în <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> și îi mărește atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_HawkBird_TextData",
+   "en": "Can be ridden as a flying mount.\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Hedgehog_TextData",
+   "en": "When activated, \r\nequips <characterName id=|Hedgehog|/> to the player to be thrown at an enemy, causing an <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> explosion upon impact.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată, \r\nîl echipează pe <characterName id=|Hedgehog|/> la jucător pentru a fi aruncat spre un inamic, provocând o explozie de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> la impact.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Hedgehog_Ice_TextData",
+   "en": "When activated, \r\nequips <characterName id=|Hedgehog_Ice|/> to the player to be thrown at an enemy, causing an <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> explosion upon impact.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată, \r\nîl echipează pe <characterName id=|Hedgehog_Ice|/> la jucător pentru a fi aruncat spre un inamic, provocând o explozie de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> la impact.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_HerculesBeetle_TextData",
+   "en": "While in party,\r\n<Status_Keyword>generates a barrier</> around the player after 5 melee hits are landed within <Status_Up>{Passive1_EffectValue1} seconds</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\n<Status_Keyword>generează o barieră</> în jurul jucătorului după ce nimerești 5 atacuri corp la corp în decurs de <Status_Up>{Passive1_EffectValue1} secunde</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Horus_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile in party,\r\n<img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nCât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceDeer_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nthe player gains <Status_Keyword>Heat Resistance</> <Status_Keyword>+2</>. \r\n(Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\njucătorul primește <Status_Keyword>Rezistență la căldură</> <Status_Keyword>+2</>.\r\n(Nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceFox_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops <itemName id=|IceOrgan| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n\r\nUneori lasă să cadă <itemName id=|IceOrgan| style=|Status_Keyword|/> când este repartizat la o <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceHorse_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player's attack type to <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/>,  increases Attack by <Status_Up>{Passive2_EffectValue1}%</>, and apply <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Elem_Ice|/> buildup by <Status_Up>{Passive3_EffectValue1}</>.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timp ce este călărit,\r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/>, crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</> și aplică o acumulare de <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Elem_Ice|/> de <Status_Up>{Passive3_EffectValue1}</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceHorse_Dark_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player's attack type to <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/>, increases Attack by <Status_Up>{Passive2_EffectValue1}%</>, and apply <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Elem_Dark|/> buildup by <Status_Up>{Passive3_EffectValue1}</>.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timp ce este călărit,\r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/>, crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</> și aplică o acumulare de <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Elem_Dark|/> de <Status_Up>{Passive3_EffectValue1}</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_JetDragon_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nCan rapidly fire a missile launcher while mounted.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nPoate trage rapid cu un lansator de rachete în timp ce este călărit.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Kelpie_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops <itemName id=|PalFluid| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n\r\nUneori lasă să cadă <itemName id=|PalFluid| style=|Status_Keyword|/> când este repartizat la o <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Kelpie_Fire_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops <itemName id=|FireOrgan| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n\r\nUneori lasă să cadă <itemName id=|FireOrgan| style=|Status_Keyword|/> când este repartizat la o <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KingAlpaca_TextData",
+   "en": "Can be ridden.\r\n\r\nThis Pal's Defense and Movement Speed increase by <Status_Up>{Passive1_EffectValue1}%</> for each <characterName id=|Alpaca| style=|Status_Keyword|/> in party.",
+   "ro": "Poate fi călărit.\r\n\r\nApărarea și viteza de mișcare ale acestui Pal cresc cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare <characterName id=|Alpaca| style=|Status_Keyword|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KingAlpaca_Ice_TextData",
+   "en": "Can be ridden.\r\n\r\nThis Pal's Defense and Movement Speed increase by <Status_Up>{Passive1_EffectValue1}%</> for each <characterName id=|Alpaca| style=|Status_Keyword|/> in party.",
+   "ro": "Poate fi călărit.\r\n\r\nApărarea și viteza de mișcare ale acestui Pal cresc cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare <characterName id=|Alpaca| style=|Status_Keyword|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KingBahamut_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nincreases the Attack and Defense of the Pal fighting alongside you by <Status_Up>{Passive1_EffectValue1}%</> whenever you defeat an enemy.\r\nThis effect lasts 20 seconds and stacks up to five times.",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ncrește Atacul și Apărarea Palului care luptă alături de tine cu <Status_Up>{Passive1_EffectValue1}%</> de fiecare dată când învingi un inamic.\r\nAcest efect durează 20 de secunde și se cumulează de până la cinci ori."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Kirin_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nincreases damage dealt by Player and Pals' <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ncrește cu <Status_Up>{Passive1_EffectValue1}%</> daunele provocate de atacurile de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> ale jucătorului și ale Palilor atunci când lovesc slăbiciunea elementară a inamicului. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Kitsunebi_TextData",
+   "en": "When activated, \r\nequips to the player and transforms into a flamethrower.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activat,\r\nse echipează pe jucător și se transformă într-un aruncător de flăcări.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LazyDragon_TextData",
+   "en": "Can be ridden.\r\n\r\nCan rapidly fire a missile launcher while mounted.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit.\r\n\r\nPoate trage rapid cu un lansator de rachete în timp ce este călărit.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LazyDragon_Electric_TextData",
+   "en": "Can be ridden.\r\n\r\nCan rapidly fire a missile launcher while mounted.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit.\r\n\r\nPoate trage rapid cu un lansator de rachete în timp ce este călărit.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LilyQueen_TextData",
+   "en": "When activated, \r\nthe queen's soothing graces restore the Health of the player and Party Pals by <Status_Up>{ActiveSkillMainValueByRank}%</>.",
+   "ro": "Când este activat,\r\ngrațiile liniștitoare ale reginei refac viața jucătorului și a Palilor din echipă cu <Status_Up>{ActiveSkillMainValueByRank}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LilyQueen_Dark_TextData",
+   "en": "When activated, \r\nthe queen's soothing graces restore the Health of the player and Party Pals by <Status_Up>{ActiveSkillMainValueByRank}%</>.",
+   "ro": "Când este activat,\r\ngrațiile liniștitoare ale reginei refac viața jucătorului și a Palilor din echipă cu <Status_Up>{ActiveSkillMainValueByRank}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LittleBriarRose_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/>  Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LizardMan_TextData",
+   "en": "When activated, \r\n<characterName id=|LizardMan|/> and the player become <Status_Keyword>invisible</>, making them undetectable to enemies for <Status_Up>{ActiveSkillOverWriteEffectTime}</> seconds.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Când este activat,\r\n<characterName id=|LizardMan|/> și jucătorul devin <Status_Keyword>invizibili</>, devenind nedetectabili pentru inamici timp de <Status_Up>{ActiveSkillOverWriteEffectTime}</> secunde.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LizardMan_Fire_TextData",
+   "en": "When activated, \r\n<characterName id=|LizardMan_Fire|/> and the player become <Status_Keyword>invisible</>, making them undetectable to enemies for <Status_Up>{ActiveSkillOverWriteEffectTime}</> seconds.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Când este activat,\r\n<characterName id=|LizardMan_Fire|/> și jucătorul devin <Status_Keyword>invizibili</>, devenind nedetectabili pentru inamici timp de <Status_Up>{ActiveSkillOverWriteEffectTime}</> secunde.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Manticore_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\n<img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Manticore_Dark_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\n<img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Monkey_TextData",
+   "en": "When activated, \r\n<characterName id=|Monkey|/> will mercilessly fire an assault rifle at nearby enemies for a limited time.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată,\r\n<characterName id=|Monkey|/> va trage fără milă cu o pușcă de asalt în inamicii din apropiere pentru o perioadă limitată.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MopBaby_TextData",
+   "en": "While in party,\r\nincreases Attack and Defense of <characterName id=|MopKing| style=|Status_Keyword|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul și Apărarea lui <characterName id=|MopKing| style=|Status_Keyword|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MopKing_TextData",
+   "en": "Can be ridden.\r\n\r\nThis Pal's Attack and Defense increase by <Status_Up>{Passive1_EffectValue1}%</> for each <characterName id=|MopBaby| style=|Status_Keyword|/> in party.",
+   "ro": "Poate fi călărit.\r\n\r\nAtacul și Apărarea acestui Pal cresc cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare <characterName id=|MopBaby| style=|Status_Keyword|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Mutant_TextData",
+   "en": "While in party,\r\nspheres <Status_Keyword>home in</> on Pals, and carrying capacity increases by <Status_Up>{Passive1_EffectValue1}</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nsferele <Status_Keyword>se ghidează automat către</> Pali, iar capacitatea de transport crește cu <Status_Up>{Passive1_EffectValue1}</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NaughtyCat_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\npicking up a <Status_Keyword>Pal Egg</> has a <Status_Up>{Passive1_EffectValue1}%</> chance of receiving one extra. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ncând aduni un <Status_Keyword>Ou de Pal</> ai o șansă de <Status_Up>{Passive1_EffectValue1}%</> să primești unul în plus. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NegativeKoala_TextData",
+   "en": "When activated, \r\n<characterName id=|NegativeKoala|/> chugs an entire energy drink, increasing its Movement Speed and Work Speed by <Status_Up>{ReferencePassive1_EffectValue1}%</>.\r\n\r\nSometimes drops <itemName id=|Venom| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Când este activată,\r\n<characterName id=|NegativeKoala|/> dă pe gât o băutură energizantă întreagă, crescându-și Viteza de mișcare și Viteza de lucru cu <Status_Up>{ReferencePassive1_EffectValue1}%</>.\r\n\r\nUneori lasă să cadă <itemName id=|Venom| style=|Status_Keyword|/> când este alocat la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NegativeOctopus_TextData",
+   "en": "While in party,\r\nmodifies the performance of the equipped glider.\r\n\r\nEnables gentle floating while gliding for an extended time.\r\n{ReferenceMsgId_GriderPerformanceUp}",
+   "ro": "Cât timp este în echipă,\r\nmodifică performanța planorului echipat.\r\n\r\nPermite o plutire lină în timp ce planezi o perioadă mai lungă.\r\n{ReferenceMsgId_GriderPerformanceUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NightFox_TextData",
+   "en": "When activated, \r\ndetects the location of nearby <Status_Keyword>Pal Effigies</>.\r\n{ReferenceMsgId_SearchAreaCoolTime}",
+   "ro": "Când este activată,\r\ndetectează poziția <Status_Keyword>Statuetelor de Pal</> din apropiere.\r\n{ReferenceMsgId_SearchAreaCoolTime}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Penguin_TextData",
+   "en": "When activated, \r\nthe player equips a <itemName id=|Launcher_Default|/> to fire <characterName id=|Penguin|/> as ammunition.\r\n\r\n<characterName id=|Penguin|/> explodes on impact and is incapacitated.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată,\r\nvei echipa un <itemName id=|Launcher_Default|/> pentru a trage cu <characterName id=|Penguin|/> pe post de muniție.\r\n\r\n<characterName id=|Penguin|/> explodează la impact și este incapacitat.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PinkCat_TextData",
+   "en": "While in party,\r\n<characterName id=|PinkCat|/> helps carry supplies, increasing the player's max carrying capacity by <Status_Up>{Passive1_EffectValue1}</>. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\n<characterName id=|PinkCat|/> ajută la căratul proviziilor, mărind capacitatea maximă de transport cu <Status_Up>{Passive1_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PinkLizard_TextData",
+   "en": "While fighting together, \r\ngrants the player and <characterName id=|PinkLizard|/> a life steal effect that <Status_Keyword>restores</> <Status_Up>{Passive1_EffectValue1}%</> of damage dealt as <uiCommon id=|COMMON_STATUS_HP| style=|Status_Keyword|/>.\r\n",
+   "ro": "Cât timp luptați împreună,\r\noferă jucătorului și lui <characterName id=|PinkLizard|/> un efect de furt de viață care <Status_Keyword>restabilește</> <Status_Up>{Passive1_EffectValue1}%</> din daunele provocate sub formă de <uiCommon id=|COMMON_STATUS_HP| style=|Status_Keyword|/>.\r\n"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PinkRabbit_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nWhile at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive2_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n\r\nCât timp este într-o bază,\r\ncrește nivelul aptitudinii de <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive2_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PlantSlime_TextData",
+   "en": "While in party,\r\nimproves logging efficiency by <Status_Up>{Passive1_EffectValue1}%</> and reduces weight of <Status_Keyword>all types of wood</> by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește eficiența la tăiatul lemnelor cu <Status_Up>{Passive1_EffectValue1}%</> și reduce greutatea <Status_Keyword>tuturor tipurilor de lemn</> cu <Status_Up>{Passive2_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_QueenBee_TextData",
+   "en": "This Pal's Attack increases by <Status_Up>{Passive1_EffectValue1}%</> for each <characterName id=|SoldierBee| style=|Status_Keyword|/> in party.",
+   "ro": "Atacul acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare <characterName id=|SoldierBee| style=|Status_Keyword|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RaijinDaughter_TextData",
+   "en": "While in party,\r\nappears near the player.\r\n\r\nAttacks hostile enemies with \r\n<img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> bolts.\r\nThese bolts will not reduce the target's Health below 1.\r\n{ReferenceMsgId_Funnel}",
+   "ro": "Cât timp este în echipă,\r\napare lângă tine.\r\n\r\nAtacă inamicii ostili cu\r\nfulgere de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/>.\r\nAceste fulgere nu vor reduce viața țintei sub 1.\r\n{ReferenceMsgId_Funnel}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RedArmorBird_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul atacului jucătorului în <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> și îi mărește atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RobinHood_TextData",
+   "en": "While in party,\r\nincreases the player's <Status_Keyword>bow damage</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește <Status_Keyword>daunele provocate cu arcul</> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RobinHood_Ground_TextData",
+   "en": "While in party,\r\nincreases the player's <Status_Keyword>bow charge speed</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește viteza de încărcare a <Status_Keyword>arcului</> jucătorului cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Ronin_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.",
+   "ro": "Când este activată,\r\natacă inamicul vizat cu <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>,\r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SaintCentaur_TextData",
+   "en": "Can be ridden.\r\nCan <Status_Keyword>triple jump</> while mounted. \r\n\r\nActivate <activeSkillName id=|Unique_SaintCentaur_OneSpearRushes| style=|Status_Keyword|/> to have <characterName id=|BlackCentaur|/> stay by your side and attack enemies in tandem.\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\nPoate executa o <Status_Keyword>săritură triplă</> cât timp este călărit.\r\n\r\nActivează <activeSkillName id=|Unique_SaintCentaur_OneSpearRushes| style=|Status_Keyword|/> pentru ca <characterName id=|BlackCentaur|/> să rămână alături de tine și să atace inamicii în tandem.\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SakuraSaurus_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nPal Eggs you pick up have a <Status_Up>{Passive1_EffectValue1}%</> chance of becoming an Alpha Pal Egg. \r\n(Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\nouăle de Pal pe care le culegi au o șansă de <Status_Up>{Passive1_EffectValue1}%</> de a deveni un ou de Pal Alfa.\r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SakuraSaurus_Water_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nPal Eggs you pick up have a <Status_Up>{Passive1_EffectValue1}%</> chance of becoming an Alpha Pal Egg. \r\n(Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\nouăle de Pal pe care le culegi au o șansă de <Status_Up>{Passive1_EffectValue1}%</> de a deveni un ou de Pal Alfa.\r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ScorpionMan_TextData",
+   "en": "While in party,\r\nincreases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> by <Status_Up>{Passive1_EffectValue1}%</>.\r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește daunele provocate de jucător și Pali inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> cu <Status_Up>{Passive1_EffectValue1}%</>.\r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Serpent_TextData",
+   "en": "Can be ridden to travel on water.\r\n\r\nSometimes drops <itemName id=|Leather| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit pentru a călători pe apă.\r\n\r\nUneori produce <itemName id=|Leather| style=|Status_Keyword|/> când este atribuit la <mapObjectName id=|MonsterFarm|/>.\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Serpent_Ground_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nthe player's attacks increase <uiCommon id=|ADDITIONAL_EFFECT_Muddy| style=|Effect_Muddy|/> buildup by <Status_Up>{Passive1_EffectValue1}</>. (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\natacurile jucătorului măresc acumularea de <uiCommon id=|ADDITIONAL_EFFECT_Muddy| style=|Effect_Muddy|/> cu <Status_Up>{Passive1_EffectValue1}</>. (Nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SkyDragon_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile in party,\r\nincreases Attack of <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nCât timp este în echipă,\r\ncrește atacul Palilor de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SharkKid_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|WaterGun| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|WaterGun| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.\r\n\r\nWhile in party,\r\nincreases the player's Attack by <Status_Up>{Passive1_EffectValue1}%</>.",
+   "ro": "Când este activată,\r\natacă inamicul vizat cu <activeSkillName id=|WaterGun| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|WaterGun| style=|Status_Keyword|/>,\r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>.\r\n\r\nCât timp este în echipă,\r\ncrește atacul jucătorului cu <Status_Up>{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SharkKid_Fire_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|FireSeed| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|FireSeed| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.\r\n\r\nWhile in party,\r\nincreases the player's Attack by <Status_Up>{Passive1_EffectValue1}%</>.",
+   "ro": "Când este activată,\r\natacă inamicul vizat cu <activeSkillName id=|FireSeed| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|FireSeed| style=|Status_Keyword|/>,\r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>.\r\n\r\nCât timp este în echipă,\r\ncrește atacul jucătorului cu <Status_Up>{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SifuDog_TextData",
+   "en": "When activated, \r\nteleports to the nearest base.\r\n\r\nCannot be used inside dungeons or similar areas.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Când este activată,\r\nte teleportează la cea mai apropiată bază.\r\n\r\nNu poate fi folosită în temnițe sau zone similare.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SheepBall_TextData",
+   "en": "When activated, \r\nequips to the player and becomes a shield.\r\n\r\nSometimes drops <itemName id=|Wool| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Când este activată,\r\nse echipează pe jucător și devine un scut.\r\n\r\nUneori produce <itemName id=|Wool| style=|Status_Keyword|/> când este atribuit la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SoldierBee_TextData",
+   "en": "While in party,\r\nincreases <characterName id=|QueenBee| style=|Status_Keyword|/>'s Attack.\r\n\r\nSometimes drops <itemName id=|Honey| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește atacul lui <characterName id=|QueenBee| style=|Status_Keyword|/>.\r\n\r\nUneori produce <itemName id=|Honey| style=|Status_Keyword|/> când este atribuit la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Suzaku_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> Pal in your party.\r\n(Excluding <characterName id=|Suzaku|/>)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nViteza de deplasare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> din echipa ta.\r\n(Cu excepția lui <characterName id=|Suzaku|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Suzaku_Water_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> Pal in your party.\r\n(Excluding <characterName id=|Suzaku_Water|/>)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nViteza de deplasare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> din echipa ta.\r\n(Cu excepția lui <characterName id=|Suzaku_Water|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SweetsSheep_TextData",
+   "en": "Sometimes drops <itemName id=|Sweet| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.\r\n\r\nWhile at a base, \r\nreduces <uiCommon id=|COMMON_STATUS_HUNGER|/> depletion rate of Base Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Uneori produce <itemName id=|Sweet| style=|Status_Keyword|/> când este atribuit la <mapObjectName id=|MonsterFarm|/>.\r\n\r\nCât timp este la o bază,\r\nreduce rata de scădere a stării de <uiCommon id=|COMMON_STATUS_HUNGER|/> a Palilor din bază cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_TentacleTurtle_TextData",
+   "en": "While in party,\r\nreduces the weight of the item <itemName id=|CopperOre| style=|Status_Keyword|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nreduce greutatea obiectului <itemName id=|CopperOre| style=|Status_Keyword|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ThunderBird_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player's attack type to <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> and increases Attack by <Status_Up>{Passive3_EffectValue1}%</>.\r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> Pal in your party. (Excluding <characterName id=|ThunderBird|/>)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> și crește Atacul cu <Status_Up>{Passive3_EffectValue1}%</>.\r\n\r\nViteza de mișcare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> din echipă. (Cu excepția lui <characterName id=|ThunderBird|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ThunderDog_TextData",
+   "en": "Can be ridden.\r\nCan perform a <Status_Keyword>double jump</> while mounted.\r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> Pal in your party. (Excluding <characterName id=|ThunderDog|/>)",
+   "ro": "Poate fi călărit.\r\nPoate executa o <Status_Keyword>săritură dublă</> în timp ce este călărit.\r\n\r\nViteza de mișcare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> din echipă. (Cu excepția lui <characterName id=|ThunderDog|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ThunderDragonMan_TextData",
+   "en": "While in party,\r\nhitting an enemy with a bullet increases the Attack and Defense of the Pal fighting alongside you by <Status_Up>{Passive1_EffectValue1}%</> for 5 seconds.\r\nThis effect stacks up to 30 times. (Does not stack.)",
+   "ro": "Cât timp este în echipă,\r\nlovirea unui inamic cu un glonț crește Atacul și Apărarea Palului care luptă alături de tine cu <Status_Up>{Passive1_EffectValue1}%</> timp de 5 secunde.\r\nAcest efect se cumulează de până la 30 de ori. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Umihebi_TextData",
+   "en": "Can be ridden to travel on water.\r\n\r\nWhile in party,\r\nincreases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/> by <Status_Up>{Passive1_EffectValue1}%</>.\r\n(Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit pentru a naviga pe apă.\r\n\r\nCât timp este în echipă,\r\ncrește daunele provocate de jucător și Pali inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/> cu <Status_Up>{Passive1_EffectValue1}%</>.\r\n(Efectul nu este cumulativ)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Umihebi_Fire_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\n<Status_Keyword>nullifies lava damage</> and increases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\n<Status_Keyword>anulează daunele provocate de lavă</> și crește daunele provocate de jucător și Pali inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_VioletFairy_TextData",
+   "en": "While in party,\r\n<img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)\r\n\r\nSometimes drops <Status_Keyword>various seeds</> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Efectul nu este cumulativ)\r\n\r\nUneori lasă <Status_Keyword>diverse semințe</> când este trimis la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_VolcanicMonster_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nreduces weight of <Status_Keyword>all types of ore</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\nreduce greutatea <Status_Keyword>tuturor tipurilor de minereu</> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_VolcanicMonster_Ice_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nreduces weight of <Status_Keyword>all types of ore</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\nreduce greutatea <Status_Keyword>tuturor tipurilor de minereu</> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WeaselDragon_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> și îi crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Werewolf_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|Unique_Werewolf_Scratch| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_Werewolf_Scratch| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.\r\n\r\nWhile in party,\r\nincreases the player's <Status_Keyword>melee weapon attack speed</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Când este activată, \r\natacă inamicul vizat cu <activeSkillName id=|Unique_Werewolf_Scratch| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_Werewolf_Scratch| style=|Status_Keyword|/>, \r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>.\r\n\r\nCât timp este în echipă,\r\ncrește viteza de atac a jucătorului cu <Status_Keyword>arme de luptă corp la corp</> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteMoth_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|IcicleThrow| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|IcicleThrow| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.\r\n\r\nSometimes makes <itemName id=|Cloth2| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Când este activată, \r\natacă inamicul vizat cu <activeSkillName id=|IcicleThrow| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|IcicleThrow| style=|Status_Keyword|/>, \r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>.\r\n\r\nProduce uneori <itemName id=|Cloth2| style=|Status_Keyword|/> când este trimis la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteTiger_TextData",
+   "en": "While in party,\r\n<img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Windchimes_TextData",
+   "en": "While in party,\r\nmodifies the performance of the equipped glider.\r\n\r\nEnables slow ascension while gliding.\r\n{ReferenceMsgId_GriderPerformanceUp}",
+   "ro": "Cât timp este în echipă,\r\nmodifică performanța planorului echipat.\r\n\r\nPermite o urcare lentă în timpul planării.\r\n{ReferenceMsgId_GriderPerformanceUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Windchimes_Ice_TextData",
+   "en": "While in party,\r\nmodifies the performance of the equipped glider.\r\n\r\nEnables slow ascension while gliding.\r\n{ReferenceMsgId_GriderPerformanceUp}",
+   "ro": "Cât timp este în echipă,\r\nmodifică performanța planorului echipat.\r\n\r\nPermite o urcare lentă în timpul planării.\r\n{ReferenceMsgId_GriderPerformanceUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WizardOwl_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Yeti_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Transport| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_Transport| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Yeti_Grass_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> damage and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Muddy| style=|Effect_Muddy|/> status. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\njucătorul și Palii din echipă primesc cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> și sunt imuni la efectul de <uiCommon id=|ADDITIONAL_EFFECT_Muddy| style=|Effect_Muddy|/>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WoolFox_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops <itemName id=|Wool| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n\r\nUneori lasă să cadă <itemName id=|Wool| style=|Status_Keyword|/> când este repartizat la o <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LazyCatfish_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops <itemName id=|PalOil| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n\r\nUneori lasă să cadă <itemName id=|PalOil| style=|Status_Keyword|/> când este repartizat la o <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LavaGirl_TextData",
+   "en": "While in party,\r\nrecovers Health of the player and Party Pals by <Status_Up>{Passive1_EffectValue1}%</> per second outside of combat. (Does not stack)\r\n\r\nSometimes drops <itemName id=|FireOrgan| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\nregenerază viața jucătorului și a Palilor din echipă cu <Status_Up>{Passive1_EffectValue1}%</> pe secundă în afara luptei. (Efectul nu este cumulativ)\r\n\r\nUneori lasă <itemName id=|FireOrgan| style=|Status_Keyword|/> când este trimis la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlameBambi_TextData",
+   "en": "While in party,\r\nincreases Defense of <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes drops <itemName id=|FireOrgan| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește Apărarea Palilor de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)\r\n\r\nUneori lasă <itemName id=|FireOrgan| style=|Status_Keyword|/> când este trimis la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Human_TextData",
+   "en": "Humans are not Pals.\r\nTherefore, they do not possess Partner Skills.",
+   "ro": "Oamenii nu sunt Pali.\r\nPrin urmare, nu dețin abilități de partener."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NightLady_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|Unique_NightLady_WarpBeam_Straight| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_NightLady_WarpBeam_Straight| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.",
+   "ro": "Când este activată,\r\natacă inamicul vizat cu <activeSkillName id=|Unique_NightLady_WarpBeam_Straight| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_NightLady_WarpBeam_Straight| style=|Status_Keyword|/>,\r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NightLady_Dark_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|Unique_NightLady_WarpBeam| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_NightLady_WarpBeam| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.",
+   "ro": "Când este activată,\r\natacă inamicul vizat cu <activeSkillName id=|Unique_NightLady_WarpBeam| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_NightLady_WarpBeam| style=|Status_Keyword|/>,\r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MushroomDragon_TextData",
+   "en": "Can be ridden.\r\n\r\nSometimes drops <itemName id=|Mushroom| style=|Status_Keyword|/> or <itemName id=|CaveMushroom| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Poate fi călărit.\r\n\r\nLasă uneori <itemName id=|Mushroom| style=|Status_Keyword|/> sau <itemName id=|CaveMushroom| style=|Status_Keyword|/> când este repartizat la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MushroomDragon_Dark_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile at a base, \r\nits mysterious spores slow the rate at which the SAN value of allies at the base decreases by <Status_Up>{Passive1_EffectValue2}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp se află la o bază, \r\nsporii săi misterioși încetinesc ritmul de scădere a valorii SAN a aliaților din bază cu <Status_Up>{Passive1_EffectValue2}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LeafPrincess_TextData",
+   "en": "While at a base, \r\n<characterName id=|LeafPrincess|/> fills farms with good spirits, increasing the growth rate of the crops by <Status_Up>{Passive1_EffectValue1}%</>.",
+   "ro": "Cât timp se află la o bază, \r\n<characterName id=|LeafPrincess|/> umple fermele de voie bună, crescând viteza de creștere a recoltelor cu <Status_Up>{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MoonQueen_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nenhances <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> and <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> attacks by <Status_Up>{Passive1_EffectValue1}%</>.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timpul călăririi, \r\nîmbunătățește atacurile de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> și <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> cu <Status_Up>{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SmallArmadillo_TextData",
+   "en": "While in party,\r\nincreases Defense of <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește apărarea Palilor de tip <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CandleGhost_TextData",
+   "en": "While in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> damage. (Does not stack)\r\n\r\nSometimes digs up <itemName id=|Bone| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/>. (Efectul nu se cumulează)\r\n\r\nDezgroapă uneori <itemName id=|Bone| style=|Status_Keyword|/> când este repartizat la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WingGolem_TextData",
+   "en": "When activated, \r\na steel resolve increases <characterName id=|WingGolem|/>'s Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</> and Defense by <Status_Up>{ReferencePassive2_EffectValue1}%</> for a limited time.",
+   "ro": "La activare, \r\no hotărâre de oțel crește atacul lui <characterName id=|WingGolem|/> cu <Status_Up>{ReferencePassive1_EffectValue1}%</> și apărarea cu <Status_Up>{ReferencePassive2_EffectValue1}%</> pentru un timp limitat."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DarkAlien_TextData",
+   "en": "While in party,\r\nincreases the damage of the last bullet fired from a full-auto weapon by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește daunele ultimului glonț tras dintr-o armă complet automată cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MimicDog_TextData",
+   "en": "While fighting together, \r\n<characterName id=|MimicDog|/> can open treasure chests without using a key. \r\nDoes not apply to chests that require a specific Work Suitability.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Cât timp luptați împreună, \r\n<characterName id=|MimicDog|/> poate deschide cufere de comori fără a folosi o cheie. \r\nNu se aplică la cuferele care necesită o anumită aptitudine de lucru.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KendoFrog_TextData",
+   "en": "When activated, \r\n<characterName id=|KendoFrog|/> channels its loyalty and puffs up its abdomen to store energy. Climbing on top will propel the player high into the air.\r\n\r\nWhile airborne, \r\nthe player's Attack is increased by <Status_Up>{ReferencePassive1_EffectValue1}%</>.",
+   "ro": "La activare, \r\n<characterName id=|KendoFrog|/> își canalizează loialitatea și își umflă abdomenul pentru a stoca energie. Dacă te urci deasupra, te va propulsa sus în aer.\r\n\r\nCât timp ești în aer, \r\natacul tău crește cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KingBahamut_Dragon_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nincreases damage dealt by Player and Pals' <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\ncrește cu <Status_Up>{Passive1_EffectValue1}%</> daunele provocate de atacurile de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> ale jucătorului și ale Palilor atunci când lovesc slăbiciunea elementară a inamicului. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_HerculesBeetle_Ground_TextData",
+   "en": "While in party,\r\n<Status_Keyword>generates a barrier</> around the player after 5 melee hits are landed within <Status_Up>{Passive1_EffectValue1} seconds</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\n<Status_Keyword>generează o barieră</> în jurul jucătorului după ce nimerești 5 atacuri corp la corp în decurs de <Status_Up>{Passive1_EffectValue1} secunde</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Gorilla_Ground_TextData",
+   "en": "While in party,\r\nincreases the player's climbing speed by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește viteza de cățărare a jucătorului cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_HadesBird_Electric_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul atacului jucătorului în <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> și îi mărește atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DarkScorpion_Ground_TextData",
+   "en": "While in party,\r\nplayer's Defense increases by <Status_Up>{Passive2_EffectValue1}%</>, and <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\napărarea jucătorului crește cu <Status_Up>{Passive2_EffectValue1}%</>, iar Palii de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Ronin_Dark_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.\r\n\r\nWhile in party,\r\nincreases the player's <Status_Keyword>melee weapon damage</> by <Status_Up>{Passive1_EffectValue1}%</> but only when not in combat. (Does not stack)",
+   "ro": "La activare, \r\natacă inamicul vizat cu <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_Ronin_Iai| style=|Status_Keyword|/>, \r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>.\r\n\r\nCât timp este în echipă,\r\ncrește <Status_Keyword>daunele armelor de luptă corp la corp ale jucătorului</> cu <Status_Up>{Passive1_EffectValue1}%</>, dar numai în afara luptei. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CatMage_Fire_TextData",
+   "en": "While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Cât timp se află la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FoxMage_Dark_TextData",
+   "en": "When activated, \r\n<characterName id=|FoxMage_Dark|/> changes the player's attack type to <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> and increases Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\n<characterName id=|FoxMage_Dark|/> schimbă tipul atacului jucătorului în <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> și îi mărește atacul cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SkyDragon_Grass_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nÎn timpul călăririi, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> și crește atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WeaselDragon_Fire_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> și îi crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteAlienDragon_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nincreases the player's <Status_Keyword>energy weapon</> damage by <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\ncrește daunele produse de jucător cu <Status_Keyword>arme cu energie</> cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Kitsunebi_Ice_TextData",
+   "en": "When activated, \r\nequips to the player and attacks using frigid air.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată, \r\nse echipează pe jucător și atacă folosind aer înghețat.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BerryGoat_Dark_TextData",
+   "en": "Sometimes drops <itemName id=|Venom| style=|Status_Keyword|/> from its back when assigned to <mapObjectName id=|MonsterFarm|/>. \r\n\r\nWhile in party,\r\nrestores <Status_Up>{Passive1_EffectValue1}</> Pal’s Hunger to the Pal with the lowest Hunger every 5 minutes. (Does not stack)",
+   "ro": "Uneori lasă să cadă <itemName id=|Venom| style=|Status_Keyword|/> de pe spatele său când este alocat la <mapObjectName id=|MonsterFarm|/>. \r\n\r\nCât timp este în echipă,\r\nrestaurează <Status_Up>{Passive1_EffectValue1}</> din nivelul de foame al Palului cu cea mai multă foame la fiecare 5 minute. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PinkRabbit_Grass_TextData",
+   "en": "While in party,\r\nincreases damage dealt by Player and Pals' <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nIncreases <characterName id=|PinkRabbit_Grass|/>'s efficiency by <Status_Up>{Passive2_EffectValue1}%</> when working at a Weapon Workbench, Weapon Assembly Line, or other related facilities.",
+   "ro": "Cât timp este în echipă,\r\ncrește cu <Status_Up>{Passive1_EffectValue1}%</> daunele provocate de atacurile de tip <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> ale jucătorului și Palilor când lovesc slăbiciunea elementală a inamicului. (Efectul nu se cumulează)\r\n\r\nCrește eficiența lui <characterName id=|PinkRabbit_Grass|/> cu <Status_Up>{Passive2_EffectValue1}%</> când lucrează la o bancă de lucru pentru arme, linie de asamblare a armelor sau alte facilități similare."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Werewolf_Ice_TextData",
+   "en": "When activated, \r\nattacks targeted enemy with <activeSkillName id=|Unique_Werewolf_Ice_SnowScratch| style=|Status_Keyword|/>.\r\n\r\nWhen this Pal uses <activeSkillName id=|Unique_Werewolf_Ice_SnowScratch| style=|Status_Keyword|/>, \r\nit has a <Status_Up>x{ActiveSkillMainValueByRank}</> damage multiplier.\r\n\r\nWhile in party,\r\nincreases the player's <Status_Keyword>melee weapon attack speed</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Când este activată, \r\natacă inamicul vizat cu <activeSkillName id=|Unique_Werewolf_Ice_SnowScratch| style=|Status_Keyword|/>.\r\n\r\nCând acest Pal folosește <activeSkillName id=|Unique_Werewolf_Ice_SnowScratch| style=|Status_Keyword|/>, \r\nare un multiplicator de daune de <Status_Up>x{ActiveSkillMainValueByRank}</>.\r\n\r\nCât timp este în echipă,\r\ncrește viteza de atac a jucătorului cu <Status_Keyword>arme de luptă corp la corp</> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_AmaterasuWolf_Dark_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> damage and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Effect_Darkness|/>. (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> și sunt imuni la <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Effect_Darkness|/>. (Efectul nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RaijinDaughter_Water_TextData",
+   "en": "While in party,\r\nappears near the player.\r\n\r\nAttacks hostile enemies with \r\n<img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> bolts.\r\nThese bolts will not reduce the target's Health below 1.\r\n{ReferenceMsgId_Funnel}",
+   "ro": "Cât timp este în echipă,\r\napare lângă tine.\r\n\r\nAtacă inamicii ostili cu\r\nfulgere de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/>.\r\nAceste fulgere nu vor reduce viața țintei sub 1.\r\n{ReferenceMsgId_Funnel}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteTiger_Ground_TextData",
+   "en": "While in party,\r\nwhen attacking <Status_Keyword>enemy weak point</>, increases the power of the next weak point attack by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncând ataci <Status_Keyword>punctul slab al inamicului</>, crește puterea următorului atac asupra punctului slab cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FengyunDeeper_Electric_TextData",
+   "en": "Can be ridden. \r\nCan <Status_Keyword>double jump</> while mounted. \r\n\r\nWhile in party,<img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. \r\n(Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit. \r\nPoate executa o <Status_Keyword>săritură dublă</> cât timp este călărit. \r\n\r\nCât timp este în echipă, Palii de tip <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> lasă să cadă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. \r\n(Efectul nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Horus_Water_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nWhile in party,\r\n<img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nCât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> lasă să cadă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DarkMechaDragon_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nWhile in party,\r\ndamage done by <Status_Keyword>Partner Skills of weapon-wielding Pals</> increases by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nCât timp este în echipă,\r\ndaunele provocate de <Status_Keyword>abilitățile de partener ale Palilor înarmați</> cresc cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostRabbit_TextData",
+   "en": "While fighting together, \r\nPals drop <Status_Up>+{Passive1_EffectValue1}%</> more Pal Souls when defeated. (Does not stack)",
+   "ro": "Cât timp luptați împreună, \r\nPalii lasă să cadă cu <Status_Up>+{Passive1_EffectValue1}%</> mai multe suflete de Pal când sunt învinși. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NightBlueHorse_TextData",
+   "en": "Can be ridden. \r\nBoosts Jump Power while mounted.\r\n\r\nThis Pal's movement speed increases by <Status_Up>+{Passive1_EffectValue1}%</> at night.",
+   "ro": "Poate fi călărit. \r\nÎmbunătățește puterea săriturii cât timp este călărit.\r\n\r\nViteza de mișcare a acestui Pal crește cu <Status_Up>+{Passive1_EffectValue1}%</> noaptea."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteShieldDragon_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nreduces shield regeneration delay by <Status_Up>{Passive1_EffectValue1}%</> and reduces damage taken by your shield by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\nreduce întârzierea regenerării scutului cu <Status_Up>{Passive1_EffectValue1}%</> și reduce daunele suferite de scutul tău cu <Status_Up>{Passive2_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlackPuppy_TextData",
+   "en": "When activated, \r\nuses its sharp sense of smell to detect nearby <itemName id=|Chromium| style=|Status_Keyword|/>. \r\n\r\nWhile fighting together, \r\n<itemName id=|Chromium| style=|Status_Keyword|/> acquisition increases by <Status_Up>+{Passive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\nîși folosește simțul olfactiv ascuțit pentru a detecta depozitele apropiate de <itemName id=|Chromium| style=|Status_Keyword|/>. \r\n\r\nCât timp luptați împreună, \r\ncantitatea de <itemName id=|Chromium| style=|Status_Keyword|/> dobândită crește cu <Status_Up>+{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteDeer_TextData",
+   "en": "Can be ridden. \r\n\r\nThis Pal's Attack and Movement Speed increases by <Status_Up>{Passive2_EffectValue1}%</> for each other <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pal in your party. \r\n\r\nWhen in party, \r\nrecovers Health of the player and Party Pals by <Status_Up>{Passive1_EffectValue1}%</> per second. (Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nAtacul și viteza de mișcare ale acestui Pal cresc cu <Status_Up>{Passive2_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> din echipa ta. \r\n\r\nCât timp este în echipă, \r\nrestaurează viața jucătorului și a Palilor din echipă cu <Status_Up>{Passive1_EffectValue1}%</> pe secundă. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MysteryMask_TextData",
+   "en": "While in party,\r\nincreases Party Pals' <Status_Keyword>EXP gained</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește <Status_Keyword>experiența obținută</> de Palii din echipă cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrimGirl_TextData",
+   "en": "While in party,\r\nthe amount of items obtained from using the <itemName id=|MeatCutterKnife|/> increases by <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncantitatea de obiecte obținute folosind <itemName id=|MeatCutterKnife|/> crește cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PurpleSpider_TextData",
+   "en": "Can be ridden. \r\nCan <Status_Keyword>double jump</> while mounted. \r\n\r\nAdditionally, can shoot spider web to grapple and move at high speed.\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit. \r\nPoate efectua un <Status_Keyword>salt dublu</> cât timp este călărit. \r\n\r\nÎn plus, poate trage o pânză de păianjen pentru a se agăța și a se deplasa cu viteză mare.\r\n{ReferenceMsgId_RideSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlueThunderHorse_TextData",
+   "en": "Can be ridden. \r\nGrants <Status_Keyword>Air Dash</>, to move at even higher speeds.\r\n{ReferenceMsgId_ShortDashSpeedCoolTime}",
+   "ro": "Poate fi călărit. \r\nOferă <Status_Keyword>Năpustire aeriană</>, pentru a te deplasa la viteze și mai mari.\r\n{ReferenceMsgId_ShortDashSpeedCoolTime}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SnowTigerBeastman_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\ndelivers crushing blows with a hammer forged from <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/>.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este călărit, \r\naplică lovituri devastatoare cu un ciocan făurit din <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/>.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlueberryFairy_TextData",
+   "en": "While at a base, \r\n<characterName id=|BlueberryFairy|/>'s prayers bless the crops, increasing their harvest by <Status_Up>{Passive1_EffectValue1}%</>.",
+   "ro": "Cât timp se află la o bază, \r\nrugăciunile lui <characterName id=|BlueberryFairy|/> binecuvântează culturile, mărind recolta acestora cu <Status_Up>{Passive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BadCatgirl_TextData",
+   "en": "When activated, \r\n<characterName id=|BadCatgirl|/> will fire a shotgun at nearby enemies for a limited time. \r\n\r\nWhile in party,\r\nincreases the player's shotgun damage by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Când este activată, \r\n<characterName id=|BadCatgirl|/> va trage cu o pușcă în inamicii din apropiere pentru o perioadă limitată. \r\n\r\nCât timp este în echipă,\r\ncrește daunele provocate de jucător cu pușca cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GoldenHorse_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> și îi crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NegativeOctopus_Neutral_TextData",
+   "en": "While in party,\r\nmodifies the performance of the equipped glider.\r\n\r\nEnables gentle floating while gliding for an extended time.\r\n{ReferenceMsgId_GriderPerformanceUp}",
+   "ro": "Cât timp este în echipă,\r\nmodifică performanța planorului echipat.\r\n\r\nPermite o plutire lină în timp ce planezi o perioadă mai lungă.\r\n{ReferenceMsgId_GriderPerformanceUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Penguin_Electric_TextData",
+   "en": "When activated, \r\nthe player equips a <itemName id=|Launcher_Default|/> to fire <characterName id=|Penguin_Electric|/> as ammunition.\r\n\r\n<characterName id=|Penguin_Electric|/> explodes on impact and is incapacitated.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată,\r\nvei echipa un <itemName id=|Launcher_Default|/> pentru a trage cu <characterName id=|Penguin_Electric|/> pe post de muniție.\r\n\r\n<characterName id=|Penguin_Electric|/> explodează la impact și este incapacitat.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CaptainPenguin_Black_TextData",
+   "en": "While in party,\r\nincreases damage dealt by Player and Pals' <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește cu <Status_Up>{Passive1_EffectValue1}%</> daunele provocate de atacurile de tip <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> ale jucătorului și ale Palilor când lovesc slăbiciunea elementală a inamicului. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlyingManta_Thunder_TextData",
+   "en": "While in party,\r\nmodifies the performance of the equipped glider.\r\n\r\n<Status_Keyword>Prevents fall damage</> and extends the duration of high-speed gliding.\r\n{ReferenceMsgId_GriderPerformanceUp}",
+   "ro": "Cât timp este în echipă,\r\nmodifică performanța planorului echipat.\r\n\r\n<Status_Keyword>Previne daunele din cădere</> și prelungește durata planării de mare viteză.\r\n{ReferenceMsgId_GriderPerformanceUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BluePlatypus_Fire_TextData",
+   "en": "When activated, \r\n<characterName id=|BluePlatypus_Fire|/> fire surfs towards an enemy and slams into them.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată, \r\n<characterName id=|BluePlatypus_Fire|/> face surf pe flăcări spre un inamic și se izbește de el.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LazyCatfish_Gold_TextData",
+   "en": "While in party,\r\nincreases amount of <itemName id=|Money|/> dropped by enemies by <Status_Up>+{Passive1_EffectValue1}%</>. \r\n\r\nSometimes drops <itemName id=|PalOil| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>, with a small chance to drop <itemName id=|Money| style=|Status_Keyword|/>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește cantitatea de <itemName id=|Money|/> lăsată de inamici cu <Status_Up>+{Passive1_EffectValue1}%</>. \r\n\r\nUneori produce <itemName id=|PalOil| style=|Status_Keyword|/> când este alocat la <mapObjectName id=|MonsterFarm|/>, cu o șansă mică de a produce <itemName id=|Money| style=|Status_Keyword|/>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_TentacleTurtle_Ground_TextData",
+   "en": "While in party,\r\nreduces weight of <itemName id=|Sulfur| style=|Status_Keyword|/> and <itemName id=|Coal| style=|Status_Keyword|/> by <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nAlso increases damage dealt by Player and Pals' <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nreduce greutatea pentru <itemName id=|Sulfur| style=|Status_Keyword|/> și <itemName id=|Coal| style=|Status_Keyword|/> cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nDe asemenea, crește cu <Status_Up>{Passive2_EffectValue1}%</> daunele provocate de atacurile de tip <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> ale jucătorului și ale Palilor când lovesc slăbiciunea elementală a inamicului. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KendoFrog_Dark_TextData",
+   "en": "When activated, \r\n<characterName id=|KendoFrog_Dark|/> channels its loyalty and puffs up its abdomen to store energy. Climbing on top will propel the player high into the air.\r\n\r\nWhile in party,\r\nincreases damage dealt by Player and Pals' <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Când este activată, \r\n<characterName id=|KendoFrog_Dark|/> își canalizează loialitatea și își umflă abdomenul pentru a stoca energie. Dacă te urci deasupra, te va propulsa sus în aer.\r\n\r\nCât timp este în echipă,\r\ncrește cu <Status_Up>{Passive1_EffectValue1}%</> daunele provocate de atacurile de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> ale jucătorului și ale Palilor când lovesc slăbiciunea elementală a inamicului. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlueDragon_Ice_TextData",
+   "en": "Can be ridden to travel on water. \r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.\r\n{ReferenceMsgId_SwimSpeedUp}",
+   "ro": "Poate fi călărit pentru a te deplasa pe apă. \r\n\r\nCât timp este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> și crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>.\r\n{ReferenceMsgId_SwimSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceNarwhal_Fire_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nfishing minigame begins with the capture gauge <Status_Up>{Passive1_EffectValue1}%</> higher than usual, and capture progress increases by <Status_Up>{Passive2_EffectValue1}%</> while the bars overlap. (Does not stack)\r\n{ReferenceMsgId_SwimSpeedUp}",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\nminijocul de pescuit începe cu bara de captură cu <Status_Up>{Passive1_EffectValue1}%</> mai plină decât de obicei, iar progresul de captură crește cu <Status_Up>{Passive2_EffectValue1}%</> când barele se suprapun. (Efectul nu se cumulează)\r\n{ReferenceMsgId_SwimSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostAnglerfish_Fire_TextData",
+   "en": "Can be ridden to travel on water. \r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> or <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> Pal in your party. (Excluding <characterName id=|GhostAnglerfish_Fire|/>)",
+   "ro": "Poate fi călărit pentru a te deplasa pe apă. \r\n\r\nViteza de mișcare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> sau <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> din echipă. (Cu excepția lui <characterName id=|GhostAnglerfish_Fire|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_StuffedShark_Fire_TextData",
+   "en": "While in party,\r\n<characterName id=|StuffedShark_Fire|/> helps carry supplies, reducing the weight of weapons in your inventory by <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nAlso increases damage dealt by Player and Pals' <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\n<characterName id=|StuffedShark_Fire|/> ajută la transportul proviziilor, reducând greutatea armelor din inventar cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nDe asemenea, crește cu <Status_Up>{Passive2_EffectValue1}%</> daunele provocate de atacurile de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> ale jucătorului și ale Palilor când lovesc slăbiciunea elementală a inamicului. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_TentacleTurtle_NotUse_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_OctopusGirl_TextData",
+   "en": "While in party,\r\nthe capture gauge decreases <Status_Up>{Passive1_EffectValue1}%</> more slowly while the bars are not overlapping during the fishing minigame. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nbara de captură scade cu <Status_Up>{Passive1_EffectValue1}%</> mai lent când barele nu se suprapun în timpul minijocului de pescuit. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceNarwhal_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nfishing minigames start with the capture gauge increased by <Status_Up>{Passive1_EffectValue1}%</>.\r\n\r\nAdditionally, while the bars overlap, capture progress increases by <Status_Up>{Passive2_EffectValue1}%</>. \r\n(Does not stack)\r\n{ReferenceMsgId_SwimSpeedUp}",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\nminijocurile de pescuit încep cu bara de captură mărită cu <Status_Up>{Passive1_EffectValue1}%</>.\r\n\r\nÎn plus, cât timp barele se suprapun, progresul capturii crește cu <Status_Up>{Passive2_EffectValue1}%</>. \r\n(Efectul nu se cumulează)\r\n{ReferenceMsgId_SwimSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_JellyfishFairy_TextData",
+   "en": "While in party,\r\nincreases items obtained from fishing by <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nWhile <characterName id=|JellyfishFairy|/> and <characterName id=|JellyfishGhost|/> are in your base, <characterName id=|JellyfishFairy|/>'s watering speed increases by <Status_Up>{Passive3_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește cantitatea de obiecte obținute la pescuit cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nCât timp <characterName id=|JellyfishFairy|/> și <characterName id=|JellyfishGhost|/> se află în baza ta, viteza de udare a lui <characterName id=|JellyfishFairy|/> crește cu <Status_Up>{Passive3_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_JellyfishGhost_TextData",
+   "en": "While in party,\r\nincreases items obtained from salvaging by <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nWhile <characterName id=|JellyfishFairy|/> and <characterName id=|JellyfishGhost|/> are in your base, <characterName id=|JellyfishGhost|/>'s watering speed increases by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește cantitatea de obiecte obținute la recuperare cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nCât timp <characterName id=|JellyfishFairy|/> și <characterName id=|JellyfishGhost|/> se află în baza ta, viteza de udare a lui <characterName id=|JellyfishGhost|/> crește cu <Status_Up>{Passive2_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostAnglerfish_TextData",
+   "en": "Can be ridden to travel on water. \r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> or <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> Pal in your party. (Excluding <characterName id=|GhostAnglerfish|/>)",
+   "ro": "Poate fi călărit pentru a te deplasa pe apă. \r\n\r\nViteza de mișcare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> sau <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> din echipă. (Cu excepția lui <characterName id=|GhostAnglerfish|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceWitch_TextData",
+   "en": "When activated, \r\n<characterName id=|IceWitch|/> changes the player's attack type to <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> and increases Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\n<characterName id=|IceWitch|/> schimbă tipul atacului jucătorului în <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> și îi mărește atacul cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LeafMomonga_TextData",
+   "en": "While in party,\r\n<characterName id=|LeafMomonga|/> uses its healing powers to <Status_Keyword>restore</> <Status_Up>{ActiveSkillMainValueByRank}%</> of the player's <uiCommon id=|COMMON_STATUS_HP2|/> when incapacitated.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Cât timp este în echipă,\r\n<characterName id=|LeafMomonga|/> își folosește puterile vindecătoare pentru a <Status_Keyword>restabili</> <Status_Up>{ActiveSkillMainValueByRank}%</> din <uiCommon id=|COMMON_STATUS_HP2|/> a jucătorului când acesta este incapacitat.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceCrocodile_TextData",
+   "en": "While in party,\r\nreduces the weight of <Status_Keyword>ingredient</> and <Status_Keyword>food</> by <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nWhen paired with another <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> Pal, their Rot Speed also reduces by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nreduce greutatea pentru <Status_Keyword>ingrediente</> și <Status_Keyword>mâncare</> cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n\r\nCând este alăturat unui alt Pal de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/>, viteza lor de alterare scade de asemenea cu <Status_Up>{Passive2_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_StuffedShark_TextData",
+   "en": "When activated, \r\n<characterName id=|StuffedShark|/> changes the player's attack type to <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> and increases Attack by <Status_Up> {ReferencePassive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\n<characterName id=|StuffedShark|/> schimbă tipul de atac al jucătorului în <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> și mărește atacul cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceSeal_TextData",
+   "en": "Can be ridden. \r\nMovement Speed is increased by <Status_Up>{Passive1_EffectValue1}%</> while mounted <Status_Keyword>on snow</>. \r\n\r\nCan also slide quickly down slopes.",
+   "ro": "Poate fi călărit. \r\nViteza de mișcare este mărită cu <Status_Up>{Passive1_EffectValue1}%</> când este călărit <Status_Keyword>pe zăpadă</>. \r\n\r\nDe asemenea, poate aluneca rapid pe pante."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Plesiosaur_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in your base, \r\nincreases the egg production speed of Pals assigned to <mapObjectName id=|BreedFarm|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp se află în baza ta, \r\nmărește viteza de producere a ouălor pentru Palii repartizați la <mapObjectName id=|BreedFarm|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_TropicalOstrich_TextData",
+   "en": "Can be ridden. \r\nMovement Speed is increased by <Status_Up>{Passive1_EffectValue1}%</> while mounted <Status_Keyword>on grass</>.",
+   "ro": "Poate fi călărit. \r\nViteza de mișcare este mărită cu <Status_Up>{Passive1_EffectValue1}%</> când este călărit <Status_Keyword>pe iarbă</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SnowPeafowl_TextData",
+   "en": "While in party,\r\n<characterName id=|SnowPeafowl|/>'s icy aura sharpens focus, increasing the player's <Status_Keyword>reload speeds</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\naura înghețată a lui <characterName id=|SnowPeafowl|/> ascute concentrarea, mărind <Status_Keyword>viteza de reîncărcare</> a jucătorului cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PoseidonOrca_TextData",
+   "en": "While in party,\r\nit follows up the player's attacks with <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> spear strikes.\r\n\r\nCan be ridden to travel on water.\r\n\r\nWhile mounted, \r\nit can leap high into the air over water.\r\n{ReferenceMsgId_SwimSpeedUp_CooldownReduction}",
+   "ro": "Cât timp este în echipă,\r\ncontinuă atacurile jucătorului cu lovituri de suliță de tip <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/>.\r\n\r\nPoate fi călărit pentru a călători pe apă.\r\n\r\nÎn timp ce este călărit, \r\npoate sări sus în aer deasupra apei.\r\n{ReferenceMsgId_SwimSpeedUp_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster001_TextData",
+   "en": "Can be ridden. \r\nCan jump high into the air while mounted.",
+   "ro": "Poate fi călărit. \r\nPoate sări sus în aer când este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Blue_TextData",
+   "en": "Can be ridden. \r\nCan jump high into the air while mounted.",
+   "ro": "Poate fi călărit. \r\nPoate sări sus în aer când este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Red_TextData",
+   "en": "Can be ridden. \r\nCan jump high into the air while mounted.",
+   "ro": "Poate fi călărit. \r\nPoate sări sus în aer când este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Purple_TextData",
+   "en": "Can be ridden. \r\nCan jump high into the air while mounted.",
+   "ro": "Poate fi călărit. \r\nPoate sări sus în aer când este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Pink_TextData",
+   "en": "Can be ridden. \r\nCan jump high into the air while mounted.",
+   "ro": "Poate fi călărit. \r\nPoate sări sus în aer când este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster001_Rainbow_TextData",
+   "en": "Can be ridden. \r\nCan jump high into the air while mounted.",
+   "ro": "Poate fi călărit. \r\nPoate sări sus în aer când este călărit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaBoss001_Small_TextData",
+   "en": "While in party,\r\nincreases Attack of <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul Palilor de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu este cumulativ)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster002_TextData",
+   "en": "While in party,\r\n<img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pals drop <Status_Up>{Passive1_EffectValue1}%</> more items when defeated. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nPalii de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> lasă cu <Status_Up>{Passive1_EffectValue1}%</> mai multe obiecte când sunt învinși. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster003_TextData",
+   "en": "While in party,\r\nappears near the player. \r\n\r\nAutomatically picks up nearby items.\r\n{ReferenceMsgId_ItemCollectRangeUp}",
+   "ro": "Cât timp este în echipă,\r\napare lângă jucător. \r\n\r\nAdună automat obiectele din apropiere.\r\n{ReferenceMsgId_ItemCollectRangeUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaMonster003_Purple_TextData",
+   "en": "While in party,\r\nappears near the player. \r\n\r\nAutomatically picks up nearby items.\r\n{ReferenceMsgId_ItemCollectRangeUp}",
+   "ro": "Cât timp este în echipă,\r\napare lângă jucător. \r\n\r\nAdună automat obiectele din apropiere.\r\n{ReferenceMsgId_ItemCollectRangeUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_YakushimaBoss001_TextData",
+   "en": "When activated, \r\n<characterName id=|YakushimaBoss001|/> charges and attacks targeted enemy.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată, \r\n<characterName id=|YakushimaBoss001|/> se năpustește și atacă inamicul vizat.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LegendDeer_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\nit generates a barrier that blocks all attacks. \r\n\r\nCan <Status_Keyword>triple jump</> while mounted.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit, \r\ngenerat o barieră care blochează toate atacurile. \r\n\r\nPoate face <Status_Keyword>salt triplu</> când este călărit.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Kirin_Ice_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile mounted, \r\nchanges the player’s attack type to <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.",
+   "ro": "Poate fi călărit.\r\n\r\nÎn timp ce este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> și îi crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ClioneTwins_TextData",
+   "en": "While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Watering| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Cât timp se află la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_Watering| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FluffyBird_TextData",
+   "en": "While in party,\r\nincreases the capture rate of Pals afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/>. (Does not stack)\r\n{ReferenceMsgId_CaptureRate}",
+   "ro": "Cât timp este în echipă,\r\ncrește rata de captură a Palilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/>. (Efectul nu se cumulează)\r\n{ReferenceMsgId_CaptureRate}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MoonChild_TextData",
+   "en": "While in party,\r\nincreases Defense of <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește apărarea Palilor de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CloverFairy_TextData",
+   "en": "While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Collection| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Cât timp se află la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_Collection| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ClownRabbit_TextData",
+   "en": "While in party,\r\nwhen the player's Health falls below 50%, <characterName id=|ClownRabbit|/> generates an explosion around the player (<img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> / Power: <Status_Up>{Passive1_EffectValue1}</> / <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/> buildup: <Status_Keyword>{ReferencePassive1_EffectValue1}</>).\r\n\r\nAdditionally, while the player's Health is below 50%, the player's Attack is increased by <Status_Up>{Passive2_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncând nivelul de HP al jucătorului scade sub 50%, <characterName id=|ClownRabbit|/> generează o explozie în jurul jucătorului (<img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> / Putere: <Status_Up>{Passive1_EffectValue1}</> / Acumulare de <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/>: <Status_Keyword>{ReferencePassive1_EffectValue1}</>).\r\n\r\nÎn plus, cât timp nivelul de HP al jucătorului este sub 50%, atacul jucătorului crește cu <Status_Up>{Passive2_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlackPuppy_Ice_TextData",
+   "en": "While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Cool| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Cât timp se află la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_Cool| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SwordCutlassfish_TextData",
+   "en": "When activated, \r\n<characterName id=|SwordCutlassfish|/> becomes the player's katana (<uiCommon id=|COMMON_STATUS_RANGE_ATTACK|/>: <Status_Up>{ActiveSkillMainValueByRank}</>).\r\n\r\nIf it does not revert to its normal form quickly, <characterName id=|SwordCutlassfish|/> will become incapacitated.\r\n\r\nIt will also become incapacitated if Iaigiri is used.",
+   "ro": "Când este activată, \r\n<characterName id=|SwordCutlassfish|/> devine katana jucătorului (<uiCommon id=|COMMON_STATUS_RANGE_ATTACK|/>: <Status_Up>{ActiveSkillMainValueByRank}</>).\r\n\r\nDacă nu revine rapid la forma normală, <characterName id=|SwordCutlassfish|/> va fi incapacitat.\r\n\r\nDe asemenea, va fi incapacitat dacă se folosește Iaigiri."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SwordCutlassfish_Fire_TextData",
+   "en": "When activated, \r\n<characterName id=|SwordCutlassfish_Fire|/> becomes the player's katana (<uiCommon id=|COMMON_STATUS_RANGE_ATTACK|/>: <Status_Up>{ActiveSkillMainValueByRank}</>).\r\n\r\nIf it does not revert to its normal form quickly, <characterName id=|SwordCutlassfish_Fire|/> will become incapacitated.\r\n\r\nIt will also become incapacitated if Iaigiri is used.",
+   "ro": "Când este activată, \r\n<characterName id=|SwordCutlassfish_Fire|/> devine katana jucătorului (<uiCommon id=|COMMON_STATUS_RANGE_ATTACK|/>: <Status_Up>{ActiveSkillMainValueByRank}</>).\r\n\r\nDacă nu revine rapid la forma normală, <characterName id=|SwordCutlassfish_Fire|/> va fi incapacitat.\r\n\r\nDe asemenea, va fi incapacitat dacă se folosește Iaigiri."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassGolem_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile mounted, \r\n<characterName id=|GrassGolem|/> fires a powerful <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> laser from its right hand.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Poate fi călărit. \r\n\r\nÎn timp ce este călărit, \r\n<characterName id=|GrassGolem|/> trage cu un laser puternic de tip <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> din brațul drept.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassGolem_Dark_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile mounted, \r\n<characterName id=|GrassGolem_Dark|/> fires a powerful <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> laser from its right hand.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Poate fi călărit. \r\n\r\nÎn timp ce este călărit, \r\n<characterName id=|GrassGolem_Dark|/> trage cu un laser puternic de tip <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> din brațul drept.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlowerDoll_Fire_TextData",
+   "en": "When activated, \r\nsoothing blossoms restore the player's Health by <Status_Up>{ActiveSkillMainValueByRank}%</>. \r\n\r\nWhile in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> damage, and are immune to <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/>. (Does not stack)",
+   "ro": "Când este activată, \r\npetale liniștitoare restabilesc <Status_Up>{ActiveSkillMainValueByRank}%</> din HP-ul jucătorului. \r\n\r\nCât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> și sunt imuni la <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MushroomLady_TextData",
+   "en": "While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>. (Does not stack)",
+   "ro": "Cât timp este la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SumoDog_TextData",
+   "en": "Can be ridden.\r\n\r\nWhile in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> damage and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Electrical| style=|Effect_Electrical|/>. (Does not stack)",
+   "ro": "Poate fi călărit.\r\n\r\nCât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> și sunt imuni la <uiCommon id=|ADDITIONAL_EFFECT_Electrical| style=|Effect_Electrical|/>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CactusDoll_TextData",
+   "en": "While in party,\r\nincreases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește daunele provocate de jucător și Pali inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RockBeast_TextData",
+   "en": "While in party,\r\nincreases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Muddy| style=|Effect_Muddy|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește daunele provocate de jucător și Pali inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Muddy| style=|Effect_Muddy|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ThiefBird_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nWhile in party,\r\nincreases player's and Pals' damage to enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Effect_Darkness|/> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nCât timp este în echipă,\r\ncrește daunele provocate de jucător și Pali inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Effect_Darkness|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SleeveRabbit_TextData",
+   "en": "While in party,\r\nreduces the <Status_Keyword>Partner Skill cooldowns</> for other party Pals by <Status_Up>{Passive1_EffectValue2}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nreduce <Status_Keyword>timpul de reîncărcare a abilităților de partener</> pentru ceilalți Pali din echipă cu <Status_Up>{Passive1_EffectValue2}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SnakeGirl_TextData",
+   "en": "While in party,\r\nthe player's attacks increase <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Elem_Dark|/> buildup by <Status_Up>{Passive1_EffectValue1}</>. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\natacurile jucătorului măresc acumularea de <uiCommon id=|ADDITIONAL_EFFECT_Darkness| style=|Elem_Dark|/> cu <Status_Up>{Passive1_EffectValue1}</>. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KabukiMan_TextData",
+   "en": "While in party,\r\nthe player's attacks increase <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/> buildup by <Status_Up>{Passive1_EffectValue1}</>. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\natacurile jucătorului măresc acumularea de <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/> cu <Status_Up>{Passive1_EffectValue1}</>. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SamuraiDog_TextData",
+   "en": "While in party,\r\nincreases the player's <Status_Keyword>melee weapon</> damage by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește daunele <Status_Keyword>armelor de luptă corp la corp</> ale jucătorului cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Sekhmet_TextData",
+   "en": "While at a base,\r\nboosts <characterName id=|Anubis| style=|Status_Keyword|/>'s work speed by <Status_Up>{Passive1_EffectValue1}%</>.\r\n\r\nIncreases efficiency by <Status_Up>{Passive2_EffectValue1}%</> if <characterName id=|Sekhmet|/> is working at a Workbench, Workshop, or other related facilities. (Does not stack)",
+   "ro": "Cât timp este la o bază,\r\nsporește viteza de lucru a lui <characterName id=|Anubis| style=|Status_Keyword|/> cu <Status_Up>{Passive1_EffectValue1}%</>.\r\n\r\nCrește eficiența cu <Status_Up>{Passive2_EffectValue1}%</> dacă <characterName id=|Sekhmet|/> lucrează la o bancă de lucru, într-un atelier sau la alte facilități similare. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostRabbit_Grass_TextData",
+   "en": "While in party,\r\nincreases Defense of <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește apărarea Palilor de tip <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RockBeast_Ice_TextData",
+   "en": "While in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> damage. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LotusDragon_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nthe player's attacks increase <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/> buildup by <Status_Up>{Passive1_EffectValue1}</>. \r\n(Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\natacurile jucătorului măresc acumularea de <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/> cu <Status_Up>{Passive1_EffectValue1}</>. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Monkey_Fire_TextData",
+   "en": "When activated, \r\n<characterName id=|Monkey_Fire|/> will mercilessly fire a <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> assault rifle at nearby enemies for a limited time.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Când este activată,\r\n<characterName id=|Monkey_Fire|/> va trage fără milă cu o pușcă de asalt de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> în inamicii din apropiere pentru o perioadă limitată.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DarkFlameFox_TextData",
+   "en": "While in party,\r\nwhen the player attacks an enemy afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/>, the enemy <Status_Keyword>creates flames around itself</>, dealing continuous damage equal to <Status_Up>{Passive1_EffectValue1}%</> of the player's attack damage to enemies that come into contact with them. (Does not stack.)",
+   "ro": "Cât timp este în echipă,\r\ncând jucătorul atacă un inamic afectat de <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/>, inamicul <Status_Keyword>creează flăcări în jurul său</>, provocând daune continue egale cu <Status_Up>{Passive1_EffectValue1}%</> din daunele de atac ale jucătorului inamicilor care intră în contact cu ele. (Efectul nu se cumulează.)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FoxExorcist_TextData",
+   "en": "While in party,\r\nwhen the player attacks an enemy afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/>, the enemy <Status_Keyword>explodes</>, dealing damage equal to <Status_Up>{Passive1_EffectValue1}%</> of the player's attack damage to nearby enemies. \r\n(Does not stack.)",
+   "ro": "Cât timp este în echipă,\r\ncând jucătorul atacă un inamic afectat de <uiCommon id=|ADDITIONAL_EFFECT_Burn| style=|Effect_Burn|/>, inamicul <Status_Keyword>explodează</>, provocând inamicilor din apropiere daune egale cu <Status_Up>{Passive1_EffectValue1}%</> din daunele de atac ale jucătorului. \r\n(Efectul nu se cumulează.)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_VenusFlytrap_TextData",
+   "en": "While in party,\r\nwhen the player performs a dodge roll or dodge step, <characterName id=|VenusFlytrap|/> creates a whirlwind that deals damage to enemies it touches (<img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> / Power: <Status_Up>{Passive1_EffectValue1}</>). (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncând jucătorul efectuează o rostogolire sau un pas de eschivă, <characterName id=|VenusFlytrap|/> creează un vârtej care provoacă daune inamicilor atinși (<img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> / Putere: <Status_Up>{Passive1_EffectValue1}</>). (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ElecLizard_TextData",
+   "en": "While in party,\r\nwhen the player attacks an enemy afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Electrical| style=|Effect_Electrical|/>, the enemy <Status_Keyword>discharges electricity</>, dealing damage equal to <Status_Up>{Passive1_EffectValue1}%</> of the player's attack damage to nearby enemies. (Does not stack.)",
+   "ro": "Cât timp este în echipă,\r\ncând jucătorul atacă un inamic afectat de <uiCommon id=|ADDITIONAL_EFFECT_Electrical| style=|Effect_Electrical|/>, inamicul <Status_Keyword>descarcă electricitate</>, provocând inamicilor din apropiere daune egale cu <Status_Up>{Passive1_EffectValue1}%</> din daunele de atac ale jucătorului. (Efectul nu se cumulează.)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MonochromeQueen_TextData",
+   "en": "While in party,\r\nincreases the player's Attack by <Status_Up>{Passive1_EffectValue1}%</> if all Pals in party are different species. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește Atacul jucătorului cu <Status_Up>{Passive1_EffectValue1}%</> dacă toți Palii din echipă aparțin unor specii diferite. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ElecSnail_TextData",
+   "en": "While in party,\r\nthe player's attacks increase <uiCommon id=|ADDITIONAL_EFFECT_Electrical| style=|Effect_Electrical|/> buildup by <Status_Up>{Passive1_EffectValue1}</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\natacurile jucătorului măresc acumularea de <uiCommon id=|ADDITIONAL_EFFECT_Electrical| style=|Effect_Electrical|/> cu <Status_Up>{Passive1_EffectValue1}</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ElecSnail_Ground_TextData",
+   "en": "While in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue1}%</> less <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> damage, and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue1}%</> mai puține daune de tip <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> și sunt imuni la <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CactusDoll_Dark_TextData",
+   "en": "While in party,\r\nthe player's attacks increase <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/> buildup by <Status_Up>{Passive1_EffectValue1}</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\natacurile jucătorului măresc acumularea de <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/> cu <Status_Up>{Passive1_EffectValue1}</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_OctopusGirl_Neutral_TextData",
+   "en": "While in party,\r\nincreases Defense of <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește apărarea Palilor de tip <img id=|ElemIcon_Water|/><uiCommon id=|COMMON_ELEMENT_NAME_Water| style=|Elem_Water|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_HoodGhost_TextData",
+   "en": "While in party,\r\nincreases the player's damage dealt to enemies that are not in combat by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\ncrește cu <Status_Up>{Passive1_EffectValue1}%</> daunele provocate de jucător inamicilor care nu se află în luptă. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_BlueSkyDragon_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nThis Pal's Attack increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> Pal in your party.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nAtacul acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostDragon_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nThis Pal's Attack and Movement Speed increase by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> or <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> Pal in your party.",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nAtacul și viteza de mișcare ale acestui Pal cresc cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> sau <img id=|ElemIcon_Dark|/><uiCommon id=|COMMON_ELEMENT_NAME_Dark| style=|Elem_Dark|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_PandaGirl_TextData",
+   "en": "This Pal's Attack and Defense increase by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> Pal in your party.",
+   "ro": "Atacul și apărarea acestui Pal cresc cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_VolcanoDragon_TextData",
+   "en": "Can be ridden as a mount. \r\n\r\nThis Pal's Attack increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> or <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> Pal in your party.",
+   "ro": "Poate fi călărit. \r\n\r\nAtacul acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> sau <img id=|ElemIcon_Ground|/><uiCommon id=|COMMON_ELEMENT_NAME_Earth| style=|Elem_Ground|/> din echipă."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_MummyPal_TextData",
+   "en": "While fighting together,\r\nwhen <characterName id=|MummyPal|/> is incapacitated, it <Status_Keyword>revives</> with its Hunger reduced to 0.\r\n{ReferenceMsgId_CooldownReduction}",
+   "ro": "Cât timp luptați împreună,\r\ncând <characterName id=|MummyPal|/> este neutralizat, <Status_Keyword>învie</> cu nivelul de Foame redus la 0.\r\n{ReferenceMsgId_CooldownReduction}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SweetsSheep_Ground_TextData",
+   "en": "Sometimes drops <itemName id=|Sweet_Caramel| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>. \r\n\r\nWhile at a base, \r\nreduces <uiCommon id=|COMMON_STATUS_HUNGER|/> depletion rate of Base Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Uneori lasă să cadă <itemName id=|Sweet_Caramel| style=|Status_Keyword|/> când este alocat la <mapObjectName id=|MonsterFarm|/>. \r\n\r\nCât timp este la o bază, \r\nreduce rata de scădere pentru <uiCommon id=|COMMON_STATUS_HUNGER|/> a Palilor din bază cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KingWhale_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nOnly 1 can be summoned to a base. \r\n\r\nWhile at a base, \r\nit constantly patrols the skies and bombards intruders from high above.\r\n{ReferenceMsgId_DamageUp}",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nDoar 1 poate fi invocat la o bază. \r\n\r\nCât timp este la o bază, \r\npatrulează constant cerul și bombardează intrușii de la mare înălțime.\r\n{ReferenceMsgId_DamageUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LanternButler_TextData",
+   "en": "While in party,\r\nthe player's arrows <Status_Keyword>explode on contact</>, dealing additional damage equal to <Status_Up>{Passive1_EffectValue1}%</> of the player's attack damage. \r\n(Does not stack) ",
+   "ro": "Cât timp este în echipă,\r\nsăgețile trase <Status_Keyword>explodează la contact</>, provocând daune suplimentare egale cu <Status_Up>{Passive1_EffectValue1}%</> din daunele de atac provocate de tine. \r\n(Nu se cumulează) "
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_LongCat_TextData",
+   "en": "While in party,\r\nreduces the effects of gravity on the player, making them more floaty while jumping and falling. (Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nreduce efectul gravitației asupra ta, făcându-te să plutești mai lin la sărituri și căderi. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteMoth_Neutral_TextData",
+   "en": "While in party,\r\nincreases Defense of <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)\r\n\r\nSometimes makes <itemName id=|Cloth2| style=|Status_Keyword|/> when assigned to <mapObjectName id=|MonsterFarm|/>.",
+   "ro": "Cât timp este în echipă,\r\ncrește apărarea Palilor de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)\r\n\r\nUneori produce <itemName id=|Cloth2| style=|Status_Keyword|/> când este alocat la <mapObjectName id=|MonsterFarm|/>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CubeTurtle_TextData",
+   "en": "Can be ridden\r\n\r\nWhile at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_Mining| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Does not stack)",
+   "ro": "Poate fi călărit\r\n\r\nCât timp este la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_Mining| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>.\r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ScorpionMan_Electric_TextData",
+   "en": "When activated, \r\n<characterName id=|ScorpionMan_Electric|/> changes the player's attack type to <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> and increases Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\n<characterName id=|ScorpionMan_Electric|/> schimbă tipul atacului jucătorului în <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> și îi mărește atacul cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DandelionGirl_TextData",
+   "en": "While in party,\r\nincreases the capture rate of Pals afflicted with <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/>. (Does not stack)\r\n{ReferenceMsgId_CaptureRate}",
+   "ro": "Cât timp este în echipă,\r\ncrește rata de captură a Palilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/>. (Efectul nu se cumulează)\r\n{ReferenceMsgId_CaptureRate}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_RedFlowerBird_TextData",
+   "en": "While in party,\r\nextends the invincibility period during dodge rolls and dodge steps by <Status_Up>{Passive1_EffectValue2}%</>. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\nprelungește perioada de invulnerabilitate din timpul rostogolirilor și pașilor de eschivă cu <Status_Up>{Passive1_EffectValue2}%</>. \r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ThunderFluffyBird_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nWhile at a base,\r\nshortens the time it takes to incubate eggs by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nCât timp este la o bază,\r\nreduce timpul necesar pentru incubarea ouălor cu <Status_Up>{Passive1_EffectValue1}%</>. (Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_SmallYeti_TextData",
+   "en": "While in party,\r\nreduces the chance of being detected by enemies. (Does not stack)\r\n{ReferenceMsgId_EnemySightRate}",
+   "ro": "Cât timp este în echipă,\r\nreduce șansa de a fi detectat de inamici. (Nu se cumulează)\r\n{ReferenceMsgId_EnemySightRate}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_Mothman_TextData",
+   "en": "While in party,\r\nwhen the player attacks an enemy afflicted with <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/>, the enemy <Status_Keyword>explodes</>, dealing additional damage equal to <Status_Up>{Passive2_EffectValue1}%</> of the player's attack damage. (Does not stack)\r\n\r\nAlso grants <Status_Keyword>immunity to the World Tree's Explosive Spores</> to both the player and their Pals.",
+   "ro": "Cât timp este în echipă,\r\ncând ataci un inamic afectat de <uiCommon id=|ADDITIONAL_EFFECT_IvyCling| style=|Effect_IvyCling|/>, acesta <Status_Keyword>explodează</>, provocând daune suplimentare egale cu <Status_Up>{Passive2_EffectValue1}%</> din daunele de atac provocate de tine. (Nu se cumulează)\r\n\r\nDe asemenea, oferă <Status_Keyword>imunitate la Sporii explozivi ai Arborelui Lumii</> atât ție, cât și Palilor tăi."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_IceSeal_Ground_TextData",
+   "en": "Can be ridden. \r\nMovement Speed is increased by <Status_Up>{Passive1_EffectValue1}%</> while mounted <Status_Keyword>on snow</>. \r\n\r\nCan also slide quickly down slopes.\r\nWhile it starts out slow, the top speed it can hit while sliding is no joke.",
+   "ro": "Poate fi călărit. \r\nViteza de mișcare este mărită cu <Status_Up>{Passive1_EffectValue1}%</> când este călărit <Status_Keyword>pe zăpadă</>. \r\n\r\nDe asemenea, poate aluneca rapid pe pante.\r\nDeși pornește încet, viteza maximă pe care o poate atinge când alunecă nu e deloc de glumit."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostBlackCat_TextData",
+   "en": "While in party,\r\nincreases the capture rate when awarded a <Status_Keyword>back bonus</>. (Does not stack)\r\n{ReferenceMsgId_CaptureRate}",
+   "ro": "Cât timp este în echipă,\r\ncrește rata de captură când primești un <Status_Keyword>bonus din spate</>. (Nu se cumulează)\r\n{ReferenceMsgId_CaptureRate}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_OniGhostGirl_TextData",
+   "en": "While in party,\r\nattacking enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> reduces their Attack by <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Does not stack)",
+   "ro": "Cât timp este în echipă,\r\natacarea inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> le reduce atacul cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassMinotaur_TextData",
+   "en": "When activated, \r\n<characterName id=|GrassMinotaur|/> changes the player's attack type to <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> and increases Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</>.",
+   "ro": "Când este activată, \r\n<characterName id=|GrassMinotaur|/> schimbă tipul atacului jucătorului în <img id=|ElemIcon_Grass|/><uiCommon id=|COMMON_ELEMENT_NAME_Leaf| style=|Elem_Grass|/> și îi mărește atacul cu <Status_Up>{ReferencePassive1_EffectValue1}%</>."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KingSunfish_TextData",
+   "en": "Can be ridden to travel on water.\r\n\r\nWhile in party,\r\nmakes it easier to fish up <Status_Keyword>talented Pals</>. (Does not stack)\r\n{ReferenceMsgId_SwimSpeedUp}",
+   "ro": "Poate fi călărit pentru a naviga pe apă.\r\n\r\nCât timp este în echipă,\r\npermite pescuirea mai ușoară a <Status_Keyword>Palilor talentați</>. (Nu se cumulează)\r\n{ReferenceMsgId_SwimSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_KingSunfish_Thunder_TextData",
+   "en": "Can be ridden to travel on water. \r\n\r\nWhile mounted, \r\nchanges the player's attack type to <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> and increases Attack by <Status_Up>{Passive2_EffectValue1}%</>.\r\n\r\nWhile in party,\r\nmakes it easier to fish up <Status_Keyword>talented Pals</>. (Does not stack)\r\n{ReferenceMsgId_SwimSpeedUp}",
+   "ro": "Poate fi călărit pentru a te deplasa pe apă. \r\n\r\nCât timp este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Electric|/><uiCommon id=|COMMON_ELEMENT_NAME_Electricity| style=|Elem_Electric|/> și crește Atacul cu <Status_Up>{Passive2_EffectValue1}%</>.\r\n\r\nCât timp este în echipă,\r\nfacilitează prinderea prin pescuit a unor <Status_Keyword>Pali talentați</>. (Efectul nu se cumulează)\r\n{ReferenceMsgId_SwimSpeedUp}"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GhostDragon_Fire_TextData",
+   "en": "Can be ridden as a flying mount. \r\n\r\nThis Pal's Attack and Movement Speed increase by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> or <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> Pal in your party.\r\n(Excluding <characterName id=|GhostDragon_Fire|/>)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit. \r\n\r\nAtacul și Viteza de mișcare ale acestui Pal cresc cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Dragon|/><uiCommon id=|COMMON_ELEMENT_NAME_Dragon| style=|Elem_Dragon|/> sau <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> din echipă.\r\n(Cu excepția lui <characterName id=|GhostDragon_Fire|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WingGolem_Fire_TextData",
+   "en": "When activated, \r\na steel resolve increases <characterName id=|WingGolem_Fire|/>'s Attack by <Status_Up>{ReferencePassive1_EffectValue1}%</> and Defense by <Status_Up>{ReferencePassive2_EffectValue1}%</> for a limited time.",
+   "ro": "La activare, \r\no hotărâre de oțel crește atacul lui <characterName id=|WingGolem_Fire|/> cu <Status_Up>{ReferencePassive1_EffectValue1}%</> și apărarea cu <Status_Up>{ReferencePassive2_EffectValue1}%</> pentru un timp limitat."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ThunderBird_Ice_TextData",
+   "en": "Can be ridden as a flying mount.\r\n\r\nWhile mounted, \r\nchanges the player's attack type to <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> and increases Attack by <Status_Up>{Passive3_EffectValue1}%</>.\r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> Pal in your party.\r\n(Excluding <characterName id=|ThunderBird_Ice|/>)",
+   "ro": "Poate fi călărit ca animal de zbor pentru călărit.\r\n\r\nCât timp este călărit, \r\nschimbă tipul de atac al jucătorului în <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> și crește Atacul cu <Status_Up>{Passive3_EffectValue1}%</>.\r\n\r\nViteza de mișcare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> din echipă.\r\n(Cu excepția lui <characterName id=|ThunderBird_Ice|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ElecPomeranian_TextData",
+   "en": "While at a base, \r\nincreases the <uiCommon id=|COMMON_WORK_SUITABILITY_GenerateElectricity| style=|Status_Keyword|/> Work Suitability Level for all other Base Pals by <Status_Keyword>+{Passive1_EffectValue1}</>. (Does not stack)",
+   "ro": "Cât timp se află la o bază, \r\ncrește nivelul aptitudinii de lucru <uiCommon id=|COMMON_WORK_SUITABILITY_GenerateElectricity| style=|Status_Keyword|/> pentru toți ceilalți Pali din bază cu <Status_Keyword>+{Passive1_EffectValue1}</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WhiteDeer_Dark_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nthe Pal fighting alongside you gradually loses Health in exchange for <Status_Up>{ReferencePassive1_EffectValue1}%</> Attack increase. (Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\nPalul care luptă alături de tine pierde treptat viață în schimbul unei creșteri a Atacului cu <Status_Up>{ReferencePassive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_CubeTurtle_Neutral_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nreduces durability loss of all <Status_Keyword>weapons</> and <Status_Keyword>armor</> by <Status_Up>{Passive1_EffectValue1}%</>. (Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\nreduce pierderea de durabilitate a tuturor <Status_Keyword>armelor</> și <Status_Keyword>armurilor</> cu <Status_Up>{Passive1_EffectValue1}%</>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_GrassMinotaur_Ice_TextData",
+   "en": "While in party,\r\ngrants the player the ability to <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/> enemies afflicted with <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/> in one strike.",
+   "ro": "Cât timp este în echipă,\r\noferă jucătorului capacitatea de a aplica <uiCommon id=|ADDITIONAL_EFFECT_Freeze| style=|Effect_Freeze|/> inamicilor afectați de <uiCommon id=|ADDITIONAL_EFFECT_Wetness| style=|Effect_Wetness|/> dintr-o singură lovitură."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_VolcanoDragon_Ice_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nincreases damage dealt by Player and Pals' <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> attacks when hitting the enemy's elemental weakness by <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\ncrește daunele provocate de atacurile de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> ale jucătorului și ale Palilor atunci când lovesc slăbiciunea elementală a inamicului cu <Status_Up>{Passive1_EffectValue1}%</>. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_DomeArmorDragon_TextData",
+   "en": "Can be ridden. \r\n\r\nWhile in party,\r\nplayer and party Pals take <Status_Up>{Passive1_EffectValue2}%</> less damage from <Status_Keyword>explosive attacks</>, and are immune to <uiCommon id=|ADDITIONAL_EFFECT_Stun| style=|Effect_Stun|/>. (Does not stack)",
+   "ro": "Poate fi călărit. \r\n\r\nCât timp este în echipă,\r\njucătorul și Palii din echipă suferă cu <Status_Up>{Passive1_EffectValue2}%</> mai puține daune de la <Status_Keyword>atacuri explozive</> și sunt imuni la <uiCommon id=|ADDITIONAL_EFFECT_Stun| style=|Effect_Stun|/>. (Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_FlowerPrince_TextData",
+   "en": "When activated, \r\nthe player's attacks increase <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> buildup by <Status_Up>{ReferencePassive1_EffectValue1}</>.\r\n\r\nWhile in party,\r\ngrants the player and party Pals immunity to <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/>, and <Status_Keyword>nullifies the effects of toxic gas</> in the World Tree area. \r\n(Does not stack)",
+   "ro": "Când este activată, \r\natacurile jucătorului cresc acumularea stării de <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> cu <Status_Up>{ReferencePassive1_EffectValue1}</>.\r\n\r\nCât timp este în echipă,\r\noferă jucătorului și Palilor din echipă imunitate la <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> și <Status_Keyword>anulează efectele gazului toxic</> din zona Arborelui Lumii. \r\n(Efectul nu se cumulează)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_WorldTreeDragon_TextData",
+   "en": "This Pal's abilities are still being investigated.",
+   "ro": "Abilitățile acestui Pal sunt încă investigate."
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_NightBlueHorse_Neutral_TextData",
+   "en": "Can be ridden. \r\nBoosts Jump Power while mounted. \r\n\r\nThis Pal’s Movement Speed increases by <Status_Up>{Passive1_EffectValue1}%</> for each other <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> Pal in your party. (Excluding <characterName id=|NightBlueHorse_Neutral|/>)",
+   "ro": "Poate fi călărit. \r\nMărește puterea de săritură cât timp este călărit. \r\n\r\nViteza de mișcare a acestui Pal crește cu <Status_Up>{Passive1_EffectValue1}%</> pentru fiecare alt Pal de tip <img id=|ElemIcon_Neutral|/><uiCommon id=|COMMON_ELEMENT_NAME_Normal| style=|Elem_Neutral|/> din echipă. (Cu excepția lui <characterName id=|NightBlueHorse_Neutral|/>)"
+  },
+  {
+   "key": "PAL_FIRST_SPAWN_DESC_ThunderDog_Ice_TextData",
+   "en": "Can be ridden. \r\nCan perform a <Status_Keyword>double jump</> while mounted. \r\n\r\nWhile in party,\r\nincreases Defense of <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> Pals by <Status_Up>{Passive1_EffectValue1}%</>.  (Does not stack)\r\n{ReferenceMsgId_RideSpeedUp}",
+   "ro": "Poate fi călărit. \r\nPoate efectua o <Status_Keyword>dublă săritură</> cât timp este călărit. \r\n\r\nCât timp este în echipă,\r\ncrește Apărarea Palilor de tip <img id=|ElemIcon_Ice|/><uiCommon id=|COMMON_ELEMENT_NAME_Ice| style=|Elem_Ice|/> cu <Status_Up>{Passive1_EffectValue1}%</>.  (Efectul nu se cumulează)\r\n{ReferenceMsgId_RideSpeedUp}"
+  }
+ ]
+}

@@ -1,0 +1,1025 @@
+{
+ "table": "DT_LabResearchText",
+ "entries": [
+  {
+   "key": "NAME_HANDCRAFT1_TextData",
+   "en": "Handiwork Speed 1",
+   "ro": "Viteză de lucru manual 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT2_TextData",
+   "en": "Handiwork Speed 2",
+   "ro": "Viteză de lucru manual 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT3_TextData",
+   "en": "Handiwork Speed 3",
+   "ro": "Viteză de lucru manual 3"
+  },
+  {
+   "key": "NAME_HANDCRAFT4_TextData",
+   "en": "Handiwork Speed 4",
+   "ro": "Viteză de lucru manual 4"
+  },
+  {
+   "key": "NAME_HANDCRAFT5_TextData",
+   "en": "Handiwork Speed 5",
+   "ro": "Viteză de lucru manual 5"
+  },
+  {
+   "key": "NAME_HANDCRAFT21_TextData",
+   "en": "Handiwork Speed 6",
+   "ro": "Viteză de lucru manual 6"
+  },
+  {
+   "key": "NAME_HANDCRAFT6_TextData",
+   "en": "Armor Crafting Optimization 1",
+   "ro": "Optimizarea fabricării armurilor 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT7_TextData",
+   "en": "Pal Gear Crafting Cost-Saving Technique 1",
+   "ro": "Tehnică de reducere a costurilor pentru echipamente Pal 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT8_TextData",
+   "en": "Weapon Crafting Optimization Technique 1",
+   "ro": "Tehnică de optimizare a fabricării armelor 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT9_TextData",
+   "en": "Armor Crafting Optimization Technique 2",
+   "ro": "Tehnică de optimizare a fabricării armurilor 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT10_TextData",
+   "en": "Pal Gear Crafting Optimization Technique 2",
+   "ro": "Tehnică de optimizare a fabricării echipamentelor Pal 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT11_TextData",
+   "en": "Weapon Crafting Optimization Technique 2",
+   "ro": "Tehnică de optimizare a fabricării armelor 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT12_TextData",
+   "en": "Handiwork Research Tips 1",
+   "ro": "Trucuri de cercetare pentru lucru manual 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT13_TextData",
+   "en": "Handiwork Research Tips 2",
+   "ro": "Trucuri de cercetare pentru lucru manual 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT14_TextData",
+   "en": "Base Pal Enhancement 1",
+   "ro": "Îmbunătățirea Palilor din bază 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT15_TextData",
+   "en": "Base Pal Enhancement 2",
+   "ro": "Îmbunătățire Pali din bază 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT22_TextData",
+   "en": "Base Pal Enhancement 3",
+   "ro": "Îmbunătățire Pali din bază 3"
+  },
+  {
+   "key": "NAME_HANDCRAFT16_TextData",
+   "en": "Sphere Duplication Technique 1",
+   "ro": "Tehnică de duplicare a Sferelor 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT17_TextData",
+   "en": "Ammunition Duplication Technique 1",
+   "ro": "Tehnică de duplicare a muniției 1"
+  },
+  {
+   "key": "NAME_HANDCRAFT18_TextData",
+   "en": "Sphere Duplication Technique 2",
+   "ro": "Tehnică de duplicare a Sferelor 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT19_TextData",
+   "en": "Ammunition Duplication Technique 2",
+   "ro": "Tehnică de duplicare a muniției 2"
+  },
+  {
+   "key": "NAME_HANDCRAFT20_TextData",
+   "en": "Large Toolbox Development",
+   "ro": "Dezvoltare trusă mare de scule"
+  },
+  {
+   "key": "DESC_HANDCRAFT20_TextData",
+   "en": "Unlock Technology: Large Toolbox",
+   "ro": "Deblochează tehnologia: Trusă mare de scule"
+  },
+  {
+   "key": "NAME_EMITFIRE1_TextData",
+   "en": "Kindling Research 1",
+   "ro": "Cercetare Aprindere 1"
+  },
+  {
+   "key": "NAME_EMITFIRE2_TextData",
+   "en": "Kindling Research 2",
+   "ro": "Cercetare Aprindere 2"
+  },
+  {
+   "key": "NAME_EMITFIRE3_TextData",
+   "en": "Kindling Research 3",
+   "ro": "Cercetare Aprindere 3"
+  },
+  {
+   "key": "NAME_EMITFIRE4_TextData",
+   "en": "Kindling Research 4",
+   "ro": "Cercetare Aprindere 4"
+  },
+  {
+   "key": "NAME_EMITFIRE5_TextData",
+   "en": "Kindling Research 5",
+   "ro": "Cercetare Aprindere 5"
+  },
+  {
+   "key": "NAME_EMITFIRE19_TextData",
+   "en": "Kindling Research 6",
+   "ro": "Cercetare Aprindere 6"
+  },
+  {
+   "key": "NAME_EMITFIRE6_TextData",
+   "en": "Incubation Acceleration 1",
+   "ro": "Accelerare a incubației 1"
+  },
+  {
+   "key": "NAME_EMITFIRE7_TextData",
+   "en": "Incubation Acceleration 2",
+   "ro": "Accelerare incubare 2"
+  },
+  {
+   "key": "NAME_EMITFIRE8_TextData",
+   "en": "Incubation Acceleration 3",
+   "ro": "Accelerare incubare 3"
+  },
+  {
+   "key": "NAME_EMITFIRE9_TextData",
+   "en": "Incubation Acceleration 4",
+   "ro": "Accelerare incubare 4"
+  },
+  {
+   "key": "NAME_EMITFIRE10_TextData",
+   "en": "Kindling Research Tips 1",
+   "ro": "Ponturi de cercetare: Aprindere 1"
+  },
+  {
+   "key": "NAME_EMITFIRE11_TextData",
+   "en": "Kindling Research Tips 2",
+   "ro": "Ponturi de cercetare: Aprindere 2"
+  },
+  {
+   "key": "NAME_EMITFIRE12_TextData",
+   "en": "Base Pal Enhancement 1",
+   "ro": "Îmbunătățirea Palilor din bază 1"
+  },
+  {
+   "key": "NAME_EMITFIRE13_TextData",
+   "en": "Base Pal Enhancement 2",
+   "ro": "Îmbunătățire Pali din bază 2"
+  },
+  {
+   "key": "NAME_EMITFIRE20_TextData",
+   "en": "Base Pal Enhancement 3",
+   "ro": "Îmbunătățire Pali din bază 3"
+  },
+  {
+   "key": "NAME_EMITFIRE14_TextData",
+   "en": "Mass Cooking Technique 1",
+   "ro": "Tehnică de gătit în masă 1"
+  },
+  {
+   "key": "NAME_EMITFIRE15_TextData",
+   "en": "Refinement Technique 1",
+   "ro": "Tehnică de rafinare 1"
+  },
+  {
+   "key": "NAME_EMITFIRE16_TextData",
+   "en": "Mass Cooking Technique 2",
+   "ro": "Tehnică de gătit în masă 2"
+  },
+  {
+   "key": "NAME_EMITFIRE17_TextData",
+   "en": "Refinement Technique 2",
+   "ro": "Tehnică de rafinare 2"
+  },
+  {
+   "key": "NAME_EMITFIRE18_TextData",
+   "en": "Flame Cauldron Development",
+   "ro": "Dezvoltare ceaun cu flacără"
+  },
+  {
+   "key": "DESC_EMITFIRE18_TextData",
+   "en": "Unlock Technology: Flame Cauldron",
+   "ro": "Deblochează tehnologia: Ceaun cu flacără"
+  },
+  {
+   "key": "NAME_WATERING1_TextData",
+   "en": "Watering Research 1",
+   "ro": "Cercetare udare 1"
+  },
+  {
+   "key": "NAME_WATERING2_TextData",
+   "en": "Watering Research 2",
+   "ro": "Cercetare udare 2"
+  },
+  {
+   "key": "NAME_WATERING3_TextData",
+   "en": "Watering Research 3",
+   "ro": "Cercetare udare 3"
+  },
+  {
+   "key": "NAME_WATERING4_TextData",
+   "en": "Watering Research 4",
+   "ro": "Cercetare udare 4"
+  },
+  {
+   "key": "NAME_WATERING5_TextData",
+   "en": "Watering Research 5",
+   "ro": "Cercetare udare 5"
+  },
+  {
+   "key": "NAME_WATERING17_TextData",
+   "en": "Watering Research 6",
+   "ro": "Cercetare udare 6"
+  },
+  {
+   "key": "NAME_WATERING6_TextData",
+   "en": "Crop Knowledge 1",
+   "ro": "Cunoștințe despre culturi 1"
+  },
+  {
+   "key": "NAME_WATERING7_TextData",
+   "en": "Harvest Knowledge 1",
+   "ro": "Cunoștințe despre recoltare 1"
+  },
+  {
+   "key": "NAME_WATERING8_TextData",
+   "en": "Crop Knowledge 2",
+   "ro": "Cunoștințe despre culturi 2"
+  },
+  {
+   "key": "NAME_WATERING9_TextData",
+   "en": "Harvest Knowledge 2",
+   "ro": "Cunoștințe despre recoltare 2"
+  },
+  {
+   "key": "NAME_WATERING10_TextData",
+   "en": "Watering Research Tips 1",
+   "ro": "Sfaturi pentru cercetarea udării 1"
+  },
+  {
+   "key": "NAME_WATERING11_TextData",
+   "en": "Watering Research Tips 2",
+   "ro": "Sfaturi pentru cercetarea udării 2"
+  },
+  {
+   "key": "NAME_WATERING12_TextData",
+   "en": "Base Pal Enhancement 1",
+   "ro": "Îmbunătățirea Palilor din bază 1"
+  },
+  {
+   "key": "NAME_WATERING13_TextData",
+   "en": "Base Pal Enhancement 2",
+   "ro": "Îmbunătățire Pali din bază 2"
+  },
+  {
+   "key": "NAME_WATERING18_TextData",
+   "en": "Base Pal Enhancement 3",
+   "ro": "Îmbunătățire Pali din bază 3"
+  },
+  {
+   "key": "NAME_WATERING14_TextData",
+   "en": "Paldium Crushing Technique 1",
+   "ro": "Tehnică de zdrobire a Paldiumului 1"
+  },
+  {
+   "key": "NAME_WATERING15_TextData",
+   "en": "Paldium Crushing Technique 2",
+   "ro": "Tehnică de zdrobire a Paldiumului 2"
+  },
+  {
+   "key": "NAME_WATERING16_TextData",
+   "en": "Fountain Development",
+   "ro": "Dezvoltarea fântânii"
+  },
+  {
+   "key": "DESC_WATERING16_TextData",
+   "en": "Unlock Technology: Fountain",
+   "ro": "Deblochează tehnologia: Fântână"
+  },
+  {
+   "key": "NAME_SEEDING1_TextData",
+   "en": "Planting Research 1",
+   "ro": "Cercetare plantare 1"
+  },
+  {
+   "key": "NAME_SEEDING2_TextData",
+   "en": "Planting Research 2",
+   "ro": "Cercetare plantare 2"
+  },
+  {
+   "key": "NAME_SEEDING3_TextData",
+   "en": "Planting Research 3",
+   "ro": "Cercetare plantare 3"
+  },
+  {
+   "key": "NAME_SEEDING4_TextData",
+   "en": "Planting Research 4",
+   "ro": "Cercetare pentru plantare 4"
+  },
+  {
+   "key": "NAME_SEEDING5_TextData",
+   "en": "Planting Research 5",
+   "ro": "Cercetare pentru plantare 5"
+  },
+  {
+   "key": "NAME_SEEDING18_TextData",
+   "en": "Planting Research 6",
+   "ro": "Cercetare pentru plantare 6"
+  },
+  {
+   "key": "NAME_SEEDING6_TextData",
+   "en": "Crop Knowledge 1",
+   "ro": "Cunoștințe despre culturi 1"
+  },
+  {
+   "key": "NAME_SEEDING7_TextData",
+   "en": "Harvest Knowledge 1",
+   "ro": "Cunoștințe despre recoltare 1"
+  },
+  {
+   "key": "NAME_SEEDING8_TextData",
+   "en": "Crop Knowledge 2",
+   "ro": "Cunoștințe despre culturi 2"
+  },
+  {
+   "key": "NAME_SEEDING9_TextData",
+   "en": "Crop Knowledge 3",
+   "ro": "Cunoștințe despre culturi 3"
+  },
+  {
+   "key": "NAME_SEEDING10_TextData",
+   "en": "Harvest Knowledge 2",
+   "ro": "Cunoștințe despre recoltare 2"
+  },
+  {
+   "key": "NAME_SEEDING11_TextData",
+   "en": "Harvest Knowledge 3",
+   "ro": "Cunoștințe despre recoltă 3"
+  },
+  {
+   "key": "NAME_SEEDING12_TextData",
+   "en": "Planting Research Tips 1",
+   "ro": "Ponturi pentru cercetarea plantării 1"
+  },
+  {
+   "key": "NAME_SEEDING13_TextData",
+   "en": "Planting Research Tips 2",
+   "ro": "Ponturi pentru cercetarea plantării 2"
+  },
+  {
+   "key": "NAME_SEEDING14_TextData",
+   "en": "Base Pal Enhancement 1",
+   "ro": "Îmbunătățirea Palilor din bază 1"
+  },
+  {
+   "key": "NAME_SEEDING15_TextData",
+   "en": "Base Pal Enhancement 2",
+   "ro": "Îmbunătățire Pali din bază 2"
+  },
+  {
+   "key": "NAME_SEEDING19_TextData",
+   "en": "Base Pal Enhancement 3",
+   "ro": "Îmbunătățire Pali din bază 3"
+  },
+  {
+   "key": "NAME_SEEDING16_TextData",
+   "en": "Flower Bed Development",
+   "ro": "Dezvoltare rondou de flori"
+  },
+  {
+   "key": "NAME_SEEDING17_TextData",
+   "en": "Silo Development",
+   "ro": "Dezvoltare siloz"
+  },
+  {
+   "key": "DESC_SEEDING16_TextData",
+   "en": "Unlock Technology: Flower Bed",
+   "ro": "Deblochează tehnologia: Rondou de flori"
+  },
+  {
+   "key": "DESC_SEEDING17_TextData",
+   "en": "Unlock Technology: Silo",
+   "ro": "Deblochează tehnologia: Siloz"
+  },
+  {
+   "key": "NAME_GEN_ENERGY1_TextData",
+   "en": "Generating Electricity Research 1",
+   "ro": "Cercetare pentru generare electricitate 1"
+  },
+  {
+   "key": "NAME_GEN_ENERGY2_TextData",
+   "en": "Generating Electricity Research 2",
+   "ro": "Cercetare pentru generare electricitate 2"
+  },
+  {
+   "key": "NAME_GEN_ENERGY3_TextData",
+   "en": "Generating Electricity Research 3",
+   "ro": "Cercetare pentru generare electricitate 3"
+  },
+  {
+   "key": "NAME_GEN_ENERGY4_TextData",
+   "en": "Generating Electricity Research 4",
+   "ro": "Cercetare pentru generare electricitate 4"
+  },
+  {
+   "key": "NAME_GEN_ENERGY5_TextData",
+   "en": "Generating Electricity Research 5",
+   "ro": "Cercetare în generare de electricitate 5"
+  },
+  {
+   "key": "NAME_GEN_ENERGY17_TextData",
+   "en": "Generating Electricity Research 6",
+   "ro": "Cercetare în generare de electricitate 6"
+  },
+  {
+   "key": "NAME_GEN_ENERGY6_TextData",
+   "en": "Power Storage Solutions 1",
+   "ro": "Soluții de stocare a energiei 1"
+  },
+  {
+   "key": "NAME_GEN_ENERGY7_TextData",
+   "en": "Power Storage Solutions 2",
+   "ro": "Soluții de stocare a energiei 2"
+  },
+  {
+   "key": "NAME_GEN_ENERGY8_TextData",
+   "en": "Power Storage Solutions 3",
+   "ro": "Soluții de stocare a energiei 3"
+  },
+  {
+   "key": "NAME_GEN_ENERGY9_TextData",
+   "en": "Generating Electricity Research Tips 1",
+   "ro": "Trucuri de cercetare: generare electricitate 1"
+  },
+  {
+   "key": "NAME_GEN_ENERGY10_TextData",
+   "en": "Generating Electricity Research Tips 2",
+   "ro": "Trucuri de cercetare: generare electricitate 2"
+  },
+  {
+   "key": "NAME_GEN_ENERGY11_TextData",
+   "en": "Base Pal Enhancement 1",
+   "ro": "Îmbunătățirea Palilor din bază 1"
+  },
+  {
+   "key": "NAME_GEN_ENERGY12_TextData",
+   "en": "Base Pal Enhancement 2",
+   "ro": "Îmbunătățire Pali din bază 2"
+  },
+  {
+   "key": "NAME_GEN_ENERGY18_TextData",
+   "en": "Base Pal Enhancement 3",
+   "ro": "Îmbunătățire Pali din bază 3"
+  },
+  {
+   "key": "NAME_GEN_ENERGY13_TextData",
+   "en": "Power Saving Mastery 1",
+   "ro": "Măiestria economisirii energiei 1"
+  },
+  {
+   "key": "NAME_GEN_ENERGY14_TextData",
+   "en": "Power Saving Mastery 2",
+   "ro": "Măiestria economisirii energiei 2"
+  },
+  {
+   "key": "NAME_GEN_ENERGY15_TextData",
+   "en": "Power Saving Mastery 3",
+   "ro": "Măiestria economisirii energiei 3"
+  },
+  {
+   "key": "NAME_GEN_ENERGY16_TextData",
+   "en": "Electric Pylon Development",
+   "ro": "Dezvoltarea stâlpilor de electricitate"
+  },
+  {
+   "key": "DESC_GEN_ENERGY16_TextData",
+   "en": "Unlock Technology: Electric Pylon",
+   "ro": "Deblochează tehnologia: Stâlp de electricitate"
+  },
+  {
+   "key": "NAME_DEFOREST1_TextData",
+   "en": "Lumbering Research 1",
+   "ro": "Cercetare în tăiat lemne 1"
+  },
+  {
+   "key": "NAME_DEFOREST2_TextData",
+   "en": "Lumbering Research 2",
+   "ro": "Cercetare în tăiat lemne 2"
+  },
+  {
+   "key": "NAME_DEFOREST3_TextData",
+   "en": "Lumbering Research 3",
+   "ro": "Cercetare în tăiat lemne 3"
+  },
+  {
+   "key": "NAME_DEFOREST4_TextData",
+   "en": "Lumbering Research 4",
+   "ro": "Cercetare tăiat lemne 4"
+  },
+  {
+   "key": "NAME_DEFOREST5_TextData",
+   "en": "Lumbering Research 5",
+   "ro": "Cercetare tăiat lemne 5"
+  },
+  {
+   "key": "NAME_DEFOREST17_TextData",
+   "en": "Lumbering Research 6",
+   "ro": "Cercetare tăiat lemne 6"
+  },
+  {
+   "key": "NAME_DEFOREST6_TextData",
+   "en": "Time-Saving Expedition 1",
+   "ro": "Expediție rapidă 1"
+  },
+  {
+   "key": "NAME_DEFOREST7_TextData",
+   "en": "Mastery of Expeditions 1",
+   "ro": "Măiestria expedițiilor 1"
+  },
+  {
+   "key": "NAME_DEFOREST8_TextData",
+   "en": "Time-Saving Expedition 2",
+   "ro": "Expediție rapidă 2"
+  },
+  {
+   "key": "NAME_DEFOREST9_TextData",
+   "en": "Mastery of Expeditions 2",
+   "ro": "Măiestria expedițiilor 2"
+  },
+  {
+   "key": "NAME_DEFOREST10_TextData",
+   "en": "Time-Saving Expedition 3",
+   "ro": "Expediție rapidă 3"
+  },
+  {
+   "key": "NAME_DEFOREST11_TextData",
+   "en": "Mastery of Expeditions 3",
+   "ro": "Măiestria expedițiilor 3"
+  },
+  {
+   "key": "NAME_DEFOREST12_TextData",
+   "en": "Lumbering Research Tips 1",
+   "ro": "Ponturi pentru cercetarea tăierii lemnelor 1"
+  },
+  {
+   "key": "NAME_DEFOREST13_TextData",
+   "en": "Lumbering Research Tips 2",
+   "ro": "Ponturi pentru cercetarea tăierii lemnelor 2"
+  },
+  {
+   "key": "NAME_DEFOREST14_TextData",
+   "en": "Base Pal Enhancement 1",
+   "ro": "Îmbunătățirea Palilor din bază 1"
+  },
+  {
+   "key": "NAME_DEFOREST15_TextData",
+   "en": "Base Pal Enhancement 2",
+   "ro": "Îmbunătățire Pali din bază 2"
+  },
+  {
+   "key": "NAME_DEFOREST18_TextData",
+   "en": "Base Pal Enhancement 3",
+   "ro": "Îmbunătățire Pali din bază 3"
+  },
+  {
+   "key": "NAME_DEFOREST16_TextData",
+   "en": "Stump and Axe Development",
+   "ro": "Dezvoltare buturugă și topor"
+  },
+  {
+   "key": "DESC_DEFOREST16_TextData",
+   "en": "Unlock Technology: Stump and Axe",
+   "ro": "Deblochează tehnologia: Buturugă și topor"
+  },
+  {
+   "key": "NAME_MINING1_TextData",
+   "en": "Mining Research 1",
+   "ro": "Cercetare minerit 1"
+  },
+  {
+   "key": "NAME_MINING2_TextData",
+   "en": "Mining Research 2",
+   "ro": "Cercetare minerit 2"
+  },
+  {
+   "key": "NAME_MINING3_TextData",
+   "en": "Mining Research 3",
+   "ro": "Cercetare în minerit 3"
+  },
+  {
+   "key": "NAME_MINING4_TextData",
+   "en": "Mining Research 4",
+   "ro": "Cercetare în minerit 4"
+  },
+  {
+   "key": "NAME_MINING5_TextData",
+   "en": "Mining Research 5",
+   "ro": "Cercetare în minerit 5"
+  },
+  {
+   "key": "NAME_MINING18_TextData",
+   "en": "Mining Research 6",
+   "ro": "Cercetare în minerit 6"
+  },
+  {
+   "key": "NAME_MINING6_TextData",
+   "en": "Time-Saving Expedition 1",
+   "ro": "Expediție rapidă 1"
+  },
+  {
+   "key": "NAME_MINING7_TextData",
+   "en": "Mastery of Expeditions 1",
+   "ro": "Măiestria expedițiilor 1"
+  },
+  {
+   "key": "NAME_MINING8_TextData",
+   "en": "Time-Saving Expedition 2",
+   "ro": "Expediție rapidă 2"
+  },
+  {
+   "key": "NAME_MINING9_TextData",
+   "en": "Mastery of Expeditions 2",
+   "ro": "Măiestria expedițiilor 2"
+  },
+  {
+   "key": "NAME_MINING10_TextData",
+   "en": "Mining Research Tips 1",
+   "ro": "Ponturi pentru cercetarea în minerit 1"
+  },
+  {
+   "key": "NAME_MINING11_TextData",
+   "en": "Mining Research Tips 2",
+   "ro": "Ponturi pentru cercetarea în minerit 2"
+  },
+  {
+   "key": "NAME_MINING12_TextData",
+   "en": "Base Pal Enhancement 1",
+   "ro": "Îmbunătățirea Palilor din bază 1"
+  },
+  {
+   "key": "NAME_MINING13_TextData",
+   "en": "Base Pal Enhancement 2",
+   "ro": "Îmbunătățire Pali din bază 2"
+  },
+  {
+   "key": "NAME_MINING19_TextData",
+   "en": "Base Pal Enhancement 3",
+   "ro": "Îmbunătățire Pali din bază 3"
+  },
+  {
+   "key": "NAME_MINING14_TextData",
+   "en": "Crude Oil Extraction Efficiency 1",
+   "ro": "Eficiență în extracția țițeiului 1"
+  },
+  {
+   "key": "NAME_MINING15_TextData",
+   "en": "Crude Oil Extraction Efficiency 2",
+   "ro": "Eficiență în extracția țițeiului 2"
+  },
+  {
+   "key": "NAME_MINING16_TextData",
+   "en": "Crude Oil Extraction Efficiency 3",
+   "ro": "Eficiență în extracția țițeiului 3"
+  },
+  {
+   "key": "NAME_MINING17_TextData",
+   "en": "Mining Cart Development",
+   "ro": "Dezvoltare vagonet de minerit"
+  },
+  {
+   "key": "DESC_MINING17_TextData",
+   "en": "Unlock Technology: Mining Cart",
+   "ro": "Deblochează Tehnologia: Vagonet de minerit"
+  },
+  {
+   "key": "NAME_COOL1_TextData",
+   "en": "Cooling Storage 1",
+   "ro": "Depozitare la rece 1"
+  },
+  {
+   "key": "NAME_COOL2_TextData",
+   "en": "Cooling Research 1",
+   "ro": "Cercetare în răcire 1"
+  },
+  {
+   "key": "NAME_COOL3_TextData",
+   "en": "Cooling Research 2",
+   "ro": "Cercetare în răcire 2"
+  },
+  {
+   "key": "NAME_COOL4_TextData",
+   "en": "Cooling Research 3",
+   "ro": "Cercetare în răcire 3"
+  },
+  {
+   "key": "NAME_COOL5_TextData",
+   "en": "Cooling Research 4",
+   "ro": "Cercetare răcire 4"
+  },
+  {
+   "key": "NAME_COOL18_TextData",
+   "en": "Cooling Research 5",
+   "ro": "Cercetare răcire 5"
+  },
+  {
+   "key": "NAME_COOL6_TextData",
+   "en": "Incubation Acceleration 1",
+   "ro": "Accelerare a incubației 1"
+  },
+  {
+   "key": "NAME_COOL7_TextData",
+   "en": "Incubation Acceleration 2",
+   "ro": "Accelerare incubare 2"
+  },
+  {
+   "key": "NAME_COOL8_TextData",
+   "en": "Incubation Acceleration 3",
+   "ro": "Accelerare incubare 3"
+  },
+  {
+   "key": "NAME_COOL9_TextData",
+   "en": "Incubation Acceleration 4",
+   "ro": "Accelerare incubare 4"
+  },
+  {
+   "key": "NAME_COOL10_TextData",
+   "en": "Cooling Research Tips 1",
+   "ro": "Ponturi pentru cercetarea răcirii 1"
+  },
+  {
+   "key": "NAME_COOL11_TextData",
+   "en": "Cooling Research Tips 2",
+   "ro": "Ponturi pentru cercetarea răcirii 2"
+  },
+  {
+   "key": "NAME_COOL12_TextData",
+   "en": "Pals at Base Enhancement 1",
+   "ro": "Îmbunătățire Pali de la bază 1"
+  },
+  {
+   "key": "NAME_COOL13_TextData",
+   "en": "Pals at Base Enhancement 2",
+   "ro": "Îmbunătățire Pali de la bază 2"
+  },
+  {
+   "key": "NAME_COOL19_TextData",
+   "en": "Pals at Base Enhancement 3",
+   "ro": "Îmbunătățire Pali de la bază 3"
+  },
+  {
+   "key": "NAME_COOL14_TextData",
+   "en": "Cooling Storage 2",
+   "ro": "Depozitare la rece 2"
+  },
+  {
+   "key": "NAME_COOL15_TextData",
+   "en": "Cooling Storage 3",
+   "ro": "Depozitare la rece 3"
+  },
+  {
+   "key": "NAME_COOL16_TextData",
+   "en": "Cooling Storage 4",
+   "ro": "Depozitare la rece 4"
+  },
+  {
+   "key": "NAME_COOL17_TextData",
+   "en": "Snowman Development",
+   "ro": "Dezvoltare om de zăpadă"
+  },
+  {
+   "key": "DESC_COOL17_TextData",
+   "en": "Technology Unlock: Snowman",
+   "ro": "Deblocare tehnologie: Om de zăpadă"
+  },
+  {
+   "key": "NAME_MEDICINE1_TextData",
+   "en": "Medicine Production Research 1",
+   "ro": "Cercetare producție de medicamente 1"
+  },
+  {
+   "key": "NAME_MEDICINE2_TextData",
+   "en": "Medicine Production Research 2",
+   "ro": "Cercetare producție de medicamente 2"
+  },
+  {
+   "key": "NAME_MEDICINE3_TextData",
+   "en": "Medicine Production Research 3",
+   "ro": "Cercetare producție de medicamente 3"
+  },
+  {
+   "key": "NAME_MEDICINE4_TextData",
+   "en": "Medicine Production Research 4",
+   "ro": "Cercetare pentru producție de medicamente 4"
+  },
+  {
+   "key": "NAME_MEDICINE5_TextData",
+   "en": "Medicine Production Research 5",
+   "ro": "Cercetare pentru producție de medicamente 5"
+  },
+  {
+   "key": "NAME_MEDICINE14_TextData",
+   "en": "Medicine Production Research 6",
+   "ro": "Cercetare pentru producție de medicamente 6"
+  },
+  {
+   "key": "NAME_MEDICINE6_TextData",
+   "en": "Medicine Production Research Tips 1",
+   "ro": "Ponturi de cercetare: producție de medicamente 1"
+  },
+  {
+   "key": "NAME_MEDICINE7_TextData",
+   "en": "Medicine Production Research Tips 2",
+   "ro": "Ponturi de cercetare: producție de medicamente 2"
+  },
+  {
+   "key": "NAME_MEDICINE8_TextData",
+   "en": "Pals at Base Enhancement 1",
+   "ro": "Îmbunătățire Pali de la bază 1"
+  },
+  {
+   "key": "NAME_MEDICINE9_TextData",
+   "en": "Pals at Base Enhancement 2",
+   "ro": "Îmbunătățire Pali de la bază 2"
+  },
+  {
+   "key": "NAME_MEDICINE15_TextData",
+   "en": "Pals at Base Enhancement 3",
+   "ro": "Îmbunătățire Pali de la bază 3"
+  },
+  {
+   "key": "NAME_MEDICINE10_TextData",
+   "en": "Pharmaceutical Cost-Saving Technique 1",
+   "ro": "Tehnică de reducere a costurilor farmaceutice 1"
+  },
+  {
+   "key": "NAME_MEDICINE11_TextData",
+   "en": "Pharmaceutical Cost-Saving Technique 2",
+   "ro": "Tehnică de reducere a costurilor farmaceutice 2"
+  },
+  {
+   "key": "NAME_MEDICINE12_TextData",
+   "en": "Pharmaceutical Cost-Saving Technique 3",
+   "ro": "Tehnică de reducere a costurilor farmaceutice 3"
+  },
+  {
+   "key": "NAME_MEDICINE13_TextData",
+   "en": "Witch's Cauldron Development",
+   "ro": "Dezvoltare ceaunul vrăjitoarei"
+  },
+  {
+   "key": "DESC_MEDICINE13_TextData",
+   "en": "Technology Unlock: Witch's Cauldron",
+   "ro": "Deblocare tehnologie: Ceaunul vrăjitoarei"
+  },
+  {
+   "key": "DESC_EFFECT_CraftSpeed_TextData",
+   "en": "Work Speed for {WorkSuitability} {EffectValue}%",
+   "ro": "Viteză de lucru pentru {WorkSuitability}: {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_ProductExtraItemProbability_TextData",
+   "en": "Additional Crafting Probability of {ItemType} {EffectValue}%",
+   "ro": "Probabilitate de fabricare suplimentară pentru {ItemType}: {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_PalEggHatchingSpeed_TextData",
+   "en": "Egg Hatching Speed {EffectValue}%",
+   "ro": "Viteză de incubare a ouălor: {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_FarmCropHarvestNumRate_TextData",
+   "en": "Plantation Harvest Yield {EffectValue}%",
+   "ro": "Recoltă obținută la plantație: {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_EnergyStorageRate_TextData",
+   "en": "Power Storage Capacity {EffectValue}%",
+   "ro": "Capacitate de stocare a energiei: {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_ConsumeEnergyRate_TextData",
+   "en": "Power Consumption {EffectValue}%",
+   "ro": "Consum de energie {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_AttackRateBaseCampWorker_TextData",
+   "en": "Attack of Base Pals {EffectValue}%",
+   "ro": "Atacul Palilor din bază {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_DefenseRateBaseCampWorker_TextData",
+   "en": "Defense of Base Pals {EffectValue}%",
+   "ro": "Apărarea Palilor din bază {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_OilExtractionSpeedRate_TextData",
+   "en": "Crude Oil Extraction Speed {EffectValue}%",
+   "ro": "Viteza de extracție a țițeiului {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_ItemCorruptionSpeedRate_TextData",
+   "en": "Item Decay Speed {EffectValue}%",
+   "ro": "Viteza de alterare a obiectelor {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_ExpeditionTimeCostRate_TextData",
+   "en": "Expedition Time {EffectValue}%",
+   "ro": "Durata expediției {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_ExpeditionRewardRate_TextData",
+   "en": "Expedition Reward {EffectValue}%",
+   "ro": "Recompense de expediție {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_LabResearchSpeed_TextData",
+   "en": "Research Speed of {WorkSuitability} {EffectValue}%",
+   "ro": "Viteza de cercetare pentru {WorkSuitability} {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_ProductItemConsumeMaterialNumRate_TextData",
+   "en": "Materials Required for Producing {ItemType} {EffectValue}%",
+   "ro": "Materiale necesare pentru producerea de {ItemType} {EffectValue}%"
+  },
+  {
+   "key": "DESC_EFFECT_FarmCropGrowupSpeed_TextData",
+   "en": "Plantation Crop Growth Rate {EffectValue}%",
+   "ro": "Viteza de creștere a recoltelor din plantație {EffectValue}%"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Bullet_TextData",
+   "en": "Ammunition",
+   "ro": "Muniție"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Dish_TextData",
+   "en": "Cooking",
+   "ro": "Preparate culinare"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Ingot_TextData",
+   "en": "Ingot",
+   "ro": "Lingou"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Ore_TextData",
+   "en": "Ore",
+   "ro": "Minereu"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_CaptureBall_TextData",
+   "en": "Sphere",
+   "ro": "Sferă"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Glider_TextData",
+   "en": "Glider",
+   "ro": "Parapantă"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_ArmorBody_TextData",
+   "en": "Armor",
+   "ro": "Armură"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Weapon_TextData",
+   "en": "Weapon",
+   "ro": "Armă"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Medicine_TextData",
+   "en": "Medicine",
+   "ro": "Medicament"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_Shield_TextData",
+   "en": "Shield",
+   "ro": "Scut"
+  },
+  {
+   "key": "EFFECT_OPTION_ITEM_PalGear_TextData",
+   "en": "Pal Gear",
+   "ro": "Echipament Pal"
+  }
+ ]
+}

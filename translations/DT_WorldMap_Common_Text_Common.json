@@ -1,0 +1,785 @@
+{
+ "table": "DT_WorldMap_Common_Text_Common",
+ "entries": [
+  {
+   "key": "REGION_Grass_1_TextData",
+   "en": "Windswept Island",
+   "ro": "Insula Bătută de Vânt"
+  },
+  {
+   "key": "REGION_Grass_2_TextData",
+   "en": "Bamboo Groves",
+   "ro": "Crângurile de bambus"
+  },
+  {
+   "key": "REGION_Forest_1_TextData",
+   "en": "Crescent Moon Shore",
+   "ro": "Țărmul Semilunei"
+  },
+  {
+   "key": "REGION_Forest_2_TextData",
+   "en": "Verdant Sream",
+   "ro": "Pârâul Înverzit"
+  },
+  {
+   "key": "REGION_Volcano_1_TextData",
+   "en": "Mount Obsidian",
+   "ro": "Muntele Obsidian"
+  },
+  {
+   "key": "REGION_Desert_1_TextData",
+   "en": "Desiccated Dunes",
+   "ro": "Dunele Uscate"
+  },
+  {
+   "key": "REGION_Frost_1_TextData",
+   "en": "Astral Mountains",
+   "ro": "Munții Astrali"
+  },
+  {
+   "key": "REGION_Frost_small_TextData",
+   "en": "Frostbound Mountains",
+   "ro": "Munții Înghețați"
+  },
+  {
+   "key": "REGION_Desert_Small_TextData",
+   "en": "Twilight Dunes",
+   "ro": "Dunele Amurgului"
+  },
+  {
+   "key": "REGION_Grass_Boss_TextData",
+   "en": "Rayne Syndicate Tower",
+   "ro": "Turnul Sindicatului Rayne"
+  },
+  {
+   "key": "REGION_Forest_Boss_TextData",
+   "en": "Free Pal Alliance Tower",
+   "ro": "Turnul Alianței Free Pal"
+  },
+  {
+   "key": "REGION_Desert_Boss_TextData",
+   "en": "PIDF Tower",
+   "ro": "Turnul PIDF"
+  },
+  {
+   "key": "REGION_Volcano_Boss_TextData",
+   "en": "Brothers of the Eternal Pyre Tower",
+   "ro": "Turnul Fraților Rugului Etern"
+  },
+  {
+   "key": "REGION_Frost_Boss_TextData",
+   "en": "PAL Genetic Research Unit Tower",
+   "ro": "Turnul Unității de Cercetare Genetică PAL"
+  },
+  {
+   "key": "REGION_TEST_CHICKEN_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "REGION_Grass_1_Church_TextData",
+   "en": "Desolate Church",
+   "ro": "Biserica Părăsită"
+  },
+  {
+   "key": "REGION_Grass_1_Village_TextData",
+   "en": "Small Settlement",
+   "ro": "Așezare mică"
+  },
+  {
+   "key": "REGION_Desert_1_Village_TextData",
+   "en": "Duneshelter",
+   "ro": "Adăpostul Dunelor"
+  },
+  {
+   "key": "REGION_Volcano_1_Village_TextData",
+   "en": "Fisherman's Point",
+   "ro": "Punctul Pescarului"
+  },
+  {
+   "key": "REGION_Preserve1_TextData",
+   "en": "No. 1 Wildlife Sanctuary",
+   "ro": "Sanctuarul de faună nr. 1"
+  },
+  {
+   "key": "REGION_Preserve2_TextData",
+   "en": "No. 2 Wildlife Sanctuary",
+   "ro": "Sanctuarul de faună nr. 2"
+  },
+  {
+   "key": "REGION_Preserve3_TextData",
+   "en": "No. 3 Wildlife Sanctuary",
+   "ro": "Sanctuarul de faună nr. 3"
+  },
+  {
+   "key": "REGION_Statue1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "REGION_Statue2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "REGION_Statue3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "REGION_Forest_Ruin_TextData",
+   "en": "Ancient Ritual Site",
+   "ro": "Situl Ritualic Antic"
+  },
+  {
+   "key": "REGION_FixedDungeon_grass_1_TextData",
+   "en": "Sealed Realm of the Frozen Wings",
+   "ro": "Tărâmul Sigilat al Aripilor Înghețate"
+  },
+  {
+   "key": "REGION_FixedDungeon_grass_2_TextData",
+   "en": "Sealed Realm of the Ardent",
+   "ro": "Tărâmul Sigilat al Înflăcăratului"
+  },
+  {
+   "key": "REGION_FixedDungeon_grass_3_TextData",
+   "en": "Sealed Realm of the Myriad Flames",
+   "ro": "Tărâmul Sigilat al Nenumăratelor Flăcări"
+  },
+  {
+   "key": "REGION_FixedDungeon_grass_4_TextData",
+   "en": "Sealed Realm of the Swordmaster",
+   "ro": "Tărâmul Sigilat al Maestru-Spadasinului"
+  },
+  {
+   "key": "REGION_FixedDungeon_grass_5_TextData",
+   "en": "Sealed Realm of the Frost Flower",
+   "ro": "Tărâmul Sigilat al Florii de Gheață"
+  },
+  {
+   "key": "REGION_FixedDungeon_grass_6_TextData",
+   "en": "Sealed Realm of the Frigid Fox",
+   "ro": "Tărâmul Sigilat al Vulpii Înghețate"
+  },
+  {
+   "key": "REGION_FixedDungeon_grass_7_TextData",
+   "en": "Sealed Realm of the Luxurious Thicket",
+   "ro": "Tărâmul Sigilat al Crângului Luxuriant"
+  },
+  {
+   "key": "REGION_FixedDungeon_forest_1_TextData",
+   "en": "Sealed Realm of the Sorcerer",
+   "ro": "Tărâmul Sigilat al Vrăjitorului"
+  },
+  {
+   "key": "REGION_FixedDungeon_forest_2_TextData",
+   "en": "Sealed Realm of the Guardian",
+   "ro": "Tărâmul Sigilat al Păzitorului"
+  },
+  {
+   "key": "REGION_FixedDungeon_forest_3_TextData",
+   "en": "Sealed Realm of the Swift",
+   "ro": "Tărâmul Sigilat al Celor Iuți"
+  },
+  {
+   "key": "REGION_FixedDungeon_forest_4_TextData",
+   "en": "Sealed Realm of the Mystic",
+   "ro": "Tărâmul Sigilat al Misticului"
+  },
+  {
+   "key": "REGION_FixedDungeon_forest_5_TextData",
+   "en": "Sealed Realm of the Pristine",
+   "ro": "Tărâmul Sigilat al Neprihănitului"
+  },
+  {
+   "key": "REGION_UndergroundCave_grass01_TextData",
+   "en": "Abandoned Mineshaft",
+   "ro": "Puț de mină abandonat"
+  },
+  {
+   "key": "REGION_UndergroundCave_grass02_TextData",
+   "en": "Shoal Mineshaft",
+   "ro": "Puț de mină de la bancul de nisip"
+  },
+  {
+   "key": "REGION_UndergroundCave_grass03_TextData",
+   "en": "Hidden Falls Mineshaft",
+   "ro": "Puț de mină de la cascada ascunsă"
+  },
+  {
+   "key": "REGION_UndergroundCave_grass04_TextData",
+   "en": "Cove Mineshaft",
+   "ro": "Puț de mină din golfuleț"
+  },
+  {
+   "key": "REGION_UndergroundCave_forest01_TextData",
+   "en": "Devout Mineshaft",
+   "ro": "Puț de mină al pioșilor"
+  },
+  {
+   "key": "REGION_UndergroundCave_dessert01_TextData",
+   "en": "Desiccated Mineshaft",
+   "ro": "Puț de mină secat"
+  },
+  {
+   "key": "REGION_UndergroundCave_dessert02_TextData",
+   "en": "Secret Mineshaft",
+   "ro": "Puț de mină secret"
+  },
+  {
+   "key": "REGION_UndergroundCave_dessert03_TextData",
+   "en": "The Furthest Mineshaft",
+   "ro": "Cel mai îndepărtat puț de mină"
+  },
+  {
+   "key": "REGION_UndergroundCave_volcano01_TextData",
+   "en": "Scorching Mineshaft",
+   "ro": "Puț de mină torid"
+  },
+  {
+   "key": "REGION_UndergroundCave_volcano02_TextData",
+   "en": "Destroyed Mineshaft",
+   "ro": "Puț de mină distrus"
+  },
+  {
+   "key": "REGION_UndergroundCave_snow01_TextData",
+   "en": "Iceberg Mineshaft",
+   "ro": "Puț de mină din aisberg"
+  },
+  {
+   "key": "REGION_UndergroundCave_snow02_TextData",
+   "en": "Forgotten Mineshaft",
+   "ro": "Puț minier uitat"
+  },
+  {
+   "key": "REGION_PvP_1_TextData",
+   "en": "Sea Breeze Archipelago",
+   "ro": "Arhipelagul Brizei Marine"
+  },
+  {
+   "key": "REGION_PvP_2_TextData",
+   "en": "Isle of Silence",
+   "ro": "Insula Tăcerii"
+  },
+  {
+   "key": "REGION_PvP_3_TextData",
+   "en": "Isle of Murmurs",
+   "ro": "Insula Șoaptelor"
+  },
+  {
+   "key": "REGION_PvP_4_TextData",
+   "en": "Eastern Wild Island",
+   "ro": "Insula Sălbatică de Est"
+  },
+  {
+   "key": "REGION_PvP_5_TextData",
+   "en": "Marsh Island",
+   "ro": "Insula Mlaștinilor"
+  },
+  {
+   "key": "REGION_PvP_1_Church_TextData",
+   "en": "Sea Breeze Archipelago Church",
+   "ro": "Biserica din Arhipelagul Brizei Marine"
+  },
+  {
+   "key": "REGION_PvP_2_Church_TextData",
+   "en": "Isle of Silence Church Ruins",
+   "ro": "Ruinele bisericii din Insula Tăcerii"
+  },
+  {
+   "key": "REGION_PvP_3_Church_TextData",
+   "en": "Marsh Island Church Ruins",
+   "ro": "Ruinele bisericii din Insula Mlaștinilor"
+  },
+  {
+   "key": "REGION_Arena_TextData",
+   "en": "Arena",
+   "ro": "Arenă"
+  },
+  {
+   "key": "REGION_Mushroom_TextData",
+   "en": "Sakurajima - Mushroom Wetlands",
+   "ro": "Sakurajima - Zonele umede cu ciuperci"
+  },
+  {
+   "key": "REGION_Sakura_TextData",
+   "en": "Dancing Sakura Shrine",
+   "ro": "Sanctuarul Cireșilor Dansatori"
+  },
+  {
+   "key": "REGION_RockSand_TextData",
+   "en": "Sakurajima - Northern Rock Field",
+   "ro": "Sakurajima - Câmpul stâncos de nord"
+  },
+  {
+   "key": "REGION_WhiteSand_TextData",
+   "en": "Sakurajima - Southern Sandbar",
+   "ro": "Sakurajima - Bancul de nisip sudic"
+  },
+  {
+   "key": "REGION_Sakurajima_Boss_TextData",
+   "en": "Moonflower Tower",
+   "ro": "Turnul Florii de Lună"
+  },
+  {
+   "key": "REGION_Oilrig_1_TextData",
+   "en": "Rayne Syndicate Oil Rig",
+   "ro": "Platforma petrolieră a Sindicatului Rayne"
+  },
+  {
+   "key": "REGION_Oilrig_2_TextData",
+   "en": "Rayne Syndicate Test Drilling Rig",
+   "ro": "Platforma de foraj de test a Sindicatului Rayne"
+  },
+  {
+   "key": "REGION_Oilrig_3_TextData",
+   "en": "Rayne Syndicate Platform Oil Rig",
+   "ro": "Platforma petrolieră marină a Sindicatului Rayne"
+  },
+  {
+   "key": "REGION_Darkisland01_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland02_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland03_TextData",
+   "en": "Feybreak Shipwreck",
+   "ro": "Epava din Feybreak"
+  },
+  {
+   "key": "REGION_Darkisland04_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland05_TextData",
+   "en": "Crystalized Ancient Tree",
+   "ro": "Arborele antic cristalizat"
+  },
+  {
+   "key": "REGION_Darkisland06_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland06_dokutsu_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland07_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland08_TextData",
+   "en": "Stone Pillar Cave",
+   "ro": "Peștera cu stâlpi de piatră"
+  },
+  {
+   "key": "REGION_Darkisland09_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland10_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland11_TextData",
+   "en": "Emberstone Plateau",
+   "ro": "Podișul Emberstone"
+  },
+  {
+   "key": "REGION_Darkisland_FT01_TextData",
+   "en": "Scorched Ashland",
+   "ro": "Pământul pârjolit de cenușă"
+  },
+  {
+   "key": "REGION_Darkisland_FT02_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland_FT03_TextData",
+   "en": "Loess Plains",
+   "ro": "Câmpiile de loess"
+  },
+  {
+   "key": "REGION_Darkisland_FT04_TextData",
+   "en": "Hidden Passage to the Oculus Gate",
+   "ro": "Pasajul ascuns spre Poarta Oculus"
+  },
+  {
+   "key": "REGION_Darkisland_FT05_TextData",
+   "en": "The Oculus Gate, Tower in Sight",
+   "ro": "Poarta Oculus, Turnul la orizont"
+  },
+  {
+   "key": "REGION_Darkisland_FT06_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "REGION_Darkisland_FT07_TextData",
+   "en": "Scorched Hill",
+   "ro": "Dealul pârjolit"
+  },
+  {
+   "key": "REGION_Darkisland_FT08_TextData",
+   "en": "Deserted Ash Plateau",
+   "ro": "Podișul pustiu de cenușă"
+  },
+  {
+   "key": "REGION_Darkisland_Boss_TextData",
+   "en": "Feybreak Tower",
+   "ro": "Turnul din Feybreak"
+  },
+  {
+   "key": "REGION_Darkisland_FT09_TextData",
+   "en": "Withered Seaside",
+   "ro": "Litoralul veștejit"
+  },
+  {
+   "key": "REGION_Darkisland_FT10_TextData",
+   "en": "Frozen Coral Hill",
+   "ro": "Dealul Coralului Înghețat"
+  },
+  {
+   "key": "REGION_UndergroundCave_Darkisland_1_TextData",
+   "en": "Cannibal's Tunnel",
+   "ro": "Tunelul Canibalului"
+  },
+  {
+   "key": "REGION_UndergroundCave_Darkisland_2_TextData",
+   "en": "Shield Dragon Tunnel",
+   "ro": "Tunelul Dragonului Scut"
+  },
+  {
+   "key": "REGION_UndergroundCave_Darkisland_3_TextData",
+   "en": "Crystalized Tunnel",
+   "ro": "Tunelul Cristalizat"
+  },
+  {
+   "key": "REGION_UndergroundCave_Darkisland_4_TextData",
+   "en": "Dark Flame Tunnel",
+   "ro": "Tunelul Flăcării Întunecate"
+  },
+  {
+   "key": "REGION_UndergroundCave_Darkisland_5_TextData",
+   "en": "Bloodstained Tunnel",
+   "ro": "Tunelul Pătat de Sânge"
+  },
+  {
+   "key": "REGION_Grass_3_TextData",
+   "en": "Golden Hills",
+   "ro": "Dealurile Aurii"
+  },
+  {
+   "key": "REGION_Grass_4_TextData",
+   "en": "Autumn Rocks",
+   "ro": "Stâncile Toamnei"
+  },
+  {
+   "key": "REGION_Grass_5_TextData",
+   "en": "Fortress Ruins",
+   "ro": "Ruinele Fortăreței"
+  },
+  {
+   "key": "REGION_Grass_6_TextData",
+   "en": "Flying Fish Coast",
+   "ro": "Coasta Peștilor Zburători"
+  },
+  {
+   "key": "REGION_Grass_7_TextData",
+   "en": "Gobfin's Turf",
+   "ro": "Teritoriul lui Gobfin"
+  },
+  {
+   "key": "REGION_Grass_8_TextData",
+   "en": "Scars of War",
+   "ro": "Cicatricile Războiului"
+  },
+  {
+   "key": "REGION_Grass_9_TextData",
+   "en": "Deep Bamboo Thicket",
+   "ro": "Desișul de Bambus"
+  },
+  {
+   "key": "REGION_Grass_10_TextData",
+   "en": "Silent Lake",
+   "ro": "Lacul Tăcut"
+  },
+  {
+   "key": "REGION_Frost_2_TextData",
+   "en": "Foot of the Astral Mountains",
+   "ro": "Poalele Munților Astrali"
+  },
+  {
+   "key": "REGION_Frost_3_TextData",
+   "en": "Abandoned Ruins",
+   "ro": "Ruine abandonate"
+  },
+  {
+   "key": "REGION_Volcano_2_TextData",
+   "en": "Foot of the Volcano",
+   "ro": "Poalele vulcanului"
+  },
+  {
+   "key": "REGION_Volcano_3_TextData",
+   "en": "Ruined Fortress City",
+   "ro": "Oraș-fortăreață în ruine"
+  },
+  {
+   "key": "REGION_Volcano_4_TextData",
+   "en": "Dry Sandy Beach",
+   "ro": "Plajă cu nisip uscat"
+  },
+  {
+   "key": "REGION_FixedDungeon_DarkIsland_1_TextData",
+   "en": "Sealed Realm of the Wardenstone",
+   "ro": "Tărâmul sigilat al Pietrei Păzitorului"
+  },
+  {
+   "key": "REGION_FixedDungeon_DarkIsland_2_TextData",
+   "en": "Sealed Realm of the Little Hero",
+   "ro": "Tărâmul sigilat al Micului Erou"
+  },
+  {
+   "key": "REGION_FixedDungeon_DarkIsland_3_TextData",
+   "en": "Sealed Realm of the Indigo",
+   "ro": "Tărâmul sigilat al Nuanței Indigo"
+  },
+  {
+   "key": "REGION_FixedDungeon_DarkIsland_4_TextData",
+   "en": "Sealed Realm of the Soul",
+   "ro": "Tărâmul sigilat al Sufletului"
+  },
+  {
+   "key": "REGION_SmallIsland01_TextData",
+   "en": "Sunlit Isle",
+   "ro": "Insula Însorită"
+  },
+  {
+   "key": "REGION_SmallIsland02_TextData",
+   "en": "Oasis Isle",
+   "ro": "Insula Oazei"
+  },
+  {
+   "key": "REGION_SmallIsland03_TextData",
+   "en": "Isle of the Glacial Core",
+   "ro": "Insula Nucleului Glaciar"
+  },
+  {
+   "key": "REGION_SmallIsland04_TextData",
+   "en": "Frostbitten Isle",
+   "ro": "Insula Degerată"
+  },
+  {
+   "key": "REGION_SmallIsland05_TextData",
+   "en": "Phantom Isle",
+   "ro": "Insula Fantomă"
+  },
+  {
+   "key": "REGION_SmallIsland06_TextData",
+   "en": "Isle of Decayed Treasures",
+   "ro": "Insula Comorilor Putrezite"
+  },
+  {
+   "key": "REGION_SmallIsland07_TextData",
+   "en": "Isle of Eternal Summer",
+   "ro": "Insula Verii Eterne"
+  },
+  {
+   "key": "REGION_FixedDungeon_Yakushima_TextData",
+   "en": "Sealed Realm of Terraria",
+   "ro": "Tărâmul Sigilat Terraria"
+  },
+  {
+   "key": "REGION_FixedDungeon_SmallIsland03_TextData",
+   "en": "Sealed Realm of the Glacial Core",
+   "ro": "Tărâmul Sigilat al Miezului Glaciar"
+  },
+  {
+   "key": "WORLDMAP_NAME_MainMap_TextData",
+   "en": "Palpagos Islands",
+   "ro": "Insulele Palpagos"
+  },
+  {
+   "key": "WORLDMAP_NAME_Tree_TextData",
+   "en": "The World Tree",
+   "ro": "Arborele Lumii"
+  },
+  {
+   "key": "REGION_Boss_KingWhale_TextData",
+   "en": "Deserted Islet",
+   "ro": "Insulița Pustie"
+  },
+  {
+   "key": "REGION_New_SmallIsland01_TextData",
+   "en": "Islet of Circular Ruins",
+   "ro": "Insulița Ruinelor Circulare"
+  },
+  {
+   "key": "REGION_New_SmallIsland02_TextData",
+   "en": "Flamepulse Islet",
+   "ro": "Insulița Impulsului de Foc"
+  },
+  {
+   "key": "REGION_New_SmallIsland03_TextData",
+   "en": "Scouring Islet",
+   "ro": "Insulița Erodării"
+  },
+  {
+   "key": "REGION_New_SmallIsland04_TextData",
+   "en": "Bicornis Islet",
+   "ro": "Insulița Bicornis"
+  },
+  {
+   "key": "REGION_New_SmallIsland05_TextData",
+   "en": "Glacial Memento Islet",
+   "ro": "Insulița Memento Glaciar"
+  },
+  {
+   "key": "REGION_New_SmallIsland06_TextData",
+   "en": "Sandstone Gate Islet",
+   "ro": "Insulița Porții de Gresie"
+  },
+  {
+   "key": "REGION_New_SmallIsland07_TextData",
+   "en": "Suncrest Islet",
+   "ro": "Insulița Crestei Soarelui"
+  },
+  {
+   "key": "REGION_WorldTree01_TextData",
+   "en": "The Verdant Rootpath",
+   "ro": "Calea Înverzită a Rădăcinii"
+  },
+  {
+   "key": "REGION_WorldTree02_TextData",
+   "en": "Whimsical Wisteria Grove",
+   "ro": "Crângul Capricios de Glicină"
+  },
+  {
+   "key": "REGION_WorldTree03_TextData",
+   "en": "Dusty Ravine",
+   "ro": "Râpa Prăfuită"
+  },
+  {
+   "key": "REGION_WorldTree04_TextData",
+   "en": "Remnant Riverside",
+   "ro": "Malul Rămășițelor"
+  },
+  {
+   "key": "REGION_WorldTree05_TextData",
+   "en": "Corroded Hollow",
+   "ro": "Scobitura corodată"
+  },
+  {
+   "key": "REGION_WorldTree06_TextData",
+   "en": "Alluvion Lakefront",
+   "ro": "Țărmul aluvionar"
+  },
+  {
+   "key": "REGION_WorldTree07_TextData",
+   "en": "Boreal Summit",
+   "ro": "Culmea boreală"
+  },
+  {
+   "key": "REGION_WorldTree08_TextData",
+   "en": "Sealed Sanctum",
+   "ro": "Sanctuarul sigilat"
+  },
+  {
+   "key": "REGION_WorldTree09_TextData",
+   "en": "Abandoned Laboratory",
+   "ro": "Laboratorul abandonat"
+  },
+  {
+   "key": "REGION_WorldTree10_TextData",
+   "en": "Spore Cloister",
+   "ro": "Mănăstirea sporilor"
+  },
+  {
+   "key": "REGION_WorldTree11_TextData",
+   "en": "Lacrymal Shoal",
+   "ro": "Bancul lacrimal"
+  },
+  {
+   "key": "REGION_WorldTree12_TextData",
+   "en": "Gilded City Ruins",
+   "ro": "Ruinele orașului aurit"
+  },
+  {
+   "key": "REGION_Wide_Sakurajima01_TextData",
+   "en": "Sakurajima",
+   "ro": "Sakurajima"
+  },
+  {
+   "key": "REGION_Wide_Darkisland01_TextData",
+   "en": "Feybreak",
+   "ro": "Feybreak"
+  },
+  {
+   "key": "REGION_Wide_Skyisland01_TextData",
+   "en": "Sunreach",
+   "ro": "Sunreach"
+  },
+  {
+   "key": "REGION_Skyisland_Boss_TextData",
+   "en": "Azure Covenant Tower",
+   "ro": "Turnul Legământului de Azur"
+  },
+  {
+   "key": "REGION_Skyisland01_TextData",
+   "en": "The Azure Tapestry",
+   "ro": "Tapiseria de azur"
+  },
+  {
+   "key": "REGION_Skyisland02_TextData",
+   "en": "Waterlily Gorge",
+   "ro": "Cheile Nuferilor"
+  },
+  {
+   "key": "REGION_Skyisland03_TextData",
+   "en": "Dragonmark Peak",
+   "ro": "Vârful Semnul Dragonului"
+  },
+  {
+   "key": "REGION_Skyisland04_TextData",
+   "en": "Farcry Marsh",
+   "ro": "Mlaștina Strigătului Îndepărtat"
+  },
+  {
+   "key": "REGION_Skyisland05_TextData",
+   "en": "Azure Woodland",
+   "ro": "Pădurea Azurie"
+  },
+  {
+   "key": "REGION_Skyisland06_TextData",
+   "en": "Crystalline Archipelago",
+   "ro": "Arhipelagul de Cristal"
+  },
+  {
+   "key": "REGION_Skyisland07_TextData",
+   "en": "Enchanted Firmament",
+   "ro": "Bolta Vrăjită"
+  },
+  {
+   "key": "REGION_FixedDungeon_SkyIsland_01_TextData",
+   "en": "Sealed Realm of the Astral Vow",
+   "ro": "Tărâmul Sigilat al Jurământului Astral"
+  },
+  {
+   "key": "REGION_FootOfWorldTree_TextData",
+   "en": "Foot of the World Tree",
+   "ro": "Poalele Arborelui Lumii"
+  }
+ ]
+}

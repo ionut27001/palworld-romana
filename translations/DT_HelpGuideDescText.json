@@ -1,0 +1,240 @@
+{
+ "table": "DT_HelpGuideDescText",
+ "entries": [
+  {
+   "key": "Help_1_TextData",
+   "en": "Controls (Keyboard)\r\n\r\nMouse Camera Controls\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/> Move\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/> Summon Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/> Throw Sphere\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/> Build Menu\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/> Jump\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/> Aim\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/> Attack\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/> Partner Skill\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/> Reload\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/> Change Weapon\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/> Crouch\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/> Roll\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/> Pal Commands\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/> Change Pal\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/> Change Sphere",
+   "ro": "Comenzi (tastatură)\r\n\r\nMișcare cameră cu mouse-ul\r\n<keyGuideIcon id=|W_ForHelp|/><keyGuideIcon id=|A_ForHelp|/><keyGuideIcon id=|S_ForHelp|/><keyGuideIcon id=|D_ForHelp|/> Deplasare\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|1|/> Cheamă Palul\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|1|/> Aruncă Sferă\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|1|/> Meniu de construire\r\n<keyGuideIcon id=|Jump| OverrideType=|1|/> Săritură\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|1|/> Ochește\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|1|/> Atac\r\n<keyGuideIcon id=|Coop| OverrideType=|1|/> Abilitate de partener\r\n<keyGuideIcon id=|Reload| OverrideType=|1|/> Reîncarcă\r\n<keyGuideIcon id=|ChangeWeaponNext| OverrideType=|1|/><keyGuideIcon id=|ChangeWeaponPrev| OverrideType=|1|/> Schimbă arma\r\n<keyGuideIcon id=|Crouch| OverrideType=|1|/> Ghemuire\r\n<keyGuideIcon id=|Rolling| OverrideType=|1|/> Rostogolire\r\n<keyGuideIcon id=|Dash| OverrideType=|1|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|1|/> Comenzi pentru Pal\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|1|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|1|/> Schimbă Palul\r\n<keyGuideIcon id=|SphereChange| OverrideType=|1|/> Schimbă Sfera"
+  },
+  {
+   "key": "Help_2_TextData",
+   "en": "Controls (Controller)\r\n\r\nLeft Stick Move\r\nRight Stick Camera Controls\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> Summon Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> Throw Sphere\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> Build Menu\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> Jump\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> Aim\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> Attack\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> Partner Skill\r\n<keyGuideIcon id=|ChangeWeaponNext_GamePad| OverrideType=|2|/> Change Weapon\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> Crouch/Roll\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> Pal Commands\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> Change Pal\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> Change Sphere",
+   "ro": "Comenzi (controler)\r\n\r\nStick stâng Deplasare\r\nStick drept Mișcare cameră\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> Cheamă Palul\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> Aruncă Sferă\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> Meniu de construire\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> Săritură\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> Ochește\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> Atac\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> Abilitate de partener\r\n<keyGuideIcon id=|ChangeWeaponNext_GamePad| OverrideType=|2|/> Schimbă arma\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> Ghemuire/Rostogolire\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> Comenzi pentru Pal\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> Schimbă Palul\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> Schimbă Sfera"
+  },
+  {
+   "key": "Help_3_TextData",
+   "en": "Game Objective\r\n\r\nUncover the secrets of this mysterious land while taking on the unknown forces who stand in your way. \r\nDefeat the bosses that lay claim to each region's tower as you try to uncover the truth behind the origin of Pals.\r\n\r\nBuild formidable bases, try to capture the strongest Pal possible, or breed it yourself! \r\nEmbark on a unique adventure with your Pals in this new world!",
+   "ro": "Obiectivul jocului\r\n\r\nDescoperă secretele acestui ținut misterios în timp ce înfrunți forțele necunoscute care îți stau în cale.\r\nÎnvinge boșii care stăpânesc turnul fiecărei regiuni, încercând să afli adevărul despre originea Palilor.\r\n\r\nConstruiește baze formidabile, încearcă să capturezi cel mai puternic Pal posibil sau reprodu-l chiar tu!\r\nPornește într-o aventură unică alături de Palii tăi în această lume nouă!"
+  },
+  {
+   "key": "Help_4_TextData",
+   "en": "What should I do first?\r\n\r\nFirst, pick up fallen branches and pebbles to gather wood and stone.\r\nYou can also collect wood and stone by punching big trees and rocks with your bare hands.\r\nBuild a workbench and craft an axe and a pickaxe to gather resources more efficiently.\r\n\r\nOnce you've gathered enough materials, choose a location for your base, and build a |Palbox|.\r\nOnce you place a |Palbox|, that area becomes your base.\r\n\r\nAs your level increases, make weapons and a |Pal Sphere|, then start capturing wild Pals by weakening them first.\r\n\r\nPals can be combat allies if taken with you, or provide labor if placed in your base.\r\n\r\nNighttime can be dangerous. Prepare for your first night by making a |campfire|, a |torch|, and a |bed|.",
+   "ro": "Ce ar trebui să fac la început?\r\n\r\nMai întâi, adună crengi căzute și pietricele pentru a strânge lemn și piatră.\r\nDe asemenea, poți colecta lemn și piatră lovind copacii mari și stâncile cu mâinile goale.\r\nConstruiește o bancă de lucru și fabrică un topor și un târnăcop pentru a aduna resurse mai eficient.\r\n\r\nDupă ce ai adunat destule materiale, alege un loc pentru bază și construiește o cutie Pal.\r\nOdată ce amplasezi o cutie Pal, acea zonă devine baza ta.\r\n\r\nPe măsură ce crești în nivel, fă-ți arme și o Sferă Pal, apoi începe să capturezi Pali sălbatici, slăbindu-i mai întâi.\r\n\r\nPalii pot fi aliați în luptă dacă îi iei cu tine sau pot munci dacă îi lași în bază.\r\n\r\nNoaptea poate fi periculoasă. Pregătește-te pentru prima noapte construind un foc de tabără, o torță și un pat."
+  },
+  {
+   "key": "Help_5_TextData",
+   "en": "Pals\r\n\r\nPals are enigmatic creatures that inhabit this region.\r\nBy capturing one with a sphere, you can make it your companions.\r\nYour Pals can be released from the sphere by pressing <keyGuideIcon id=|ThrowPal|/>.\r\n\r\nYou can only carry up to 5 Pals at a time. If you capture more, they will be automatically sent to the Palbox. (You can retrieve them by building a Palbox if you don't have one.)",
+   "ro": "Pali\r\n\r\nPalii sunt creaturi enigmatice care trăiesc în această regiune.\r\nCapturându-i cu o sferă, îi poți transforma în tovarășii tăi.\r\nPalii tăi pot fi scoși din sferă apăsând pe <keyGuideIcon id=|ThrowPal|/>.\r\n\r\nPoți purta cu tine doar până la 5 Pali deodată. Dacă prinzi mai mulți, vor fi trimiși automat în cutia Pal. (Îi poți recupera construind o cutie Pal dacă nu ai deja una.)"
+  },
+  {
+   "key": "Help_6_TextData",
+   "en": "HUD\r\n\r\nAt the bottom left, your Pals, your Health and your Hunger are displayed.\r\nThe current temperature is also shown. Extreme temperatures can hurt you.\r\nAt the bottom right, you will see the equipped sphere and weapon, along with the remaining ammo.",
+   "ro": "HUD\r\n\r\nÎn stânga jos sunt afișați Palii tăi, nivelul de viață (HP) și cel de foame.\r\nDe asemenea, este afișată temperatura curentă. Temperaturile extreme îți pot provoca daune.\r\nÎn dreapta jos vei vedea sfera și arma echipate, alături de muniția rămasă."
+  },
+  {
+   "key": "Help_7_TextData",
+   "en": "Getting Items\r\n\r\nPress <keyGuideIcon id=|Interact_1|/> to pick up dropped items.\r\nYou can also obtain materials by destroying trees or rocks with an axe or pickaxe.\r\nPals also drop items when defeated.",
+   "ro": "Obținerea obiectelor\r\n\r\nApasă pe <keyGuideIcon id=|Interact_1|/> pentru a ridica obiectele de pe jos.\r\nDe asemenea, poți obține materiale distrugând copaci sau roci cu un topor ori un târnăcop.\r\nȘi Palii lasă în urmă obiecte când sunt învinși."
+  },
+  {
+   "key": "Help_8_TextData",
+   "en": "Building\r\n\r\nBy pressing <keyGuideIcon id=|OpenConstructionMenu|/>, you can open the construction menu and start building.\r\nSelect your desired construction location from the menu and start building by holding <keyGuideIcon id=|Interact_1|/>.\r\nIf there are Pals in your Party or at your Base, they will help with the construction.",
+   "ro": "Construire\r\n\r\nApăsând pe <keyGuideIcon id=|OpenConstructionMenu|/>, poți deschide meniul de construire și poți începe să construiești.\r\nAlege locul dorit pentru construcție din meniu și începe să construiești ținând apăsat pe <keyGuideIcon id=|Interact_1|/>.\r\nDacă ai Pali în echipă sau în bază, aceștia te vor ajuta la construcție."
+  },
+  {
+   "key": "Help_9_TextData",
+   "en": "Crafting\r\n\r\nYou can craft items by building workbenches and other related facilities and interacting with them.\r\nUnlock new recipes by using Technology Points. By building different crafting facilities, you'll be able to craft new items.",
+   "ro": "Fabricare\r\n\r\nPoți fabrica obiecte construind bănci de lucru și alte facilități similare și interacționând cu ele.\r\nDeblochează rețete noi folosind puncte de tehnologie. Construind diferite facilități de producție, vei putea fabrica obiecte noi."
+  },
+  {
+   "key": "Help_10_TextData",
+   "en": "Technology\r\n\r\nBy using Technology Points from the Technology tab in the menu, you can unlock new buildings and item recipes.\r\nYou can earn Technology Points by leveling up, as well as other means, such as the Great Eagle Statues.",
+   "ro": "Tehnologie\r\n\r\nFolosind puncte de tehnologie din fila Tehnologie a meniului, poți debloca noi clădiri și rețete de obiecte.\r\nPoți obține puncte de tehnologie când crești în nivel, dar și prin alte metode, cum ar fi statuile Marelui Vultur."
+  },
+  {
+   "key": "Help_11_TextData",
+   "en": "Ancient Technology\r\n\r\nWhen you defeat powerful enemies, you can obtain Ancient Technology Points.\r\nYou can spend them to unlock objects that use Ancient Technology.\r\n\r\nAncient Technology represents advanced knowledge from a lost civilization,\r\noften with impressive and unique effects.",
+   "ro": "Tehnologie antică\r\n\r\nCând învingi inamici puternici, poți obține puncte de tehnologie antică.\r\nLe poți cheltui pentru a debloca obiecte care utilizează tehnologia antică.\r\n\r\nTehnologia antică reprezintă cunoștințe avansate dintr-o civilizație pierdută,\r\navând adesea efecte impresionante și unice."
+  },
+  {
+   "key": "Help_12_TextData",
+   "en": "Level Up\r\n\r\nYou and your Pals will level up when you earn enough EXP.\r\nYou can obtain EXP by defeating or capturing Pals.\r\nAdditionally, you can earn experience points based on the amount of work during building and crafting.\r\n\r\nIf a Pal's level is higher than yours, you won't be able to handle it well, and its performance will drop to the same level as the player. \r\nThis performance drop is also known as Level Sync.",
+   "ro": "Creștere în nivel\r\n\r\nTu și Palii tăi veți crește în nivel pe măsură ce acumulați suficient EXP.\r\nPoți obține EXP învingând sau capturând Pali.\r\nÎn plus, poți câștiga puncte de experiență în funcție de volumul de muncă depus la construcții și fabricare.\r\n\r\nDacă nivelul unui Pal este mai mare decât al tău, nu îl vei putea stăpâni cum trebuie, iar performanțele sale vor scădea la nivelul jucătorului.\r\nAceastă scădere de performanță este cunoscută și sub numele de sincronizare de nivel."
+  },
+  {
+   "key": "Help_13_TextData",
+   "en": "Player Status Enhancement\r\n\r\nYou can distribute Status Points from the Inventory tab in the menu\r\nto increase your character's status.\r\nLevel up your character to get Status Points.",
+   "ro": "Îmbunătățirea atributelor jucătorului\r\n\r\nPoți distribui puncte de atribute din fila Inventar a meniului\r\npentru a îmbunătăți statisticile personajului tău.\r\nCrește personajul în nivel pentru a obține puncte de atribute."
+  },
+  {
+   "key": "Help_14_TextData",
+   "en": "Base\r\n\r\nBuilding a Palbox will make the surrounding area your base.\r\nInteracting with the Palbox allows you to summon Pals to your base,\r\nand they will perform tasks according to their Work Suitability.\r\n\r\nBy building structures within the base, you can have Pals work for you.\r\nBe careful as Pals in the base are exposed to threats from enemies.",
+   "ro": "Bază\r\n\r\nConstruirea unui Palbox va transforma zona din jur în baza ta.\r\nInteracțiunea cu Palboxul îți permite să chemi Pali la baza ta,\r\niar aceștia vor îndeplini sarcini în funcție de aptitudinile lor de lucru.\r\n\r\nConstruind structuri în interiorul bazei, poți pune Palii la treabă.\r\nAtenție, deoarece Palii din bază sunt expuși atacurilor inamicilor."
+  },
+  {
+   "key": "Help_15_TextData",
+   "en": "Palbox\r\n\r\nThe area around the Palbox becomes the territory of your guild's base, and any structure built inside it belong to your guild. \r\n\r\nClearing Base Missions obtained by interacting with the Palbox will grow the guild's base and increase the number of Pals you can summon in the base.\r\n\r\nIf you keep Pals in the Palbox, they will rest and recover. They will continue to recover even if they're incapacitated.\r\n\r\nThe Palbox has a fast travel function, which can be used to warp to the Great Eagle Statues you've unlocked during your adventures. \r\n(Fast travel cannot be used if it's disabled in the world settings.)",
+   "ro": "Palbox\r\n\r\nZona din jurul Palboxului devine teritoriul bazei ghildei tale, iar orice structură construită în interior aparține ghildei tale.\r\n\r\nFinalizarea misiunilor de bază obținute prin interacțiunea cu Palboxul va dezvolta baza ghildei și va crește numărul de Pali pe care îi poți chema în bază.\r\n\r\nDacă ții Pali în Palbox, aceștia se vor odihni și se vor reface. Ei vor continua să se refacă chiar dacă sunt incapacitați.\r\n\r\nPalboxul are o funcție de călătorie rapidă, care poate fi folosită pentru teleportare către statuile Marelui Vultur pe care le-ai deblocat în călătoriile tale.\r\n(Călătoria rapidă nu poate fi folosită dacă este dezactivată în setările lumii.)"
+  },
+  {
+   "key": "Help_16_TextData",
+   "en": "Capturing Pals\r\n\r\nPress <keyGuideIcon id=|ThrowObject|/> to throw a Pal Sphere at a Pal to try and capture it.\r\nReduce a Pal's Health, afflict it with status effects, or lure it into a trap to increase your chances of capturing it.\r\nYou can also increase your chances of capturing a Pal by sneaking up on it and throwing a Sphere at it from behind.\r\nCraft stronger Spheres to capture powerful Pals.",
+   "ro": "Capturarea Palilor\r\n\r\nApasă <keyGuideIcon id=|ThrowObject|/> pentru a arunca o Sferă Pal spre un Pal și a încerca să-l capturezi.\r\nScade-i viața Palului, aplică-i efecte de stare sau atrage-l într-o capcană pentru a-ți crește șansele de captură.\r\nDe asemenea, îți poți spori șansele furișându-te în spatele lui și aruncând o Sferă din spate.\r\nFabrică Sfere mai puternice pentru a captura Pali redutabili."
+  },
+  {
+   "key": "Help_17_TextData",
+   "en": "Pals in Party\r\n\r\nYou can only have up to 5 Pals at a time. If you capture more, they are automatically sent to the Palbox.\r\nThis team of up to 5 Pals is called your Party.\r\n\r\nYou can open the Party tab from the menu.\r\nHere, you can check the Health, Hunger, etc., of your Pals.\r\nYou can also check their acquired skills,\r\nand switch active skills if they've learned any.",
+   "ro": "Pali în echipă\r\n\r\nPoți avea doar până la 5 Pali în același timp. Dacă prinzi mai mulți, aceștia sunt trimiși automat în Palbox.\r\nAceastă formație de până la 5 Pali se numește Echipa ta.\r\n\r\nPoți deschide fila Echipă din meniu.\r\nAici poți verifica nivelul de HP, Foame etc. al Palilor tăi.\r\nDe asemenea, le poți vedea abilitățile dobândite\r\nși poți schimba abilitățile active dacă au învățat vreuna."
+  },
+  {
+   "key": "Help_18_TextData",
+   "en": "Hunger\r\n\r\nThe player's and the Pals' Hunger decrease as they perform actions.\r\nWhen Hunger is low, it may cause negative effects like reducing your stats.\r\n\r\nBy using food items from the inventory,\r\nyou can replenish the player's and Pals' Hunger.",
+   "ro": "Foame\r\n\r\nNivelul de Foame al jucătorului și al Palilor scade pe măsură ce aceștia întreprind acțiuni.\r\nCând nivelul de Foame este scăzut, pot apărea efecte negative, cum ar fi reducerea statisticilor.\r\n\r\nFolosind mâncare din inventar,\r\npoți reface nivelul de Foame al jucătorului și al Palilor."
+  },
+  {
+   "key": "Help_19_TextData",
+   "en": "Sanity\r\n\r\nWhen Pals do work at a base, their Sanity (SAN) drops.\r\nAs their SAN drops, they will slack off, or maybe even get sick.\r\nIf a Pal's Hunger level is low, their SAN will drop more easily.\r\nFeed Pals quality food or let them rest in a hot spring to recover their SAN.",
+   "ro": "Sănătate mintală\r\n\r\nCând Palii muncesc la o bază, nivelul lor de Sănătate mintală (SAN) scade.\r\nPe măsură ce nivelul de SAN scade, aceștia vor trage chiulul sau chiar se pot îmbolnăvi.\r\nDacă nivelul de Foame al unui Pal este scăzut, nivelul de SAN va scădea mai repede.\r\nHrănește Palii cu mâncare de calitate sau lasă-i să se odihnească într-un izvor termal pentru a le reface nivelul de SAN."
+  },
+  {
+   "key": "Help_20_TextData",
+   "en": "Partner Skills\r\n\r\nThese are unique abilities that each Pal species possesses.\r\nSome Pals have Partner Skills that allow them to shoot guns or to have the player ride them.\r\n\r\nSome Pals require |Pal Gear|, which can be made at the Pal Gear Workbench, to unlock their Partner Skills.\r\n\r\nThese skills can be checked from the Party tab. Some Pals provide a benefit just by being in your Party.",
+   "ro": "Abilități de partener\r\n\r\nAcestea sunt abilități unice pe care le are fiecare specie de Pal.\r\nUnii Pali au Abilități de partener care le permit să tragă cu arme de foc sau să fie călăriți de jucător.\r\n\r\nPentru unii Pali este nevoie de echipament de Pal, ce poate fi fabricat la Bancul de lucru pentru echipament de Pal, pentru a le debloca Abilitatea de partener.\r\n\r\nAceste abilități pot fi verificate din fila Echipă. Unii Pali oferă avantaje doar prin simpla prezență în Echipa ta."
+  },
+  {
+   "key": "Help_21_TextData",
+   "en": "Palpedia\r\n\r\nYou can open the Palpedia from the menu.\r\nInformation about Pals you've caught or seen will be recorded,\r\nallowing you to research where certain Pals inhabit.",
+   "ro": "Palpedia\r\n\r\nPoți deschide Palpedia din meniu.\r\nInformațiile despre Palii pe care i-ai prins sau văzut vor fi înregistrate,\r\npermițându-ți să cercetezi zonele în care trăiesc anumiți Pali."
+  },
+  {
+   "key": "Help_22_TextData",
+   "en": "Palpedia Bonus\r\n\r\nYou will earn Bonus EXP when you capture a new species.\r\nBonus EXP is also given for the first 5 times you capture a Pal of the same species.",
+   "ro": "Bonus de Palpedia\r\n\r\nVei primi EXP bonus atunci când capturezi o specie nouă.\r\nDe asemenea, se acordă EXP bonus pentru primele 5 exemplare capturate din aceeași specie de Pal."
+  },
+  {
+   "key": "Help_23_TextData",
+   "en": "Guild\r\n\r\nBy approaching other players, you can request to join their guild.\r\nThe Guild Tab in the menu displays information about your guild and its members.\r\nPlayers within the same guild share a base and their working Pals.",
+   "ro": "Ghildă\r\n\r\nApropiindu-te de alți jucători, poți cere să intri în ghilda lor.\r\nFila Ghildă din meniu afișează informații despre ghilda ta și membrii săi.\r\nJucătorii din aceeași ghildă împart baza și Palii care lucrează acolo."
+  },
+  {
+   "key": "Help_24_TextData",
+   "en": "Map\r\n\r\nPress <keyGuideIcon id=|OpenWorldMap|/> to display the map.\r\nInformation about the terrain and other features of the world are displayed on the map.",
+   "ro": "Hartă\r\n\r\nApasă <keyGuideIcon id=|OpenWorldMap|/> pentru a afișa harta.\r\nPe hartă sunt afișate informații despre teren și alte elemente din lume."
+  },
+  {
+   "key": "Help_25_TextData",
+   "en": "Great Eagle Statue\r\n\r\nActivating a Great Eagle Statue allows you to fast travel to any other previously visited Great Eagle Statues, as well as your Palbox.\r\n\r\nIn addition, will gain Technology Points each time you activate a Great Eagle Statue.\r\nThe statues are scattered all over the world, so use them to your advantage.\r\n\r\n*Fast travel cannot be used if it's disabled in the world settings.",
+   "ro": "Statuia Marelui Vultur\r\n\r\nActivarea unei Statui a Marelui Vultur îți permite să faci o Călătorie rapidă către orice altă Statuie a Marelui Vultur vizitată anterior, precum și la propriul Palbox.\r\n\r\nÎn plus, vei primi Puncte de tehnologie de fiecare dată când activezi o Statuie a Marelui Vultur.\r\nStatuile sunt răspândite prin toată lumea, așa că folosește-le în avantajul tău.\r\n\r\n*Călătoria rapidă nu poate fi folosită dacă este dezactivată în setările lumii."
+  },
+  {
+   "key": "Help_26_TextData",
+   "en": "Radial Menu\r\n\r\nPress <keyGuideIcon id=|PartnerPalInstructions|/> to call up the radial menu.\r\nWith it, you can give strategic commands to Pals on your team or feed them.",
+   "ro": "Meniu radial\r\n\r\nApasă <keyGuideIcon id=|PartnerPalInstructions|/> pentru a deschide meniul radial.\r\nCu ajutorul lui, poți da comenzi strategice Palilor din echipă sau îi poți hrăni."
+  },
+  {
+   "key": "Help_27_TextData",
+   "en": "About Nighttime\r\n\r\nWhen night falls, the surroundings become dark, temperature drops, and dangerous Pals will appear.\r\nBuild beds at a safe location and sleep till morning, or stay warm around a campfire.",
+   "ro": "Despre noapte\r\n\r\nCând se lasă noaptea, totul în jur se întunecă, temperatura scade și apar Pali periculoși.\r\nConstruiește paturi într-un loc sigur și dormi până dimineața sau stai la căldură lângă o vatră de foc."
+  },
+  {
+   "key": "Help_28_TextData",
+   "en": "Tower Bosses\r\n\r\nEach region has a tower, and within that tower resides the leader of the organization that rules the area.\r\nThese leaders usually regard Pal Tamers from outside the island as enemies, and will challenge you immediately if you enter the tower.\r\nTower boss battles have a time limit. If you can't defeat the enemy within the given time, you lose.\r\nYou can attempt tower boss battles as many times as you like, provided no one else is currently doing so.",
+   "ro": "Bossi de Turn\r\n\r\nFiecare regiune are un turn, iar în acel turn locuiește liderul organizației care stăpânește zona respectivă.\r\nAcești lideri îi consideră de obicei inamici pe dresorii de Pali din afara insulei și te vor ataca imediat ce intri în turn.\r\nLuptele cu boșii de turn au o limită de timp. Dacă nu reușești să învingi inamicul în timpul acordat, pierzi.\r\nPoți încerca luptele cu boșii de turn de oricâte ori vrei, atât timp cât nimeni altcineva nu se luptă acolo în acel moment."
+  },
+  {
+   "key": "Help_29_TextData",
+   "en": "Crime\r\n\r\nIf you attack friendly NPCs on the island, you will be reported and become a criminal.\r\nBe warned—if someone sees you commit a crime, the Palpagos Islands Defense Force (PIDF) will put you on their wanted list.\r\n\r\nIf you end up on their wanted list, steer clear of officers and hide somewhere out of sight until your wanted status expires.",
+   "ro": "Infracțiuni\r\n\r\nDacă ataci NPC-uri pașnice de pe insulă, vei fi raportat și vei deveni infractor.\r\nAtenție: dacă cineva te vede comițând o infracțiune, Forțele de Apărare din Insulele Palpagos (PIDF) te vor trece pe lista de urmăriți.\r\n\r\nDacă ajungi pe lista de urmăriți, ferește-te de agenți și ascunde-te undeva ferit până când statutul de urmărit expiră."
+  },
+  {
+   "key": "Help_30_TextData",
+   "en": "Equipment Durability\r\n\r\nEquipment will lose durability with use, and break when its durability reaches 0.\r\nYou can restore damaged equipment with materials at the repair table.",
+   "ro": "Durabilitatea echipamentului\r\n\r\nEchipamentul își pierde din durabilitate prin utilizare și se sparge când durabilitatea ajunge la 0.\r\nPoți repara echipamentul deteriorat folosind materiale la masa de reparații."
+  },
+  {
+   "key": "Help_31_TextData",
+   "en": "Item Rot\r\n\r\nCertain items like food will rot with time and eventually vanish when they spoil.\r\nStoring items in a cooler or refrigerator can prevent rotting.",
+   "ro": "Alterarea obiectelor\r\n\r\nUnele obiecte, cum ar fi mâncarea, se vor strica în timp și vor dispărea complet când se alterează.\r\nPăstrarea obiectelor într-o ladă frigorifică sau într-un frigider poate preveni alterarea."
+  },
+  {
+   "key": "Help_32_TextData",
+   "en": "Elements\r\n\r\nEach Pal possesses an elemental affinity, and each element has strengths and weaknesses against other elements.\r\nElemental attacks deal more damage to elements they are strong against and less damage to elements they are weak against.",
+   "ro": "Elemente\r\n\r\nFiecare Pal are o afinitate elementară, iar fiecare element are avantaje și slăbiciuni față de alte elemente.\r\nAtacurile elementare provoacă mai multe daune elementelor împotriva cărora sunt eficiente și mai puține daune elementelor împotriva cărora sunt slabe."
+  },
+  {
+   "key": "Help_33_TextData",
+   "en": "Status Effects\r\n\r\nPals and players may suffer status effects from nearby environments or skills. \r\nThere are many types of status effects, with varying differences.\r\nAlso, Pals are easier to capture when they are affected by a status effect.\r\n\r\n\r\n- Burn -\r\nThe body catches fire and takes continuous damage. Damage taken from Grass attacks is reduced. Fire and Water Pals cannot be Burned.\r\n\r\n- Soaked -\r\nThe body becomes soaked, reducing movement speed. Damage taken from Electric attacks is increased. Damage taken from Fire attacks is reduced.\r\n\r\n- Ivy-Covered -\r\nVines wrap around the body, reducing movement speed. Certain actions, such as jumping and dodging, are restricted. Damage taken from Fire attacks is increased.\r\n\r\n- Electrify -\r\nElectricity paralyzes the body, rendering the target unable to act. Damage taken from Water attacks is increased.\r\n\r\n- Freeze -\r\nThe body is frozen solid, rendering the target unable to act.\r\n\r\n- Muddy -\r\nThe body becomes covered in mud, reducing movement speed. Damage taken from Grass attacks is increased. Damage taken from Electric attacks is reduced.\r\n\r\n- Blind -\r\nVision darkens, causing the target to lose sight of enemies.\r\n\r\n- Poison -\r\nThe body is afflicted with poison and takes continuous damage.",
+   "ro": "Efecte de stare\r\n\r\nPalii și jucătorii pot suferi efecte de stare din cauza mediului înconjurător sau a abilităților. \r\nExistă multe tipuri de efecte de stare, fiecare cu efecte diferite.\r\nDe asemenea, Palii sunt mai ușor de capturat când sunt afectați de un efect de stare.\r\n\r\n\r\n- Arsură -\r\nCorpul ia foc și suferă daune continue. Daunele suferite din atacuri de tip Iarbă sunt reduse. Palii de tip Foc și Apă nu pot suferi de Arsură.\r\n\r\n- Ud leoarcă -\r\nCorpul se udă leoarcă, reducând viteza de mișcare. Daunele suferite din atacuri de tip Electric cresc. Daunele suferite din atacuri de tip Foc sunt reduse.\r\n\r\n- Înfășurat în liane -\r\nLianele se înfășoară în jurul corpului, reducând viteza de mișcare. Anumite acțiuni, cum ar fi săritura și eschiva, sunt restricționate. Daunele suferite din atacuri de tip Foc cresc.\r\n\r\n- Electrocutare -\r\nElectricitatea paralizează corpul, făcând ținta incapabilă să acționeze. Daunele suferite din atacuri de tip Apă cresc.\r\n\r\n- Înghețare -\r\nCorpul este înghețat bocnă, făcând ținta incapabilă să acționeze.\r\n\r\n- Plin de noroi -\r\nCorpul este acoperit de noroi, reducând viteza de mișcare. Daunele suferite din atacuri de tip Iarbă cresc. Daunele suferite din atacuri de tip Electric sunt reduse.\r\n\r\n- Orbire -\r\nVederea se întunecă, făcând ținta să piardă inamicii din vedere.\r\n\r\n- Otrăvire -\r\nCorpul este afectat de otravă și suferă daune continue."
+  },
+  {
+   "key": "Help_34_TextData",
+   "en": "Pal Eggs\r\n\r\nWhile exploring the world, you may come across Pal Eggs.\r\nThese can be hatched with an Egg Incubator.\r\nAppropriate temperatures help speed up incubation.",
+   "ro": "Ouă de Pal\r\n\r\nÎn timp ce explorezi lumea, poți da peste ouă de Pal.\r\nAcestea pot fi eclozate cu un incubator de ouă.\r\nTemperaturile adecvate ajută la accelerarea incubației."
+  },
+  {
+   "key": "Help_35_TextData",
+   "en": "Pal Breeding Farm\r\n\r\nAssign a male and a female Pal to a Breeding Farm and place a cake with them. Later, you may find a Pal Egg.\r\nSome special combinations of Pals can give birth to special Pal Eggs.",
+   "ro": "Țarc de împerechere pentru Pali\r\n\r\nAlocă un Pal mascul și o femelă la un țarc de împerechere și pune un tort cu ei. Mai târziu, s-ar putea să găsești un ou de Pal.\r\nUnele combinații speciale de Pali pot da naștere unor ouă speciale de Pal."
+  },
+  {
+   "key": "Help_36_TextData",
+   "en": "Pal Rank & Essence Condensers\r\n\r\nPals have a rank value, with higher ranks indicating higher abilities. \r\nHigher ranks can also enhance Partner Skills. \r\nYou can increase a Pal's rank using Pal Essence. \r\nPal Essence can be obtained by placing multiple Pals of the same species in the Pal Essence Condenser.",
+   "ro": "Rangul Palilor și condensatoarele de esență\r\n\r\nPalii au o valoare de rang, un rang mai mare indicând abilități mai mari.\r\nDe asemenea, rangurile mai mari pot îmbunătăți abilitățile de partener.\r\nPoți crește rangul unui Pal folosind esență de Pal.\r\nEsența de Pal poate fi obținută prin plasarea mai multor Pali din aceeași specie în condensatorul de esență de Pal."
+  },
+  {
+   "key": "Help_37_TextData",
+   "en": "Pal Effigies\r\n\r\nYou can offer Pal Effigies to a Statue of Power to enhance your various abilities.",
+   "ro": "Statuete Pal\r\n\r\nPoți oferi statuete Pal la o statuie a puterii pentru a-ți îmbunătăți diverse abilități."
+  },
+  {
+   "key": "Help_38_TextData",
+   "en": "Pal Souls\r\n\r\nPal Souls can sometimes be found in treasure chests.\r\nYou can offer Pal Souls to Statue of Power to enhance a Pal's stats.",
+   "ro": "Suflete de Pal\r\n\r\nSufletele de Pal pot fi găsite uneori în cufere cu comori.\r\nPoți oferi suflete de Pal la o statuie a puterii pentru a crește statisticile unui Pal."
+  },
+  {
+   "key": "Help_39_TextData",
+   "en": "Pal Subspecies\r\n\r\nSome Pals have been known to adapt to their environment deviating from their species to become a |subspecies|.\r\nSubspecies have a different type from the original, with slightly higher stats.\r\n\r\nCertain breeding combinations may also result in a subspecies.\r\n\r\nSubspecies have their own Palpedia entry, allowing you to earn Bonus EXP by capturing 5 of them.",
+   "ro": "Subspecii de Pal\r\n\r\nSe știe că unii Pali s-au adaptat la mediul lor, deviind de la specia de bază pentru a deveni o |subspecie|.\r\nSubspeciile au un tip diferit față de cel inițial, având statistici puțin mai mari.\r\n\r\nAnumite combinații de împerechere pot da naștere, de asemenea, unei subspecii.\r\n\r\nSubspeciile au propria intrare în Palpedia, permițându-ți să câștigi EXP bonus prin capturarea a 5 exemplare."
+  },
+  {
+   "key": "Help_40_TextData",
+   "en": "Lucky Pals\r\n\r\nLucky Pals are rare Pals that can be found around the world. They are larger in size and have a radiant appearance.\r\nThey often have high stats and feature special passive and active skills.",
+   "ro": "Pali norocoși\r\n\r\nPalii norocoși sunt Pali rari care pot fi găsiți prin lume. Sunt mai mari ca dimensiune și au o înfățișare strălucitoare.\r\nDe multe ori au statistici ridicate și dispun de abilități pasive și active speciale."
+  },
+  {
+   "key": "Help_40_2_TextData",
+   "en": "Predator Pals\r\n\r\nPredator Pals are fearsome Pals that can be found in the field.\r\nThese Pals are characterized by their large size, extreme aggression, and the red dark aura that surrounds their bodies. \r\nDue to this dark aura, they cannot be captured with a Sphere. Make sure to prepare adequately before challenging them.",
+   "ro": "Pali prădători\r\n\r\nPalii prădători sunt Pali de temut care pot fi întâlniți în sălbăticie.\r\nAcești Pali se disting prin dimensiunea lor mare, agresivitatea extremă și aura roșiatică întunecată care le învăluie corpul.\r\nDin cauza acestei aure întunecate, nu pot fi capturați cu o sferă. Asigură-te că te pregătești corespunzător înainte de a-i înfrunta."
+  },
+  {
+   "key": "Help_41_TextData",
+   "en": "Death\r\n\r\nWhen a player dies, they drop their held items and Party Pals on the spot.\r\nYou can retrieve them by returning to the location of your death after respawning.\r\nA pillar of light will appear there. You can also access it and retrieve your items from above.\r\n\r\n※This penalty can be changed or removed on the world settings.",
+   "ro": "Moartea\r\n\r\nCând un jucător moare, își pierde pe loc obiectele deținute și Palii din echipă.\r\nÎi poți recupera întorcându-te la locul morții după reînviere.\r\nAcolo va apărea un stâlp de lumină. Îl poți accesa și îți poți recupera obiectele inclusiv de la înălțime.\r\n\r\n※ Această penalizare poate fi modificată sau eliminată din setările lumii."
+  },
+  {
+   "key": "Help_42_TextData",
+   "en": "The Arena\r\n\r\nThis facility is located on a remote island in the desert.\r\nTeam up with your Pals to challenge other Pal Tamers in your world, or face off against powerful NPCs.\r\nNPCs of Master rank and beyond are particularly strong.\r\n\r\nChoose one main Pal and two sub Pals from your five-member team to enter battle.\r\nDefeat all of your opponent's Pals or knock out the opposing Tamer to win.\r\n\r\nItems used and Pals that faint during battle are restored afterward.\r\n(Consumable items and weapons using Pal Spheres or stat-boosting effects cannot be used inside the Arena.)\r\n\r\nWinning earns you RP (Rank Points), and accumulating enough will raise your rank.\r\nLosing causes you to lose RP.\r\n\r\nYou can also spectate other players' battles.",
+   "ro": "Arena\r\n\r\nAceastă facilitate se află pe o insulă izolată din deșert.\r\nFă echipă cu Palii tăi pentru a provoca alți îmblânzitori de Pali din lumea ta sau înfruntă NPC-uri puternice.\r\nNPC-urile de rang Maestru și mai sus sunt deosebit de puternice.\r\n\r\nAlege un Pal principal și doi Pali secundari din echipa ta de cinci membri pentru a intra în luptă.\r\nÎnvinge toți Palii adversarului sau doboară îmblânzitorul advers pentru a câștiga.\r\n\r\nObiectele folosite și Palii care leșină în timpul luptei sunt restabiliți după aceea.\r\n(Obiectele consumabile și armele care folosesc sfere Pal sau efecte de sporire a statisticilor nu pot fi utilizate în Arenă.)\r\n\r\nVictoriile îți aduc RP (puncte de rang), iar acumularea unei cantități suficiente îți va crește rangul.\r\nÎnfrângerile duc la pierderea de RP.\r\n\r\nDe asemenea, poți urmări ca spectator luptele altor jucători."
+  },
+  {
+   "key": "Help_2_PS5_TextData",
+   "en": "Controls (Controller)\r\n\r\nLeft Stick : Move\r\nRight Stick Camera : Controls\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> Summon Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> Throw Sphere\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> Build Menu\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> Jump\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> Aim\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> Attack\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> Partner Skill\r\n<keyGuideIcon id=|ChangeWeaponNext_GamePad| OverrideType=|2|/> Change Weapon\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> Crouch/Roll\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> Pal Commands\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> Change Pal\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> Change Sphere",
+   "ro": "Comenzi (Controler)\r\n\r\nStick stâng : Deplasare\r\nStick drept : Comenzi cameră\r\n<keyGuideIcon id=|ThrowPal| OverrideType=|2|/> Invocă Pal\r\n<keyGuideIcon id=|ThrowObject| OverrideType=|2|/> Aruncă sferă\r\n<keyGuideIcon id=|OpenConstructionMenu| OverrideType=|2|/> Meniu de construire\r\n<keyGuideIcon id=|Jump| OverrideType=|2|/> Săritură\r\n<keyGuideIcon id=|WeaponReady| OverrideType=|2|/> Ochește\r\n<keyGuideIcon id=|WeaponUse| OverrideType=|2|/> Atac\r\n<keyGuideIcon id=|ReloadAndCoop| OverrideType=|2|/> Abilitate de partener\r\n<keyGuideIcon id=|ChangeWeaponNext_GamePad| OverrideType=|2|/> Schimbă arma\r\n<keyGuideIcon id=|RollingAndCrouch| OverrideType=|2|/> Ghemuire/Rostogolire\r\n<keyGuideIcon id=|DashController| OverrideType=|2|/> Sprint\r\n<keyGuideIcon id=|PartnerPalInstructions| OverrideType=|2|/> Comenzi Pal\r\n<keyGuideIcon id=|OtomoChangeIncrement| OverrideType=|2|/><keyGuideIcon id=|OtomoChangeDecrement| OverrideType=|2|/> Schimbă Palul\r\n<keyGuideIcon id=|SphereChange| OverrideType=|2|/> Schimbă sfera"
+  },
+  {
+   "key": "Help_43_TextData",
+   "en": "Global Palbox\r\n\r\nThis facility lets players save the genetic data of the Pals stored in the Palbox and reconstruct them from that data. \r\nHowever, more than one Pal with the same genetic data cannot exist in the same world. \r\nSaved genetic data can also be transferred to other worlds.\r\n\r\n※ World settings may disallow the reconstruction of Pals or the saving of genetic data.",
+   "ro": "Palbox global\r\n\r\nAceastă structură le permite jucătorilor să salveze datele genetice ale Palilor stocați în Palbox și să îi reconstruiască din acele date.\r\nCu toate acestea, nu poate exista mai mult de un Pal cu aceleași date genetice în aceeași lume.\r\nDatele genetice salvate pot fi transferate și în alte lumi.\r\n\r\n※ Setările lumii pot interzice reconstruirea Palilor sau salvarea datelor genetice."
+  },
+  {
+   "key": "Help_44_TextData",
+   "en": "If Stuck in Terrain\r\n\r\nIf a player becomes stuck in terrain, it's possible to choose |Emergency Escape| from the Options tab in the menu to purposely die and return to the base. \r\nThere are also items that allow returning to the base without dying, as well as Pals with the ability to warp to the base, so keep an eye out for them.",
+   "ro": "Dacă te blochezi în teren\r\n\r\nDacă te blochezi în teren, poți alege |Evadare de urgență| din fila Opțiuni din meniu pentru a muri intenționat și a reveni la bază.\r\nExistă, de asemenea, obiecte care îți permit să revii la bază fără să mori, precum și Pali cu abilitatea de teleportare la bază, așa că fii cu ochii pe ei."
+  },
+  {
+   "key": "Help_45_TextData",
+   "en": "Fishing\r\n\r\nEquip a fishing rod and select bait from your inventory. At a body of water where you can see fish shadows, ready your rod with <keyGuideIcon id=|WeaponReady|/> and press <keyGuideIcon id=|WeaponUse|/> to cast and start fishing. You can also fish while riding a Pal.\r\n\r\nWhen a Pal approaches the bait and the float sinks, press <keyGuideIcon id=|WeaponUse|/> at the right moment to hook it.\r\n\r\nOnce hooked, a minigame will begin. Keep the bar aligned with the fish icon.\r\nHold <keyGuideIcon id=|WeaponUse|/> to move the bar to the right, release to move it left.\r\n\r\nThe fish will resist and move back and forth, so match the bar's movement to it carefully.\r\n\r\nWhile the bar overlaps with the fish icon, the capture gauge will fill. When the gauge reaches max, you'll successfully catch the Pal and earn items.\r\n\r\nUpgrading your fishing rod and bait will give you an edge in the minigame. If fishing feels tricky, craft stronger rods or bait and try again.\r\n\r\nCertain Pals can also help you fish more effectively, so keep an eye out for them.",
+   "ro": "Pescuit\r\n\r\nEchipează o undiță și alege momeala din inventar. Lângă o apă unde se văd umbre de pești, pregătește undița cu <keyGuideIcon id=|WeaponReady|/> și apasă <keyGuideIcon id=|WeaponUse|/> pentru a arunca firul și a începe pescuitul. Poți pescui și în timp ce călărești un Pal.\r\n\r\nCând un Pal se apropie de momeală și pluta se scufundă, apasă <keyGuideIcon id=|WeaponUse|/> la momentul potrivit pentru a-l agăța.\r\n\r\nOdată agățat, va începe un minijoc. Menține bara suprapusă peste pictograma peștelui.\r\nȚine apăsat <keyGuideIcon id=|WeaponUse|/> pentru a deplasa bara spre dreapta și eliberează pentru a o deplasa spre stânga.\r\n\r\nPeștele se va zbate și se va mișca dintr-o parte în alta, așa că potrivește cu grijă mișcarea barei.\r\n\r\nCât timp bara se suprapune cu pictograma peștelui, indicatorul de captură se va umple. Când indicatorul ajunge la maxim, vei prinde cu succes Palul și vei obține obiecte.\r\n\r\nÎmbunătățirea undiței și a momelii îți va oferi un avantaj în minijoc. Dacă pescuitul pare complicat, fabrică undițe sau momeli mai bune și încearcă din nou.\r\n\r\nAnumiți Pali te pot ajuta, de asemenea, să pescuiești mai eficient, așa că fii cu ochii pe ei."
+  }
+ ]
+}

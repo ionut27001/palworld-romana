@@ -1,0 +1,2750 @@
+{
+ "table": "DT_BuildObjectDescText_Common",
+ "entries": [
+  {
+   "key": "BUILDOBJECT_DESC_BlastFurnace_TextData",
+   "en": "Allows refinement of <itemName id=|CopperIngot|/>.\r\nThe quality leaves much to desire, and processing is slow.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Permite rafinarea de: <itemName id=|CopperIngot|/>.\r\nCalitatea lasă de dorit, iar procesarea este lentă.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BlastFurnace2_TextData",
+   "en": "Allows refinement of <itemName id=|IronIngot|/>.\r\nThe quality has improved, but the processing speed is still unsatisfactory.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Permite rafinarea de: <itemName id=|IronIngot|/>.\r\nCalitatea s-a îmbunătățit, dar viteza de procesare este încă nesatisfăcătoare.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BlastFurnace3_TextData",
+   "en": "Allows refinement of <itemName id=|StealIngot|/>.\r\nIt requires electricity to use, but is quicker to process.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Permite rafinarea de: <itemName id=|StealIngot|/>.\r\nNecesită electricitate pentru a funcționa, dar procesarea este mai rapidă.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BlastFurnace4_Old_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BlastFurnace5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CampFire_TextData",
+   "en": "Needed for cooking food.\r\nIt can only be used to grill simple ingredients.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Necesar pentru gătirea hranei.\r\nPoate fi folosit doar pentru a frige ingrediente simple.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CharacterRankUp_TextData",
+   "en": "A chamber for increasing a Pal's rank.\r\nPals can surpass their physical limitations if given\r\na concentrated extract taken from a Pal of the same type.",
+   "ro": "O cameră pentru creșterea rangului unui Pal.\r\nPalii își pot depăși limitele fizice dacă primesc\r\nun extract concentrat obținut de la un Pal de același tip."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CookingStove_TextData",
+   "en": "Needed for cooking food.\r\nUse of a cooking pot allows for a wider variety of meal preparation.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Necesară pentru gătirea hranei.\r\nFolosirea unei oale de gătit permite prepararea unei varietăți mai mari de mâncăruri.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseGatlingGun_TextData",
+   "en": "A defensive installation for protecting a base from enemies.\r\nWhen a Pal with Handiwork suitability is assigned, it will continuously defend the base using a gatling gun.",
+   "ro": "O instalație defensivă pentru protejarea bazei de inamici.\r\nCând este alocat un Pal cu aptitudinea Lucru manual, acesta va apăra continuu baza folosind o mitralieră Gatling."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseMachinegun_TextData",
+   "en": "A defensive installation for protecting a base from enemies.\r\nWhen a Pal with Handiwork suitability is assigned, it will continuously defend the base using a machine gun.",
+   "ro": "O instalație defensivă pentru protejarea bazei de inamici.\r\nCând este alocat un Pal cu aptitudinea Lucru manual, acesta va apăra continuu baza folosind o mitralieră."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseMinigun_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseMissile_TextData",
+   "en": "A defensive installation for protecting a base from enemies.\r\nWhen a Pal with Handiwork suitability is assigned, it will continuously defend the base using a missile launcher.",
+   "ro": "O instalație defensivă pentru protejarea bazei de inamici.\r\nCând este alocat un Pal cu aptitudinea Lucru manual, acesta va apăra continuu baza folosind un lansator de rachete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseBowGun_TextData",
+   "en": "A defensive installation for protecting a base from enemies.\r\nWhen a Pal with Handiwork suitability is assigned, it will continuously defend the base using a crossbow.",
+   "ro": "O instalație defensivă pentru protejarea bazei de inamici.\r\nCând este alocat un Pal cu aptitudinea Lucru manual, acesta va apăra continuu baza folosind o arbaletă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseWait_TextData",
+   "en": "A defensive installation for protecting a base from enemies.\r\nWhen a Pal is assigned, it will stop other work and stay on lookout and prepare for combat.",
+   "ro": "O instalație defensivă pentru protejarea bazei de inamici.\r\nCând este alocat un Pal, acesta va opri orice altă muncă, va sta de veghe și se va pregăti de luptă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DisplayCharacter_TextData",
+   "en": "Container for observing captured Pals.\r\nPals inside cannot participate in battle or production,\r\nbut they do not become hungry.",
+   "ro": "Container pentru observarea Palilor capturați.\r\nPalii din interior nu pot participa la lupte sau producție,\r\ndar nu le este foame."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricGenerator_TextData",
+   "en": "A power generator fueled by Electric Pals.\r\nElectric equipment won't run without this.",
+   "ro": "Un generator de energie alimentat de Pali de tip Electric.\r\nEchipamentele electrice nu vor funcționa fără acesta."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricGenerator_Slave_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricGenerator2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricGenerator3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricKitchen_TextData",
+   "en": "Needed for cooking food.\r\nIt requires electricity to run, but allows a large amount of meals to be prepared rapidly.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Necesară pentru gătirea hranei.\r\nNecesită electricitate pentru a funcționa, dar permite prepararea rapidă a unei cantități mari de mâncare.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Factory_Comfortable_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Factory_Comfortable_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Factory_Hard_01_TextData",
+   "en": "An Assembly Line for producing items and gear.\r\nA small workspace limits production speeds.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea de obiecte și echipamente.\r\nSpațiul mic de lucru limitează viteza de producție.\r\nNecesită Pali capabili de lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Factory_Hard_02_TextData",
+   "en": "An Assembly Line for producing items and gear.\r\nBy splitting Pals into groups, production speeds have somewhat increased.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea de obiecte și echipament.\r\nPrin împărțirea Palilor în grupuri, viteza de producție a crescut oarecum.\r\nNecesită Pali capabili de lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Factory_Hard_03_TextData",
+   "en": "An Assembly Line for producing items and gear.\r\nThrough clever management, production speeds have greatly increased.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea de obiecte și echipament.\r\nPrintr-o gestionare inteligentă, viteza de producție a crescut considerabil.\r\nNecesită Pali capabili de lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlock_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Grade01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Grade02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Grade03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_wheet_TextData",
+   "en": "A farm that can grow <itemName id=|Wheat|/>.\r\nIt requires an average amount of time to harvest.\r\nRequires a few Pals to plant seeds, water, and harvest crops.",
+   "ro": "O parcelă pe care poți cultiva <itemName id=|Wheat|/>.\r\nNecesită un timp mediu până la recoltare.\r\nNecesită câțiva Pali pentru a semăna, uda și recolta culturile."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_tomato_TextData",
+   "en": "A farm that can grow <itemName id=|Tomato|/>.\r\nThey take time to harvest, but increase the variety of meals you can prepare.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+   "ro": "O parcelă pe care poți cultiva <itemName id=|Tomato|/>.\r\nRecoltarea durează ceva timp, dar mărește varietatea de mâncăruri pe care le poți găti.\r\nNecesită câțiva Pali pentru a semăna, uda și recolta culturile."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Lettuce_TextData",
+   "en": "A farm that can grow <itemName id=|Lettuce|/>.\r\nIt takes time to harvest, but increases the variety of meals you can prepare.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+   "ro": "O parcelă pe care poți cultiva <itemName id=|Lettuce|/>.\r\nRecoltarea durează ceva timp, dar mărește varietatea de mâncăruri pe care le poți găti.\r\nNecesită câțiva Pali pentru a semăna, uda și recolta culturile."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Berries_TextData",
+   "en": "A farm that can grow <itemName id=|Berries|/>.\r\nHarvest time is quick, but eating them doesn't provide much sustenance.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+   "ro": "O parcelă pe care poți cultiva <itemName id=|Berries|/>.\r\nTimpul de recoltare este scurt, dar consumul lor nu ține prea mult de foame.\r\nNecesită câțiva Pali pentru a semăna, uda și recolta culturile."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FastTravelPoint_TextData",
+   "en": "A stone monument in the shape of a <characterName id=|ChickenPal|/>.\r\nAllows fast travel to the location where it is placed.",
+   "ro": "Un monument de piatră în forma unui <characterName id=|ChickenPal|/>.\r\nPermite călătoria rapidă către locul unde este amplasat."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Floor_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Floor_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Floor_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_HighTechKitchen_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ItemChest_TextData",
+   "en": "Stores items.\r\nMade from wood, it breaks easily.\r\nIt's probably not the best thing to store valuables in.",
+   "ro": "Depozitează obiecte.\r\nFiind fabricat din lemn, se sparge ușor.\r\nProbabil nu e cel mai bun loc pentru a păstra obiecte de valoare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ItemChest_02_TextData",
+   "en": "Stores items.\r\nReinforced with metal, it is somewhat durable.\r\nThe increased size allows for the storage of more things.",
+   "ro": "Depozitează obiecte.\r\nFiind ranforsat cu metal, este ceva mai rezistent.\r\nCapacitatea mărită permite depozitarea mai multor lucruri."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ItemChest_03_TextData",
+   "en": "Stores items.\r\nMade of iron, it is extremely durable.\r\nIt is useful as a large, secure storage box.",
+   "ro": "Depozitează obiecte.\r\nFabricat din fier, este extrem de rezistent.\r\nEste util drept o cutie de depozitare mare și sigură."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicalPalBed_02_TextData",
+   "en": "A straw bed for Pals.\r\nPals can rest on it when injured, or to sleep at night.\r\nIt isn't soft, but it's better than nothing.",
+   "ro": "Un pat de paie pentru Pali.\r\nPalii se pot odihni pe el când sunt răniți sau pot dormi noaptea.\r\nNu este moale, dar e mai bun decât nimic."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicalPalBed_03_TextData",
+   "en": "A fluffy bed that Pals can get a good rest on.\r\nPals can rest on it when injured, or to sleep at night.\r\nPals love sleeping on fluffy beds like this.",
+   "ro": "Un pat pufos pe care Palii se pot odihni bine.\r\nPalii se pot odihni pe el când sunt răniți sau pot dormi noaptea.\r\nPalilor le place mult să doarmă pe paturi pufoase ca acesta."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicalPalBed_04_TextData",
+   "en": "A fluffy bed that Pals can get a good rest on.\r\nPals can rest on it when injured, or to sleep at night.\r\nEven large Pals can sleep soundly on a bed like this.",
+   "ro": "Un pat pufos pe care Palii se pot odihni bine.\r\nPalii se pot odihni pe el când sunt răniți sau pot dormi noaptea.\r\nChiar și Palii mari pot dormi adânc pe un astfel de pat."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicalPalBed_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicineFacility_01_TextData",
+   "en": "A facility for making Pal medicine.\r\nIt can only produce simple medicines.\r\nLeave its operation to a Pal that can make medicine.",
+   "ro": "O instalație pentru fabricarea medicamentelor pentru Pali.\r\nPoate produce doar medicamente simple.\r\nLasă operarea ei în seama unui Pal capabil de producție de medicamente."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicineFacility_02_TextData",
+   "en": "A facility for making Pal medicine.\r\nIt requires electricity, but can produce high quality medicine.\r\nLeave its operation to a Pal that can make medicine.",
+   "ro": "O instalație pentru fabricarea medicamentelor pentru Pali.\r\nNecesită electricitate, dar poate produce medicamente de înaltă calitate.\r\nLasă operarea ei în seama unui Pal capabil de producție de medicamente."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicineFacility_03_Old_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PalFoodBox_TextData",
+   "en": "A box for storing Pal food.\r\nPals can feed from it when hungry.\r\nMake sure to keep it well-stocked to keep your Pals happy.",
+   "ro": "O cutie pentru depozitarea hranei pentru Pali.\r\nPalii pot mânca din ea când le este foame.\r\nAi grijă să o ții bine aprovizionată pentru a-ți menține Palii fericiți."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PalStorage_TextData",
+   "en": "Used for storing captured Pals.\r\nA base is formed with this at the center.\r\nMake a base just for you and your Pals.",
+   "ro": "Folosită pentru depozitarea Palilor capturați.\r\nÎn jurul acesteia se formează o bază.\r\nConstruiește o bază doar pentru tine și Palii tăi."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PalBoxV2_TextData",
+   "en": "Facility for storing captured Pals.\r\nPals inside gradually recover Health.\r\nArea around this facility becomes a base.",
+   "ro": "Structură pentru depozitarea Palilor capturați.\r\nPalii din interior își recapătă treptat viața.\r\nZona din jurul acestei structuri devine o bază."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PlayerBed_02_TextData",
+   "en": "A shoddy bed for humans.\r\nUse it when injured or to sleep at night.\r\nYou won't be able to sleep soundly without a roof over your head.",
+   "ro": "Un pat de mântuială pentru oameni.\r\nFolosește-l când ai răni sau pentru a dormi noaptea.\r\nNu vei putea dormi liniștit fără un acoperiș deasupra capului."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PlayerBed_03_TextData",
+   "en": "A fluffy bed for humans.\r\nUse it when injured or to sleep at night.\r\nYou won't be able to sleep soundly without a roof over your head.",
+   "ro": "Un pat moale pentru oameni.\r\nFolosește-l când ai răni sau pentru a dormi noaptea.\r\nNu vei putea dormi liniștit fără un acoperiș deasupra capului."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PlayerBed_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ShippingItemBox_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SphereFactory_Black_01_TextData",
+   "en": "A <mapObjectName id=|WorkBench|/> for producing spheres used for capturing Pals.\r\nA small workspace keeps the production speed slow.\r\nRequires Pals that can work with their hands.",
+   "ro": "<mapObjectName id=|WorkBench|/> pentru producerea de sfere folosite la capturarea Palilor.\r\nSpațiul mic de lucru menține viteza de producție scăzută.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SphereFactory_Black_02_TextData",
+   "en": "An Assembly Line for producing spheres used for capturing Pals.\r\nBy splitting Pals into groups, production speeds have somewhat increased.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea de sfere folosite la capturarea Palilor.\r\nPrin împărțirea Palilor în grupuri, viteza de producție a crescut oarecum.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SphereFactory_Black_03_TextData",
+   "en": "An Assembly Line for producing spheres used for capturing Pals.\r\nThrough clever management, production speeds have greatly increased.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea de sfere folosite la capturarea Palilor.\r\nDatorită gestionării inteligente, viteza de producție a crescut considerabil.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SphereFactory_White_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SphereFactory_White_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SphereFactory_White_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_StationDeforest_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stonehouse1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_StonePit_TextData",
+   "en": "A facility for producing <itemName id=|Stone|/>.\r\nMining <itemName id=|Stone|/> is hard work that requires much physical endurance.\r\nLeave it to Pals skilled at mining.",
+   "ro": "O structură pentru producerea de <itemName id=|Stone|/>.\r\nMineritul de <itemName id=|Stone|/> este o muncă grea ce necesită multă rezistență fizică.\r\nLas-o în seama Palilor pricepuți la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CopperMine_TextData",
+   "en": "A facility for producing <itemName id=|CopperOre|/>.\r\nMining <itemName id=|CopperOre|/> is extremely hard work that requires much physical endurance.\r\nLeave it to Pals skilled at mining.",
+   "ro": "O structură pentru producerea de <itemName id=|CopperOre|/>.\r\nMineritul de <itemName id=|CopperOre|/> este o muncă extrem de grea ce necesită multă rezistență fizică.\r\nLas-o în seama Palilor pricepuți la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SteelMine_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Strawhouse1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wall_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wall_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DUMMY_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactory_Clean_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactory_Clean_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactory_Clean_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponChest_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_01_TextData",
+   "en": "A Primitive Workbench for producing weapons and ammunition.\r\nA small workspace prevents the production of high quality weapons.\r\nRequires Pals that can work with their hands.",
+   "ro": "O bancă de lucru primitivă pentru fabricarea de arme și muniție.\r\nSpațiul mic de lucru împiedică fabricarea de arme de înaltă calitate.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_02_TextData",
+   "en": "An Assembly Line for producing weapons and ammunition.\r\nBy splitting Pals into groups, production speeds have somewhat increased.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru fabricarea de arme și muniție.\r\nPrin împărțirea Palilor în grupuri, viteza de producție a crescut oarecum.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_03_TextData",
+   "en": "An Assembly Line for producing weapons and ammunition.\r\nThrough clever management, production speeds have greatly increased.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru fabricarea de arme și muniție.\r\nDatorită gestionării inteligente, viteza de producție a crescut considerabil.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactry_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Well_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Woodhouse1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WorkBench_TextData",
+   "en": "A <mapObjectName id=|WorkBench|/> for producing simple items.\r\nRequires a Pal that can work with their hands.",
+   "ro": "<mapObjectName id=|WorkBench|/> pentru fabricarea de obiecte simple.\r\nNecesită un Pal priceput la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_RecoverOtomo_TextData",
+   "en": "Used for recovering a Pal's Health.\r\nSoothes and calms a Pal inside their sphere using Paldium.",
+   "ro": "Folosită pentru refacerea vieții unui Pal.\r\nLiniștește și calmează Palul din interiorul sferei sale folosind Paldium."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_HatchingPalEgg_TextData",
+   "en": "Used for incubating a Pal Egg.\r\nIf a Pal Egg is left in it, it will automatically hatch after some time has passed.",
+   "ro": "Folosit pentru a incuba un ou de Pal.\r\nDacă lași un ou de Pal în el, va ecloza automat după o perioadă de timp."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_StationDeforest2_TextData",
+   "en": "A facility for producing <itemName id=|Wood|/>.\r\nCutting wood is hard work that requires much physical endurance.\r\nLeave it to Pals skilled in logging.",
+   "ro": "O instalație pentru a produce <itemName id=|Wood|/>.\r\nTăiatul lemnelor este o muncă grea care necesită multă rezistență fizică.\r\nLas-o în seama Palilor pricepuți la tăiat lemne."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WorkBench_SkillUnlock_TextData",
+   "en": "A <mapObjectName id=|WorkBench|/> for producing Pal tools.\r\nMake a saddle to ride Pals, or make a gun for Pals to use.",
+   "ro": "O <mapObjectName id=|WorkBench|/> pentru fabricarea de unelte pentru Pali.\r\nCreează o șa pentru a călări Pali sau fabrică o armă pe care să o folosească Palii."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WorkBench_SkillCard_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Foundation_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Roof_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stairs_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_foundation_TextData",
+   "en": "A foundation for building walls or facilities on.\r\nMade from wood, it breaks easily.",
+   "ro": "O fundație pe care poți construi pereți sau instalații.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_wall_TextData",
+   "en": "Walls built on foundations for keeping out intruders.\r\nMade from wood, it breaks easily.",
+   "ro": "Pereți construiți pe fundații pentru a ține intrușii la distanță.\r\nFiind din lemn, se sparg ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_roof_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind.\r\nMade from wood, it breaks easily.",
+   "ro": "Un acoperiș construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_stair_TextData",
+   "en": "Stairs placed below a foundation or roof for climbing up.\r\nMade from wood, it breaks easily.",
+   "ro": "Scări așezate sub o fundație sau un acoperiș pentru a urca.\r\nFiind din lemn, se sparg ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_DoorWall_TextData",
+   "en": "Door built on a foundation. Becomes an entrance.\r\nMade from wood, it breaks easily.",
+   "ro": "Ușă construită pe o fundație. Servește drept intrare.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_foundation_TextData",
+   "en": "A foundation for building walls or facilities on.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "O fundație pe care poți construi pereți sau instalații.\r\nFiind din piatră, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_wall_TextData",
+   "en": "Walls built on foundations for keeping out intruders.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Pereți construiți pe fundații pentru a ține intrușii la distanță.\r\nFiind din piatră, sunt destul de rezistenți."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_roof_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un acoperiș construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_stair_TextData",
+   "en": "Stairs placed below a foundation or roof for climbing up.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Scări așezate sub o fundație sau un acoperiș pentru a urca.\r\nFiind din piatră, sunt destul de rezistente."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_foundation_TextData",
+   "en": "A foundation for building walls or facilities on.\r\nMade from metal, it is extremely durable.",
+   "ro": "O fundație pe care poți construi pereți sau instalații.\r\nFiind din metal, este extrem de durabilă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_wall_TextData",
+   "en": "Walls built on foundations for keeping out intruders.\r\nMade from metal, it is extremely durable.",
+   "ro": "Pereți construiți pe fundații pentru a ține intrușii la distanță.\r\nFiind din metal, sunt extrem de durabili."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_roof_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind.\r\nMade from metal, it is extremely durable.",
+   "ro": "Un acoperiș construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_stair_TextData",
+   "en": "Stairs placed below a foundation or roof for climbing up.\r\nMade from metal, it is extremely durable.",
+   "ro": "Scară plasată sub o fundație sau un acoperiș pentru a putea urca.\r\nFiind fabricată din metal, este extrem de durabilă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Heater_TextData",
+   "en": "A device that blows warm air, raising the temperature of a base.\r\nIt doesn't provide much warmth, but helps one to endure somewhat cold environments.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Un dispozitiv care suflă aer cald, crescând temperatura într-o bază.\r\nNu oferă foarte multă căldură, dar te ajută să reziști în medii oarecum reci.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricHeater_TextData",
+   "en": "A device that blows warm air, raising the temperature of a base.\r\nUsing electricity, it can really heat things up.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Un dispozitiv care suflă aer cald, crescând temperatura într-o bază.\r\nFolosind electricitate, poate încălzi lucrurile considerabil.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Cooler_TextData",
+   "en": "A device that blows cool air, lowering the temperature of a base.\r\nIt doesn't provide much relief from the heat, but helps one to endure somewhat hot environments.\r\nRequires an Ice Pal for cooling.",
+   "ro": "Un dispozitiv care suflă aer rece, scăzând temperatura într-o bază.\r\nNu oferă o răcorire prea mare, dar te ajută să reziști în medii oarecum calde.\r\nNecesită un Pal de Gheață pentru răcire."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricCooler_TextData",
+   "en": "A device that blows cool air, lowering the temperature of a base.\r\nUsing electricity, it can really lower the temperature.\r\nRequires an Ice Pal for cooling.",
+   "ro": "Un dispozitiv care suflă aer rece, scăzând temperatura într-o bază.\r\nFolosind electricitate, poate reduce considerabil temperatura.\r\nNecesită un Pal de Gheață pentru răcire."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Torch_TextData",
+   "en": "A light source that provides illumination to a base even at night.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "O sursă de lumină care asigură iluminarea unei baze chiar și pe timp de noapte.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WallTorch_TextData",
+   "en": "A light source that provides illumination to a base even at night.\r\nIt can be placed on walls.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "O sursă de lumină care asigură iluminarea unei baze chiar și pe timp de noapte.\r\nPoate fi amplasată pe pereți.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Lamp_TextData",
+   "en": "A light source that provides illumination to a base even at night.\r\nRequires electricity, but lights up a larger area.",
+   "ro": "O sursă de lumină care asigură iluminarea unei baze chiar și pe timp de noapte.\r\nNecesită electricitate, dar luminează o zonă mai extinsă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CeilingLamp_TextData",
+   "en": "A light source that provides illumination to a base even at night.\r\nIt can be placed on a ceiling.\r\nRequires electricity, but lights up a larger area.",
+   "ro": "O sursă de lumină care asigură iluminarea unei baze chiar și pe timp de noapte.\r\nPoate fi amplasată pe tavan.\r\nNecesită electricitate, dar luminează o zonă mai extinsă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_LargeLamp_TextData",
+   "en": "A light source that provides illumination to a base even at night.\r\nRequires a significant amount of electricity, but lights up an even larger area.",
+   "ro": "O sursă de lumină care asigură iluminarea unei baze chiar și pe timp de noapte.\r\nNecesită o cantitate semnificativă de electricitate, dar luminează o zonă și mai mare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_LargeCeilingLamp_TextData",
+   "en": "A light source that provides illumination to a base even at night.\r\nIt can be placed on a ceiling.\r\nRequires a significant amount of electricity, but lights up an even larger area.",
+   "ro": "O sursă de lumină care asigură iluminarea unei baze chiar și pe timp de noapte.\r\nPoate fi amplasată pe tavan.\r\nNecesită o cantitate semnificativă de electricitate, dar luminează o zonă și mai mare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BuildableGoddessStatue_TextData",
+   "en": "Stone statue spoken of in legends on Palpagos Island.\r\nOffer up <itemName id=|Relic|/> to receive strange powers.",
+   "ro": "Statuie de piatră menționată în legendele de pe Insula Palpagos.\r\nOferă <itemName id=|Relic|/> pentru a primi puteri ciudate."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Spa_TextData",
+   "en": "Facility where Pals on base can rest.\r\nRestores SAN after a long day of hard work.",
+   "ro": "O facilitate unde Palii din bază se pot odihni.\r\nRestabilește nivelul de SAN după o zi lungă de muncă grea."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Spa2_TextData",
+   "en": "Facility where Pals on base can rest.\r\nNow comfier and restores more SAN.",
+   "ro": "O facilitate unde Palii din bază se pot odihni.\r\nAcum este mai confortabilă și reface mai mult SAN."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseWall_TextData",
+   "en": "Massive defensive wall to prevent enemy intrusions.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Zid defensiv masiv pentru a preveni incursiunile inamicilor.\r\nFiind fabricat din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Crusher_TextData",
+   "en": "Facility for breaking down <itemName id=|Stone|/> and <itemName id=|Wood|/> to exchange them for other materials.\r\nRequires Pal with the Watering trait to spin the water turbine.",
+   "ro": "Instalație pentru zdrobirea de <itemName id=|Stone|/> și <itemName id=|Wood|/> pentru a le preschimba în alte materiale.\r\nNecesită un Pal cu aptitudinea Udare pentru a învârti turbina cu apă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WoodCrusher_TextData",
+   "en": "Facility that can saw <itemName id=|Wood|/> to extract <itemName id=|Fiber|/>.",
+   "ro": "Instalație care poate tăia <itemName id=|Wood|/> pentru a extrage <itemName id=|Fiber|/>."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FlourMill_TextData",
+   "en": "Facility for milling <itemName id=|Wheat|/> to produce <itemName id=|Flour|/>.\r\nRequires Pal with the Watering trait to spin the water turbine.",
+   "ro": "Instalație pentru măcinarea de <itemName id=|Wheat|/> pentru a produce <itemName id=|Flour|/>.\r\nNecesită un Pal cu aptitudinea Udare pentru a învârti turbina cu apă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Trap_LegHold_TextData",
+   "en": "Trap that immobilizes Pals who step on it. The capture rate with the sphere increases when a Pal is trapped. Only effective on small Pals.",
+   "ro": "Capcană care imobilizează Palii care calcă pe ea. Rata de capturare cu sfera crește atunci când un Pal este prins în capcană. Eficientă doar împotriva Palilor mici."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Trap_LegHold_Big_TextData",
+   "en": "A bear trap to immobilize large Pals. The capture rate with the sphere increases when a Pal is trapped. Only effective on large Pals, small Pals will not be caught.",
+   "ro": "O capcană de urși pentru a imobiliza Palii mari. Rata de capturare cu sfera crește atunci când un Pal este prins în capcană. Eficientă doar împotriva Palilor mari; Palii mici nu vor fi prinși."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Trap_MovingPanel_TextData",
+   "en": "A description of the moving panel",
+   "ro": "O descriere a panoului mobil"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Trap_MineElecShock_TextData",
+   "en": "Trap that electrocutes the Pal that steps on it. The electrocuted Pal has a higher capture rate with the sphere.",
+   "ro": "Capcană care electrocutează Palul care calcă pe ea. Palul electrocutat are o rată de capturare mai mare cu sfera."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Trap_MineFreeze_TextData",
+   "en": "Trap that freezes the Pal that steps on it. The frozen Pal has a higher capture rate with the sphere.",
+   "ro": "Capcană care îngheață Palul care calcă pe ea. Palul înghețat are o rată de capturare mai mare cu sfera."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Trap_MineAttack_TextData",
+   "en": "Trap that explodes when a Pal steps on it. It deals damage to a wide area.",
+   "ro": "Capcană care explodează atunci când un Pal calcă pe ea. Provoacă daune pe o zonă extinsă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BreedFarm_TextData",
+   "en": "Assign one male and one female Pal to produce eggs.\r\nPlacing <itemName id=|Cake|/> in the facility is required for production.",
+   "ro": "Atribuie un Pal mascul și o femelă pentru a produce ouă.\r\nEste necesară plasarea de <itemName id=|Cake|/> în instalație pentru producție."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ToolBoxV1_TextData",
+   "en": "Place in base to improve handiwork speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează în bază pentru a crește viteza de lucru manual.\r\nPlasarea mai multor exemplare nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ToolBoxV2_TextData",
+   "en": "Toolbox V2",
+   "ro": "Trusă de scule V2"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BaseCampWorkHard_TextData",
+   "en": "Command your Pals to work on various things inside a base.\r\nYou can allow or prohibit individual kinds of work.",
+   "ro": "Ordonă Palilor tăi să execute diverse activități în interiorul unei baze.\r\nPoți permite sau interzice tipuri individuale de muncă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_OlympicCauldron_TextData",
+   "en": "Place in base to improve fire-making speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează în bază pentru a crește viteza de aprindere a focului.\r\nPlasarea mai multor exemplare nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Fountain_TextData",
+   "en": "Place in base to improve watering speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează în bază pentru a crește viteza de udare.\r\nConstruirea mai multor fântâni nu oferă efecte suplimentare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Silo_TextData",
+   "en": "Place in base to improve planting speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează-l în bază pentru a crește viteza de plantare.\r\nConstruirea a mai mult de unul nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TransmissionTower_TextData",
+   "en": "Place in base to improve electricity generating speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează-l în bază pentru a crește viteza de generare a electricității.\r\nConstruirea a mai mult de unul nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FlowerBed_TextData",
+   "en": "Place in base to improve gathering speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează-l în bază pentru a crește viteza de culegere.\r\nConstruirea a mai mult de unul nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stump_TextData",
+   "en": "Place in base to improve logging speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează-l în bază pentru a crește viteza de tăiat lemne.\r\nConstruirea a mai mult de unul nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MiningTool_TextData",
+   "en": "Place in base to improve mining speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează-l în bază pentru a crește viteza de minerit.\r\nConstruirea a mai mult de unul nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Cauldron_TextData",
+   "en": "Place in base to improve medicine manufacturing speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează-l în bază pentru a crește viteza de producție a medicamentelor.\r\nConstruirea a mai mult de unul nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Snowman_TextData",
+   "en": "Place in base to improve cooling speed.\r\nPlacing more than one has no additional effect.",
+   "ro": "Plasează-l în bază pentru a crește viteza de răcire.\r\nConstruirea a mai mult de unul nu are efect suplimentar."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_DoorWall_TextData",
+   "en": "Door built on a foundation. Becomes an entrance.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Ușă construită pe o fundație. Devine o cale de acces.\r\nFiind din piatră, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_DoorWall_TextData",
+   "en": "Door built on a foundation. Becomes an entrance.\r\nMade from metal, it is extremely durable.",
+   "ro": "Ușă construită pe o fundație. Devine o cale de acces.\r\nFiind din metal, este extrem de durabilă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CoolerBox_TextData",
+   "en": "Small food vault.\r\nAssign an Ice Pal to help prevent\r\nfood stored inside from spoiling.",
+   "ro": "Depozit mic pentru mâncare.\r\nAlocă un Pal de tip Gheață pentru a preveni\r\nalterarea mâncării depozitate înăuntru."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Refrigerator_TextData",
+   "en": "Large food vault.\r\nAssign an Ice Pal to help prevent\r\nfood stored inside from spoiling.",
+   "ro": "Depozit mare pentru mâncare.\r\nAlocă un Pal de tip Gheață pentru a preveni\r\nalterarea mâncării depozitate înăuntru."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MonsterFarm_TextData",
+   "en": "Farm for raising sheep and fowl-like Pals.\r\nAssign a Pal with the appropriate Partner Skill to a farm\r\nto produce items.",
+   "ro": "Fermă pentru creșterea Palilor precum oile sau păsările.\r\nAlocă la fermă un Pal cu abilitatea de partener adecvată\r\npentru a produce obiecte."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wood_Gate_TextData",
+   "en": "Gate large enough for big Pals to pass through.\r\nMade from wood, it breaks easily.",
+   "ro": "Poartă suficient de mare pentru a permite trecerea Palilor masivi.\r\nFiind din lemn, se distruge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_Gate_TextData",
+   "en": "Gate large enough for big Pals to pass through.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Poartă suficient de mare pentru a permite trecerea Palilor masivi.\r\nFiind din piatră, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_Gate_TextData",
+   "en": "Gate large enough for big Pals to pass through.\r\nMade from metal, it is extremely durable.",
+   "ro": "Poartă suficient de mare pentru a permite trecerea Palilor masivi.\r\nFiind din metal, este extrem de durabilă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Trap_Noose_TextData",
+   "en": "Trap that catches Pals passing through it.\r\nPals caught in the trap are easier to catch with Spheres.\r\nOnly effective on small Pals.",
+   "ro": "Capcană care prinde Palii care trec prin ea.\r\nPalii prinși în capcană sunt mai ușor de capturat cu Sfere.\r\nEficientă doar împotriva Palilor mici."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_RepairBench_TextData",
+   "en": "Workbench for repairing broken tools.\r\nMaterials are needed to make repairs.",
+   "ro": "Bancă de lucru pentru repararea uneltelor stricate.\r\nNecesită materiale pentru efectuarea reparațiilor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DamagedScarecrow_TextData",
+   "en": "Training dummy shaped like a <characterName id=|Penguin|/>.\r\nCan only be placed in wide open areas.",
+   "ro": "Manechin de antrenament în formă de <characterName id=|Penguin|/>.\r\nPoate fi plasat doar în zone largi și deschise."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Signboard_TextData",
+   "en": "Can be written on.\r\nUse for memos or to communicate with others.",
+   "ro": "Se poate scrie pe el.\r\nFolosește-l pentru notițe sau pentru a comunica cu ceilalți."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BaseCampBattleDirector_TextData",
+   "en": "Bell that sets the alert status for Pals on base.\r\nChange Pal behavior to either attack invading enemies, or focus entirely on work whenever you like.",
+   "ro": "Clopot care setează starea de alertă pentru Palii din bază.\r\nSchimbă oricând comportamentul Palilor pentru a ataca inamicii invadatori sau pentru a se concentra doar pe muncă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseWall_Wood_TextData",
+   "en": "Massive defensive wall to prevent enemy intrusions.\r\nMade from wood, it breaks easily.",
+   "ro": "Zid defensiv masiv pentru a împiedica pătrunderea inamicilor.\r\nFiind din lemn, se distruge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseWall_Metal_TextData",
+   "en": "Massive defensive wall to prevent enemy intrusions.\r\nMade from metal, it is extremely durable.",
+   "ro": "Zid defensiv masiv pentru a împiedica pătrunderea inamicilor.\r\nFiind din metal, este extrem de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableSquare_Wood_TextData",
+   "en": "Decorative square table.\r\n",
+   "ro": "Masă pătrată decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableCircular_Wood_TextData",
+   "en": "Decorative round table.\r\n",
+   "ro": "Masă rotundă decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Bench_Wood_TextData",
+   "en": "Decorative wooden bench.\r\n",
+   "ro": "Bancă decorativă din lemn.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stool_Wood_TextData",
+   "en": "Decorative wooden stool.\r\n",
+   "ro": "Taburet decorativ din lemn.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Decal_PalSticker_PinkCat_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stool_High_Wood_TextData",
+   "en": "Decorative bar stool.\r\n",
+   "ro": "Scaun de bar decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Barrel_Wood_TextData",
+   "en": "Wooden barrel for storing items.\r\n",
+   "ro": "Butoi de lemn pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Box_Wood_TextData",
+   "en": "Wooden box for storing items.\r\n",
+   "ro": "Cutie de lemn pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf_Wood_TextData",
+   "en": "Wooden shelf for storing items.\r\n",
+   "ro": "Raft de lemn pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf_Cask_Wood_TextData",
+   "en": "Wooden barrel shelf for storing items.\r\n",
+   "ro": "Raft din butoaie de lemn pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf_Hang01_Wood_TextData",
+   "en": "Wooden shelf for storing items.\r\nCan be placed on a wall.",
+   "ro": "Raft de lemn pentru depozitarea obiectelor.\r\nPoate fi amplasat pe un perete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf_Hang02_Wood_TextData",
+   "en": "Decorative wooden shelf.\r\nCan be placed on a wall.",
+   "ro": "Raft decorativ de lemn.\r\nPoate fi amplasat pe un perete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Counter_Wood_TextData",
+   "en": "Decorative wooden counter.\r\n",
+   "ro": "Tejghea decorativă de lemn.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Rug_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ivy01_TextData",
+   "en": "Decorative large ivy.\r\nCan be placed on a wall.",
+   "ro": "Iederă mare decorativă.\r\nPoate fi amplasată pe un perete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ivy02_TextData",
+   "en": "Decorative small ivy.\r\nCan be placed on a wall.",
+   "ro": "Iederă mică decorativă.\r\nPoate fi amplasată pe un perete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ivy03_TextData",
+   "en": "Decorative horizontal ivy.\r\nCan be placed on a wall.",
+   "ro": "Iederă orizontală decorativă.\r\nPoate fi amplasată pe un perete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Chair01_Wood_TextData",
+   "en": "Decorative wooden chair.\r\n",
+   "ro": "Scaun decorativ de lemn.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Barrel01_Iron_TextData",
+   "en": "Decorative red metal barrel.\r\n",
+   "ro": "Butoi metalic decorativ roșu.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Barrel02_Iron_TextData",
+   "en": "Decorative blue metal barrel.\r\n",
+   "ro": "Butoi metalic decorativ albastru.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Barrel03_Iron_TextData",
+   "en": "Decorative green metal barrel.\r\n",
+   "ro": "Butoi metalic decorativ verde.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Box01_Iron_TextData",
+   "en": "Small container for storing items.\r\n",
+   "ro": "Container mic pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Box02_Iron_TextData",
+   "en": "Cloth covered container for storing items.\r\n",
+   "ro": "Container acoperit cu pânză pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CableCoil01_Iron_TextData",
+   "en": "Decorative cable reel.\r\n",
+   "ro": "Tambur de cablu decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Chair01_Iron_TextData",
+   "en": "Decorative leather chair.\r\n",
+   "ro": "Scaun decorativ din piele.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Chair02_Iron_TextData",
+   "en": "Decorative iron chair.\r\n",
+   "ro": "Scaun decorativ din fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Clock01_Wall_Iron_TextData",
+   "en": "Decorative wall clock.\r\nBroken, it doesn't tell time.",
+   "ro": "Ceas decorativ de perete.\r\nFiind stricat, nu arată ora."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Container01_Iron_TextData",
+   "en": "Large container for storing items.\r\nImitates the designs left behind by an ancient and prosperous civilization.",
+   "ro": "Container mare pentru depozitarea obiectelor.\r\nImită designul lăsat în urmă de o civilizație antică și prosperă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_GarbageBag_Iron_TextData",
+   "en": "Decorative garbage bag.\r\n",
+   "ro": "Sac de gunoi decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_GoalSoccer_Iron_TextData",
+   "en": "Decorative soccer goal.\r\nKicking a <characterName id=|SheepBall|/> into it will get you no points.",
+   "ro": "Poartă decorativă de fotbal.\r\nChiar dacă șutezi un <characterName id=|SheepBall|/> în ea, nu primești niciun punct."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MachineGame01_Iron_TextData",
+   "en": "Decorative claw crane.\r\nBroken, it can't be played.",
+   "ro": "Aparat decorativ cu braț mecanic.\r\nFiind stricat, nu te poți juca la el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MachineVending01_Iron_TextData",
+   "en": "Decorative cola vending machine.\r\nCannot be used to buy items.",
+   "ro": "Automat decorativ de cola.\r\nNu poate fi folosit pentru a cumpăra obiecte."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PipeClay01_Iron_TextData",
+   "en": "Decorative earthen pipe.\r\n",
+   "ro": "Tub decorativ din lut.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf01_Iron_TextData",
+   "en": "Iron shelf for storing items.\r\n",
+   "ro": "Raft din fier pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf02_Iron_TextData",
+   "en": "Long iron shelf for storing items.\r\n",
+   "ro": "Raft lung din fier pentru depozitarea obiectelor.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf03_Iron_TextData",
+   "en": "Orange locker for storing items.\r\nDecorated with Pal stickers.",
+   "ro": "Dulap portocaliu pentru depozitarea obiectelor.\r\nDecorat cu abțibilduri cu Pali."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf04_Iron_TextData",
+   "en": "Locker for storing items.\r\nDecorated with Pal stickers.",
+   "ro": "Dulap pentru depozitarea obiectelor.\r\nDecorat cu abțibilduri cu Pali."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SignExit_Ceiling_Iron_TextData",
+   "en": "Decorative emergency exit sign.\r\nCan be placed on ceilings.",
+   "ro": "Semn decorativ de ieșire de urgență.\r\nPoate fi amplasat pe tavan."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SignExit_Wall_Iron_TextData",
+   "en": "Decorative emergency exit sign.\r\nCan be placed on walls.",
+   "ro": "Semn decorativ de ieșire de urgență.\r\nPoate fi amplasat pe pereți."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Sofa01_Iron_TextData",
+   "en": "Decorative leather armchair.\r\n",
+   "ro": "Fotoliu decorativ din piele.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Sofa02_Iron_TextData",
+   "en": "Decorative leather couch.\r\n",
+   "ro": "Canapea decorativă din piele.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stool01_Iron_TextData",
+   "en": "Decorative iron stool.\r\n",
+   "ro": "Taburet decorativ din fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableCircular01_Iron_TextData",
+   "en": "Decorative round iron table.\r\n",
+   "ro": "Masă rotundă decorativă din fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableSide01_Iron_TextData",
+   "en": "Decorative ironwood side table.\r\n",
+   "ro": "Măsuță decorativă din lemn și fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableSquare01_Iron_TextData",
+   "en": "Decorative ironwood table.\r\n",
+   "ro": "Masă decorativă din lemn și fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableSquare02_Iron_TextData",
+   "en": "Decorative ironwood low table.\r\n",
+   "ro": "Măsuță joasă decorativă din lemn și fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Tire01_Iron_TextData",
+   "en": "Decorative tire.\r\n",
+   "ro": "Anvelopă decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficBarricade01_Iron_TextData",
+   "en": "Decorative barricade.\r\n",
+   "ro": "Baricadă decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficBarricade02_Iron_TextData",
+   "en": "Decorative orange barricade.\r\n",
+   "ro": "Baricadă decorativă portocalie.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficBarricade03_Iron_TextData",
+   "en": "Decorative red barricade.\r\n",
+   "ro": "Baricadă decorativă roșie.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficBarricade04_Iron_TextData",
+   "en": "Decorative white barricade.\r\n",
+   "ro": "Baricadă decorativă albă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficBarricade05_Iron_TextData",
+   "en": "Decorative iron fence.\r\n",
+   "ro": "Gard decorativ din fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficCone01_Iron_TextData",
+   "en": "Decorative traffic cone.\r\n",
+   "ro": "Con de trafic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficCone02_Iron_TextData",
+   "en": "Decorative fat traffic cone.\r\n",
+   "ro": "Con de trafic gros decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficCone03_Iron_TextData",
+   "en": "Decorative skinny traffic cone.\r\n",
+   "ro": "Con de trafic subțire decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficLight01_Iron_TextData",
+   "en": "Decorative traffic light.\r\n",
+   "ro": "Semafor decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BathTub_Stone_TextData",
+   "en": "Decorative antique bathtub.\r\n",
+   "ro": "Cadă de baie antică decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Box01_Stone_TextData",
+   "en": "Decorative antique braided basket.\r\n",
+   "ro": "Coș împletit antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Chair01_Stone_TextData",
+   "en": "Decorative antique wooden chair.\r\n",
+   "ro": "Scaun de lemn antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Chair02_Stone_TextData",
+   "en": "Decorative antique green wooden chair.\r\n",
+   "ro": "Scaun de lemn verde antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Clock01_Stone_TextData",
+   "en": "Decorative antique grandfather clock.\r\nBroken, it doesn't tell time.",
+   "ro": "Pendulă de podea antică decorativă.\r\nEste stricată și nu arată ora."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Curtain01_Wall_Stone_TextData",
+   "en": "Decorative antique curtain.\r\nCan be placed on walls.\r\n",
+   "ro": "Perdea antică decorativă.\r\nPoate fi plasată pe pereți.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Desk01_Stone_TextData",
+   "en": "Decorative antique desk.\r\n",
+   "ro": "Birou antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Globe01_Stone_TextData",
+   "en": "Decorative antique globe.\r\n",
+   "ro": "Glob pământesc antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Mirror01_Stone_TextData",
+   "en": "Decorative antique oval mirror.\r\n",
+   "ro": "Oglindă ovală antică decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Mirror02_Stone_TextData",
+   "en": "Decorative antique mirror.\r\n",
+   "ro": "Oglindă antică decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Mirror01_Wall_Stone_TextData",
+   "en": "Decorative antique wall mirror.\r\nCan be placed on walls.\r\n",
+   "ro": "Oglindă de perete antică decorativă.\r\nPoate fi plasată pe pereți.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Partition_Stone_TextData",
+   "en": "Decorative antique partition.\r\n",
+   "ro": "Paravan antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Piano01_Stone_TextData",
+   "en": "Decorative grand piano.\r\nCannot be played.",
+   "ro": "Pian cu coadă decorativ.\r\nNu se poate cânta la el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Piano02_Stone_TextData",
+   "en": "Decorative upright piano.\r\nCannot be played.",
+   "ro": "Pianină decorativă.\r\nNu se poate cânta la ea."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Rug01_Stone_TextData",
+   "en": "Decorative antique carpet.\r\n",
+   "ro": "Covor antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Rug02_Stone_TextData",
+   "en": "Decorative antique red carpet.\r\n",
+   "ro": "Covor roșu antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Rug03_Stone_TextData",
+   "en": "Decorative antique green carpet.\r\n",
+   "ro": "Covor verde antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Rug04_Stone_TextData",
+   "en": "Decorative antique long carpet.\r\n",
+   "ro": "Covor lung antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf01_Stone_TextData",
+   "en": "Antique bookshelf for storing items.",
+   "ro": "Bibliotecă antică pentru depozitarea obiectelor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf02_Stone_TextData",
+   "en": "Antique wardrobe for storing items.",
+   "ro": "Dulap de haine antic pentru depozitarea obiectelor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf03_Stone_TextData",
+   "en": "Antique chest for storing items.\r\nAdorned with a photo of a Pal.",
+   "ro": "Cufăr antic pentru depozitarea obiectelor.\r\nDecorat cu o fotografie cu un Pal."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf04_Stone_TextData",
+   "en": "Antique side chest for storing items.\r\nAdorned with a photo of a Pal.",
+   "ro": "Noptieră antică pentru depozitarea obiectelor.\r\nDecorată cu o fotografie cu un Pal."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf05_Stone_TextData",
+   "en": "Antique cabinet for storing items.",
+   "ro": "Dulap antic pentru depozitarea obiectelor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf06_Stone_TextData",
+   "en": "Antique long cabinet for storing items.\r\nAdorned with a photo of a Pal.",
+   "ro": "Comodă joasă antică pentru depozitarea obiectelor.\r\nDecorată cu o fotografie cu un Pal."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf07_Stone_TextData",
+   "en": "Large antique cabinet for storing items.",
+   "ro": "Dulap mare antic pentru depozitarea obiectelor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf01_Wall_Stone_TextData",
+   "en": "Antique cabinet for storing items.\r\nCan be placed on walls.",
+   "ro": "Dulap antic pentru depozitarea obiectelor.\r\nPoate fi montat pe perete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Sofa01_Stone_TextData",
+   "en": "Decorative antique armchair.\r\n",
+   "ro": "Fotoliu antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Sofa02_Stone_TextData",
+   "en": "Decorative antique couch.\r\n",
+   "ro": "Canapea antică decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Sofa03_Stone_TextData",
+   "en": "Decorative antique ottoman.\r\n",
+   "ro": "Taburet antic decorativ.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stool01_Stone_TextData",
+   "en": "Decorative antique stool.\r\n",
+   "ro": "Scaun fără spătar decorativ, stil antic.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stove01_Stone_TextData",
+   "en": "Decorative antique stove.\r\n",
+   "ro": "Sobă decorativă, stil antic.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableCircular01_Stone_TextData",
+   "en": "Decorative antique round table.\r\n",
+   "ro": "Masă rotundă decorativă, stil antic.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableDresser01_Stone_TextData",
+   "en": "Dresser useful for giving yourself a remake.\r\nAllows players to edit their appearance.",
+   "ro": "Comodă cu oglindă utilă pentru o schimbare de look.\r\nPermite jucătorilor să-și modifice înfățișarea."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableSink01_Stone_TextData",
+   "en": "Decorative antique washstand.\r\n",
+   "ro": "Chiuvetă decorativă, stil antic.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Toilet01_Stone_TextData",
+   "en": "Decorative antique toilet.\r\nCannot be used for its original purpose.",
+   "ro": "Toaletă decorativă, stil antic.\r\nNu poate fi folosită în scopul său inițial."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ToiletHolder01_Stone_TextData",
+   "en": "Decorative antique toilet paper holder.\r\n",
+   "ro": "Suport decorativ de hârtie igienică, stil antic.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TowlRack01_Stone_TextData",
+   "en": "Decorative antique towel rack.\r\n",
+   "ro": "Suport decorativ de prosoape, stil antic.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Plant01_Plant_TextData",
+   "en": "Decorative houseplant.\r\n",
+   "ro": "Plantă de apartament decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Plant02_Plant_TextData",
+   "en": "Decorative houseplant and chair.\r\n",
+   "ro": "Scaun decorativ cu plantă de apartament.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Plant03_Plant_TextData",
+   "en": "Decorative tabletop houseplant.\r\n",
+   "ro": "Plantă de masă decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Plant04_Plant_TextData",
+   "en": "Decorative potted houseplant.\r\n",
+   "ro": "Plantă în ghiveci decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_FloorLamp01_TextData",
+   "en": "Antique brown floor lamp that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Lampadar maro stil antic care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_FloorLamp02_TextData",
+   "en": "Antique red floor lamp that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Lampadar roșu stil antic care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_LightPole01_TextData",
+   "en": "Simple street lamp that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Felinar simplu care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_LightPole02_TextData",
+   "en": "Double street lamp that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Felinar stradal dublu care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_LightPole03_TextData",
+   "en": "Retro street lamp that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Felinar stradal retro care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_LightPole04_TextData",
+   "en": "Stylish street lamp that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Felinar stradal elegant care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_FirePlace01_TextData",
+   "en": "Brick fireplace that provides illumination.\r\nMust be lit with fire from a Fire Pal.",
+   "ro": "Șemineu de cărămidă care oferă iluminare.\r\nTrebuie aprins cu foc de către un Pal de tip Foc."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_FirePlace02_TextData",
+   "en": "Fireplace that provides illumination.\r\nMust be lit with fire from a Fire Pal.",
+   "ro": "Șemineu care oferă iluminare.\r\nTrebuie aprins cu foc de către un Pal de tip Foc."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_CandleSticks_Top_TextData",
+   "en": "Chandelier that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Candelabru care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Light_CandleSticks_Wall_TextData",
+   "en": "Wall lamp that provides illumination.\r\nRequires electricity to light.",
+   "ro": "Lampă de perete care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Television01_Iron_TextData",
+   "en": "Decorative old TV.\r\nLeft behind by an ancient civilization.\r\nNow it only shows images of Pengullet.",
+   "ro": "Televizor vechi decorativ.\r\nRămas de la o civilizație antică.\r\nAcum afișează doar imagini cu Pengullet."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Desk01_Iron_TextData",
+   "en": "Decorative iron desk.\r\n",
+   "ro": "Birou decorativ din fier.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shelf01_Wall_Iron_TextData",
+   "en": "Iron wall shelf for storing items.\r\nCan be placed on a wall.",
+   "ro": "Raft de perete din fier pentru depozitarea obiectelor.\r\nPoate fi montat pe un perete."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficSign01_Iron_TextData",
+   "en": "Decorative No Pals Beyond sign.\r\nUsed in ancient times, it now serves no real purpose.",
+   "ro": "Indicator decorativ cu „Accesul interzis Pali”.\r\nFolosit în vremuri străvechi, acum nu mai are niciun scop real."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficSign02_Iron_TextData",
+   "en": "Decorative Stop sign.\r\nUsed in ancient times, it now serves no real purpose.",
+   "ro": "Indicator decorativ „Stop”.\r\nFolosit în vremuri străvechi, acum nu mai are niciun scop real."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficSign03_Iron_TextData",
+   "en": "Decorative Beware of Eikthyrdeer sign.\r\nIn ancient times, collisions between Eikthyrdeer and other Pals were frequent.",
+   "ro": "Indicator decorativ „Atenție la Eikthyrdeer”.\r\nÎn vremurile străvechi, coliziunile dintre Eikthyrdeer și alți Pali erau frecvente."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TrafficSign04_Iron_TextData",
+   "en": "Decorative Beware of Mammorest sign.\r\nIn ancient times, those who angered a Mammorest were often killed.",
+   "ro": "Indicator decorativ „Atenție la Mammorest”.\r\nÎn vremurile străvechi, cei care înfuriau un Mammorest erau adesea uciși."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wood_WindowWall_TextData",
+   "en": "Wall built on a foundation for keeping out intruders. Includes a window.\r\nMade from wood, it breaks easily.",
+   "ro": "Perete construit pe o fundație pentru a ține la distanță intrușii. Include o fereastră.\r\nFiind fabricat din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_WindowWall_TextData",
+   "en": "Wall built on a foundation for keeping out intruders. Includes a window.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Perete construit pe o fundație pentru a ține intrușii la distanță. Include o fereastră.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_WindowWall_TextData",
+   "en": "Wall built on a foundation for keeping out intruders. Includes a window.\r\nMade from metal, it is extremely durable.",
+   "ro": "Perete construit pe o fundație pentru a ține intrușii la distanță. Include o fereastră.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wood_TriangleWall_TextData",
+   "en": "Triangular wall built on a foundation for keeping out intruders.\r\nMade from wood, it breaks easily.",
+   "ro": "Perete triunghiular construit pe o fundație pentru a ține intrușii la distanță.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_TriangleWall_TextData",
+   "en": "Triangular wall built on a foundation for keeping out intruders.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Perete triunghiular construit pe o fundație pentru a ține intrușii la distanță.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_TriangleWall_TextData",
+   "en": "Triangular wall built on a foundation for keeping out intruders.\r\nMade from metal, it is extremely durable.",
+   "ro": "Perete triunghiular construit pe o fundație pentru a ține intrușii la distanță.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wood_SlantedRoof_TextData",
+   "en": "Slanted roof built on top of walls to keep out the rain and wind.\r\nMade from wood, it breaks easily.",
+   "ro": "Acoperiș înclinat construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_SlantedRoof_TextData",
+   "en": "Slanted roof built on top of walls to keep out the rain and wind.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Acoperiș înclinat construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_SlantedRoof_TextData",
+   "en": "Slanted roof built on top of walls to keep out the rain and wind.\r\nMade from metal, it is extremely durable.",
+   "ro": "Acoperiș înclinat construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Chair01_Pal_TextData",
+   "en": "Cute decorative chair.\r\n",
+   "ro": "Scaun decorativ drăguț.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Altar_TextData",
+   "en": "Offer a Slab depicting a Pal\r\nto summon a powerful Pal to your base.\r\nAdequate caution and battle readiness is paramount.",
+   "ro": "Oferă o Lespede care înfățișează un Pal\r\npentru a invoca un Pal puternic în baza ta.\r\nPrudența adecvată și pregătirea de luptă sunt esențiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CopperPit_TextData",
+   "en": "Facility for producing <itemName id=|CopperOre|/>.\r\nMining <itemName id=|CopperOre|/> is hard work that requires physical endurance.\r\nLeave it to Pals skilled at mining.",
+   "ro": "Instalație pentru producerea de <itemName id=|CopperOre|/>.\r\nSă extragi <itemName id=|CopperOre|/> este o muncă grea, care cere rezistență fizică.\r\nLas-o pe seama Palilor pricepuți la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CopperPit_2_TextData",
+   "en": "Facility for producing large quantities of <itemName id=|CopperOre|/>.\r\nMining <itemName id=|CopperOre|/> is hard work that requires physical endurance.\r\nLeave it to Pals skilled at mining.",
+   "ro": "Instalație pentru producerea unor cantități mari de <itemName id=|CopperOre|/>.\r\nSă extragi <itemName id=|CopperOre|/> este o muncă grea, care cere rezistență fizică.\r\nLas-o pe seama Palilor pricepuți la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricHatchingPalEgg_TextData",
+   "en": "Device for incubating Pal eggs.\r\nRequires electricity, but automatically keeps the\r\ninside of the incubator at appropriate temperatures.",
+   "ro": "Dispozitiv pentru incubarea ouălor de Pal.\r\nNecesită electricitate, dar menține automat\r\no temperatură adecvată în interiorul incubatorului."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_OilPump_TextData",
+   "en": "Equipment required to extract <itemName id=|CrudeOil|/> from oil fields.\r\nRequires a power supply to operate.",
+   "ro": "Echipament necesar pentru a extrage <itemName id=|CrudeOil|/> din zăcămintele de petrol.\r\nNecesită o sursă de alimentare cu energie pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CoolerPalFoodBox_TextData",
+   "en": "A feeding box that can be kept cold.\r\nAssign an Ice Pal to it and\r\nthe food inside will be less likely to spoil.",
+   "ro": "O cutie de hrană care poate fi menținută rece.\r\nAlocă-i un Pal de Gheață și\r\nmâncarea dinăuntru se va strica mult mai greu."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SulfurPit_TextData",
+   "en": "Facility for producing <itemName id=|Sulfur|/>.\r\nDigging <itemName id=|Sulfur|/> is grueling physical work.\r\nLeave it to a Pal that is good at mining.",
+   "ro": "Instalație pentru producerea de <itemName id=|Sulfur|/>.\r\nSăparea după <itemName id=|Sulfur|/> este o muncă fizică extenuantă.\r\nLas-o în seama unui Pal priceput la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CoalPit_TextData",
+   "en": "Facility for producing <itemName id=|Coal|/>.\r\nDigging <itemName id=|Coal|/> is grueling physical work.\r\nLeave it to a Pal that is good at mining.",
+   "ro": "Instalație pentru producerea de <itemName id=|Coal|/>.\r\nSăparea după <itemName id=|Coal|/> este o muncă fizică extenuantă.\r\nLas-o în seama unui Pal priceput la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_IceCrusher_TextData",
+   "en": "Facility that crushes <itemName id=|CopperOre|/> and\r\nconverts it into other materials.\r\nRequires a power supply and a Pal with Cooling suitability, but it's very efficient.",
+   "ro": "Instalație care zdrobește <itemName id=|CopperOre|/> și\r\nîl transformă în alte materiale.\r\nNecesită o sursă de alimentare și un Pal cu aptitudinea Răcire, dar este foarte eficientă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DismantlingConveyor_TextData",
+   "en": "A dream-like facility that automatically butchers any Pal that is placed inside.",
+   "ro": "O instalație de vis care măcelărește automat orice Pal așezat înăuntru."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WallSignboard_TextData",
+   "en": "A signboard to write on.\r\nCan be hung on walls.",
+   "ro": "O pancartă pe care se poate scrie.\r\nPoate fi agățată pe pereți."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ElectricGenerator_Large_TextData",
+   "en": "A power generator fueled by Electric Pals.\r\nLarger and with improved power generation efficiency.",
+   "ro": "Un generator de energie alimentat de Pali de tip Electric.\r\nEste mai mare și are o eficiență îmbunătățită de generare a energiei electrice."
+  },
+  {
+   "key": "MAPOBJECT_DESC_TreasureBox_Electric_TextData",
+   "en": "Implementing...",
+   "ro": "În curs de implementare..."
+  },
+  {
+   "key": "MAPOBJECT_DESC_TreasureBox_Ivy_TextData",
+   "en": "Implementing...",
+   "ro": "În curs de implementare..."
+  },
+  {
+   "key": "MAPOBJECT_DESC_TreasureBox_Ice_TextData",
+   "en": "Implementing...",
+   "ro": "În curs de implementare..."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_foundation_TextData",
+   "en": "A foundation for building walls or facilities on.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "O fundație pe care se pot construi pereți sau instalații.\r\nFabricată din sticlă industrială rezistentă, este destul de solidă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_wall_TextData",
+   "en": "Walls built on foundations for keeping out intruders.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Pereți construiți pe fundații pentru a ține intrușii la distanță.\r\nFabricați din sticlă industrială rezistentă, sunt destul de solizi."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_roof_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un acoperiș construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFabricat din sticlă industrială rezistentă, este destul de solid."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_stair_TextData",
+   "en": "Stairs placed below a foundation or roof for climbing up.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Scări așezate sub o fundație sau un acoperiș pentru a putea urca.\r\nFabricate din sticlă industrială rezistentă, sunt destul de solide."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_DoorWall_TextData",
+   "en": "Door built on a foundation. Becomes an entrance.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Ușă construită pe o fundație. Devine o cale de acces.\r\nFabricată din sticlă industrială rezistentă, este destul de solidă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_TriangleWall_TextData",
+   "en": "Triangular wall built on a foundation for keeping out intruders.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Perete triunghiular construit pe o fundație pentru a ține intrușii la distanță.\r\nFabricat din sticlă industrială rezistentă, este destul de solid."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_SlantedRoof_TextData",
+   "en": "Slanted roof built on top of walls to keep out the rain and wind.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Acoperiș înclinat construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFabricat din sticlă industrială rezistentă, este destul de solid."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_WindowWall_TextData",
+   "en": "Wall with windows, built on foundations for keeping out intruders.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Perete cu ferestre, construit pe fundații pentru a ține intrușii la distanță.\r\nFabricat din sticlă industrială rezistentă, este destul de solid."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_Pillar_TextData",
+   "en": "Column for structural support.\r\nMade from wood, it breaks easily.",
+   "ro": "Stâlp pentru susținere structurală.\r\nFabricat din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_Pillar_TextData",
+   "en": "Column for structural support.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Coloană pentru susținere structurală.\r\nFiind din piatră, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Metal_Pillars_TextData",
+   "en": "Column for structural support.\r\nMade from metal, it is extremely durable.",
+   "ro": "Coloană pentru susținere structurală.\r\nFiind din metal, este extrem de durabilă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_Pillars_TextData",
+   "en": "Column for structural support.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Coloană pentru susținere structurală.\r\nFiind din sticlă securizată industrială, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SkinChange_TextData",
+   "en": "Pal Dressing Facility.\r\nGive your Pals a new look!\r\nSkins obtained inside and outside the game can be applied here!",
+   "ro": "Vestiar pentru Pali.\r\nOferă-le Palilor tăi o nouă înfățișare!\r\nSkinurile obținute în joc sau în afara lui pot fi aplicate aici!"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_wall_01_TextData",
+   "en": "Walls built on foundations for keeping out intruders.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Pereți construiți pe fundație pentru a ține intrușii la distanță.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_wall_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_DoorWall_01_TextData",
+   "en": "Door built on a foundation. Becomes an entrance.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Ușă construită pe o fundație. Servește ca intrare.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_DoorWall_02_TextData",
+   "en": "Japanese sliding door (shoji) built on a foundation. Becomes an indoor entrance.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Ușă glisantă japoneză (shoji) construită pe fundație. Servește ca intrare interioară.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_DoorWall_03_TextData",
+   "en": "Japanese sliding door (fusuma) built on a foundation. Becomes an indoor entrance.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Ușă glisantă japoneză (fusuma) construită pe fundație. Servește ca intrare interioară.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_ConnectingWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_roof_01_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind.\r\nThe top is covered with tatami mats.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Acoperiș construit deasupra pereților pentru a proteja împotriva ploii și a vântului.\r\nPartea superioară este acoperită cu rogojini tatami.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_roof_02_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind.\r\nThe top is covered with tiles.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Acoperiș construit deasupra pereților pentru a proteja împotriva ploii și a vântului.\r\nPartea superioară este acoperită cu țiglă.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_SlantedRoof_TextData",
+   "en": "Slanted roof built on top of walls to keep out the rain and wind.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Acoperiș înclinat construit deasupra pereților pentru a proteja împotriva ploii și a vântului.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_TriangleWall_TextData",
+   "en": "Triangular wall built on a foundation for keeping out intruders.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Perete triunghiular construit pe o fundație pentru a ține intrușii la distanță.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_WindowWall_TextData",
+   "en": "Wall with windows, built on foundations for keeping out intruders.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Perete cu ferestre, construit pe o fundație pentru a ține intrușii la distanță.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_foundation_TextData",
+   "en": "A foundation for building walls or facilities on.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Fundație pe care se pot construi pereți sau instalații.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_stair_TextData",
+   "en": "Stairs placed below a foundation or roof for climbing up.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Scări amplasate sub o fundație sau un acoperiș pentru a permite urcarea.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_Pillar_TextData",
+   "en": "Column for structural support.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Coloană pentru susținere structurală.\r\nÎți permite să creezi o arhitectură elegantă în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ItemBooth_TextData",
+   "en": "A facility for selling items.\r\nBy setting products in the sales list, you can sell items to other players.\r\nAssign an Ice Pal to it and the food inside will be less likely to spoil.",
+   "ro": "O structură pentru vânzarea obiectelor.\r\nDacă adaugi produse în lista de vânzare, le poți vinde altor jucători.\r\nAtribuie un Pal de Gheață și mâncarea din interior se va strica mai greu."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PalBooth_TextData",
+   "en": "A facility for selling Pals.\r\nBy setting Pals in the sales list, you can sell them to other players.\r\nAssign an Ice Pal to it and the food inside will be less likely to spoil.",
+   "ro": "O structură pentru vânzarea Palilor.\r\nDacă adaugi Pali în lista de vânzare, îi poți vinde altor jucători.\r\nAtribuie un Pal de Gheață și mâncarea din interior se va strica mai greu."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Carrot_TextData",
+   "en": "A farm where you can grow <itemName id=|Carrot|/>.\r\nIt takes time to harvest, but increases the variety of meals you can prepare.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+   "ro": "O fermă unde poți cultiva <itemName id=|Carrot|/>.\r\nDurează ceva până la recoltare, dar sporește varietatea mâncărurilor pe care le poți pregăti.\r\nNecesită câțiva Pali pentru a semăna, uda și recolta culturile."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Onion_TextData",
+   "en": "A farm where you can grow <itemName id=|Onion|/>.\r\nIt takes time to harvest, but increases the variety of meals you can prepare.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+   "ro": "O fermă unde poți cultiva <itemName id=|Onion|/>.\r\nDurează ceva până la recoltare, dar sporește varietatea mâncărurilor pe care le poți pregăti.\r\nNecesită câțiva Pali pentru a semăna, uda și recolta culturile."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FarmBlockV2_Potato_TextData",
+   "en": "A farm where you can grow <itemName id=|Potato|/>.\r\nIt takes time to harvest, but increases the variety of meals you can prepare.\r\nRequires a few Pals to plant seeds, water, and harvest the crops.",
+   "ro": "O fermă unde poți cultiva <itemName id=|Potato|/>.\r\nDurează ceva până la recoltare, dar sporește varietatea mâncărurilor pe care le poți pregăti.\r\nNecesită câțiva Pali pentru a semăna, uda și recolta culturile."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SphereFactory_Black_04_TextData",
+   "en": "An Assembly Line for producing spheres used for capturing Pals.\r\nAdvanced machinery has been introduced, allowing for the production of spheres at high speed.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea sferelor folosite la capturarea Palilor.\r\nAu fost introduse utilaje avansate, permițând fabricarea sferelor la viteză mare.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MultiElectricHatchingPalEgg_TextData",
+   "en": "Device for incubating Pal eggs.\r\nWhile power supply is required, it allows multiple eggs to be incubated simultaneously at the optimal temperature.",
+   "ro": "Dispozitiv pentru incubarea ouălor de Pal.\r\nDeși necesită alimentare cu electricitate, permite incubarea simultană a mai multor ouă la temperatura optimă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_HugeKitchen_TextData",
+   "en": "Needed for cooking food.\r\nBy becoming larger, multiple Pals can cooperate to cook together.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Necesară pentru prepararea mâncării.\r\nFiind mai mare, mai mulți Pali pot coopera pentru a găti împreună.\r\nNecesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Factory_Hard_04_TextData",
+   "en": "An Assembly Line for producing items and gear.\r\nAdvanced machinery has been introduced, enabling high-speed production.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea de obiecte și echipament.\r\nAu fost introduse utilaje avansate, permițând producția de mare viteză.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WeaponFactory_Dirty_04_TextData",
+   "en": "An Assembly Line for producing weapons and ammunition.\r\nAdvanced machinery has been introduced, enabling high-speed weapon production.\r\nRequires Pals that can work with their hands.",
+   "ro": "O linie de asamblare pentru producerea de arme și muniție.\r\nAu fost introduse utilaje avansate, permițând fabricarea armelor la viteză mare.\r\nNecesită Pali pricepuți la lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SanityDecrease1_TextData",
+   "en": "A device that emits alpha waves to help Pals relax.\r\nSlows the rate at which the SAN value of Base Pals decreases.\r\nPlacing more than one has no additional effect.",
+   "ro": "Un dispozitiv care emite unde alfa pentru a ajuta Palii să se relaxeze.\r\nÎncetinește ritmul în care scade valoarea SAN a Palilor din bază.\r\nPlasarea a mai mult de unul nu oferă efecte suplimentare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WorkSpeedIncrease1_TextData",
+   "en": "A device that emits beta waves to energize Pals.\r\nIncreases the work speed of Base Pals.\r\nPlacing more than one has no additional effect.",
+   "ro": "Un dispozitiv care emite unde beta pentru a energiza Palii.\r\nCrește viteza de lucru a Palilor din bază.\r\nPlasarea a mai mult de unul nu oferă efecte suplimentare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_QuartzPit_TextData",
+   "en": "A facility for producing <itemName id=|Quartz|/>. \r\nMining <itemName id=|Quartz|/> is grueling physical work.\r\nLeave it to Pals skilled at mining.",
+   "ro": "O structură pentru producerea de <itemName id=|Quartz|/>.\r\nMineritul de <itemName id=|Quartz|/> este o muncă fizică extenuantă.\r\nLasă această sarcină în seama Palilor pricepuți la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Factory_Money_TextData",
+   "en": "An Assembly Line that manufactures <itemName id=|Money|/>.\r\nThe work puts a strain on the mind, causing a decrease in Pal's SAN value. \r\nRequires Pals that can work with their hands.\r\nWarning: building this facility may draw severe scrutiny from the PIDF.",
+   "ro": "O linie de asamblare care produce <itemName id=|Money|/>.\r\nMunca este solicitantă pentru psihic, determinând scăderea valorii SAN a Palilor.\r\nNecesită Pali pricepuți la lucru manual.\r\nAtenție: construirea acestei structuri poate atrage controale aspre din partea PIDF."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ItemChest_04_TextData",
+   "en": "Stores items.\r\nQuite sturdy, with plenty of storage space.\r\nIt is useful as a large, secure storage box.",
+   "ro": "Păstrează obiecte.\r\nDestul de rezistentă, cu spațiu generos de stocare.\r\nEste utilă ca ladă mare și sigură pentru depozitare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicalPalBed_05_TextData",
+   "en": "A healing pod for Pals.\r\nUsed when Pals are injured or to rest at night.\r\nThanks to technological advancements, the healing amount has increased.",
+   "ro": "O capsulă de vindecare pentru Pali.\r\nSe folosește când Palii sunt răniți sau pentru a se odihni noaptea.\r\nDatorită progreselor tehnologice, cantitatea de vindecare a crescut."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BaseCampItemDispenser_TextData",
+   "en": "A device that lets you freely access items from all chests in the base.",
+   "ro": "Un dispozitiv care îți permite să accesezi liber obiecte din toate cuferele din bază."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_GuildChest_TextData",
+   "en": "A chest that can instantly send and receive items through subspace. \r\nThe items inside are shared across all bases where it is placed.",
+   "ro": "Un cufăr care poate trimite și primi instantaneu obiecte prin subspațiu.\r\nObiectele din interior sunt partajate între toate bazele în care este plasat."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WoodCreator_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Expedition_TextData",
+   "en": "A facility that allows Pals to be sent on expeditions to places like dungeons. \r\nThe dispatched Pals engage in battles and gather items, bringing back resources to the base.",
+   "ro": "O structură care permite trimiterea Palilor în expediții în locuri precum temnițele.\r\nPalii trimiși iau parte la lupte și adună obiecte, aducând resurse înapoi în bază."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Lab_TextData",
+   "en": "A facility for conducting research on the various tasks of Pals. \r\nBy assigning tasks to Pals in this facility, research progresses, granting various benefits.",
+   "ro": "O structură pentru efectuarea cercetărilor privind diferitele sarcini ale Palilor.\r\nAlocând sarcini Palilor în această structură, cercetarea avansează, oferind diverse beneficii."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_OperatingTable_TextData",
+   "en": "A facility where surgery can be performed on Pals to change their gender or passive skills.",
+   "ro": "O structură unde se pot efectua intervenții chirurgicale pe Pali pentru a le schimba sexul sau abilitățile pasive."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ManualElectricGenerator_TextData",
+   "en": "A facility that converts rotational motion into electrical energy.\r\nThe efficiency is low, and the Pals working here will experience a decrease in SAN value, but they will gain experience points.",
+   "ro": "O structură care transformă mișcarea de rotație în energie electrică.\r\nEficiența este scăzută, iar Palii care lucrează aici vor suferi o scădere a valorii de SAN, dar vor câștiga puncte de experiență."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Farm_SkillFruits_TextData",
+   "en": "A farm where Skillfruits can be cultivated.\r\nBy planting the original fruit in the ground,\r\nmultiple fruits of the same type can be harvested.",
+   "ro": "O fermă unde pot fi cultivate fructe cu abilități.\r\nPlantând fructul original în pământ,\r\nse pot recolta mai multe fructe de același tip."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_ladder_TextData",
+   "en": "A ladder that allows you to climb to a slightly higher place.",
+   "ro": "O scară care îți permite să urci într-un loc puțin mai înalt."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PalMedicineBox_TextData",
+   "en": "A shelf for storing medicine. Sick Pals will come here to take their medicine. Be sure to keep the medicine stocked.",
+   "ro": "Un raft pentru depozitarea medicamentelor. Palii bolnavi vor veni aici să-și ia medicamentele. Asigură-te că ai mereu stocuri de medicamente."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_EnergyStorage_Electric_TextData",
+   "en": "A facility for storing excess electricity generated by the <mapObjectName id=|ElectricGenerator|/>.",
+   "ro": "O structură pentru stocarea surplusului de electricitate generat de un <mapObjectName id=|ElectricGenerator|/>."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BlastFurnace4_TextData",
+   "en": "Allows refinement of <itemName id=|StainlessSteel|/>.\r\nBy growing in size, multiple Pals can collaborate to perform smelting.\r\nRequires a Fire Pal to light a flame.",
+   "ro": "Permite rafinarea de <itemName id=|StainlessSteel|/>.\r\nDatorită dimensiunii mărite, mai mulți Pali pot colabora pentru a efectua topirea.\r\nNecesită un Pal de tip Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MedicineFacility_03_TextData",
+   "en": "A facility for making medicine to cure Pals' illnesses. \r\nWith advanced technology, it can also create unknown medicines. \r\nAssign the task to a Pal capable of pharmacy work.",
+   "ro": "O structură pentru prepararea medicamentelor care vindecă bolile Palilor.\r\nDatorită tehnologiei avansate, poate crea și medicamente necunoscute.\r\nAlocă sarcina unui Pal capabil de producție de medicamente."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Headstone_TextData",
+   "en": "A gravestone that can be inscribed with text. \r\nUse it for recording purposes.",
+   "ro": "O piatră funerară pe care se poate inscripționa text.\r\nFolosește-o pentru a nota diverse lucruri."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Byobu_TextData",
+   "en": "Decorative folding screen.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Paravan decorativ pliant.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Kakejiku_TextData",
+   "en": "Decorative hanging scroll.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Sul decorativ de perete.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Zaisu_TextData",
+   "en": "Decorative floor chair.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Scaun decorativ de podea.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Zabuton_TextData",
+   "en": "Decorative floor cushion.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Pernă decorativă de podea.\r\nPerfectă pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Irori_TextData",
+   "en": "Decorative Hearth.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Vatră decorativă.\r\nPerfectă pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Toro_TextData",
+   "en": "Decorative Stone Lantern.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Felinar decorativ din piatră.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Andon_TextData",
+   "en": "Decorative Paper Lantern.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Felinar decorativ din hârtie.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shishiodoshi_TextData",
+   "en": "Decorative Deer Scare.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Sperietoare decorativă de căprioare.\r\nPerfectă pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Bonsai_TextData",
+   "en": "Decorative Bonsai.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Bonsai decorativ.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Koro_TextData",
+   "en": "Decorative Incense Burner.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Arzător decorativ de tămâie.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Seika_TextData",
+   "en": "Decorative Flower Arrangement.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Aranjament floral decorativ.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Tansu_TextData",
+   "en": "Stores items.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Depozitează obiecte.\r\nPerfect pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Fudukue_TextData",
+   "en": "Decorative Ornamental Writing Table.\r\nPerfect for Japanese-style buildings.",
+   "ro": "Măsuță de scris decorativă.\r\nPerfectă pentru clădiri în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_GlobalPalStorage_TextData",
+   "en": "A facility that can store the genetic data of Pals\r\nand allows you to reconstruct them from this data. \r\nThe stored genetic data can also be transferred to other worlds.",
+   "ro": "O structură ce poate stoca datele genetice ale Palilor\r\nși îți permite să-i reconstruiești din aceste date.\r\nDatele genetice stocate pot fi transferate și în alte lumi."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CompositeDesk_TextData",
+   "en": "A facility that lets you combine multiple schematics to create more advanced ones.",
+   "ro": "O structură care îți permite să combini mai multe scheme pentru a crea unele mai avansate."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DimensionPalStorage_TextData",
+   "en": "A facility for storing a large number of captured Pals. \r\nAny guild member can deposit or withdraw Pals.\r\nIf you set it to private, it can serve as your personal Pal storage.",
+   "ro": "O structură pentru stocarea unui număr mare de Pali capturați.\r\nOrice membru al ghildei poate depune sau retrage Pali.\r\nDacă o setezi ca privată, poate servi drept depozit personal de Pali."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CrystalPit_TextData",
+   "en": "Facility for producing <itemName id=|RainbowCrystal|/>s. \r\nDigging <itemName id=|RainbowCrystal|/>s is grueling physical work. \r\nLeave it to a Pal that is good at mining.",
+   "ro": "Structură pentru producerea de <itemName id=|RainbowCrystal|/>.\r\nExcavarea de <itemName id=|RainbowCrystal|/> este o muncă fizică istovitoare.\r\nLas-o pe seama unui Pal priceput la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Spa3_TextData",
+   "en": "Facility where Pals on base can rest. \r\nIts calming, traditional Japanese design offers an extra boost to SAN recovery.",
+   "ro": "O instalație unde se pot odihni Palii din bază. \r\nDesignul său tradițional japonez liniștitor oferă un bonus suplimentar la refacerea SAN."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BaseCampWorkerExtraStation_TextData",
+   "en": "A remote-access terminal for the Palbox. \r\nSet it up wherever you'd like and build a base of your own design.",
+   "ro": "Un terminal de acces la distanță pentru Palbox. \r\nInstalează-l unde dorești și construiește o bază după propriul tău plac."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wire_Fence_TextData",
+   "en": "Decorative wired fence.\r\n",
+   "ro": "Gard decorativ din sârmă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_LilyQueenStatue_TextData",
+   "en": "Decorative Lyleen statue.\r\n",
+   "ro": "Statuie decorativă cu Lyleen.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ConservationGroupBannerA_TextData",
+   "en": "Decorative Free Pal Alliance flag.\r\n",
+   "ro": "Steag decorativ al Alianței Palilor Liberi.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ConservationGroupBannerB_TextData",
+   "en": "Decorative Free Pal Alliance horizontal banner.\r\n",
+   "ro": "Bannere decorative orizontale ale Alianței Palilor Liberi.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Hunter_GangFlag_TextData",
+   "en": "Decorative Rayne Syndicate flag.\r\n",
+   "ro": "Steag decorativ al Sindicatului Rayne.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_PalCage_TextData",
+   "en": "Decorative aerial cage.\r\n",
+   "ro": "Colivie suspendată decorativă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WoodenBarricade_TextData",
+   "en": "Decorative wooden barricade.\r\n",
+   "ro": "Baricadă decorativă din lemn.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_WallTorch02_TextData",
+   "en": "An imposing torch lit by the Brothers of the Eternal Pyre and revered as sacred. \r\nIt can be placed on walls. Requires a Fire Pal to light a flame.",
+   "ro": "O torță impunătoare aprinsă de Frații Rugului Etern și venerată ca sacră. \r\nPoate fi așezată pe pereți. Necesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_CandleStand_TextData",
+   "en": "An imposing candlestick lit by the Brothers of the Eternal Pyre and revered as sacred. \r\nIt can be placed on the ground. Requires a Fire Pal to light a flame.",
+   "ro": "Un sfeșnic impunător aprins de Frații Rugului Etern și venerat ca sacru. \r\nPoate fi așezat pe sol. Necesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FireStand_TextData",
+   "en": "An imposing ceremonial candlestick lit by the Brothers of the Eternal Pyre and revered as sacred. \r\nIt can be placed on the ground. Requires a Fire Pal to light a flame.",
+   "ro": "Un sfeșnic ceremonial impunător aprins de Frații Rugului Etern și venerat ca sacru. \r\nPoate fi așezat pe sol. Necesită un Pal de Foc pentru a aprinde flacăra."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wood_Fence_TextData",
+   "en": "Fence built on foundations or roofs to prevent falls. \r\nMade from wood, it breaks easily.",
+   "ro": "Gard construit pe fundații sau acoperișuri pentru a preveni căderile. \r\nFabricat din lemn, se rupe ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_Fence_TextData",
+   "en": "Fence built on foundations or roofs to prevent falls. \r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Gard construit pe fundații sau acoperișuri pentru a preveni căderile. \r\nFabricat din piatră, este rezonabil de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_Fence_TextData",
+   "en": "Fence built on foundations or roofs to prevent falls. \r\nMade from metal, it is extremely durable.",
+   "ro": "Gard construit pe fundații sau acoperișuri pentru a preveni căderile. \r\nFabricat din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_Fence_TextData",
+   "en": "Fence built on foundations or roofs to prevent falls. \r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Gard construit pe fundații sau acoperișuri pentru a preveni căderile. \r\nFabricat din sticlă industrială rezistentă, este destul de solid."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_Fence_TextData",
+   "en": "Fence built on foundations or roofs to prevent falls. \r\nCan be used to create stylish Japanese-style architecture.",
+   "ro": "Gard construit pe fundații sau acoperișuri pentru a preveni căderile. \r\nPoate fi folosit pentru a crea o arhitectură elegantă în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_Fence_TextData",
+   "en": "Fence built on foundations or roofs to prevent falls. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Gard construit pe fundații sau acoperișuri pentru a preveni căderile. \r\nPoate fi folosit pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_LanternTop_TextData",
+   "en": "Decorative paper lantern.\r\n",
+   "ro": "Felinar decorativ din hârtie.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Shrine_Lantern_TextData",
+   "en": "Decorative red wooden lantern.\r\n",
+   "ro": "Felinar decorativ roșu din lemn.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_GuardianDogStatue_TextData",
+   "en": "Decorative Yakumo statue.\r\n",
+   "ro": "Statuie decorativă cu Yakumo.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_foundation_TextData",
+   "en": "A foundation for building walls or facilities. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "O fundație pentru construirea de pereți sau instalații. \r\nPoate fi folosită pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_wall_TextData",
+   "en": "Walls built on foundations to keep out intruders. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Pereți construiți pe fundații pentru a ține intrușii la distanță. \r\nPot fi folosiți pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_roof_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un acoperiș construit deasupra pereților pentru a proteja împotriva ploii și vântului. \r\nPoate fi folosit pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_stair_TextData",
+   "en": "Stairs placed below a foundation or roof to climb up. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Scări plasate sub o fundație sau un acoperiș pentru a putea urca. \r\nPot fi folosite pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_DoorWall_TextData",
+   "en": "Door built on a foundation. Becomes an entrance. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Ușă construită pe o fundație. Devine o cale de acces. \r\nPoate fi folosită pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_TriangleWall_TextData",
+   "en": "Triangular wall built on a foundation to keep out intruders. \r\nCan be used to create create clean, futuristic architecture.",
+   "ro": "Perete triunghiular construit pe o fundație pentru a ține intrușii la distanță. \r\nPoate fi folosit pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_SlantedRoof_TextData",
+   "en": "Slanted roof built on top of walls to keep out the rain and wind. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Acoperiș înclinat construit deasupra pereților pentru a proteja împotriva ploii și vântului. \r\nPoate fi folosit pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_WindowWall_TextData",
+   "en": "Wall with windows, built on a foundation to keep out intruders. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Perete cu ferestre, construit pe o fundație pentru a ține intrușii la distanță. \r\nPoate fi folosit pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_Pillars_TextData",
+   "en": "Column for structural support. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Coloană pentru susținere structurală. \r\nPoate fi folosită pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_Desk_TextData",
+   "en": "Decorative laboratory desk.\r\n",
+   "ro": "Birou decorativ de laborator.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_Chair_TextData",
+   "en": "Decorative laboratory chair.\r\n",
+   "ro": "Scaun decorativ de laborator.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Hunter_Flag_TextData",
+   "en": "Decorative Rayne Syndicate Standard.\r\n",
+   "ro": "Stindard decorativ al Sindicatului Rayne.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Hunter_Banner_TextData",
+   "en": "Decorative Rayne Syndicate Vertical Banner.\r\n",
+   "ro": "Bannăr vertical decorativ al Sindicatului Rayne.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Believer_Flag_TextData",
+   "en": "Decorative Free Pal Alliance Standard.\r\n",
+   "ro": "Stindard decorativ al Alianței Free Pal.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Believer_Banner_TextData",
+   "en": "Decorative Free Pal Alliance Vertical Banner.\r\n",
+   "ro": "Bannăr vertical decorativ al Alianței Free Pal.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FireCult_Flag_TextData",
+   "en": "Decorative Brothers of the Eternal Pyre Standard.\r\n",
+   "ro": "Stindard decorativ al Fraților Rugului Etern.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FireCult_Banner_TextData",
+   "en": "Decorative Brothers of the Eternal Pyre Vertical Banner.",
+   "ro": "Bannăr vertical decorativ al Fraților Rugului Etern."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Police_Flag_TextData",
+   "en": "Decorative PIDF Standard.\r\n",
+   "ro": "Stindard decorativ al PIDF.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Police_Banner_TextData",
+   "en": "Decorative PIDF Vertical Banner.\r\n",
+   "ro": "Bannăr vertical decorativ al PIDF.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Scientist_Flag_TextData",
+   "en": "Decorative PAL Genetic Research Unit Standard.\r\n",
+   "ro": "Stindard decorativ al Unității de Cercetare Genetică PAL.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Scientist_Banner_TextData",
+   "en": "Decorative PAL Genetic Research Unit Vertical Banner.",
+   "ro": "Bannăr vertical decorativ al Unității de Cercetare Genetică PAL."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ninja_Flag_TextData",
+   "en": "Decorative Moonflower Standard.\r\n",
+   "ro": "Stindard decorativ Moonflower.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ninja_Banner_TextData",
+   "en": "Decorative Moonflower Vertical Banner.\r\n",
+   "ro": "Bannăr vertical decorativ Moonflower.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FishingPond1_TextData",
+   "en": "A ready-to-use fishing pond. \r\nAssign a Pal to fish here at their own leisure. \r\nRequires Pals that can work with their hands.",
+   "ro": "Un iaz de pescuit gata de utilizare. \r\nAlocă un Pal să pescuiască aici în ritmul său. \r\nNecesită Pali capabili de lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FishingPond2_TextData",
+   "en": "A ready-to-use large fishing pond. \r\nThe expanded body of water makes it possible to catch even larger Pals. \r\nRequires Pals that can work with their hands.",
+   "ro": "Un iaz mare de pescuit, gata de utilizare.\r\nOchiul de apă extins face posibilă prinderea unor Pali și mai mari.\r\nNecesită Pali cu aptitudini de Lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MultiHatchingPalEgg_TextData",
+   "en": "Device for incubating Pal eggs. \r\nIt automatically maintains a suitable temperature and can hatch multiple eggs at once.",
+   "ro": "Dispozitiv pentru incubarea ouălor de Pal.\r\nMenține automat o temperatură adecvată și poate cloci mai multe ouă deodată."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_YakushimaBoss002_Relic_TextData",
+   "en": "[Tides of Terraria] \r\nA gleaming golden statue of the Moon Lord.\r\nProof of those strong enough to overcome a hopeless battle.",
+   "ro": "[Tides of Terraria]\r\nO statuie aurie strălucitoare a lui Moon Lord.\r\nDovada celor suficient de puternici pentru a învinge într-o luptă fără speranță."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_TriangleFoundation_TextData",
+   "en": "A triangular foundation for building walls or facilities on.\r\nMade from wood, it breaks easily.",
+   "ro": "O fundație triunghiulară pe care se pot construi pereți sau instalații.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_DiagonalWall_TextData",
+   "en": "An angled wall built on triangular foundations for keeping out intruders.\r\nMade from wood, it breaks easily.",
+   "ro": "Un perete în unghi construit pe fundații triunghiulare pentru a ține intrușii la distanță.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_TriangleRoof_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind.\r\nMade from wood, it breaks easily.",
+   "ro": "Un acoperiș triunghiular construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_TriangleStairsCorner_TextData",
+   "en": "A corner roof built on top of walls to keep out the rain and wind.\r\nMade from wood, it breaks easily.",
+   "ro": "Un acoperiș de colț construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wood_TriangleWallReverse_TextData",
+   "en": "An inverted triangular wall built on a foundation for keeping out intruders.\r\nMade from wood, it breaks easily.",
+   "ro": "Un perete triunghiular inversat construit pe o fundație pentru a ține intrușii la distanță.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_WallGate_TextData",
+   "en": "An entrance to a Pal passage built on a foundation.\r\nMade from wood, it breaks easily.",
+   "ro": "O intrare pentru un pasaj de Pali, construită pe o fundație.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_SlopedRoofCorner_TextData",
+   "en": "A slanted triangular roof built on top of diagonal walls to keep out the rain and wind.\r\nMade from wood, it breaks easily.",
+   "ro": "Un acoperiș triunghiular înclinat construit peste pereți diagonali pentru a proteja de ploaie și vânt.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_PyramidRoof_TextData",
+   "en": "A pyramidal roof built on top of walls to keep out the rain and wind.\r\nMade from wood, it breaks easily.",
+   "ro": "Un acoperiș piramidal construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_TriangleFoundation_TextData",
+   "en": "A triangular foundation for building walls or facilities on.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "O fundație triunghiulară pe care se pot construi pereți sau instalații.\r\nFiind din piatră, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_DiagonalWall_TextData",
+   "en": "An angled wall built on triangular foundations for keeping out intruders.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un perete în unghi construit pe fundații triunghiulare pentru a ține intrușii la distanță.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_TriangleRoof_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un acoperiș triunghiular construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_TriangleStairsCorner_TextData",
+   "en": "A corner roof built on top of walls to keep out the rain and wind.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un acoperiș de colț construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_TriangleWallReverse_TextData",
+   "en": "An inverted triangular wall built on a foundation for keeping out intruders.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un perete triunghiular inversat construit pe o fundație pentru a ține intrușii la distanță.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_WallGate_TextData",
+   "en": "An entrance to a Pal passage built on a foundation.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "O intrare pentru o cale de acces pentru Pali, construită pe o fundație.\r\nFiind din piatră, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_SlopedRoofCorner_TextData",
+   "en": "A slanted triangular roof built on top of diagonal walls to keep out the rain and wind. \r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un acoperiș triunghiular înclinat construit pe pereți diagonali pentru a proteja de ploaie și vânt.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_PyramidRoof_TextData",
+   "en": "A pyramidal roof built on top of walls to keep out the rain and wind.\r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un acoperiș piramidal construit pe pereți pentru a proteja de ploaie și vânt.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_TriangleFoundation_TextData",
+   "en": "A triangular foundation for building walls or facilities on.\r\nMade from metal, it is extremely durable.",
+   "ro": "O fundație triunghiulară pe care se pot construi pereți sau instalații.\r\nFiind din metal, este extrem de durabilă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_DiagonalWall_TextData",
+   "en": "An angled wall built on triangular foundations for keeping out intruders.\r\nMade from metal, it is extremely durable.",
+   "ro": "Un perete în unghi construit pe fundații triunghiulare pentru a ține intrușii la distanță.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_TriangleRoof_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind.\r\nMade from metal, it is extremely durable.",
+   "ro": "Un acoperiș triunghiular construit pe pereți pentru a proteja de ploaie și vânt.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_TriangleStairsCorner_TextData",
+   "en": "A corner roof built on top of walls to keep out the rain and wind.\r\nMade from metal, it is extremely durable.",
+   "ro": "Un acoperiș de colț construit pe pereți pentru a proteja de ploaie și vânt.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_TriangleWallReverse_TextData",
+   "en": "An inverted triangular wall built on a foundation for keeping out intruders. \r\nMade from metal, it is extremely durable.",
+   "ro": "Un perete triunghiular inversat construit pe o fundație pentru a ține intrușii la distanță.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_WallGate_TextData",
+   "en": "An entrance to a Pal passage built on a foundation.\r\nMade from metal, it is extremely durable.",
+   "ro": "O intrare pentru o cale de acces pentru Pali, construită pe o fundație.\r\nFiind din metal, este extrem de durabilă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_SlopedRoofCorner_TextData",
+   "en": "A slanted triangular roof built on top of diagonal walls to keep out the rain and wind.\r\nMade from metal, it is extremely durable.",
+   "ro": "Un acoperiș triunghiular înclinat construit pe pereți diagonali pentru a proteja de ploaie și vânt.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_PyramidRoof_TextData",
+   "en": "A pyramidal roof built on top of walls to keep out the rain and wind.\r\nMade from metal, it is extremely durable.",
+   "ro": "Un acoperiș piramidal construit pe pereți pentru a proteja de ploaie și vânt.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_TriangleFoundation_TextData",
+   "en": "A triangular foundation for building walls or facilities on.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "O fundație triunghiulară pe care se pot construi pereți sau instalații.\r\nFabricată din sticlă industrială, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_DiagonalWall_TextData",
+   "en": "An angled wall built on triangular foundations for keeping out intruders.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un perete în unghi construit pe fundații triunghiulare pentru a ține intrușii la distanță.\r\nFabricat din sticlă industrială, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_TriangleRoof_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un acoperiș triunghiular construit pe pereți pentru a proteja de ploaie și vânt.\r\nFabricat din sticlă industrială, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_TriangleStairsCorner_TextData",
+   "en": "A corner roof built on top of walls to keep out the rain and wind.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un acoperiș de colț construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind fabricat din sticlă industrială, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_TriangleWallReverse_TextData",
+   "en": "An inverted triangular wall built on a foundation for keeping out intruders.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un perete triunghiular inversat construit pe o fundație pentru a ține la distanță intrușii.\r\nFiind fabricat din sticlă industrială, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_WallGate_TextData",
+   "en": "An entrance to a Pal passage built on a foundation.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "O intrare pentru o trecătoare de Pali, construită pe o fundație.\r\nFiind fabricată din sticlă industrială, este destul de rezistentă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_SlopedRoofCorner_TextData",
+   "en": "A slanted triangular roof built on top of diagonal walls to keep out the rain and wind.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un acoperiș triunghiular înclinat construit deasupra pereților diagonali pentru a proteja de ploaie și vânt.\r\nFiind fabricat din sticlă industrială, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_PyramidRoof_TextData",
+   "en": "A pyramidal roof built on top of walls to keep out the rain and wind.\r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un acoperiș piramidal construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nFiind fabricat din sticlă industrială, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_TriangleFoundation_TextData",
+   "en": "A triangular foundation for building walls or facilities on.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "O fundație triunghiulară pe care se pot construi pereți sau instalații.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_DiagonalWall_TextData",
+   "en": "An angled wall built on triangular foundations for keeping out intruders.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un perete în unghi construit pe fundații triunghiulare pentru a ține la distanță intrușii.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_TriangleRoof_01_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind. \r\nThe top is covered with tatami mats.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un acoperiș triunghiular construit deasupra pereților pentru a proteja de ploaie și vânt. \r\nPartea superioară este acoperită cu rogojini tatami.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_TriangleRoof_02_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind. \r\nThe top is covered with tiles. \r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un acoperiș triunghiular construit deasupra pereților pentru a proteja de ploaie și vânt. \r\nPartea superioară este acoperită cu țigle. \r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_TriangleStairsCorner_01_TextData",
+   "en": "A corner roof built on top of walls to keep out the rain and wind.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un acoperiș de colț construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_TriangleStairsCorner_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_TriangleWallReverse_TextData",
+   "en": "An inverted triangular wall built on a foundation for keeping out intruders.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un perete triunghiular inversat construit pe o fundație pentru a ține la distanță intrușii.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_WallGate_TextData",
+   "en": "An entrance to a Pal passage built on a foundation.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "O intrare pentru o trecătoare de Pali, construită pe o fundație.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_SlopedRoofCorner_TextData",
+   "en": "A slanted triangular roof built on top of diagonal walls to keep out the rain and wind.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un acoperiș triunghiular înclinat construit deasupra pereților diagonali pentru a proteja de ploaie și vânt.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_PyramidRoof_TextData",
+   "en": "A pyramidal roof built on top of walls to keep out the rain and wind.\r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un acoperiș piramidal construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nPoți crea construcții elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_TriangleFoundation_TextData",
+   "en": "A triangular foundation for building walls or facilities.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "O fundație triunghiulară pe care se pot construi pereți sau instalații.\r\nPoate fi folosită pentru a crea construcții impecabile, cu aspect futurist."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_DiagonalWall_TextData",
+   "en": "An angled wall built on triangular foundations to keep out intruders.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un perete în unghi construit pe fundații triunghiulare pentru a ține intrușii la distanță.\r\nPoate fi folosit pentru a crea o arhitectură curată, futuristă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_TriangleRoof_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un acoperiș triunghiular construit pe pereți pentru a proteja de ploaie și vânt.\r\nPoate fi folosit pentru a crea o arhitectură curată, futuristă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_TriangleStairsCorner_TextData",
+   "en": "A corner roof built on top of walls to keep out the rain and wind.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un acoperiș de colț construit pe pereți pentru a proteja de ploaie și vânt.\r\nPoate fi folosit pentru a crea o arhitectură curată, futuristă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_TriangleWallReverse_TextData",
+   "en": "An inverted triangular wall built on a foundation to keep out intruders.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un perete triunghiular inversat construit pe o fundație pentru a ține intrușii la distanță.\r\nPoate fi folosit pentru a crea o arhitectură curată, futuristă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_WallGate_TextData",
+   "en": "An entrance to a Pal passage built on a foundation.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "O intrare pentru un culoar de trecere pentru Pali, construită pe o fundație.\r\nPoate fi folosită pentru a crea o arhitectură curată, futuristă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_SlopedRoofCorner_TextData",
+   "en": "A slanted triangular roof built on top of diagonal walls to keep out the rain and wind.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un acoperiș triunghiular înclinat construit pe pereți diagonali pentru a proteja de ploaie și vânt.\r\nPoate fi folosit pentru a crea o arhitectură curată, futuristă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_PyramidRoof_TextData",
+   "en": "A pyramidal roof built on top of walls to keep out the rain and wind.\r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un acoperiș piramidal construit pe pereți pentru a proteja de ploaie și vânt.\r\nPoate fi folosit pentru a crea o arhitectură curată, futuristă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Green_TextData",
+   "en": "A realistic replication of some greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații verzi.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Green_TextData",
+   "en": "A realistic replication of some greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații verzi.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Green_TextData",
+   "en": "A realistic replication of some greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații verzi.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Red_TextData",
+   "en": "A realistic replication of some crimson foliage.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unui frunziș purpuriu.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Red_TextData",
+   "en": "A realistic replication of some crimson foliage.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unui frunziș purpuriu.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Red_TextData",
+   "en": "A realistic replication of some crimson foliage.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unui frunziș purpuriu.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Yellow_TextData",
+   "en": "A realistic replication of some golden foliage.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unui frunziș auriu.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Yellow_TextData",
+   "en": "A realistic replication of some golden foliage.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unui frunziș auriu.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Yellow_TextData",
+   "en": "A realistic replication of some golden foliage.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unui frunziș auriu.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Cherry_TextData",
+   "en": "A realistic replication of some cherry blossoms.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unor flori de cireș.\r\nDoar pentru decor.\r\nNu pot fi recoltate pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Cherry_TextData",
+   "en": "A realistic replication of some cherry blossoms.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unor flori de cireș.\r\nDoar pentru decor.\r\nNu pot fi recoltate pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Cherry_TextData",
+   "en": "A realistic replication of some cherry blossoms.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unor flori de cireș.\r\nDoar pentru decor.\r\nNu pot fi recoltate pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Tropical_TextData",
+   "en": "A realistic replication of some tropical greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații tropicale.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Tropical_TextData",
+   "en": "A realistic replication of some tropical greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații tropicale.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Tropical_TextData",
+   "en": "A realistic replication of some tropical greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații tropicale.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Snow_TextData",
+   "en": "A realistic replication of some snow-covered greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații acoperite de zăpadă.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Snow_TextData",
+   "en": "A realistic replication of some snow-covered greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații acoperite de zăpadă.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Snow_TextData",
+   "en": "A realistic replication of some snow-covered greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații acoperite de zăpadă.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Desert_TextData",
+   "en": "A realistic replication of some desert greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații de deșert.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Desert_TextData",
+   "en": "A realistic replication of some desert greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații de deșert.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Desert_TextData",
+   "en": "A realistic replication of some desert greenery.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unei vegetații de deșert.\r\nDoar pentru decor.\r\nNu poate fi recoltată pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree01_Bamboo_TextData",
+   "en": "A realistic replication of some bamboo.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unor tulpini de bambus.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree02_Bamboo_TextData",
+   "en": "A realistic replication of some bamboo.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unor tulpini de bambus.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureTree03_Bamboo_TextData",
+   "en": "A realistic replication of some bamboo.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O reproducere realistă a unor tulpini de bambus.\r\nDoar pentru decor.\r\nNu poate fi recoltat pentru materiale."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureBush01_Green_TextData",
+   "en": "A realistic replication of a bush.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O replică realistă a unui tufiș.\r\nDoar pentru decor.\r\nNu se pot recolta materiale din el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureBush01_Yellow_TextData",
+   "en": "A realistic replication of a golden bush.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O replică realistă a unui tufiș auriu.\r\nDoar pentru decor.\r\nNu se pot recolta materiale din el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureBush01_Flower_TextData",
+   "en": "A realistic replication of a flowering bush.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O replică realistă a unui tufiș înflorit.\r\nDoar pentru decor.\r\nNu se pot recolta materiale din el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureBush02_Flower_TextData",
+   "en": "A realistic replication of a flowering bush.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O replică realistă a unui tufiș înflorit.\r\nDoar pentru decor.\r\nNu se pot recolta materiale din el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureBush01_Tropical_TextData",
+   "en": "A realistic replication of a tropical bush.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O replică realistă a unui tufiș tropical.\r\nDoar pentru decor.\r\nNu se pot recolta materiale din el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureBush01_Snow_TextData",
+   "en": "A realistic replication of a snow-covered bush.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O replică realistă a unui tufiș acoperit de zăpadă.\r\nDoar pentru decor.\r\nNu se pot recolta materiale din el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_FurnitureStone01_TextData",
+   "en": "A realistic replication of a boulder.\r\nFor decoration only.\r\nCannot be harvested for materials.",
+   "ro": "O replică realistă a unui bolovan.\r\nDoar pentru decor.\r\nNu se pot recolta materiale din el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableCircular_Wood_None_TextData",
+   "en": "Decorative round table with a clean surface.\r\n",
+   "ro": "Masă rotundă decorativă, cu suprafața liberă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_TableSquare_Wood_None_TextData",
+   "en": "Decorative square table with a clean surface.\r\n",
+   "ro": "Masă pătrată decorativă, cu suprafața liberă.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JetDragonStatue_TextData",
+   "en": "Decorative Jetragon statue.\r\n",
+   "ro": "Statuie decorativă cu Jetragon.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_IceHorseStatue_TextData",
+   "en": "Decorative Frostallion statue.\r\n",
+   "ro": "Statuie decorativă cu Frostallion.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_ArcadeVideoGame_TextData",
+   "en": "Decorative arcade machine.\r\nBroken, it can't be played.",
+   "ro": "Aparat arcade decorativ.\r\nFiind defect, nu se poate juca la el."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_TriangleFoundation_TextData",
+   "en": "A triangular foundation for building walls or facilities.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "O fundație triunghiulară pentru construirea de pereți sau facilități.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_DiagonalWall_TextData",
+   "en": "An angled wall built on triangular foundations to keep out intruders.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un perete în unghi construit pe fundații triunghiulare pentru a ține la distanță intrușii.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_TriangleRoof_TextData",
+   "en": "A triangular roof built on top of walls to keep out the rain and wind.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un acoperiș triunghiular construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_TriangleStairsCorner_TextData",
+   "en": "A corner roof built on top of walls to keep out the rain and wind.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un acoperiș de colț construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_TriangleWallReverse_TextData",
+   "en": "An inverted triangular wall built on a foundation to keep out intruders.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un perete triunghiular inversat, construit pe o fundație pentru a ține intrușii la distanță.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_WallGate_TextData",
+   "en": "An entrance to a Pal passage built on a foundation.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "O intrare pentru un pasaj pentru Pali, construită pe o fundație.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_SlopedRoofCorner_TextData",
+   "en": "A slanted triangular roof built on top of diagonal walls to keep out the rain and wind.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un acoperiș triunghiular înclinat, construit deasupra pereților diagonali pentru a proteja de ploaie și vânt.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_PyramidRoof_TextData",
+   "en": "A pyramidal roof built on top of walls to keep out the rain and wind.\r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un acoperiș piramidal, construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_foundation_TextData",
+   "en": "A foundation for building walls or facilities. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "O fundație pentru construirea de pereți sau facilități.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_wall_TextData",
+   "en": "Walls built on foundations to keep out intruders. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Pereți construiți pe fundații pentru a ține intrușii la distanță.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_roof_TextData",
+   "en": "A roof built on top of walls to keep out the rain and wind. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un acoperiș construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_stair_TextData",
+   "en": "Stairs placed below a foundation or roof to climb up. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Scări plasate sub o fundație sau un acoperiș pentru a permite urcarea.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_DoorWall_TextData",
+   "en": "Door built on a foundation. Becomes an entrance. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Ușă construită pe o fundație. Servește ca intrare.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_TriangleWall_TextData",
+   "en": "Triangular wall built on a foundation to keep out intruders. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Perete triunghiular construit pe o fundație pentru a ține intrușii la distanță.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_SlantedRoof_TextData",
+   "en": "Slanted roof built on top of walls to keep out the rain and wind. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Acoperiș înclinat construit deasupra pereților pentru a proteja de ploaie și vânt.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_WindowWall_TextData",
+   "en": "Wall with windows, built on a foundation to keep out intruders. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Perete cu ferestre, construit pe o fundație pentru a ține intrușii la distanță.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_Pillars_TextData",
+   "en": "Column for structural support. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Coloană pentru susținere structurală.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientWorkBench_TextData",
+   "en": "A Pal-exclusive workbench that is capable of crafting any item in one place.\r\nIt cannot be used by the player, and operates at the same speed as a regular workbench.\r\nDue to its advanced equipment, it requires Pals with high-level Handiwork and Medicine Production suitability.",
+   "ro": "O bancă de lucru exclusivă pentru Pali, capabilă să fabrice orice obiect într-un singur loc.\r\nNu poate fi folosită de jucător și funcționează la aceeași viteză ca o bancă de lucru obișnuită.\r\nDatorită echipamentului avansat, necesită Pali cu aptitudini de nivel înalt pentru Lucru manual și Producție de medicamente."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientElectricGenerator_TextData",
+   "en": "A highly efficient power generator restored from lost ancient technology.\r\nIt produces massive amounts of electricity, but is prone to overheating while in operation.\r\nIt requires Pals with high-level Generating Electricity and any level of Watering suitability.",
+   "ro": "Un generator de energie de înaltă eficiență, restaurat din tehnologia antică pierdută.\r\nProduce cantități uriașe de electricitate, dar este predispus la supraîncălzire în timpul funcționării.\r\nNecesită Pali cu un nivel înalt de Generare electricitate și orice nivel de Udare."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientBlastFurnace_TextData",
+   "en": "A special furnace based on ancient technology that can smelt all types of ingots.\r\nMaterials are melted with fire, then quickly cooled and solidified using ice.\r\nIt requires Pals with high-level Kindling and Cooling suitability.",
+   "ro": "Un furnal special bazat pe tehnologie antică ce poate topi toate tipurile de lingouri.\r\nMaterialele sunt topite cu foc, apoi răcite și solidificate rapid folosind gheață.\r\nNecesită Pali cu nivel înalt de aptitudine pentru Aprindere și Răcire."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientCookingStove_TextData",
+   "en": "A special kitchen based on ancient technology that can create everything from existing dishes to entirely new recipes.\r\nIt retains heat through fire and completes cooking with manual preparation, allowing it to prepare any kind of cuisine.\r\nIt requires Pals with high-level Kindling and Handiwork suitability.",
+   "ro": "O bucătărie specială bazată pe tehnologie antică ce poate crea orice, de la preparate existente la rețete complet noi.\r\nReține căldura prin foc și finalizează gătitul prin preparare manuală, permițând pregătirea oricărui tip de mâncare.\r\nNecesită Pali cu nivel înalt de aptitudine pentru Aprindere și Lucru manual."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientMultiProduct_TextData",
+   "en": "A special generator based on ancient technology that uses the power of the World Tree to produce all kinds of wood and ore.\r\nDue to its complex structure, only one Pal can be assigned to it.",
+   "ro": "Un generator special bazat pe tehnologie antică ce folosește puterea Arborelui Lumii pentru a produce toate tipurile de lemn și minereu.\r\nDin cauza structurii sale complexe, i se poate atribui un singur Pal."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientFarmBlock_TextData",
+   "en": "A special cultivation device based on ancient technology that harnesses the power of the World Tree to grow all kinds of plants on Palpagos Island.\r\nSmaller than a berry plantation and suitable for indoor placement, it still follows the same cultivation process as standard plots.\r\nIt requires Pals with high-level Planting, Watering, and Harvesting suitability.",
+   "ro": "Un dispozitiv special de cultivare bazat pe tehnologie antică ce valorifică puterea Arborelui Lumii pentru a crește toate tipurile de plante din Insulele Palpagos.\r\nMai mic decât o plantație de fructe de pădure și potrivit pentru amplasare în interior, urmează totuși același proces de cultivare ca parcelele standard.\r\nNecesită Pali cu nivel înalt de aptitudine pentru Plantare, Udare și Culegere."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DefenseMachinegun_AutoTurret_TextData",
+   "en": "An unmanned turret of ancient technology equipped with rocket launcher–level size and firepower.\r\nIt requires no ammunition or Pal assignment, and performs fully automated interception using only electricity.\r\nHowever, despite its immense power, it requires a massive amount of electricity to operate.",
+   "ro": "O turelă automată cu tehnologie antică, având dimensiunea și puterea de foc a unui lansator de rachete.\r\nNu necesită muniție sau atribuirea vreunui Pal și efectuează interceptarea complet automatizată folosind doar electricitate.\r\nTotuși, în ciuda puterii sale imense, necesită o cantitate uriașă de electricitate pentru a funcționa."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_MultiElectricHatchingPalEggWithBreed_TextData",
+   "en": "An advanced breeding facility of ancient civilization technology, enclosed in electronic glass.\r\nIt fully automates everything from egg production to incubation at high speed, and increases the inheritance rate of rare skills.\r\nPals are managed through holograms, it requires minimal pasture space.",
+   "ro": "O instalație avansată de împerechere cu tehnologie a civilizației antice, închisă în sticlă electronică.\r\nAutomatizează complet totul, de la producerea ouălor până la incubare la viteză mare, și crește rata de moștenire a abilităților rare.\r\nPalii sunt gestionați prin holograme, așa că necesită un spațiu minim de pășune."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BaseCampWorkHard03_TextData",
+   "en": "A monitoring station based on ancient technology, embedded with Red Paldium.\r\nIt issues commands across the entire base through a holographic interface, reducing SAN depletion in Pals.\r\nA special wavelength surrounds the base, keeping Pals calm even in harsh working environments.",
+   "ro": "Un post de monitorizare bazat pe tehnologie antică, încastrat cu Paldium roșu.\r\nEmite comenzi pentru întreaga bază printr-o interfață holografică, reducând epuizarea SAN-ului la Pali.\r\nO lungime de undă specială înconjoară baza, menținând Palii calmi chiar și în medii de lucru dure."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_MedicalPalBed_TextData",
+   "en": "An ultimate Pal Bed made from ancient recovery pod with soft matress.\r\nIt offers one of the highest SAN recovery rates of all Pal beds, quickly relieving fatigue.\r\nIt is the same size as a Large Pal Bed, allowing large Pals to rest comfortably.",
+   "ro": "Un pat suprem pentru Pali, realizat dintr-o capsulă antică de recuperare cu o saltea moale.\r\nOferă una dintre cele mai mari rate de recuperare a SAN-ului dintre toate paturile pentru Pali, alungând rapid oboseala.\r\nAre aceeași dimensiune ca un Pat mare pentru Pali, permițând Palilor mari să se odihnească confortabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientAirConditioner_TextData",
+   "en": "An air conditioning unit based on ancient technology that regulates the temperature of the entire base.\r\nSmaller than standard heating and cooling systems, it maintains a comfortable temperature as long as it is powered.\r\nNo Pals are required for temperature control, and harsh climates can be neutralized with sufficient electricity.",
+   "ro": "O unitate de aer condiționat bazată pe tehnologie antică ce reglează temperatura întregii baze.\r\nMai mică decât sistemele standard de încălzire și răcire, menține o temperatură confortabilă atât timp cât este alimentată.\r\nNu este nevoie de Pali pentru controlul temperaturii, iar climatele aspre pot fi neutralizate cu suficientă electricitate."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_Spa_TextData",
+   "en": "A hot spring built with ancient technology, filled with special water infused with Paldium.\r\nIt offers the highest SAN recovery of all hot springs and also restores Health.\r\nIt is the same size as a standard hot spring, and can fully heal injured Pals.",
+   "ro": "Un izvor termal construit cu tehnologie antică, umplut cu apă specială infuzată cu Paldium.\r\nOferă cea mai mare recuperare a SAN-ului dintre toate izvoarele termale și reface, de asemenea, viața.\r\nAre aceeași dimensiune ca un izvor termal standard și poate vindeca complet Palii răniți."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_AncientRelicRecycler_TextData",
+   "en": "An ancient civilization device that converts materials using repurposed technology from a lost civilization.\r\nIt deciphers the technology left within Ancient Relics and refines them into new forms.\r\nA highly specialized facility designed for the efficient use of relics without waste.",
+   "ro": "Un dispozitiv al unei civilizații antice care convertește materiale folosind tehnologie adaptată de la o civilizație dispărută.\r\nDescifrează tehnologia rămasă în relicvele antice și le rafinează în noi forme.\r\nO instalație extrem de specializată, concepută pentru utilizarea eficientă și fără risipă a relicvelor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Clinic_TextData",
+   "en": "A basic medical facility for managing the health of Pals working at the base.\r\nAssigning a Pal with Medicine Production suitability helps reduce SAN depletion and prevent illness and injury.\r\nWhile sanitation has its limits, it plays a crucial role in early base development.\r\n",
+   "ro": "O unitate medicală de bază pentru gestionarea sănătății Palilor care lucrează la bază.\r\nAtribuirea unui Pal cu aptitudinea Producție de medicamente ajută la reducerea scăderii SAN și la prevenirea bolilor și a rănilor.\r\nDeși igienizarea are limitele sale, joacă un rol crucial în dezvoltarea timpurie a bazei.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_Clinic_TextData",
+   "en": "A top-tier medical facility that reproduces advanced ancient medical technology.\r\nIt offers significantly greater protective capability than a standard clinic.\r\nBy assigning a Pal with Medicine Production suitability, even bases with harsh working conditions can maintain the highest level of hygiene.",
+   "ro": "O unitate medicală de cel mai înalt nivel, care reproduce tehnologia medicală antică avansată.\r\nOferă o capacitate de protecție considerabil mai mare decât o clinică standard.\r\nPrin atribuirea unui Pal cu aptitudinea Producție de medicamente, chiar și bazele cu condiții dure de muncă pot menține cel mai înalt nivel de igienă."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SkyIslandOrePit_TextData",
+   "en": "Facility for producing <itemName id=|SkyIslandOre|/>.\r\nDigging <itemName id=|SkyIslandOre|/> is grueling physical work.\r\nLeave it to a Pal that is good at mining.",
+   "ro": "Instalație pentru producerea de <itemName id=|SkyIslandOre|/>.\r\nSăparea după <itemName id=|SkyIslandOre|/> este o muncă fizică extenuantă.\r\nLas-o în seama unui Pal priceput la minerit."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DarkIsland_Flag_TextData",
+   "en": "Decorative Feybreak flag.\r\n",
+   "ro": "Steag decorativ Feybreak.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_DarkIsland_Banner_TextData",
+   "en": "Decorative Feybreak banner.\r\n",
+   "ro": "Banderolă decorativă Feybreak.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SkyIsland_Flag_TextData",
+   "en": "Decorative Azure Covenant flag.\r\n",
+   "ro": "Steag decorativ Azure Covenant.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SkyIsland_Banner_TextData",
+   "en": "Decorative Azure Covenant banner.\r\n",
+   "ro": "Banderolă decorativă Azure Covenant.\r\n"
+  },
+  {
+   "key": "BUILDOBJECT_DESC_StationDeforest3_TextData",
+   "en": "Facility for producing <itemName id=|Wood_Fine|/>. \r\nCutting wood is hard work that requires much physical endurance. \r\nLeave it to Pals skilled in logging.",
+   "ro": "Instalație pentru producerea de <itemName id=|Wood_Fine|/>.\r\nTăiatul lemnelor este o muncă grea care necesită multă rezistență fizică.\r\nLas-o în seama Palilor pricepuți la tăiat lemne."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_BaseCampWorkHard02_TextData",
+   "en": "A refined monitoring station with improved materials and structure.\r\nIn addition to being able to issue work orders, the system also lowers the SAN cost for Pals working at the base. \r\nWorking conditions are slightly improved, making Pals less likely to become dissatisfied.",
+   "ro": "Un post de monitorizare perfecționat, cu materiale și structură îmbunătățite.\r\nPe lângă faptul că permite emiterea de comenzi de lucru, sistemul reduce și scăderea valorii SAN pentru Palii care lucrează la bază.\r\nCondițiile de muncă sunt ușor îmbunătățite, făcându-i pe Pali mai puțin predispuși la nemulțumiri."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_Fence_TextData",
+   "en": "Fencing built on foundations and roofs for keeping out intruders. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Gard construit pe fundații și acoperișuri pentru a ține la distanță intrușii.\r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Wooden_SlopedRoofCornerReverse_TextData",
+   "en": "An inverted slanted triangular roof built on top of walls to keep out the rain and wind. \r\nMade from wood, it breaks easily.",
+   "ro": "Un acoperiș triunghiular înclinat inversat, construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Stone_SlopedRoofCornerReverse_TextData",
+   "en": "An inverted slanted triangular roof built on top of walls to keep out the rain and wind. \r\nMade from stone, it is reasonably sturdy.",
+   "ro": "Un acoperiș triunghiular înclinat inversat, construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din piatră, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Iron_SlopedRoofCornerReverse_TextData",
+   "en": "An inverted slanted triangular roof built on top of walls to keep out the rain and wind. \r\nMade from metal, it is extremely durable.",
+   "ro": "Un acoperiș triunghiular înclinat inversat, construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din metal, este extrem de durabil."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Glass_SlopedRoofCornerReverse_TextData",
+   "en": "An inverted slanted triangular roof built on top of walls to keep out the rain and wind. \r\nMade of industrial-strength glass, it's quite sturdy.",
+   "ro": "Un acoperiș triunghiular înclinat inversat, construit peste pereți pentru a proteja de ploaie și vânt.\r\nFiind din sticlă industrială, este destul de rezistent."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_JapaneseStyle_SlopedRoofCornerReverse_TextData",
+   "en": "An inverted slanted triangular roof built on top of walls to keep out the rain and wind. \r\nYou can create stylish Japanese-style architecture.",
+   "ro": "Un acoperiș triunghiular înclinat inversat, construit peste pereți pentru a proteja de ploaie și vânt.\r\nPoți crea clădiri elegante în stil japonez."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_SF_SlopedRoofCornerReverse_TextData",
+   "en": "An inverted slanted triangular roof built on top of walls to keep out the rain and wind. \r\nCan be used to create clean, futuristic architecture.",
+   "ro": "Un acoperiș triunghiular înclinat inversat, construit pe pereți pentru a feri de ploaie și vânt. \r\nPoate fi folosit pentru a crea o arhitectură futuristă și aerisită."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_Ancient_SlopedRoofCornerReverse_TextData",
+   "en": "An inverted slanted triangular roof built on top of walls to keep out the rain and wind. \r\nRecreates the architectural style of ancient civilizations.",
+   "ro": "Un acoperiș triunghiular înclinat inversat, construit pe pereți pentru a feri de ploaie și vânt. \r\nRecreează stilul arhitectural al civilizațiilor antice."
+  },
+  {
+   "key": "BUILDOBJECT_DESC_OilPump02_TextData",
+   "en": "A device that pumps and extracts <itemName id=|CrudeOil|/> from deep underground.\r\nIt can produce <itemName id=|CrudeOil|/> even in areas without oil fields, but it can only be placed on open ground with no structures beneath it.\r\nIt requires a far greater supply of electricity than the <mapObjectName id=|OilPump|/>.",
+   "ro": "Un dispozitiv care pompează și extrage <itemName id=|CrudeOil|/> de la mare adâncime.\r\nPoate produce <itemName id=|CrudeOil|/> chiar și în zone fără zăcăminte de petrol, dar poate fi amplasat doar pe sol deschis, fără structuri dedesubt.\r\nNecesită o cantitate mult mai mare de electricitate decât <mapObjectName id=|OilPump|/>."
+  }
+ ]
+}

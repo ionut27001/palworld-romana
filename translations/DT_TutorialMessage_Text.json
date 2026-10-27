@@ -1,0 +1,180 @@
+{
+ "table": "DT_TutorialMessage_Text",
+ "entries": [
+  {
+   "key": "TUTORIAL_SP_1_TextData",
+   "en": "Pick up items with <keyGuideIcon id=|Interact_1|/>.",
+   "ro": "Adună obiecte cu <keyGuideIcon id=|Interact_1|/>."
+  },
+  {
+   "key": "TUTORIAL_ITEM_1_TextData",
+   "en": "Open the Build Menu with <keyGuideIcon id=|OpenConstructionMenu|/>.",
+   "ro": "Deschide Meniul de construcție cu <keyGuideIcon id=|OpenConstructionMenu|/>."
+  },
+  {
+   "key": "TUTORIAL_ITEM_2_TextData",
+   "en": "Press <keyGuideIcon id=|ThrowObject|/> to throw a Sphere and capture a Pal.\r\nWeakened Pals are easier to catch.",
+   "ro": "Apasă <keyGuideIcon id=|ThrowObject|/> pentru a arunca o Sferă și a captura un Pal.\r\nPalii slăbiți sunt mai ușor de prins."
+  },
+  {
+   "key": "TUTORIAL_ITEM_3_TextData",
+   "en": "Use <keyGuideIcon id=|OpenConstructionMenu|/> to build a Palbox\r\nfrom the Build Menu and construct a base.",
+   "ro": "Folosește <keyGuideIcon id=|OpenConstructionMenu|/> pentru a construi un Palbox\r\ndin Meniul de construcție și a întemeia o bază."
+  },
+  {
+   "key": "TUTORIAL_ITEM_4_TextData",
+   "en": "Use a Skill Fruit from your inventory\r\nto learn a Pal skill.",
+   "ro": "Folosește un Fruct cu abilitate din inventar\r\npentru a învăța un Pal o abilitate."
+  },
+  {
+   "key": "TUTORIAL_ITEM_5_TextData",
+   "en": "Collect <itemName id=|Relic|/> and offer them to a <MapObjectName id=|BuildableGoddessStatue|/>\r\nto improve your ability to capture Pals.",
+   "ro": "Adună <itemName id=|Relic|/> și oferă-le la o <MapObjectName id=|BuildableGoddessStatue|/>\r\npentru a-ți îmbunătăți abilitatea de a captura Pali."
+  },
+  {
+   "key": "TUTORIAL_ITEM_6_TextData",
+   "en": "Press <keyGuideIcon id=|Jump|/> while jumping to glide.",
+   "ro": "Apasă <keyGuideIcon id=|Jump|/> în timp ce sari pentru a plana."
+  },
+  {
+   "key": "TUTORIAL_ITEM_7_TextData",
+   "en": "Build an <MapObjectName id=|HatchingPalEgg|/>\r\nto incubate Pal eggs.",
+   "ro": "Construiește un <MapObjectName id=|HatchingPalEgg|/>\r\npentru a incuba ouă de Pal."
+  },
+  {
+   "key": "TUTORIAL_RESPAWN_1_TextData",
+   "en": "You will be revived at the location\r\nwhere you build a Palbox.",
+   "ro": "Vei reînvia în locul\r\nunde construiești un Palbox."
+  },
+  {
+   "key": "TUTORIAL_RESPAWN_2_TextData",
+   "en": "Your Pals and items will be dropped where you were knocked out.\r\nCollect them before someone else does.",
+   "ro": "Palii și obiectele tale vor rămâne acolo unde ai fost doborât.\r\nRecuperează-le înainte să o facă altcineva."
+  },
+  {
+   "key": "TUTORIAL_INDIVIDUAL_1_TextData",
+   "en": "Use Technology Points to unlock\r\nnew items and facilities.",
+   "ro": "Folosește Puncte de tehnologie pentru a debloca\r\nobiecte și facilități noi."
+  },
+  {
+   "key": "TUTORIAL_INDIVIDUAL_2_TextData",
+   "en": "Press <keyGuideIcon id=|OpenCharacterMenu|/> to open the inventory\r\nand use Status Points to strengthen your character.",
+   "ro": "Apasă <keyGuideIcon id=|OpenCharacterMenu|/> pentru a deschide inventarul\r\nși folosește Puncte de atribute pentru a-ți îmbunătăți personajul."
+  },
+  {
+   "key": "TUTORIAL_INDIVIDUAL_3_TextData",
+   "en": "Your parameters will decrease while hungry.\r\nYou can eat by using items in the inventory.",
+   "ro": "Statisticile tale vor scădea când îți este foame.\r\nPoți mânca folosind obiecte din inventar."
+  },
+  {
+   "key": "TUTORIAL_INDIVIDUAL_4_TextData",
+   "en": "Pal parameters will decrease while hungry.\r\nYou can feed them by using items in the inventory.",
+   "ro": "Statisticile Palilor vor scădea când le este foame.\r\nÎi poți hrăni folosind obiecte din inventar."
+  },
+  {
+   "key": "TUTORIAL_INDIVIDUAL_5_TextData",
+   "en": "Pals will slack off or get sick if their SAN decreases too much.\r\nFeed them high quality food or build a hot spring to restore SAN.",
+   "ro": "Palii vor trândăvi sau se vor îmbolnăvi dacă le scade prea mult nivelul de SAN.\r\nHrănește-i cu mâncare de calitate superioară sau construiește un izvor termal pentru a le reface nivelul de SAN."
+  },
+  {
+   "key": "TUTORIAL_INDIVIDUAL_6_TextData",
+   "en": "If a Pal falls ill, treat them using medicine\r\nmade from a medicine work bench.",
+   "ro": "Dacă un Pal se îmbolnăvește, tratează-l cu medicamente\r\nfabricate la o bancă de lucru pentru medicamente."
+  },
+  {
+   "key": "TUTORIAL_INDIVIDUAL_7_TextData",
+   "en": "Pals' SAN decreases while doing work, causing them to slack off.\r\nBuild a hot spring or other facilities to get them back on the job.",
+   "ro": "Nivelul de SAN al Palilor scade când muncesc, determinându-i să lenevească.\r\nConstruiește un izvor termal sau alte facilități pentru a-i readuce la treabă."
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_1_TextData",
+   "en": "Wild Pals are easier to capture when their <uiCommon id=|COMMON_STATUS_HP|/> is low.\r\nThey cannot be captured if you kill them.",
+   "ro": "Palii sălbatici sunt mai ușor de capturat când au nivelul de <uiCommon id=|COMMON_STATUS_HP|/> scăzut.\r\nNu pot fi capturați dacă îi ucizi."
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_2_TextData",
+   "en": "Press <keyGuideIcon id=|ThrowPal|/> to summon a captured Pal.",
+   "ro": "Apasă pe <keyGuideIcon id=|ThrowPal|/> pentru a chema un Pal capturat."
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_3_TextData",
+   "en": "You'll receive a lot of EXP for capturing a new type of Pal.\r\nSearch for new Pals as you continue your adventure.",
+   "ro": "Vei primi mult EXP când capturezi o specie nouă de Pal.\r\nCaută Pali noi pe măsură ce-ți continui aventura."
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_4_TextData",
+   "en": "You'll receive bonus EXP for capturing the same Pal species up to 5 times.",
+   "ro": "Vei primi EXP bonus pentru capturarea aceleiași specii de Pal de până la 5 ori."
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_5_TextData",
+   "en": "You can take up to five Pals with you at a time.\r\nCapture any more than that, and they will automatically be sent to your Palbox.",
+   "ro": "Poți lua cu tine până la cinci Pali deodată.\r\nDacă mai capturezi și alții, vor fi trimiși automat în Palbox."
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_6_TextData",
+   "en": "You've captured a lucky Pal!\r\nSee what special abilities they have!",
+   "ro": "Ai capturat un Pal norocos!\r\nVezi ce abilități speciale are!"
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_7_TextData",
+   "en": "Build a Palbox,\r\nand you can retrieve captured Pals from it.",
+   "ro": "Construiește un Palbox,\r\niar de acolo vei putea scoate Palii capturați."
+  },
+  {
+   "key": "TUTORIAL_CAPTURE_8_TextData",
+   "en": "You won't be able to effectively use Pals at a higher level than you!\r\nTheir abilities will be lowered to match those of your character's level.",
+   "ro": "Nu vei putea folosi eficient Pali care au un nivel mai mare decât al tău!\r\nAbilitățile lor vor fi reduse pentru a se potrivi cu nivelul personajului tău."
+  },
+  {
+   "key": "TUTORIAL_COMMON_1_TextData",
+   "en": "You won't be able to move if you're carrying too much heavy stuff.\r\nUse Status Points to increase your carrying capacity.",
+   "ro": "Nu te vei mai putea mișca dacă ai prea multă greutate asupra ta.\r\nFolosește puncte de stare pentru a-ți crește capacitatea de transport."
+  },
+  {
+   "key": "TUTORIAL_COMMON_2_TextData",
+   "en": "Hand-Held Torches brighten up areas around you and fend off the cold.\r\nTry crafting one at a workbench.",
+   "ro": "Torțele de mână luminează zona din jurul tău și alungă frigul.\r\nÎncearcă să fabrici una la o bancă de lucru."
+  },
+  {
+   "key": "TUTORIAL_COMMON_3_TextData",
+   "en": "Your Pal has been knocked out!\r\nPlace them in a Palbox to heal them of the <uiCommon id=|COMMON_CONDITION_NAME_Dying|/> status.",
+   "ro": "Palul tău a fost doborât!\r\nPune-l într-un Palbox pentru a-l vindeca de starea <uiCommon id=|COMMON_CONDITION_NAME_Dying|/>."
+  },
+  {
+   "key": "TUTORIAL_COMMON_4_TextData",
+   "en": "Take out a Pal at base, and they\r\nwill automatically search for jobs they are capable of doing.",
+   "ro": "Scoate un Pal la bază, iar acesta\r\nva căuta automat sarcini pe care este capabil să le îndeplinească."
+  },
+  {
+   "key": "TUTORIAL_COMMON_5_TextData",
+   "en": "Place a Pal in the Base Pals slot in your Palbox,\r\nand they will help out based on their work suitability",
+   "ro": "Plasează un Pal în secțiunea Pali de bază din Palbox,\r\niar acesta va ajuta la treburi conform aptitudinilor de lucru"
+  },
+  {
+   "key": "TUTORIAL_COMMON_6_TextData",
+   "en": "Pals can equip up to three active skills at once.\r\nTry swapping in new skills from the <uiCommon id=|INGAME_MAIN_MENU_PAL|/> menu.",
+   "ro": "Palii se pot echipa cu până la trei abilități active simultan.\r\nÎncearcă să schimbi abilitățile din meniul <uiCommon id=|INGAME_MAIN_MENU_PAL|/>."
+  },
+  {
+   "key": "TUTORIAL_COMMON_7_TextData",
+   "en": "Fighting a rampaging wild Pal with your bare hands isn't the best idea.\r\nTry building a workbench and crafting a weapon.",
+   "ro": "Să te lupți cu mâinile goale împotriva unui Pal sălbatic furios nu e cea mai bună idee.\r\nÎncearcă să construiești o bancă de lucru și să fabrici o armă."
+  },
+  {
+   "key": "TUTORIAL_COMMON_8_TextData",
+   "en": "You've found a note from another adventurer.\r\nYou can check their journeys from the option screen.",
+   "ro": "Ai găsit o notiță de la un alt aventurier.\r\nÎi poți urmări călătoriile din ecranul de opțiuni."
+  },
+  {
+   "key": "TUTORIAL_COMMON_9_TextData",
+   "en": "Hold <keyGuideIcon id=|Reload|/> while using certain weapons to switch ammo types.",
+   "ro": "Ține apăsat <keyGuideIcon id=|Reload|/> în timp ce folosești anumite arme pentru a schimba tipul de muniție."
+  },
+  {
+   "key": "TUTORIAL_COMMON_9_GamePad_TextData",
+   "en": "Hold <keyGuideIcon id=|ChangeWeaponNext_GamePad|/> while using certain weapons to switch ammo types.",
+   "ro": "Ține apăsat <keyGuideIcon id=|ChangeWeaponNext_GamePad|/> în timp ce folosești anumite arme pentru a schimba tipul de muniție."
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "table": "DT_DungeonNameText",
+ "entries": [
+  {
+   "key": "NAME_Dungeon01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_Dungeon02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_Dungeon03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_Dungeon04_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_Dungeon05_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_Dungeon06_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_Dungeon07_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_Dungeon08_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_FixedDungeon001_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_FixedDungeon_grass_1_TextData",
+   "en": "Sealed Realm of the Frozen Wings",
+   "ro": "Tărâmul sigilat al aripilor înghețate"
+  },
+  {
+   "key": "NAME_FixedDungeon_grass_2_TextData",
+   "en": "Sealed Realm of the Ardent",
+   "ro": "Tărâmul sigilat al celui arzător"
+  },
+  {
+   "key": "NAME_FixedDungeon_grass_3_TextData",
+   "en": "Sealed Realm of the Myriad Flames",
+   "ro": "Tărâmul sigilat al nenumăratelor flăcări"
+  },
+  {
+   "key": "NAME_FixedDungeon_grass_4_TextData",
+   "en": "Sealed Realm of the Swordmaster",
+   "ro": "Tărâmul sigilat al maestrului spadasin"
+  },
+  {
+   "key": "NAME_FixedDungeon_grass_5_TextData",
+   "en": "Sealed Realm of the Frost Flower",
+   "ro": "Tărâmul sigilat al florii de gheață"
+  },
+  {
+   "key": "NAME_FixedDungeon_grass_6_TextData",
+   "en": "Sealed Realm of the Frigid Fox",
+   "ro": "Tărâmul sigilat al vulpii înghețate"
+  },
+  {
+   "key": "NAME_FixedDungeon_grass_7_TextData",
+   "en": "Sealed Realm of the Luxurious Thicket",
+   "ro": "Tărâmul sigilat al tufărișului luxuriant"
+  },
+  {
+   "key": "NAME_FixedDungeon_forest_1_TextData",
+   "en": "Sealed Realm of the Sorcerer",
+   "ro": "Tărâmul sigilat al vrăjitorului"
+  },
+  {
+   "key": "NAME_FixedDungeon_forest_2_TextData",
+   "en": "Sealed Realm of the Guardian",
+   "ro": "Tărâmul sigilat al păzitorului"
+  },
+  {
+   "key": "NAME_FixedDungeon_forest_3_TextData",
+   "en": "Sealed Realm of the Swift",
+   "ro": "Tărâmul sigilat al celui iute"
+  },
+  {
+   "key": "NAME_FixedDungeon_forest_4_TextData",
+   "en": "Sealed Realm of the Esoteric",
+   "ro": "Tărâmul sigilat al ezotericului"
+  },
+  {
+   "key": "NAME_FixedDungeon_forest_5_TextData",
+   "en": "Sealed Realm of the Pristine",
+   "ro": "Tărâmul sigilat al neprihănitului"
+  },
+  {
+   "key": "NAME_RandomDungeon_grass01_TextData",
+   "en": "Hillside Cavern",
+   "ro": "Caverna de pe deal"
+  },
+  {
+   "key": "NAME_RandomDungeon_grass02_TextData",
+   "en": "Ravine Grotto",
+   "ro": "Grota din râpă"
+  },
+  {
+   "key": "NAME_RandomDungeon_forest01_TextData",
+   "en": "Mountain Stream Grotto",
+   "ro": "Grota pârâului montan"
+  },
+  {
+   "key": "NAME_RandomDungeon_volcano01_TextData",
+   "en": "Volcanic Cavern",
+   "ro": "Caverna vulcanică"
+  },
+  {
+   "key": "NAME_RandomDungeon_dessert01_TextData",
+   "en": "Cavern of the Dunes",
+   "ro": "Caverna dunelor"
+  },
+  {
+   "key": "NAME_RandomDungeon_snow01_TextData",
+   "en": "Astral Mountains Cavern",
+   "ro": "Caverna Munților Astrali"
+  },
+  {
+   "key": "NAME_RandomDungeon_PvP_TextData",
+   "en": "Isolated Island Cavern",
+   "ro": "Caverna insulei izolate"
+  },
+  {
+   "key": "NAME_RandomDungeon_Sakura01_TextData",
+   "en": "Cherry Blossom Cave",
+   "ro": "Peștera florilor de cireș"
+  },
+  {
+   "key": "NAME_RandomDungeon_Viking01_TextData",
+   "en": "Feybreak Cavern",
+   "ro": "Caverna Feybreak"
+  },
+  {
+   "key": "NAME_FixedDungeon_DarkIsland_1_TextData",
+   "en": "Sealed Realm of the Wardenstone",
+   "ro": "Tărâmul sigilat al Pietrei Gardianului"
+  },
+  {
+   "key": "NAME_FixedDungeon_DarkIsland_2_TextData",
+   "en": "Sealed Realm of the Little Hero",
+   "ro": "Tărâmul sigilat al micului erou"
+  },
+  {
+   "key": "NAME_FixedDungeon_DarkIsland_3_TextData",
+   "en": "Sealed Realm of the Indigo",
+   "ro": "Tărâmul sigilat al Indigoului"
+  },
+  {
+   "key": "NAME_FixedDungeon_DarkIsland_4_TextData",
+   "en": "Sealed Realm of the Soul",
+   "ro": "Tărâmul sigilat al sufletului"
+  },
+  {
+   "key": "NAME_FixedDungeon_SmallIsland03_TextData",
+   "en": "Sealed Realm of the Glacial Core",
+   "ro": "Tărâmul sigilat al nucleului glaciar"
+  },
+  {
+   "key": "NAME_RandomDungeon_Yakushima01_TextData",
+   "en": "???",
+   "ro": "???"
+  },
+  {
+   "key": "NAME_FixedDungeon_WorldTree_01_TextData",
+   "en": "This Dungeon is under investigation.",
+   "ro": "Această temniță este în curs de investigare."
+  },
+  {
+   "key": "NAME_FixedDungeon_WorldTree_02_TextData",
+   "en": "This Dungeon is under investigation.",
+   "ro": "Această temniță este în curs de investigare."
+  },
+  {
+   "key": "NAME_FixedDungeon_WorldTree_03_TextData",
+   "en": "This Dungeon is under investigation.",
+   "ro": "Această temniță este în curs de investigare."
+  },
+  {
+   "key": "NAME_FixedDungeon_WorldTree_04_TextData",
+   "en": "This Dungeon is under investigation.",
+   "ro": "Această temniță este în curs de investigare."
+  },
+  {
+   "key": "NAME_FixedDungeon_SkyIsland_01_TextData",
+   "en": "Sealed Realm of the Astral Vow",
+   "ro": "Tărâmul sigilat al jurământului astral"
+  },
+  {
+   "key": "NAME_RandomDungeon_Skyland01_TextData",
+   "en": "Sunreach Skies",
+   "ro": "Cerurile Sunreach"
+  }
+ ]
+}

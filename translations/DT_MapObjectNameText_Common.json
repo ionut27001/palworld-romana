@@ -1,0 +1,3090 @@
+{
+ "table": "DT_MapObjectNameText_Common",
+ "entries": [
+  {
+   "key": "MAPOBJECT_NAME_DummyFoliage_TextData",
+   "en": "Tree",
+   "ro": "Copac"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BlastFurnace_TextData",
+   "en": "Primitive Furnace",
+   "ro": "Furnal primitiv"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BlastFurnace2_TextData",
+   "en": "Improved Furnace",
+   "ro": "Furnal îmbunătățit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BlastFurnace3_TextData",
+   "en": "Electric Furnace",
+   "ro": "Furnal electric"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BlastFurnace4_Old_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BlastFurnace5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CampFire_TextData",
+   "en": "Campfire",
+   "ro": "Foc de tabără"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CharacterRankUp_TextData",
+   "en": "Pal Essence Condenser",
+   "ro": "Condensator de esență Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CookingStove_TextData",
+   "en": "Cooking Pot",
+   "ro": "Ceaun de gătit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0001_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0002_TextData",
+   "en": "Copper Ore",
+   "ro": "Minereu de cupru"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0003_TextData",
+   "en": "Pure Quartz",
+   "ro": "Cuarț pur"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0004_TextData",
+   "en": "Coal",
+   "ro": "Cărbune"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0005_TextData",
+   "en": "Paldium Ore",
+   "ro": "Minereu de Paldium"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0006_TextData",
+   "en": "Sulfur",
+   "ro": "Sulf"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0007_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0008_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0009_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0010_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0011_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0012_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0013_TextData",
+   "en": "SandStone",
+   "ro": "Gresie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0014_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0015_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0016_TextData",
+   "en": "Rock",
+   "ro": "Stâncă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DeathPenaltyChest_TextData",
+   "en": "Death Chest",
+   "ro": "Cufăr de deces"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseGatlingGun_TextData",
+   "en": "Mounted Gatling Gun",
+   "ro": "Mitralieră Gatling montată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseMachinegun_TextData",
+   "en": "Mounted Machine Gun",
+   "ro": "Mitralieră montată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseMinigun_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseMissile_TextData",
+   "en": "Mounted Missile Launcher",
+   "ro": "Lansator de rachete montat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseBowGun_TextData",
+   "en": "Mounted Crossbow",
+   "ro": "Arbaletă montată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseWait_TextData",
+   "en": "Sandbag",
+   "ro": "Sac de nisip"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DUMMY_TextData",
+   "en": "Workbench",
+   "ro": "Bancă de lucru"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricGenerator_TextData",
+   "en": "Power Generator",
+   "ro": "Generator de energie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricGenerator_Slave_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricGenerator2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricGenerator3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricKitchen_TextData",
+   "en": "Electric Kitchen",
+   "ro": "Bucătărie electrică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Factory_Comfortable_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Factory_Comfortable_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Factory_Hard_01_TextData",
+   "en": "High-Quality Workbench",
+   "ro": "Bancă de lucru de înaltă calitate"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Factory_Hard_02_TextData",
+   "en": "Production Assembly Line",
+   "ro": "Linie de asamblare pentru producție"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Factory_Hard_03_TextData",
+   "en": "Production Assembly Line II",
+   "ro": "Linie de asamblare pentru producție II"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlock_TextData",
+   "en": "Plantation",
+   "ro": "Plantație"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Grade01_TextData",
+   "en": "Plantation",
+   "ro": "Plantație"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Grade02_TextData",
+   "en": "Plantation",
+   "ro": "Plantație"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Grade03_TextData",
+   "en": "Plantation",
+   "ro": "Plantație"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_wheet_TextData",
+   "en": "Wheat Plantation",
+   "ro": "Plantație de grâu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_tomato_TextData",
+   "en": "Tomato Plantation",
+   "ro": "Plantație de roșii"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Lettuce_TextData",
+   "en": "Lettuce Plantation",
+   "ro": "Plantație de salată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Berries_TextData",
+   "en": "Berry Plantation",
+   "ro": "Plantație de fructe de pădure"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FastTravelPoint_TextData",
+   "en": "Great Eagle Statue",
+   "ro": "Statuia Marelui Vultur"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Floor_TextData",
+   "en": "Floor",
+   "ro": "Podea"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Floor_Stone_TextData",
+   "en": "Floor",
+   "ro": "Podea"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Floor_Wood_TextData",
+   "en": "Floor",
+   "ro": "Podea"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FoliageLogTest_TextData",
+   "en": "Log",
+   "ro": "Buștean"
+  },
+  {
+   "key": "MAPOBJECT_NAME_HighTechKitchen_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ItemChest_TextData",
+   "en": "Wooden Chest",
+   "ro": "Cufăr de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ItemChest_02_TextData",
+   "en": "Metal Chest",
+   "ro": "Cufăr de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ItemChest_03_TextData",
+   "en": "Refined Metal Chest",
+   "ro": "Cufăr de metal rafinat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicalPalBed_02_TextData",
+   "en": "Straw Pal Bed",
+   "ro": "Pat de paie pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicalPalBed_03_TextData",
+   "en": "Fluffy Pal Bed",
+   "ro": "Pat pufos pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicalPalBed_04_TextData",
+   "en": "Large Pal Bed",
+   "ro": "Pat mare pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicalPalBed_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicineFacility_01_TextData",
+   "en": "Medieval Medicine Workbench",
+   "ro": "Bancă de lucru medievală pentru medicamente"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicineFacility_02_TextData",
+   "en": "Electric Medicine Workbench",
+   "ro": "Bancă de lucru electrică pentru medicamente"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicineFacility_03_Old_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalFoodBox_TextData",
+   "en": "Feed Box",
+   "ro": "Cutie de hrănire"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalStorage_TextData",
+   "en": "Palbox",
+   "ro": "Palbox"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalBoxV2_TextData",
+   "en": "Palbox",
+   "ro": "Palbox"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DisplayCharacter_TextData",
+   "en": "Viewing Cage",
+   "ro": "Cușcă de expunere"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Flint_TextData",
+   "en": "Flint Stone",
+   "ro": "Cremene"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Log_TextData",
+   "en": "Lumber",
+   "ro": "Lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_RedBerry_TextData",
+   "en": "Red Berry",
+   "ro": "Fruct de pădure roșu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Stone_TextData",
+   "en": "Small Rock",
+   "ro": "Piatră mică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Potato_TextData",
+   "en": "Potato",
+   "ro": "Cartof"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PlayerBed_02_TextData",
+   "en": "Shoddy Bed",
+   "ro": "Pat improvizat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PlayerBed_03_TextData",
+   "en": "Fine Bed",
+   "ro": "Pat de calitate"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PlayerBed_TextData",
+   "en": "Human Bed",
+   "ro": "Pat pentru oameni"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ShippingItemBox_TextData",
+   "en": "Shipping Box",
+   "ro": "Cutie de expediere"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SphereFactory_Black_01_TextData",
+   "en": "Sphere Workbench",
+   "ro": "Bancă de lucru pentru sfere"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SphereFactory_Black_02_TextData",
+   "en": "Sphere Assembly Line",
+   "ro": "Linie de asamblare de sfere"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SphereFactory_Black_03_TextData",
+   "en": "Sphere Assembly Line II",
+   "ro": "Linie de asamblare de sfere II"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SphereFactory_White_01_TextData",
+   "en": "Superior Sphere Factory Ⅰ",
+   "ro": "Fabrică superioară de sfere Ⅰ"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SphereFactory_White_02_TextData",
+   "en": "Superior Sphere Factory Ⅱ",
+   "ro": "Fabrică superioară de sfere Ⅱ"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SphereFactory_White_03_TextData",
+   "en": "Superior Sphere Factory Ⅲ",
+   "ro": "Fabrică superioară de sfere Ⅲ"
+  },
+  {
+   "key": "MAPOBJECT_NAME_StationDeforest_TextData",
+   "en": "Stone Pit",
+   "ro": "Carieră de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stonehouse1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_StonePit_TextData",
+   "en": "Stone Pit",
+   "ro": "Carieră de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CopperMine_TextData",
+   "en": "CopperMine",
+   "ro": "Mină de cupru"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SteelMine_TextData",
+   "en": "SteelMine",
+   "ro": "Mină de oțel"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Strawhouse1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TEST_TestGlobalContainer_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wall_TextData",
+   "en": "Wall",
+   "ro": "Zid"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wall_Stone_TextData",
+   "en": "Wall",
+   "ro": "Zid"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wall_Wood_TextData",
+   "en": "Wall",
+   "ro": "Zid"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponChest_TextData",
+   "en": "Weapon Chest",
+   "ro": "Ladă pentru arme"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Base_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Clean_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Clean_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Clean_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Dirty_01_TextData",
+   "en": "Weapon Workbench",
+   "ro": "Bancă de lucru pentru arme"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Dirty_02_TextData",
+   "en": "Weapon Assembly Line",
+   "ro": "Linie de asamblare a armelor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Dirty_03_TextData",
+   "en": "Weapon Assembly Line II",
+   "ro": "Linie de asamblare a armelor II"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactry_TextData",
+   "en": "Weapon Factory",
+   "ro": "Fabrică de arme"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Well_TextData",
+   "en": "Water Well",
+   "ro": "Fântână de apă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WoodHouse1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WorkBench_TextData",
+   "en": "Primitive Workbench",
+   "ro": "Bancă de lucru primitivă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_RecoverOtomo_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Fire_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Water_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Leaf_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Electricity_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Ice_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Earth_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Dark_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalEgg_Dragon_TextData",
+   "en": "Pal Egg",
+   "ro": "Ou de Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_HatchingPalEgg_TextData",
+   "en": "Egg Incubator",
+   "ro": "Incubator de ouă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TowerFastTravelPoint_TextData",
+   "en": "Great Eagle Statue",
+   "ro": "Statuia Marelui Vultur"
+  },
+  {
+   "key": "MAPOBJECT_NAME_StationDeforest2_TextData",
+   "en": "Logging Site",
+   "ro": "Zonă de defrișare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WorkBench_SkillUnlock_TextData",
+   "en": "Pal Gear Workbench",
+   "ro": "Bancă de lucru pentru echipament Pal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WorkBench_SkillCard_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Foundation_TextData",
+   "en": "Foundation",
+   "ro": "Fundație"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Roof_TextData",
+   "en": "Roof",
+   "ro": "Acoperiș"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stairs_TextData",
+   "en": "Stairs",
+   "ro": "Scări"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_foundation_TextData",
+   "en": "Wooden Foundation",
+   "ro": "Fundație de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_wall_TextData",
+   "en": "Wooden Wall",
+   "ro": "Perete de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_roof_TextData",
+   "en": "Wooden Roof",
+   "ro": "Acoperiș de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_stair_TextData",
+   "en": "Wooden Stairs",
+   "ro": "Scări de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_DoorWall_TextData",
+   "en": "Wooden Door",
+   "ro": "Ușă de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_foundation_TextData",
+   "en": "Stone Foundation",
+   "ro": "Fundație de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_wall_TextData",
+   "en": "Stone Wall",
+   "ro": "Perete de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_roof_TextData",
+   "en": "Stone Roof",
+   "ro": "Acoperiș de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_stair_TextData",
+   "en": "Stone Stairs",
+   "ro": "Scări de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_foundation_TextData",
+   "en": "Metal Foundation",
+   "ro": "Fundație de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_wall_TextData",
+   "en": "Metal Wall",
+   "ro": "Perete de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_roof_TextData",
+   "en": "Metal Roof",
+   "ro": "Acoperiș de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_stair_TextData",
+   "en": "Metal Stairs",
+   "ro": "Scări de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Heater_TextData",
+   "en": "Heater",
+   "ro": "Încălzitor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricHeater_TextData",
+   "en": "Electric Heater",
+   "ro": "Încălzitor electric"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Cooler_TextData",
+   "en": "Cooler",
+   "ro": "Răcitor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricCooler_TextData",
+   "en": "Electric Cooler",
+   "ro": "Răcitor electric"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Torch_TextData",
+   "en": "Mounted Torch",
+   "ro": "Torță fixată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WallTorch_TextData",
+   "en": "Wall Torch",
+   "ro": "Torță de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Lamp_TextData",
+   "en": "Lamp",
+   "ro": "Lampă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CeilingLamp_TextData",
+   "en": "Ceiling Lamp",
+   "ro": "Lampă de tavan"
+  },
+  {
+   "key": "MAPOBJECT_NAME_LargeLamp_TextData",
+   "en": "Large Mounted Lamp",
+   "ro": "Lampă mare fixată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_LargeCeilingLamp_TextData",
+   "en": "Large Ceiling Lamp",
+   "ro": "Lampă mare de tavan"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BuildableGoddessStatue_TextData",
+   "en": "Statue of Power",
+   "ro": "Statuie a Puterii"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Spa_TextData",
+   "en": "Hot Spring",
+   "ro": "Izvor termal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Spa2_TextData",
+   "en": "High Quality Hot Spring",
+   "ro": "Izvor termal de înaltă calitate"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Mushroom_TextData",
+   "en": "Mushroom",
+   "ro": "Ciupercă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Poppy_TextData",
+   "en": "Beautiful Flower",
+   "ro": "Floare frumoasă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseWall_TextData",
+   "en": "Stone Defensive Wall",
+   "ro": "Zid de apărare din piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Crusher_TextData",
+   "en": "Crusher",
+   "ro": "Concasor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WoodCrusher_TextData",
+   "en": "Wood Dismantling Table",
+   "ro": "Masă de demontare a lemnului"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FlourMill_TextData",
+   "en": "Mill",
+   "ro": "Moară"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Trap_LegHold_TextData",
+   "en": "Bear Trap (Small)",
+   "ro": "Capcană de urși (mică)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Trap_LegHold_Big_TextData",
+   "en": "Bear Trap (Large)",
+   "ro": "Capcană de urși (mare)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Trap_Noose_TextData",
+   "en": "Hanging Trap",
+   "ro": "Capcană cu laț"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Trap_MovingPanel_TextData",
+   "en": "Moving Panels",
+   "ro": "Panouri mobile"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Trap_MineElecShock_TextData",
+   "en": "Electric Mine",
+   "ro": "Mină electrică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Trap_MineFreeze_TextData",
+   "en": "Ice Mine",
+   "ro": "Mină de gheață"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Trap_MineAttack_TextData",
+   "en": "Mine",
+   "ro": "Mină"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BreedFarm_TextData",
+   "en": "Breeding Farm",
+   "ro": "Țarc de reproducere"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ToolBoxV2_TextData",
+   "en": "ToolBox",
+   "ro": "Trusă de unelte"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ToolBoxV1_TextData",
+   "en": "Large Toolbox",
+   "ro": "Trusă mare de unelte"
+  },
+  {
+   "key": "MAPOBJECT_NAME_OlympicCauldron_TextData",
+   "en": "Flame Cauldron",
+   "ro": "Ceaun cu flacără"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Fountain_TextData",
+   "en": "Water Fountain",
+   "ro": "Fântână arteziană"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Silo_TextData",
+   "en": "Silo",
+   "ro": "Siloz"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TransmissionTower_TextData",
+   "en": "Electric Pylon",
+   "ro": "Stâlp de electricitate"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FlowerBed_TextData",
+   "en": "Flower Bed",
+   "ro": "Rond de flori"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stump_TextData",
+   "en": "Stump and Axe",
+   "ro": "Butuc și topor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MiningTool_TextData",
+   "en": "Mining Cart",
+   "ro": "Vagonet de minerit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Cauldron_TextData",
+   "en": "Witch Cauldron",
+   "ro": "Ceaun de vrăjitoare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Snowman_TextData",
+   "en": "Snowman",
+   "ro": "Om de zăpadă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_DoorWall_TextData",
+   "en": "Stone Door",
+   "ro": "Ușă de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_DoorWall_TextData",
+   "en": "Metal Door",
+   "ro": "Ușă de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CoolerBox_TextData",
+   "en": "Cooler Box",
+   "ro": "Ladă frigorifică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Refrigerator_TextData",
+   "en": "Refrigerator",
+   "ro": "Frigider"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Decal_PalSticker_PinkCat_TextData",
+   "en": "Tuppanyan sticker",
+   "ro": "Autocolant Cattiva"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MonsterFarm_TextData",
+   "en": "Ranch",
+   "ro": "Fermă de Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wood_Gate_TextData",
+   "en": "Wooden Gate",
+   "ro": "Poartă de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_Gate_TextData",
+   "en": "Stone Gate",
+   "ro": "Poartă de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_Gate_TextData",
+   "en": "Iron Gate",
+   "ro": "Poartă de fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_RepairBench_TextData",
+   "en": "Repair Bench",
+   "ro": "Bancă de reparații"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BaseCampWorkHard_TextData",
+   "en": "Monitoring Stand",
+   "ro": "Post de monitorizare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Signboard_TextData",
+   "en": "Sign",
+   "ro": "Indicator"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BaseCampBattleDirector_TextData",
+   "en": "Alarm Bell",
+   "ro": "Clopot de alarmă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableSquare_Wood_TextData",
+   "en": "Square Table",
+   "ro": "Masă pătrată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableCircular_Wood_TextData",
+   "en": "Round Table",
+   "ro": "Masă rotundă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Bench_Wood_TextData",
+   "en": "Wooden Bench",
+   "ro": "Bancă de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stool_Wood_TextData",
+   "en": "Wooden Stool",
+   "ro": "Taburet de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stool_High_Wood_TextData",
+   "en": "Wooden Bar Stool",
+   "ro": "Scaun înalt de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Barrel_Wood_TextData",
+   "en": "Wooden Barrel",
+   "ro": "Butoi de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Box_Wood_TextData",
+   "en": "Wooden Box",
+   "ro": "Cutie de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf_Wood_TextData",
+   "en": "Wooden Shelf",
+   "ro": "Raft de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf_Cask_Wood_TextData",
+   "en": "Wooden Barrel Shelf",
+   "ro": "Raft de lemn pentru butoaie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf_Hang01_Wood_TextData",
+   "en": "Wooden Wall Shelf",
+   "ro": "Raft de perete din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf_Hang02_Wood_TextData",
+   "en": "Wooden Decorative Wall Shelf",
+   "ro": "Raft decorativ de perete din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Counter_Wood_TextData",
+   "en": "Wooden Counter",
+   "ro": "Tejghea de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Rug_Wood_TextData",
+   "en": "Fur rug",
+   "ro": "Covor de blană"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ivy01_TextData",
+   "en": "Big Wall Ivy",
+   "ro": "Iederă mare de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ivy02_TextData",
+   "en": "Small Wall Ivy",
+   "ro": "Iederă mică de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ivy03_TextData",
+   "en": "Horizontal Wall Ivy",
+   "ro": "Iederă orizontală de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagedScarecrow_TextData",
+   "en": "Training Dummy",
+   "ro": "Manechin de antrenament"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Chair01_Wood_TextData",
+   "en": "Wooden Chair",
+   "ro": "Scaun de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Barrel01_Iron_TextData",
+   "en": "Red Metal Barrel",
+   "ro": "Butoi metalic roșu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Barrel02_Iron_TextData",
+   "en": "Blue Metal Barrel",
+   "ro": "Butoi metalic albastru"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Barrel03_Iron_TextData",
+   "en": "Green Metal Barrel",
+   "ro": "Butoi metalic verde"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Box01_Iron_TextData",
+   "en": "Small Container",
+   "ro": "Container mic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Box02_Iron_TextData",
+   "en": "Cloth Covered Container",
+   "ro": "Container acoperit cu pânză"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CableCoil01_Iron_TextData",
+   "en": "Cable Reel",
+   "ro": "Tambur pentru cablu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Chair01_Iron_TextData",
+   "en": "Leather Chair",
+   "ro": "Scaun din piele"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Chair02_Iron_TextData",
+   "en": "Iron Chair",
+   "ro": "Scaun din fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Clock01_Wall_Iron_TextData",
+   "en": "Wall Clock",
+   "ro": "Ceas de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Container01_Iron_TextData",
+   "en": "Large Container",
+   "ro": "Container mare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_GarbageBag_Iron_TextData",
+   "en": "Garbage Bag",
+   "ro": "Sac de gunoi"
+  },
+  {
+   "key": "MAPOBJECT_NAME_GoalSoccer_Iron_TextData",
+   "en": "Soccer Goal",
+   "ro": "Poartă de fotbal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MachineGame01_Iron_TextData",
+   "en": "Claw Machine",
+   "ro": "Aparat cu gheară"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MachineVending01_Iron_TextData",
+   "en": "Cola Vending Machine",
+   "ro": "Tonomat de cola"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PipeClay01_Iron_TextData",
+   "en": "Earthen Pipe",
+   "ro": "Țeavă din lut"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf01_Iron_TextData",
+   "en": "Iron Shelf",
+   "ro": "Raft din fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf02_Iron_TextData",
+   "en": "Long Iron Shelf",
+   "ro": "Raft lung din fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf03_Iron_TextData",
+   "en": "Orange Locker",
+   "ro": "Dulap metalic portocaliu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf04_Iron_TextData",
+   "en": "Locker",
+   "ro": "Dulap metalic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SignExit_Ceiling_Iron_TextData",
+   "en": "Emergency Exit Ceiling Sign",
+   "ro": "Semn de tavan pentru ieșire de urgență"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SignExit_Wall_Iron_TextData",
+   "en": "Emergency Exit Wall Sign",
+   "ro": "Indicator de perete pentru ieșire de urgență"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Sofa01_Iron_TextData",
+   "en": "Leather Armchair",
+   "ro": "Fotoliu de piele"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Sofa02_Iron_TextData",
+   "en": "Leather Couch",
+   "ro": "Canapea de piele"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stool01_Iron_TextData",
+   "en": "Iron Stool",
+   "ro": "Scaun de fier fără spătar"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableCircular01_Iron_TextData",
+   "en": "Round Iron Table",
+   "ro": "Masă rotundă de fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableSide01_Iron_TextData",
+   "en": "Ironwood Side Table",
+   "ro": "Măsuță laterală din fier și lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableSquare01_Iron_TextData",
+   "en": "Ironwood Table",
+   "ro": "Masă din fier și lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableSquare02_Iron_TextData",
+   "en": "Ironwood Low Table",
+   "ro": "Măsuță joasă din fier și lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Tire01_Iron_TextData",
+   "en": "Tire",
+   "ro": "Anvelopă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficBarricade01_Iron_TextData",
+   "en": "Barricade",
+   "ro": "Baricadă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficBarricade02_Iron_TextData",
+   "en": "Orange Barricade",
+   "ro": "Baricadă portocalie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficBarricade03_Iron_TextData",
+   "en": "Red Iron Barricade",
+   "ro": "Baricadă de fier roșie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficBarricade04_Iron_TextData",
+   "en": "White Iron Barricade",
+   "ro": "Baricadă de fier albă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficBarricade05_Iron_TextData",
+   "en": "Iron Fence",
+   "ro": "Gard de fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficCone01_Iron_TextData",
+   "en": "Traffic Cone",
+   "ro": "Con de trafic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficCone02_Iron_TextData",
+   "en": "Fat Traffic Cone",
+   "ro": "Con de trafic gros"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficCone03_Iron_TextData",
+   "en": "Skinny Traffic Cone",
+   "ro": "Con de trafic subțire"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficLight01_Iron_TextData",
+   "en": "Traffic Light",
+   "ro": "Semafor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BathTub_Stone_TextData",
+   "en": "Antique Bathtub",
+   "ro": "Cadă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Box01_Stone_TextData",
+   "en": "Antique Braided Basket",
+   "ro": "Coș împletit antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Chair01_Stone_TextData",
+   "en": "Antique Wooden Chair",
+   "ro": "Scaun antic din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Chair02_Stone_TextData",
+   "en": "Antique Green Wooden Chair",
+   "ro": "Scaun antic din lemn verde"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Clock01_Stone_TextData",
+   "en": "Antique Grandfather Clock",
+   "ro": "Ceas antic cu pendul"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Curtain01_Wall_Stone_TextData",
+   "en": "Antique Curtain",
+   "ro": "Perdea antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Desk01_Stone_TextData",
+   "en": "Antique Desk",
+   "ro": "Birou antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Globe01_Stone_TextData",
+   "en": "Antique Globe",
+   "ro": "Glob pământesc antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Mirror01_Stone_TextData",
+   "en": "Antique Oval Mirror",
+   "ro": "Oglindă ovală antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Mirror02_Stone_TextData",
+   "en": "Antique Mirror",
+   "ro": "Oglindă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Mirror01_Wall_Stone_TextData",
+   "en": "Antique Wall Mirror",
+   "ro": "Oglindă antică de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Partition_Stone_TextData",
+   "en": "Antique Partition",
+   "ro": "Paravan antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Piano01_Stone_TextData",
+   "en": "Grand Piano",
+   "ro": "Pian cu coadă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Piano02_Stone_TextData",
+   "en": "Upright Piano",
+   "ro": "Pianină"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Rug01_Stone_TextData",
+   "en": "Antique Carpet",
+   "ro": "Covor antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Rug02_Stone_TextData",
+   "en": "Antique Red Carpet",
+   "ro": "Covor roșu antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Rug03_Stone_TextData",
+   "en": "Antique Green Carpet",
+   "ro": "Covor verde antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Rug04_Stone_TextData",
+   "en": "Antique Long Carpet",
+   "ro": "Traversă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf01_Stone_TextData",
+   "en": "Antique Bookshelf",
+   "ro": "Bibliotecă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf02_Stone_TextData",
+   "en": "Antique Wardrobe",
+   "ro": "Dulap de haine antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf03_Stone_TextData",
+   "en": "Antique Chest",
+   "ro": "Cufăr antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf04_Stone_TextData",
+   "en": "Antique Side Chest",
+   "ro": "Comodă mică antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf05_Stone_TextData",
+   "en": "Antique Cabinet",
+   "ro": "Dulap antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf06_Stone_TextData",
+   "en": "Antique Long Cabinet",
+   "ro": "Comodă lungă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf07_Stone_TextData",
+   "en": "Large Antique Cabinet",
+   "ro": "Dulap mare antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf01_Wall_Stone_TextData",
+   "en": "Antique Wall Cabinet",
+   "ro": "Dulap suspendat antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Sofa01_Stone_TextData",
+   "en": "Antique Armchair",
+   "ro": "Fotoliu antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Sofa02_Stone_TextData",
+   "en": "Antique Couch",
+   "ro": "Canapea antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Sofa03_Stone_TextData",
+   "en": "Antique Ottoman",
+   "ro": "Taburet otoman antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stool01_Stone_TextData",
+   "en": "Antique Stool",
+   "ro": "Scaun fără spătar antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stove01_Stone_TextData",
+   "en": "Antique Stove",
+   "ro": "Sobă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableCircular01_Stone_TextData",
+   "en": "Antique Round Table",
+   "ro": "Masă rotundă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableDresser01_Stone_TextData",
+   "en": "Antique Dresser",
+   "ro": "Comodă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableSink01_Stone_TextData",
+   "en": "Antique Washstand",
+   "ro": "Lavoar antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Toilet01_Stone_TextData",
+   "en": "Antique Toilet",
+   "ro": "Toaletă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ToiletHolder01_Stone_TextData",
+   "en": "Antique Toilet Paper Holder",
+   "ro": "Suport antic pentru hârtie igienică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TowlRack01_Stone_TextData",
+   "en": "Antique Towel Rack",
+   "ro": "Suport antic pentru prosoape"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Plant01_Plant_TextData",
+   "en": "Houseplant",
+   "ro": "Plantă de apartament"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Plant02_Plant_TextData",
+   "en": "Houseplant and Chair",
+   "ro": "Plantă de apartament și scaun"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Plant03_Plant_TextData",
+   "en": "Tabletop Houseplant",
+   "ro": "Plantă de apartament pentru masă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Plant04_Plant_TextData",
+   "en": "Potted Houseplant",
+   "ro": "Plantă de apartament în ghiveci"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_FloorLamp01_TextData",
+   "en": "Antique Brown Floor Lamp",
+   "ro": "Lampadar antic maro"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_FloorLamp02_TextData",
+   "en": "Antique Red Floor Lamp",
+   "ro": "Lampadar antic roșu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_LightPole01_TextData",
+   "en": "Simple Street Lamp",
+   "ro": "Felinar simplu de stradă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_LightPole02_TextData",
+   "en": "Double Street Lamp",
+   "ro": "Felinar dublu de stradă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_LightPole03_TextData",
+   "en": "Retro Street Lamp",
+   "ro": "Felinar retro de stradă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_LightPole04_TextData",
+   "en": "Stylish Street Lamp",
+   "ro": "Felinar elegant de stradă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_FirePlace01_TextData",
+   "en": "Brick Fireplace",
+   "ro": "Șemineu din cărămidă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseWall_Wood_TextData",
+   "en": "Wooden Defensive Wall",
+   "ro": "Zid de apărare din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseWall_Metal_TextData",
+   "en": "Metal Defensive Wall",
+   "ro": "Zid de apărare din metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_FirePlace02_TextData",
+   "en": "Fireplace",
+   "ro": "Șemineu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_CandleSticks_Top_TextData",
+   "en": "Chandelier",
+   "ro": "Candelabru"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Light_CandleSticks_Wall_TextData",
+   "en": "Wall Lamp",
+   "ro": "Aplică de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Television01_Iron_TextData",
+   "en": "Old TV",
+   "ro": "Televizor vechi"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Desk01_Iron_TextData",
+   "en": "Iron Desk",
+   "ro": "Birou din fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shelf01_Wall_Iron_TextData",
+   "en": "Iron Wall Shelf",
+   "ro": "Raft de perete din fier"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficSign01_Iron_TextData",
+   "en": "No Pals Beyond Sign",
+   "ro": "Indicator Accesul Palilor interzis"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficSign02_Iron_TextData",
+   "en": "Stop Sign",
+   "ro": "Indicator Stop"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficSign03_Iron_TextData",
+   "en": "Beware of Eikthyrdeer Sign",
+   "ro": "Indicator Atenție la Eikthyrdeer"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TrafficSign04_Iron_TextData",
+   "en": "Beware of Mammorest Sign",
+   "ro": "Indicator Atenție la Mammorest"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wood_WindowWall_TextData",
+   "en": "Wooden Wall and Window",
+   "ro": "Perete de lemn cu fereastră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_WindowWall_TextData",
+   "en": "Stone Wall and Window",
+   "ro": "Perete de piatră cu fereastră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_WindowWall_TextData",
+   "en": "Metal Wall and Window",
+   "ro": "Perete de metal cu fereastră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wood_TriangleWall_TextData",
+   "en": "Wooden Triangular Wall",
+   "ro": "Perete triunghiular de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_TriangleWall_TextData",
+   "en": "Stone Triangular Wall",
+   "ro": "Perete triunghiular de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_TriangleWall_TextData",
+   "en": "Metal Triangular Wall",
+   "ro": "Perete triunghiular de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wood_SlantedRoof_TextData",
+   "en": "Wooden Slanted Roof",
+   "ro": "Acoperiș înclinat de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_SlantedRoof_TextData",
+   "en": "Stone Slanted Roof",
+   "ro": "Acoperiș înclinat de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_SlantedRoof_TextData",
+   "en": "Metal Slanted Roof",
+   "ro": "Acoperiș înclinat de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Chair01_Pal_TextData",
+   "en": "Frog Chair",
+   "ro": "Scaun broască"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Altar_TextData",
+   "en": "Summoning Altar",
+   "ro": "Altar de invocare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CopperPit_TextData",
+   "en": "Ore Mining Site",
+   "ro": "Carieră de minereu"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CopperPit_2_TextData",
+   "en": "Ore Mining Site II",
+   "ro": "Carieră de minereu II"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricHatchingPalEgg_TextData",
+   "en": "Electric Egg Incubator",
+   "ro": "Incubator electric de ouă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_CaveMushroom_TextData",
+   "en": "Grotto Mushroom",
+   "ro": "Ciupercă de grotă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CoolerPalFoodBox_TextData",
+   "en": "Cold Food Box",
+   "ro": "Cutie frigorifică pentru mâncare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AntiAircraft_LaserTower_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AntiAircraft_MachineGun_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TreasureBox_Oilrig_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "MAPOBJECT_NAME_OilRig_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SulfurPit_TextData",
+   "en": "Sulfur Quarry",
+   "ro": "Carieră de sulf"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CoalPit_TextData",
+   "en": "Coal Quarry",
+   "ro": "Carieră de cărbune"
+  },
+  {
+   "key": "MAPOBJECT_NAME_IceCrusher_TextData",
+   "en": "Cryogenic Crusher",
+   "ro": "Concasor criogenic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DismantlingConveyor_TextData",
+   "en": "Pal Disassembly Conveyor",
+   "ro": "Bandă de dezasamblat Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WallSignboard_TextData",
+   "en": "Wall-Mounted Sign",
+   "ro": "Indicator montat pe perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_foundation_TextData",
+   "en": "Glass Foundation",
+   "ro": "Fundație de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_wall_TextData",
+   "en": "Glass Wall",
+   "ro": "Perete de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_roof_TextData",
+   "en": "Glass Roof",
+   "ro": "Acoperiș de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_stair_TextData",
+   "en": "Glass Stairs",
+   "ro": "Scări de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_DoorWall_TextData",
+   "en": "Glass Wall and Door",
+   "ro": "Perete cu ușă de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_TriangleWall_TextData",
+   "en": "Glass Triangular Wall",
+   "ro": "Perete triunghiular de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_SlantedRoof_TextData",
+   "en": "Glass Slanted Roof",
+   "ro": "Acoperiș înclinat de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_WindowWall_TextData",
+   "en": "Glass Wall and Window",
+   "ro": "Perete și fereastră de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_Pillar_TextData",
+   "en": "Wooden Pillar",
+   "ro": "Stâlp de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_Pillar_TextData",
+   "en": "Stone Pillar",
+   "ro": "Stâlp de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Metal_Pillars_TextData",
+   "en": "Metal Pillar",
+   "ro": "Stâlp de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_Pillars_TextData",
+   "en": "Glass Pillar",
+   "ro": "Stâlp de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MeteorFall_TextData",
+   "en": "Meteorite",
+   "ro": "Meteorit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MeteorDrop_pickup_TextData",
+   "en": "Meteorite",
+   "ro": "Meteorit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SupplyFall_TextData",
+   "en": "Supplies",
+   "ro": "Provizii"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SupplyDrop_TextData",
+   "en": "Supplies",
+   "ro": "Provizii"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MeteorDrop_Damagable_TextData",
+   "en": "Meteorite",
+   "ro": "Meteorit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ElectricGenerator_Large_TextData",
+   "en": "Large Power Generator",
+   "ro": "Generator mare de energie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_OilPump_TextData",
+   "en": "Crude Oil Extractor",
+   "ro": "Extractor de țiței"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TreasureBox_RequiredLongHold_TextData",
+   "en": "Junk (Hold to collect)",
+   "ro": "Fiare vechi (ține apăsat pentru colectare)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Attack_01_TextData",
+   "en": "Power Lotus (Small)",
+   "ro": "Lotus al puterii (mic)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Attack_02_TextData",
+   "en": "Power Lotus (Large)",
+   "ro": "Lotus al puterii (mare)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_HP_01_TextData",
+   "en": "Life Lotus (Small)",
+   "ro": "Lotus al vieții (mic)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_HP_02_TextData",
+   "en": "Life Lotus (Large)",
+   "ro": "Lotus al vieții (mare)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Stamina_01_TextData",
+   "en": "Stamina Lotus (Small)",
+   "ro": "Lotus de energie (mic)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Stamina_02_TextData",
+   "en": "Stamina Lotus (Large)",
+   "ro": "Lotus de energie (mare)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Workspeed_01_TextData",
+   "en": "Speed Lotus (Small)",
+   "ro": "Lotus de viteză (mic)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Workspeed_02_TextData",
+   "en": "Speed Lotus (Large)",
+   "ro": "Lotus de viteză (mare)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Weight_01_TextData",
+   "en": "Carry Lotus (Small)",
+   "ro": "Lotus de transport (mic)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_Lotus_Weight_02_TextData",
+   "en": "Carry Lotus (Large)",
+   "ro": "Lotus de transport (mare)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SkinChange_TextData",
+   "en": "Pal Dressing Facility",
+   "ro": "Vestiar pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_DogCoin_TextData",
+   "en": "Dog Coin",
+   "ro": "Monedă canină"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_wall_01_TextData",
+   "en": "Japanese-Style Wall",
+   "ro": "Perete în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_wall_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_DoorWall_01_TextData",
+   "en": "Japanese-Style Door A",
+   "ro": "Ușă în stil japonez A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_DoorWall_02_TextData",
+   "en": "Japanese-Style Door B",
+   "ro": "Ușă în stil japonez B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_DoorWall_03_TextData",
+   "en": "Japanese-Style Door C",
+   "ro": "Ușă în stil japonez C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_ConnectingWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_roof_01_TextData",
+   "en": "Japanese-Style Roof A",
+   "ro": "Acoperiș în stil japonez A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_roof_02_TextData",
+   "en": "Japanese-Style Roof B",
+   "ro": "Acoperiș în stil japonez B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_SlantedRoof_TextData",
+   "en": "Japanese-Style Slanted Roof",
+   "ro": "Acoperiș înclinat în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_TriangleWall_TextData",
+   "en": "Japanese-Style Triangular Wall",
+   "ro": "Perete triunghiular în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_WindowWall_TextData",
+   "en": "Japanese-Style Wall and Window",
+   "ro": "Perete cu fereastră în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_foundation_TextData",
+   "en": "Japanese-Style Foundation",
+   "ro": "Fundație în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_stair_TextData",
+   "en": "Japanese-Style Stairs",
+   "ro": "Scări în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_Pillar_TextData",
+   "en": "Japanese-Style Pillar",
+   "ro": "Stâlp în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ItemBooth_TextData",
+   "en": "Flea Market (Items)",
+   "ro": "Bazar (Obiecte)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalBooth_TextData",
+   "en": "Flea Market (Pals)",
+   "ro": "Bazar (Pali)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Carrot_TextData",
+   "en": "Carrot Plantation",
+   "ro": "Plantație de morcovi"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Onion_TextData",
+   "en": "Onion Plantation",
+   "ro": "Plantație de ceapă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FarmBlockV2_Potato_TextData",
+   "en": "Potato Plantation",
+   "ro": "Plantație de cartofi"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SphereFactory_Black_04_TextData",
+   "en": "Advanced Sphere Assembly Line",
+   "ro": "Linie avansată de asamblare a sferelor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MultiElectricHatchingPalEgg_TextData",
+   "en": "Large-Scale Electric Egg Incubator",
+   "ro": "Incubator electric de ouă de mari dimensiuni"
+  },
+  {
+   "key": "MAPOBJECT_NAME_HugeKitchen_TextData",
+   "en": "Large-Scale Stone Oven",
+   "ro": "Cuptor din piatră de mari dimensiuni"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Factory_Hard_04_TextData",
+   "en": "Advanced Workshop",
+   "ro": "Atelier avansat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WeaponFactory_Dirty_04_TextData",
+   "en": "Advanced Weapon Assembly Line",
+   "ro": "Linie avansată de asamblare a armelor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SanityDecrease1_TextData",
+   "en": "Alpha Wave Generator",
+   "ro": "Generator de unde alfa"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WorkSpeedIncrease1_TextData",
+   "en": "Beta Wave Generator",
+   "ro": "Generator de unde beta"
+  },
+  {
+   "key": "MAPOBJECT_NAME_QuartzPit_TextData",
+   "en": "Pure Quartz Quarry",
+   "ro": "Carieră de cuarț pur"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Factory_Money_TextData",
+   "en": "Gold Coin Assembly Line",
+   "ro": "Linie de asamblare de monede de aur"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ItemChest_04_TextData",
+   "en": "Advanced Chest",
+   "ro": "Cufăr avansat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicalPalBed_05_TextData",
+   "en": "Pal Pod",
+   "ro": "Capsulă pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BaseCampItemDispenser_TextData",
+   "en": "Item Retrieval Machine",
+   "ro": "Aparat de recuperare a obiectelor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_GuildChest_TextData",
+   "en": "Guild Chest",
+   "ro": "Cufăr de ghildă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WoodCreator_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Expedition_TextData",
+   "en": "Pal Expedition Station",
+   "ro": "Stație de expediție pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Lab_TextData",
+   "en": "Pal Labor Research Lab",
+   "ro": "Laborator de cercetare a muncii Palilor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_OperatingTable_TextData",
+   "en": "Pal Surgery Table",
+   "ro": "Masă de operație pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ManualElectricGenerator_TextData",
+   "en": "Human-Powered Generator",
+   "ro": "Generator cu propulsie umană"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Farm_SkillFruits_TextData",
+   "en": "Skillfruit Orchard",
+   "ro": "Livadă de fructe de abilitate"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_ladder_TextData",
+   "en": "Ladder",
+   "ro": "Scară"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalMedicineBox_TextData",
+   "en": "Medicine Rack",
+   "ro": "Raft pentru medicamente"
+  },
+  {
+   "key": "MAPOBJECT_NAME_EnergyStorage_Electric_TextData",
+   "en": "Accumulator",
+   "ro": "Acumulator"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BlastFurnace4_TextData",
+   "en": "Gigantic Furnace",
+   "ro": "Furnal gigantic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MedicineFacility_03_TextData",
+   "en": "Advanced Medicine Workbench",
+   "ro": "Bancă de lucru avansată pentru medicamente"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PickupItem_NightStone_TextData",
+   "en": "Nightstar Sand",
+   "ro": "Nisip de noapte"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TreasureBox_Fire_TextData",
+   "en": "Elemental Treasure Chest (Fire)",
+   "ro": "Cufăr de comori elementar (Foc)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TreasureBox_Water_TextData",
+   "en": "Elemental Treasure Chest (Water)",
+   "ro": "Cufăr de comori elementar (Apă)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TreasureBox_Electric_TextData",
+   "en": "Elemental Treasure Chest (Electric)",
+   "ro": "Cufăr de comori elementar (Electric)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TreasureBox_Ivy_TextData",
+   "en": "Elemental Treasure Chest (Grass)",
+   "ro": "Cufăr de comori elementar (Iarbă)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TreasureBox_Ice_TextData",
+   "en": "Elemental Treasure Chest (Ice)",
+   "ro": "Cufăr de comori elementar (Gheață)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Headstone_TextData",
+   "en": "Tombstone",
+   "ro": "Piatră funerară"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Byobu_TextData",
+   "en": "Folding Screen",
+   "ro": "Paravan pliabil"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Kakejiku_TextData",
+   "en": "Hanging Scroll",
+   "ro": "Sul decorativ de perete"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Zaisu_TextData",
+   "en": "Japanese Floor Chair",
+   "ro": "Scaun japonez de podea"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Zabuton_TextData",
+   "en": "Japanese Floor Cushion",
+   "ro": "Pernă japoneză de podea"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Irori_TextData",
+   "en": "Japanese Hearth",
+   "ro": "Vatră tradițională japoneză"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Toro_TextData",
+   "en": "Stone Lantern",
+   "ro": "Felinar de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Andon_TextData",
+   "en": "Japanese Paper Lantern",
+   "ro": "Felinar japonez de hârtie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shishiodoshi_TextData",
+   "en": "Deer Scare",
+   "ro": "Sperietoare de cerbi"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Bonsai_TextData",
+   "en": "Bonsai",
+   "ro": "Bonsai"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Koro_TextData",
+   "en": "Incense Burner",
+   "ro": "Arzător de tămâie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Seika_TextData",
+   "en": "Flower Arrangement",
+   "ro": "Aranjament floral"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Tansu_TextData",
+   "en": "Japanese-Style Chest",
+   "ro": "Cufăr în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Fudukue_TextData",
+   "en": "Japanese Writing Table",
+   "ro": "Măsuță de scris japoneză"
+  },
+  {
+   "key": "MAPOBJECT_NAME_GlobalPalStorage_TextData",
+   "en": "Global Palbox",
+   "ro": "Palbox global"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CompositeDesk_TextData",
+   "en": "Drafting Table",
+   "ro": "Masă de proiectare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DimensionPalStorage_TextData",
+   "en": "Dimensional Pal Storage",
+   "ro": "Stocare dimensională de Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wire_Fence_TextData",
+   "en": "Wire Fence",
+   "ro": "Gard de sârmă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_LilyQueenStatue_TextData",
+   "en": "Lyleen Statue",
+   "ro": "Statuie Lyleen"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ConservationGroupBannerA_TextData",
+   "en": "Free Pal Alliance Flag",
+   "ro": "Steag al Alianței pentru Eliberarea Palilor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ConservationGroupBannerB_TextData",
+   "en": "Free Pal Alliance Horizontal Banner",
+   "ro": "Bannere orizontal al Alianței pentru Eliberarea Palilor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Hunter_GangFlag_TextData",
+   "en": "Rayne Syndicate Flag",
+   "ro": "Steag al Sindicatului Rayne"
+  },
+  {
+   "key": "MAPOBJECT_NAME_PalCage_TextData",
+   "en": "Aerial Cage",
+   "ro": "Cușcă suspendată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WoodenBarricade_TextData",
+   "en": "Wooden Barricade",
+   "ro": "Baricadă de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_WallTorch02_TextData",
+   "en": "Majestic Wall Torch",
+   "ro": "Torță de perete maiestuoasă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CandleStand_TextData",
+   "en": "Majestic Candlestick",
+   "ro": "Sfeșnic maiestuos"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FireStand_TextData",
+   "en": "Ceremonial Candlestick",
+   "ro": "Sfeșnic ceremonial"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wood_Fence_TextData",
+   "en": "Wooden Fence",
+   "ro": "Gard de lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_Fence_TextData",
+   "en": "Stone Fence",
+   "ro": "Gard de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_Fence_TextData",
+   "en": "Metal Fence",
+   "ro": "Gard metalic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_Fence_TextData",
+   "en": "Glass Fence",
+   "ro": "Gard de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_Fence_TextData",
+   "en": "Japanese-Style Fence",
+   "ro": "Gard în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_Fence_TextData",
+   "en": "Clean Fence",
+   "ro": "Gard impecabil"
+  },
+  {
+   "key": "MAPOBJECT_NAME_CrystalPit_TextData",
+   "en": "Hexolite Quartz Mine",
+   "ro": "Mină de cuarț hexolit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Spa3_TextData",
+   "en": "Japanese-Style Hot Spring",
+   "ro": "Izvor termal în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BaseCampWorkerExtraStation_TextData",
+   "en": "Palbox Control Device",
+   "ro": "Dispozitiv de control pentru Palbox"
+  },
+  {
+   "key": "MAPOBJECT_NAME_LanternTop_TextData",
+   "en": "Paper Lantern",
+   "ro": "Felinar de hârtie"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Shrine_Lantern_TextData",
+   "en": "Red Wooden Lantern",
+   "ro": "Felinar roșu din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_GuardianDogStatue_TextData",
+   "en": "Yakumo Statue",
+   "ro": "Statuie cu Yakumo"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MultiHatchingPalEgg_TextData",
+   "en": "Large Incubator",
+   "ro": "Incubator mare"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_foundation_TextData",
+   "en": "Clean Foundation",
+   "ro": "Fundație curată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_wall_TextData",
+   "en": "Clean Wall",
+   "ro": "Perete curat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_roof_TextData",
+   "en": "Clean Roof",
+   "ro": "Acoperiș curat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_stair_TextData",
+   "en": "Clean Stairs",
+   "ro": "Scări curate"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_DoorWall_TextData",
+   "en": "Clean Wall and Door",
+   "ro": "Perete curat cu ușă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_TriangleWall_TextData",
+   "en": "Clean Triangular Wall",
+   "ro": "Perete triunghiular curat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_SlantedRoof_TextData",
+   "en": "Clean Slanted Roof",
+   "ro": "Acoperiș înclinat curat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_WindowWall_TextData",
+   "en": "Clean Wall and Window",
+   "ro": "Perete curat cu fereastră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_Pillars_TextData",
+   "en": "Clean Pillar",
+   "ro": "Stâlp curat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_Desk_TextData",
+   "en": "Laboratory Desk",
+   "ro": "Birou de laborator"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_Chair_TextData",
+   "en": "Laboratory Chair",
+   "ro": "Scaun de laborator"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Hunter_Flag_TextData",
+   "en": "Rayne Syndicate Standard",
+   "ro": "Stindardul Sindicatului Rayne"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Hunter_Banner_TextData",
+   "en": "Rayne Syndicate Vertical Banner",
+   "ro": "Bannăr vertical al Sindicatului Rayne"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Believer_Flag_TextData",
+   "en": "Free Pal Alliance Standard",
+   "ro": "Stindardul Alianței pentru Eliberarea Palilor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Believer_Banner_TextData",
+   "en": "Free Pal Alliance Vertical Banner",
+   "ro": "Bannăr vertical al Alianței pentru Eliberarea Palilor"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FireCult_Flag_TextData",
+   "en": "Brothers of the Eternal Pyre Standard",
+   "ro": "Stindardul Fraților Rugului Etern"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FireCult_Banner_TextData",
+   "en": "Brothers of the Eternal Pyre Vertical Banner",
+   "ro": "Bannăr vertical al Fraților Rugului Etern"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Police_Flag_TextData",
+   "en": "PIDF Standard",
+   "ro": "Stindard PIDF"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Police_Banner_TextData",
+   "en": "PIDF Vertical Banner",
+   "ro": "Bannăr vertical PIDF"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Scientist_Flag_TextData",
+   "en": "PAL Genetic Research Unit Standard",
+   "ro": "Stindardul Unității de Cercetare Genetică PAL"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Scientist_Banner_TextData",
+   "en": "PAL Genetic Research Unit Vertical Banner",
+   "ro": "Bannăr vertical al Unității de Cercetare Genetică PAL"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ninja_Flag_TextData",
+   "en": "Moonflower Standard",
+   "ro": "Stindardul Moonflower"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ninja_Banner_TextData",
+   "en": "Moonflower Vertical Banner",
+   "ro": "Bannăr vertical Moonflower"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FishingPond1_TextData",
+   "en": "Fishing Pond",
+   "ro": "Iaz de pescuit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FishingPond2_TextData",
+   "en": "Large Fishing Pond",
+   "ro": "Iaz mare de pescuit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0019_TextData",
+   "en": "Hexolite Quartz",
+   "ro": "Cuarț de hexolit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_YakushimaBoss002_Relic_TextData",
+   "en": "Moon Lord Statue",
+   "ro": "Statuie a Stăpânului Lunii"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_TriangleFoundation_TextData",
+   "en": "Wooden Triangular Foundation",
+   "ro": "Fundație triunghiulară din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_DiagonalWall_TextData",
+   "en": "Wooden Diagonal Wall",
+   "ro": "Perete diagonal din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_TriangleRoof_TextData",
+   "en": "Wooden Triangular Roof",
+   "ro": "Acoperiș triunghiular din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_TriangleStairsCorner_TextData",
+   "en": "Wooden Corner Roof",
+   "ro": "Acoperiș de colț din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wood_TriangleWallReverse_TextData",
+   "en": "Wooden Triangular Wall (Inverted)",
+   "ro": "Perete triunghiular din lemn (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_WallGate_TextData",
+   "en": "Wooden Pal Passage Entrance",
+   "ro": "Intrare de trecere pentru Pali din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_SlopedRoofCorner_TextData",
+   "en": "Wooden Slanted Triangular Roof",
+   "ro": "Acoperiș triunghiular înclinat din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_PyramidRoof_TextData",
+   "en": "Wooden Pyramid Roof",
+   "ro": "Acoperiș piramidal din lemn"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_TriangleFoundation_TextData",
+   "en": "Stone Triangular Foundation",
+   "ro": "Fundație triunghiulară din piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_DiagonalWall_TextData",
+   "en": "Stone Diagonal Wall",
+   "ro": "Perete diagonal din piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_TriangleRoof_TextData",
+   "en": "Stone Triangular Roof",
+   "ro": "Acoperiș triunghiular din piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_TriangleStairsCorner_TextData",
+   "en": "Stone Corner Roof",
+   "ro": "Acoperiș de colț din piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_TriangleWallReverse_TextData",
+   "en": "Stone Triangular Wall (Inverted)",
+   "ro": "Perete triunghiular din piatră (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_WallGate_TextData",
+   "en": "Stone Pal Passage Entrance",
+   "ro": "Intrare de trecere pentru Pali din piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_SlopedRoofCorner_TextData",
+   "en": "Stone Slanted Triangular Roof",
+   "ro": "Acoperiș triunghiular înclinat de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_PyramidRoof_TextData",
+   "en": "Stone Pyramid Roof",
+   "ro": "Acoperiș piramidal de piatră"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_TriangleFoundation_TextData",
+   "en": "Metal Triangular Foundation",
+   "ro": "Fundație triunghiulară de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_DiagonalWall_TextData",
+   "en": "Metal Diagonal Wall",
+   "ro": "Perete diagonal de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_TriangleRoof_TextData",
+   "en": "Metal Triangular Roof",
+   "ro": "Acoperiș triunghiular de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_TriangleStairsCorner_TextData",
+   "en": "Metal Corner Roof",
+   "ro": "Acoperiș de colț de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_TriangleWallReverse_TextData",
+   "en": "Metal Triangular Wall (Inverted)",
+   "ro": "Perete triunghiular de metal (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_WallGate_TextData",
+   "en": "Metal Pal Passage Entrance",
+   "ro": "Intrare pentru trecerea Palilor de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_SlopedRoofCorner_TextData",
+   "en": "Metal Slanted Triangular Roof",
+   "ro": "Acoperiș triunghiular înclinat de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_PyramidRoof_TextData",
+   "en": "Metal Pyramid Roof",
+   "ro": "Acoperiș piramidal de metal"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_TriangleFoundation_TextData",
+   "en": "Glass Triangular Foundation",
+   "ro": "Fundație triunghiulară de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_DiagonalWall_TextData",
+   "en": "Glass Diagonal Wall",
+   "ro": "Perete diagonal de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_TriangleRoof_TextData",
+   "en": "Glass Triangular Roof",
+   "ro": "Acoperiș triunghiular de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_TriangleStairsCorner_TextData",
+   "en": "Glass Corner Roof",
+   "ro": "Acoperiș de colț de sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_TriangleWallReverse_TextData",
+   "en": "Glass Triangular Wall (Inverted)",
+   "ro": "Perete triunghiular de sticlă (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_WallGate_TextData",
+   "en": "Glass Pal Passage Entrance",
+   "ro": "Intrare de trecere pentru Pali din sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_SlopedRoofCorner_TextData",
+   "en": "Glass Slanted Triangular Roof",
+   "ro": "Acoperiș triunghiular înclinat din sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_PyramidRoof_TextData",
+   "en": "Glass Pyramid Roof",
+   "ro": "Acoperiș piramidal din sticlă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_TriangleFoundation_TextData",
+   "en": "Japanese-Style Triangular Foundation",
+   "ro": "Fundație triunghiulară în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_DiagonalWall_TextData",
+   "en": "Japanese-Style Diagonal Wall",
+   "ro": "Perete diagonal în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_TriangleRoof_01_TextData",
+   "en": "Japanese-Style Triangular Roof A",
+   "ro": "Acoperiș triunghiular în stil japonez A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_TriangleRoof_02_TextData",
+   "en": "Japanese-Style Triangular Roof B",
+   "ro": "Acoperiș triunghiular în stil japonez B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_TriangleStairsCorner_01_TextData",
+   "en": "Japanese-Style Corner Roof",
+   "ro": "Acoperiș de colț în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_TriangleStairsCorner_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_TriangleWallReverse_TextData",
+   "en": "Japanese-Style Triangular Wall (Inverted)",
+   "ro": "Perete triunghiular în stil japonez (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_WallGate_TextData",
+   "en": "Japanese-Style Pal Passage Entrance",
+   "ro": "Intrare de trecere pentru Pali în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_SlopedRoofCorner_TextData",
+   "en": "Japanese-Style Slanted Triangular Roof",
+   "ro": "Acoperiș triunghiular înclinat în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_PyramidRoof_TextData",
+   "en": "Japanese-Style Pyramid Roof",
+   "ro": "Acoperiș piramidal în stil japonez"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_TriangleFoundation_TextData",
+   "en": "Clean Triangular Foundation",
+   "ro": "Fundație triunghiulară curată"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_DiagonalWall_TextData",
+   "en": "Clean Diagonal Wall",
+   "ro": "Perete diagonal curat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_TriangleRoof_TextData",
+   "en": "Clean Triangular Roof",
+   "ro": "Acoperiș triunghiular curat"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_TriangleStairsCorner_TextData",
+   "en": "Clean Corner Roof",
+   "ro": "Acoperiș de colț impecabil"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_TriangleWallReverse_TextData",
+   "en": "Clean Triangular Wall (Inverted)",
+   "ro": "Perete triunghiular impecabil (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_WallGate_TextData",
+   "en": "Clean Pal Passage Entrance",
+   "ro": "Intrare pentru trecerea Palilor impecabilă"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_SlopedRoofCorner_TextData",
+   "en": "Clean Slanted Triangular Roof",
+   "ro": "Acoperiș triunghiular înclinat impecabil"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_PyramidRoof_TextData",
+   "en": "Clean Pyramid Roof",
+   "ro": "Acoperiș piramidal impecabil"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AncientRelicRecycler_TextData",
+   "en": "Ancient Relic Recycler",
+   "ro": "Reciclator de relicve antice"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableBone0001_TextData",
+   "en": "Ancient Remains",
+   "ro": "Rămășițe antice"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0022_TextData",
+   "en": "Ancient Lava",
+   "ro": "Lavă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AncientWorkBench_TextData",
+   "en": "Ancient Workbench",
+   "ro": "Bancă de lucru antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AncientElectricGenerator_TextData",
+   "en": "Ancient Power Generator",
+   "ro": "Generator de energie antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AncientBlastFurnace_TextData",
+   "en": "Ancient Furnace",
+   "ro": "Furnal antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AncientCookingStove_TextData",
+   "en": "Ancient Kitchen",
+   "ro": "Bucătărie antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AncientMultiProduct_TextData",
+   "en": "Ancient Material Synthesizer",
+   "ro": "Sintetizator de materiale antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_AncientFarmBlock_TextData",
+   "en": "Ancient Farm",
+   "ro": "Fermă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DefenseMachinegun_AutoTurret_TextData",
+   "en": "Ancient Turret",
+   "ro": "Turelă antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_MultiElectricHatchingPalEggWithBreed_TextData",
+   "en": "Ancient Hatchery",
+   "ro": "Crescătorie antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableRock0020_TextData",
+   "en": "Soralite",
+   "ro": "Soralit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BaseCampWorkHard03_TextData",
+   "en": "Ancient Monitoring Stand",
+   "ro": "Post de monitorizare antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_TriangleFoundation_TextData",
+   "en": "Ancient Triangular Foundation",
+   "ro": "Fundație triunghiulară antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_DiagonalWall_TextData",
+   "en": "Ancient Diagonal Wall",
+   "ro": "Perete diagonal antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_TriangleRoof_TextData",
+   "en": "Ancient Triangular Roof",
+   "ro": "Acoperiș triunghiular antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_TriangleStairsCorner_TextData",
+   "en": "Ancient Corner Roof",
+   "ro": "Acoperiș de colț antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_TriangleWallReverse_TextData",
+   "en": "Ancient Triangular Wall (Inverted)",
+   "ro": "Perete triunghiular antic (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_WallGate_TextData",
+   "en": "Ancient Pal Passage Entrance",
+   "ro": "Intrare de trecere pentru Pali antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_SlopedRoofCorner_TextData",
+   "en": "Ancient Slanted Triangular Roof",
+   "ro": "Acoperiș triunghiular înclinat antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_PyramidRoof_TextData",
+   "en": "Ancient Pyramid Roof",
+   "ro": "Acoperiș piramidal antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_foundation_TextData",
+   "en": "Ancient Foundation",
+   "ro": "Fundație antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_wall_TextData",
+   "en": "Ancient Wall",
+   "ro": "Perete antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_roof_TextData",
+   "en": "Ancient Roof",
+   "ro": "Acoperiș antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_stair_TextData",
+   "en": "Ancient Stairs",
+   "ro": "Scări antice"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_DoorWall_TextData",
+   "en": "Ancient Wall and Door",
+   "ro": "Perete și ușă antice"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_TriangleWall_TextData",
+   "en": "Ancient Triangular Wall",
+   "ro": "Perete triunghiular antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_SlantedRoof_TextData",
+   "en": "Ancient Slanted Roof",
+   "ro": "Acoperiș înclinat antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_WindowWall_TextData",
+   "en": "Ancient Wall and Window",
+   "ro": "Perete și fereastră antice"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_Pillars_TextData",
+   "en": "Ancient Pillar",
+   "ro": "Stâlp antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_Fence_TextData",
+   "en": "Ancient Fence",
+   "ro": "Gard antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Green_TextData",
+   "en": "Faux Greenery A",
+   "ro": "Verdeață artificială A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Green_TextData",
+   "en": "Faux Greenery B",
+   "ro": "Verdeață artificială B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Green_TextData",
+   "en": "Faux Greenery C",
+   "ro": "Verdeață artificială C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Red_TextData",
+   "en": "Faux Crimson Foliage A",
+   "ro": "Frunziș stacojiu artificial A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Red_TextData",
+   "en": "Faux Crimson Foliage B",
+   "ro": "Frunziș stacojiu artificial B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Red_TextData",
+   "en": "Faux Crimson Foliage C",
+   "ro": "Frunziș stacojiu artificial C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Yellow_TextData",
+   "en": "Faux Golden Foliage A",
+   "ro": "Frunziș auriu artificial A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Yellow_TextData",
+   "en": "Faux Golden Foliage B",
+   "ro": "Frunziș auriu artificial B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Yellow_TextData",
+   "en": "Faux Golden Foliage C",
+   "ro": "Frunziș auriu artificial C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Cherry_TextData",
+   "en": "Faux Cherry Blossoms A",
+   "ro": "Cireș înflorit artificial A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Cherry_TextData",
+   "en": "Faux Cherry Blossoms B",
+   "ro": "Cireș înflorit artificial B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Cherry_TextData",
+   "en": "Faux Cherry Blossoms C",
+   "ro": "Cireș înflorit artificial C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Tropical_TextData",
+   "en": "Faux Tropical Greenery A",
+   "ro": "Verdeață tropicală artificială A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Tropical_TextData",
+   "en": "Faux Tropical Greenery B",
+   "ro": "Verdeață tropicală artificială B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Tropical_TextData",
+   "en": "Faux Tropical Greenery C",
+   "ro": "Verdeață tropicală artificială C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Snow_TextData",
+   "en": "Faux Snowy Greenery A",
+   "ro": "Verdeață înzăpezită artificială A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Snow_TextData",
+   "en": "Faux Snowy Greenery B",
+   "ro": "Verdeață înzăpezită artificială B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Snow_TextData",
+   "en": "Faux Snowy Greenery C",
+   "ro": "Verdeață înzăpezită artificială C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Desert_TextData",
+   "en": "Faux Desert Greenery A",
+   "ro": "Verdeață de deșert artificială A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Desert_TextData",
+   "en": "Faux Desert Greenery B",
+   "ro": "Verdeață de deșert artificială B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Desert_TextData",
+   "en": "Faux Desert Greenery C",
+   "ro": "Verdeață de deșert artificială C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree01_Bamboo_TextData",
+   "en": "Faux Bamboo A",
+   "ro": "Bambus artificial A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree02_Bamboo_TextData",
+   "en": "Faux Bamboo B",
+   "ro": "Bambus artificial B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureTree03_Bamboo_TextData",
+   "en": "Faux Bamboo C",
+   "ro": "Bambus artificial C"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureBush01_Green_TextData",
+   "en": "Faux Bush",
+   "ro": "Tufiș artificial"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureBush01_Yellow_TextData",
+   "en": "Faux Golden Bush",
+   "ro": "Tufiș auriu artificial"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureBush01_Flower_TextData",
+   "en": "Faux Flowering Bush A",
+   "ro": "Tufiș înflorit artificial A"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureBush02_Flower_TextData",
+   "en": "Faux Flowering Bush B",
+   "ro": "Tufiș înflorit artificial B"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureBush01_Tropical_TextData",
+   "en": "Faux Tropical Bush",
+   "ro": "Tufiș tropical artificial"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureBush01_Snow_TextData",
+   "en": "Faux White Bush",
+   "ro": "Tufiș alb artificial"
+  },
+  {
+   "key": "MAPOBJECT_NAME_FurnitureStone01_TextData",
+   "en": "Faux Rock",
+   "ro": "Stâncă artificială"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableCircular_Wood_None_TextData",
+   "en": "Tidy Round Table",
+   "ro": "Masă rotundă îngrijită"
+  },
+  {
+   "key": "MAPOBJECT_NAME_TableSquare_Wood_None_TextData",
+   "en": "Tidy Square Table",
+   "ro": "Masă pătrată îngrijită"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JetDragonStatue_TextData",
+   "en": "Jetragon Statue",
+   "ro": "Statuie cu Jetragon"
+  },
+  {
+   "key": "MAPOBJECT_NAME_IceHorseStatue_TextData",
+   "en": "Frostallion Statue",
+   "ro": "Statuie cu Frostallion"
+  },
+  {
+   "key": "MAPOBJECT_NAME_ArcadeVideoGame_TextData",
+   "en": "Arcade Game Cabinet",
+   "ro": "Aparat de jocuri arcade"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_MedicalPalBed_TextData",
+   "en": "Ancient Pal Bed",
+   "ro": "Pat antic pentru Pali"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_AirConditioner_TextData",
+   "en": "Ancient Air Conditioner",
+   "ro": "Aer condiționat antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_Spa_TextData",
+   "en": "Ancient Hot Spring",
+   "ro": "Izvor termal antic"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Clinic_TextData",
+   "en": "Clinic",
+   "ro": "Clinică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_Clinic_TextData",
+   "en": "Ancient Clinic",
+   "ro": "Clinică antică"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SkyIslandOrePit_TextData",
+   "en": "Soralite Quarry",
+   "ro": "Carieră de soralit"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DarkIsland_Flag_TextData",
+   "en": "Feybreak Flag",
+   "ro": "Steag Feybreak"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DarkIsland_Banner_TextData",
+   "en": "Feybreak Banner",
+   "ro": "Banderolă Feybreak"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SkyIsland_Flag_TextData",
+   "en": "Azure Covenant Flag",
+   "ro": "Steagul Legământului de Azur"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SkyIsland_Banner_TextData",
+   "en": "Azure Covenant Banner",
+   "ro": "Banderola Legământului de Azur"
+  },
+  {
+   "key": "MAPOBJECT_NAME_StationDeforest3_TextData",
+   "en": "Logging Site II",
+   "ro": "Zonă de defrișare II"
+  },
+  {
+   "key": "MAPOBJECT_NAME_BaseCampWorkHard02_TextData",
+   "en": "High Quality Monitoring Stand",
+   "ro": "Post de monitorizare de calitate superioară"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Wooden_SlopedRoofCornerReverse_TextData",
+   "en": "Wooden Slanted Corner Roof (Inverted)",
+   "ro": "Acoperiș de colț înclinat din lemn (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Stone_SlopedRoofCornerReverse_TextData",
+   "en": "Stone Slanted Corner Roof (Inverted)",
+   "ro": "Acoperiș de colț înclinat din piatră (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Iron_SlopedRoofCornerReverse_TextData",
+   "en": "Metal Slanted Corner Roof (Inverted)",
+   "ro": "Acoperiș de colț înclinat din metal (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Glass_SlopedRoofCornerReverse_TextData",
+   "en": "Glass Slanted Corner Roof (Inverted)",
+   "ro": "Acoperiș de colț înclinat din sticlă (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_JapaneseStyle_SlopedRoofCornerReverse_TextData",
+   "en": "Japanese-Style Slanted Corner Roof (Inverted)",
+   "ro": "Acoperiș de colț înclinat în stil japonez (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_SF_SlopedRoofCornerReverse_TextData",
+   "en": "Clean Slanted Corner Roof (Inverted)",
+   "ro": "Acoperiș de colț înclinat impecabil (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_Ancient_SlopedRoofCornerReverse_TextData",
+   "en": "Ancient Slanted Triangular Roof (Inverted)",
+   "ro": "Acoperiș triunghiular înclinat antic (inversat)"
+  },
+  {
+   "key": "MAPOBJECT_NAME_OilPump02_TextData",
+   "en": "High-Pressure Crude Oil Extractor",
+   "ro": "Extractor de țiței de înaltă presiune"
+  },
+  {
+   "key": "MAPOBJECT_NAME_DamagableWood0001_TextData",
+   "en": "Ancient Bark",
+   "ro": "Scoarță antică"
+  }
+ ]
+}

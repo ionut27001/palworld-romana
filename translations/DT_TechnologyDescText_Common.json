@@ -1,0 +1,2940 @@
+{
+ "table": "DT_TechnologyDescText_Common",
+ "entries": [
+  {
+   "key": "DESC_RECIPE_COPPER_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ASSAULT_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ASSAULT_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ASSAULT_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_PENGUIN_LAUNCHER_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_IRON_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SCALE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_WORKBENCH_TextData",
+   "en": "<mapObjectName id=|WorkBench|/> for producing simple items.\r\nPals with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability help\r\nspeed up production.",
+   "ro": "<mapObjectName id=|WorkBench|/> pentru producerea de obiecte simple.\r\nPalii cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> ajută\r\nla accelerarea producției."
+  },
+  {
+   "key": "DESC_RECIPE_AXE1_TextData",
+   "en": "An axe for cutting wood.\r\nMade from stone, it's not very sharp.",
+   "ro": "Un topor pentru tăiat lemne.\r\nFiind făcut din piatră, nu este foarte ascuțit."
+  },
+  {
+   "key": "DESC_RECIPE_AXE2_TextData",
+   "en": "A metal axe capable of cutting down even hard trees.\r\nEffective against the sturdy trees that grow deep within the continent.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Un topor de metal capabil să taie chiar și copaci tari.\r\nEficient împotriva copacilor rezistenți din adâncul continentului.\r\nPoate fi fabricat la <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_AXE3_TextData",
+   "en": "An axe that can gather <itemName id=|Wood_Fine|/> from trees found in harsh environments such as deserts and volcanic areas.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "Un topor cu care poți recolta <itemName id=|Wood_Fine|/> din copacii din medii aspre, cum ar fi deșerturile și zonele vulcanice.\r\nPoate fi fabricat la <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_AXE4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_PICKEAXE1_TextData",
+   "en": "A pickaxe used for mining.\r\nMade from stone, the efficiency is questionable.",
+   "ro": "Un târnăcop folosit pentru minerit.\r\nFiind făcut din piatră, eficiența lui este discutabilă."
+  },
+  {
+   "key": "DESC_RECIPE_PICKEAXE2_TextData",
+   "en": "A pickaxe used for mining. \r\nMade from metal, its durability and efficiency have improved.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Un târnăcop folosit pentru minerit.\r\nFiind făcut din metal, durabilitatea și eficiența i-au fost îmbunătățite.\r\nPoate fi fabricat la <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_PICKEAXE3_TextData",
+   "en": "A pickaxe used for mining. \r\nIts durability and efficiency have further improved.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "Un târnăcop folosit pentru minerit.\r\nDurabilitatea și eficiența i-au fost îmbunătățite și mai mult.\r\nPoate fi fabricat la <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_PICKEAXE4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_BLAST_FURNACE_TextData",
+   "en": "Uses <itemName id=|CopperOre|/> to produce <itemName id=|CopperIngot|/>s.",
+   "ro": "Folosește <itemName id=|CopperOre|/> pentru a produce <itemName id=|CopperIngot|/>."
+  },
+  {
+   "key": "DESC_RECIPE_COPPER_INGOT_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_IRON_INGOT_TextData",
+   "en": "Allows refinement of <itemName id=|IronIngot|/>.",
+   "ro": "Permite rafinarea de <itemName id=|IronIngot|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BAT_TextData",
+   "en": "A <itemName id=|Bat|/> for close range combat.\r\nCan beat a small Pal to a pulp if need be.",
+   "ro": "O <itemName id=|Bat|/> pentru lupta de aproape.\r\nPoate snopi în bătaie un Pal mic, dacă este nevoie."
+  },
+  {
+   "key": "DESC_RECIPE_ELECBATON_TextData",
+   "en": "Close range weapon that sends out an electric jolt upon contact. \r\nPals are easier to capture when electrocuted.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Armă de corp la corp care eliberează un șoc electric la contact.\r\nPalii sunt mai ușor de capturat când sunt electrocutați.\r\nPoate fi fabricată la <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BOW3_TextData",
+   "en": "An enhanced bow that allows three arrows to be fired simultaneously.\r\nBy some strange mechanism, it only consumes a single <itemName id=|Arrow|/> when fired.",
+   "ro": "Un arc îmbunătățit care permite tragerea simultană a trei săgeți.\r\nPrintr-un mecanism ciudat, consumă doar un singur obiect de tip <itemName id=|Arrow|/> când tragi."
+  },
+  {
+   "key": "DESC_RECIPE_BOW_TextData",
+   "en": "Primitive long-range weapon. \r\nHastily put together, it isn't very powerful.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Armă primitivă pentru distanță lungă.\r\nFiind asamblat în grabă, nu este foarte puternic.\r\nPoate fi fabricat la <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BOW_FIRE_TextData",
+   "en": "A bow that deals <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> damage.\r\nBurns Pals with fire arrows, making them easier to capture.\r\nRequires <itemName id=|Arrow_Fire|/>.",
+   "ro": "Un arc care provoacă daune de tip <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>.\r\nAprinde Palii cu săgeți de foc, făcându-i mai ușor de capturat.\r\nNecesită: <itemName id=|Arrow_Fire|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BOW_POISON_TextData",
+   "en": "Frightening bow that poisons its target.\r\nPoisoned Pals are easier to capture.\r\nRequires <itemName id=|Arrow_Poison|/>.",
+   "ro": "Un arc înfricoșător care își otrăvește ținta.\r\nPalii otrăviți sunt mai ușor de capturat.\r\nNecesită: <itemName id=|Arrow_Poison|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BOWGUN_FIRE_TextData",
+   "en": "A <itemName id=|BowGun|/> that deals <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/> damage.\r\nRequires <itemName id=|Arrow_Fire|/>.\r\nRequires <mapObjectName id=|WeaponFactory_Dirty_01|/> to craft.",
+   "ro": "Un model de <itemName id=|BowGun|/> care provoacă daune de <uiCommon id=|COMMON_ELEMENT_NAME_Fire|/>.\r\nNecesită: <itemName id=|Arrow_Fire|/>.\r\nNecesită <mapObjectName id=|WeaponFactory_Dirty_01|/> pentru fabricare."
+  },
+  {
+   "key": "DESC_RECIPE_BOWGUN_POISON_TextData",
+   "en": "A <itemName id=|BowGun|/> that inflicts poison on its target.\r\nRequires <itemName id=|Arrow_Poison|/>.\r\nRequires <mapObjectName id=|WeaponFactory_Dirty_01|/> to craft.",
+   "ro": "Un model de <itemName id=|BowGun|/> care otrăvește ținta.\r\nNecesită: <itemName id=|Arrow_Poison|/>.\r\nNecesită <mapObjectName id=|WeaponFactory_Dirty_01|/> pentru fabricare."
+  },
+  {
+   "key": "DESC_RECIPE_ARROW_TextData",
+   "en": "<itemName id=|Arrow|/>s for use with bows.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Muniție de tip <itemName id=|Arrow|/> pentru arcuri.\r\nSe poate fabrica la: <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARROW_FIRE_TextData",
+   "en": "<itemName id=|Arrow_Fire|/>s for use with bows. \r\nDeals <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> damage on contact.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Muniție de tip <itemName id=|Arrow_Fire|/> pentru arcuri. \r\nProvoacă daune de tip <img id=|ElemIcon_Fire|/><uiCommon id=|COMMON_ELEMENT_NAME_Fire| style=|Elem_Fire|/> la impact.\r\nSe poate fabrica la: <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARROW_POISON_TextData",
+   "en": "<itemName id=|Arrow_Poison|/>s for use with bows. \r\nAfflicts target with <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> on contact.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Muniție de tip <itemName id=|Arrow_Poison|/> pentru arcuri. \r\nAfectează ținta cu <uiCommon id=|ADDITIONAL_EFFECT_Poison| style=|Effect_Poison|/> la impact.\r\nSe poate fabrica la: <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_WEAPONFACTRY_TextData",
+   "en": "Produces simple mechanical weapons.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability.",
+   "ro": "Produce arme mecanice simple.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HUNDGUN_TextData",
+   "en": "A handgun with improved capacity and rapid-fire capabilities.\r\nHas more immediate firepower than a <itemName id=|MakeshiftHandgun|/>.\r\nCrafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Un pistol cu o capacitate îmbunătățită și cadență mare de tragere.\r\nAre o putere de foc mai mare decât un <itemName id=|MakeshiftHandgun|/>.\r\nSe fabrică la: <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_RIFLE_TextData",
+   "en": "A single-shot rifle. Takes time to load.\r\nWhat it lacks in capacity, it makes up for with sheer power.\r\nCrafted at <mapObjectName id=|WeaponFactory_Dirty_02|/>.",
+   "ro": "O pușcă cu o singură lovitură. Reîncărcarea durează ceva timp.\r\nCompensează lipsa capacității printr-o putere pură.\r\nSe fabrică la: <mapObjectName id=|WeaponFactory_Dirty_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_RIFLEBULLET_TextData",
+   "en": "Ammo for the Single-Shot Rifle and similar weapons.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Muniție pentru pușca cu o singură lovitură și arme similare.\r\nSe poate fabrica la: <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SHOTGUN_TextData",
+   "en": "Wreaks havoc at close range. Can fire twice before reloading.\r\nDespite the limited load capacity, it still packs a punch.\r\nCrafted at <mapObjectName id=|WeaponFactory_Dirty_02|/>.",
+   "ro": "Face ravagii la distanță mică. Poate trage de două ori înainte de reîncărcare.\r\nÎn ciuda capacității reduse, are un impact devastator.\r\nSe fabrică la: <mapObjectName id=|WeaponFactory_Dirty_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SHOTGUNBULLET_TextData",
+   "en": "Ammo for shotguns and other similar weapons.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Muniție pentru puști și alte arme similare.\r\nSe poate fabrica la: <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR1_TextData",
+   "en": "Clothes made from <itemName id=|Cloth|/>. \r\nProtects against cold nights.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Haine confecționate din <itemName id=|Cloth|/>. \r\nOferă protecție împotriva nopților reci.\r\nSe pot fabrica la: <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR1_Heat_TextData",
+   "en": "A <itemName id=|ClothArmor|/> produced in hot regions. \r\nBoasts high heat resistance.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Un model de <itemName id=|ClothArmor|/> produs în regiuni calde. \r\nSe mândrește cu o rezistență ridicată la căldură.\r\nSe poate fabrica la: <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR1_Cold_TextData",
+   "en": "A <itemName id=|ClothArmor|/> produced in cold regions. \r\nUseful for surviving in cold climates.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Un model de <itemName id=|ClothArmor|/> produs în regiuni reci. \r\nUtil pentru a supraviețui în zone cu climat rece.\r\nSe poate fabrica la: <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR2_TextData",
+   "en": "Armor made from <itemName id=|Leather|/>. \r\nIts warmth and defense have been improved.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Armură confecționată din <itemName id=|Leather|/>. \r\nCăldura și protecția oferite au fost îmbunătățite.\r\nSe poate fabrica la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR2_Heat_TextData",
+   "en": "A <itemName id=|FurArmor|/> produced in hot regions. \r\nBoasts high heat resistance.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Un model de <itemName id=|FurArmor|/> produs în regiuni calde. \r\nSe mândrește cu o rezistență ridicată la căldură.\r\nSe poate fabrica la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR2_Cold_TextData",
+   "en": "A <itemName id=|FurArmor|/> produced in cold regions. \r\nUseful for surviving in cold climates.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Un model de <itemName id=|FurArmor|/> produs în regiuni reci. \r\nUtil pentru a supraviețui în zone cu climat rece.\r\nSe poate fabrica la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR3_TextData",
+   "en": "Armor made of metal. Somewhat heavy, but provides good defense.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Armură din metal. Destul de grea, dar oferă o apărare bună.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR3_Heat_TextData",
+   "en": "Improved <itemName id=|CopperArmor|/>. Boasts high heat resistance.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|CopperArmor|/>. Se mândrește cu o rezistență ridicată la căldură.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR3_Cold_TextData",
+   "en": "Improved <itemName id=|CopperArmor|/>. \r\nUseful for surviving in cold climates.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|CopperArmor|/>.\r\nUtilă pentru supraviețuire în climate reci.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR4_TextData",
+   "en": "Armor made from high quality metal. \r\nQuite heavy, but provides excellent defense.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "Armură din metal de înaltă calitate.\r\nDestul de grea, dar oferă o apărare excelentă.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR4_Cold_TextData",
+   "en": "Improved <itemName id=|IronArmor|/>. \r\nUseful for surviving in cold climates.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|IronArmor|/>.\r\nUtilă pentru supraviețuire în climate reci.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR4_Heat_TextData",
+   "en": "Improved <itemName id=|IronArmor|/>. \r\nBoasts high heat resistance.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|IronArmor|/>.\r\nSe mândrește cu o rezistență ridicată la căldură.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR5_TextData",
+   "en": "Armor made from <itemName id=|StealIngot|/>. \r\nHigh defense, but extremely heavy.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "Armură realizată din <itemName id=|StealIngot|/>.\r\nApărare ridicată, dar extrem de grea.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR5_Heat_TextData",
+   "en": "Improved <itemName id=|StealArmor|/>. \r\nBoasts high heat resistance.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|StealArmor|/>.\r\nSe mândrește cu o rezistență ridicată la căldură.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR5_Cold_TextData",
+   "en": "Improved <itemName id=|StealArmor|/>. \r\nUseful for surviving in cold climates.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|StealArmor|/>.\r\nUtilă pentru supraviețuire în climate reci.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HELMET1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_HELMET2_TextData",
+   "en": "A beautiful feathered headband. \r\nThough improbable, it somehow seems to protect its wearer from lethal head injuries.\r\nCan be crafted at <mapObjectName id=|Workbench|/>.",
+   "ro": "O bentiță superbă cu pene.\r\nDeși pare neverosimil, cumva pare să protejeze purtătorul de răni letale la cap.\r\nPoate fi fabricată la: <mapObjectName id=|Workbench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HELMET3_TextData",
+   "en": "A helm made of metal. \r\nA reliable piece of armor that protects your head, and all the thoughts within.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "O cască din metal.\r\nO piesă de armură de încredere care îți protejează capul și toate gândurile din el.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HELMET4_TextData",
+   "en": "A helm made from high quality metal. \r\nThe luster from the polished metal gives the wearer that added boost of confidence.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "O cască din metal de înaltă calitate.\r\nLuciul metalului lustruit oferă purtătorului un plus de încredere în sine.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HELMET5_TextData",
+   "en": "A helm made from <itemName id=|StealIngot|/>. \r\nEnvied for its immaculate quality, it is proof of a chosen warrior.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "O cască realizată din <itemName id=|StealIngot|/>.\r\nRâvnită pentru calitatea sa impecabilă, este dovada unui războinic ales.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_CAMPFIRE_TextData",
+   "en": "Used to make simple food\r\nor provide meager warmth and light.",
+   "ro": "Folosit pentru a prepara mâncăruri simple\r\nsau pentru a oferi puțină căldură și lumină."
+  },
+  {
+   "key": "DESC_RECIPE_FARM_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_WELL_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_COOKINGSTOVE_TextData",
+   "en": "Can efficiently prepare more varieties of foods.",
+   "ro": "Poate prepara eficient o varietate mai mare de mâncăruri."
+  },
+  {
+   "key": "DESC_RECIPE_HUMANBED_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_PALBED_TextData",
+   "en": "Pals at base recover SAN when sleeping in beds at night.\r\nWithout a Pal Bed, Pals cannot sleep soundly, and no SAN is recovered.",
+   "ro": "Palii din bază își refac nivelul de SAN când dorm în paturi noaptea.\r\nFără un pat de Pali, aceștia nu pot dormi profund și nu își refac nivelul de SAN."
+  },
+  {
+   "key": "DESC_RECIPE_LOGHOUSE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_PALLABO_TextData",
+   "en": "Combines several Pals of the same type\r\nto create a higher-ranked version.",
+   "ro": "Combină mai mulți Pali de același tip\r\npentru a crea o versiune de rang superior."
+  },
+  {
+   "key": "DESC_RECIPE_CLOTH_TextData",
+   "en": "<itemName id=|Cloth|/> woven from <itemName id=|Wool|/>.\r\nRequired to create armor.",
+   "ro": "<itemName id=|Cloth|/> țesută din <itemName id=|Wool|/>.\r\nNecesară pentru a fabrica armuri."
+  },
+  {
+   "key": "DESC_RECIPE_CLOTH2_TextData",
+   "en": "Woven from large amounts of <itemName id=|Wool|/>.\r\nRequired to create high quality armor.\r\nCan be made at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Țesătură realizată din cantități mari de <itemName id=|Wool|/>.\r\nNecesară pentru a crea armuri de înaltă calitate.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BANDAGE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE1_TextData",
+   "en": "An item that captures Pals when thrown.\r\nThis basic model is only effective on low level Pals.",
+   "ro": "Un obiect care capturează Pali atunci când este aruncat.\r\nAcest model de bază este eficient doar împotriva Palilor de nivel mic."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE2_TextData",
+   "en": "An item that captures Pals when thrown. \r\nIts capabilities have been improved, allowing it to catch a wider range of Pals.\r\nCan be crafted at <mapObjectName id=|SphereFactory_Black_01|/>.",
+   "ro": "Un obiect care capturează Pali atunci când este aruncat.\r\nCapacitățile sale au fost îmbunătățite, permițându-i să prindă o gamă mai largă de Pali.\r\nPoate fi fabricat la: <mapObjectName id=|SphereFactory_Black_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE3_TextData",
+   "en": "An item that captures Pals when thrown. \r\nAble to capture moderately powerful Pals.\r\nCan be crafted at <mapObjectName id=|SphereFactory_Black_01|/>.",
+   "ro": "Un obiect care capturează Pali atunci când este aruncat.\r\nPoate captura Pali moderat de puternici.\r\nPoate fi fabricat la: <mapObjectName id=|SphereFactory_Black_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE4_TextData",
+   "en": "An item that captures Pals when thrown. \r\nEnhanced capabilities allow it to capture even more powerful Pals.\r\nCan be crafted at <mapObjectName id=|SphereFactory_Black_02|/>.",
+   "ro": "Un obiect care capturează Pali atunci când este aruncat.\r\nCapacitățile îmbunătățite îi permit să captureze Pali și mai puternici.\r\nPoate fi fabricat la: <mapObjectName id=|SphereFactory_Black_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE5_TextData",
+   "en": "An item that captures Pals when thrown. \r\nNot many Pals can escape its highly efficient design.\r\nCan be crafted at <mapObjectName id=|SphereFactory_Black_03|/>.",
+   "ro": "Un obiect care capturează Pali atunci când este aruncat.\r\nNu mulți Pali pot scăpa de designul său de înaltă eficiență.\r\nPoate fi fabricat la: <mapObjectName id=|SphereFactory_Black_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE6_TextData",
+   "en": "An item that captures Pals when thrown. \r\nVery few Pals can escape its perfected design.\r\nCan be crafted at <mapObjectName id=|SphereFactory_Black_03|/>.",
+   "ro": "Un obiect care capturează Pali atunci când este aruncat.\r\nFoarte puțini Pali pot scăpa de designul său perfecționat.\r\nPoate fi fabricat la: <mapObjectName id=|SphereFactory_Black_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_DefenseWait_TextData",
+   "en": "Pals assigned to it will watch for approaching enemies.",
+   "ro": "Palii alocați aici vor sta de veghe pentru a detecta inamicii care se apropie."
+  },
+  {
+   "key": "DESC_RECIPE_DEFENCE_MACHINE_GUN_TextData",
+   "en": "Assign a Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability and it will protect a base using the machine gun.",
+   "ro": "Alocă un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> și acesta va apăra baza folosind mitraliera."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_FACTORY_BLACK_01_TextData",
+   "en": "Produces Spheres for capturing Pals.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability.",
+   "ro": "Produce Sfere pentru capturarea Palilor.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SHOTGUN2_TextData",
+   "en": "A high capacity, powerful shotgun.\r\nIt has outstanding close range DPS.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_02|/>.",
+   "ro": "O pușcă puternică, cu o capacitate mare.\r\nAre daune pe secundă excepționale la distanță mică.\r\nPoate fi fabricată la: <mapObjectName id=|WeaponFactory_Dirty_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SNIPER_RIFLE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ROCKET_LAUNCHER_TextData",
+   "en": "A <itemName id=|Launcher_Default|/> that can fire a powerful round from long distances.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "Un <itemName id=|Launcher_Default|/> care poate trage un proiectil puternic de la distanțe mari.\r\nPoate fi fabricat la: <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_LAUNCHERBULLET_TextData",
+   "en": "Ammo for the <itemName id=|Launcher_Default|/> and similar weapons.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "Muniție pentru <itemName id=|Launcher_Default|/> și arme similare.\r\nPoate fi fabricată la: <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_LAUNCHER_TextData",
+   "en": "A new type of launcher that fires a large number of spheres. \r\nIt can easily capture a herd of Pals.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_02|/>.",
+   "ro": "Un nou tip de lansator care trage un număr mare de sfere.\r\nPoate captura cu ușurință o întreagă turmă de Pali.\r\nPoate fi fabricat la: <mapObjectName id=|WeaponFactory_Dirty_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_LAUNCHER_ONCE_TextData",
+   "en": "A launcher that fires spheres. \r\nIt can capture Pals from a greater distance.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Un lansator care trage sfere.\r\nPoate captura Pali de la o distanță mai mare.\r\nPoate fi fabricat la: <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HOMING_SPHERE_LAUNCHER_TextData",
+   "en": "A launcher for firing spheres. \r\nFired spheres home in on Pals.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "Un lansator pentru tras sfere. \r\nSferele lansate urmăresc automat Palii.\r\nPoate fi fabricat la <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BOWGUN_TextData",
+   "en": "Fires an <itemName id=|Arrow|/> effortlessly. \r\nThough it takes time to load, it delivers a powerful shot.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Trage fără efort câte un obiect de tip <itemName id=|Arrow|/>. \r\nDeși încărcarea durează ceva timp, oferă o lovitură puternică.\r\nPoate fi fabricată la <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SWORD_TextData",
+   "en": "<itemName id=|Sword|/> for close-range combat. \r\nThe blade is extremely sharp! Mightier than a pen, for sure.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "O armă de tip <itemName id=|Sword|/> pentru luptă corp la corp. \r\nTăișul este extrem de ascuțit! Fără îndoială, mai puternică decât cerneala.\r\nPoate fi fabricată la <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ASSAULTRIFLE_TextData",
+   "en": "An <itemName id=|AssaultRifle_Default1|/> that mows down enemies with overwhelming force. \r\nIt excels at rapid-fire and is well suited to taking down powerful foes.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_02|/>.",
+   "ro": "O armă de tip <itemName id=|AssaultRifle_Default1|/> care seceră inamicii cu o forță copleșitoare. \r\nExcelează la tragere rapidă și este perfectă pentru a doborî inamici puternici.\r\nPoate fi fabricată la <mapObjectName id=|WeaponFactory_Dirty_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_STEAL_INGOT_TextData",
+   "en": "Allows refinement of <itemName id=|StealIngot|/>.",
+   "ro": "Permite rafinarea de <itemName id=|StealIngot|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ElectronicCircuit_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_MachineParts_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_MachineParts2_TextData",
+   "en": "<itemName id=|MachineParts2|/> required to create precision equipment.\r\nCan be made at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "Un obiect de tip <itemName id=|MachineParts2|/> necesar pentru fabricarea de echipamente de precizie.\r\nPoate fi fabricat la <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Computer_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Gunpowder_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Gunpowder2_TextData",
+   "en": "<itemName id=|Gunpowder2|/> used to fire ammunition.\r\nRequired to make bullets.\r\nCan be made at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Un material de tip <itemName id=|Gunpowder2|/> folosit pentru tragerea muniției.\r\nNecesar pentru fabricarea de gloanțe.\r\nPoate fi fabricat la <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ShippingItemBox_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_StonePit_TextData",
+   "en": "Can produce stone at a base.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Mining|/> suitability.",
+   "ro": "Poate produce piatră la bază.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Mining|/>."
+  },
+  {
+   "key": "DESC_RECIPE_FastTravelPoint_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_FACTORY_WHITE_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_FACTORY_WHITE_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_FACTORY_WHITE_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_FACTORY_BLACK_02_TextData",
+   "en": "Creates <itemName id=|PalSphere|/>s at a faster pace.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability.",
+   "ro": "Produce obiecte de tip <itemName id=|PalSphere|/> într-un ritm mai rapid.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE_FACTORY_BLACK_03_TextData",
+   "en": "Creates <itemName id=|PalSphere|/>s at an even faster pace.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability.",
+   "ro": "Produce obiecte de tip <itemName id=|PalSphere|/> într-un ritm și mai rapid.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_COOKING_ELECTRIC_KITCHEN_TextData",
+   "en": "Needs electricity but can prepare high-quality food more efficiently.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame|/> suitability.",
+   "ro": "Are nevoie de electricitate, dar poate prepara mâncare de calitate superioară mult mai eficient.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame|/>."
+  },
+  {
+   "key": "DESC_RECIPE_COOKING_HIGH_TECH_KITCHEN_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_MEDICAL_PALBED_02_TextData",
+   "en": "Pals sleep more soundly, improving the amount of Health and SAN recovered while sleeping.",
+   "ro": "Palii dorm mai adânc, crescând cantitatea de viață și SAN recuperate în timpul somnului."
+  },
+  {
+   "key": "DESC_RECIPE_STONEHOUSE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_DEFENCE_GATLING_GUN_TextData",
+   "en": "Assign a Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability and it will protect a base using the gatling gun.",
+   "ro": "Alocă un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> și acesta va apăra baza folosind mitraliera gatling."
+  },
+  {
+   "key": "DESC_RECIPE_DEFENCE_MISSILE_TextData",
+   "en": "Assign a Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability and it will protect a base using the missile launcher.",
+   "ro": "Alocă un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> și acesta va apăra baza folosind lansatorul de rachete."
+  },
+  {
+   "key": "DESC_RECIPE_DEFENCE_BOWGUN_TextData",
+   "en": "Assign a Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> suitability and it will protect a base using the crossbow.",
+   "ro": "Alocă un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> și acesta va apăra baza folosind arbaleta."
+  },
+  {
+   "key": "DESC_RECIPE_BLAST_FURNACE_4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_MEDICINE_FACILITY_01_TextData",
+   "en": "Can produce simple medicine.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine|/> trait.",
+   "ro": "Poate produce medicamente simple.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine|/>."
+  },
+  {
+   "key": "DESC_RECIPE_MEDICINE_FACILITY_02_TextData",
+   "en": "Needs electricity but can produce higher-quality medicine.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine|/> trait.",
+   "ro": "Are nevoie de electricitate, dar poate produce medicamente de calitate superioară.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine|/>."
+  },
+  {
+   "key": "DESC_RECIPE_MEDICINE_FACILITY_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_WEAPON_FACTORY_DIRTY_02_TextData",
+   "en": "Needs electricity but produces weapons and ammunition at a faster pace.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> trait.",
+   "ro": "Are nevoie de electricitate, dar produce arme și muniție într-un ritm mai rapid.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_WEAPON_FACTORY_DIRTY_03_TextData",
+   "en": "Needs electricity but produces weapons and ammunition at an even faster pace.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> trait.",
+   "ro": "Are nevoie de electricitate, dar produce arme și muniție într-un ritm și mai rapid.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_WEAPON_FACTORY_CLEAN_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_WEAPON_FACTORY_CLEAN_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_WEAPON_FACTORY_CLEAN_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_FACTORY_HARD_01_TextData",
+   "en": "Produces faster than <mapObjectName id=|WorkBench|/>.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> trait.",
+   "ro": "Produce mai rapid decât <mapObjectName id=|WorkBench|/>.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_FACTORY_HARD_02_TextData",
+   "en": "Needs electricity but produces items at a faster pace.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> trait.",
+   "ro": "Are nevoie de electricitate, dar produce obiecte într-un ritm mai rapid.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_FACTORY_HARD_03_TextData",
+   "en": "Needs electricity but produces items at an even faster pace.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/> trait.",
+   "ro": "Are nevoie de electricitate, dar produce obiecte într-un ritm și mai rapid.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Handcraft|/>."
+  },
+  {
+   "key": "DESC_RECIPE_FACTORY_COMFORTABLE_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_FACTORY_COMFORTABLE_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ITEM_CHEST_01_TextData",
+   "en": "Used to store items. Place at a base and Pals with\r\n<uiCommon id=|COMMON_WORK_SUITABILITY_Transport|/> suitability will automatically carry items to it.",
+   "ro": "Folosit pentru a depozita obiecte. Plasează-l într-o bază, iar Palii cu\r\naptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Transport|/> vor căra automat obiecte în el."
+  },
+  {
+   "key": "DESC_RECIPE_ITEM_CHEST_02_TextData",
+   "en": "Can be used to store more items. Pals with\r\n<uiCommon id=|COMMON_WORK_SUITABILITY_Transport|/> suitability will automatically carry items to it.",
+   "ro": "Poate fi folosit pentru a depozita mai multe obiecte. Palii cu\r\naptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Transport|/> vor căra automat obiecte în el."
+  },
+  {
+   "key": "DESC_RECIPE_ITEM_CHEST_03_TextData",
+   "en": "Can be used to store even more items. Pals with\r\n<uiCommon id=|COMMON_WORK_SUITABILITY_Transport|/> suitability will automatically carry items to it.",
+   "ro": "Poate fi folosit pentru a depozita și mai multe obiecte. Palii cu\r\naptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Transport|/> vor căra automat obiecte în el."
+  },
+  {
+   "key": "DESC_RECIPE_PLAYER_BED_02_TextData",
+   "en": "Human bed. Sleeping restores Health.\r\nSleep at night and time will pass until morning.\r\nCannot sleep unless built under a roof.",
+   "ro": "Pat pentru oameni. Somnul reface din HP.\r\nDormi noaptea și timpul va trece până dimineața.\r\nNu poți dormi dacă nu este construit sub un acoperiș."
+  },
+  {
+   "key": "DESC_RECIPE_PLAYER_BED_03_TextData",
+   "en": "Soft bed with improved restorative capabilities.\r\nCannot sleep unless built under a roof.",
+   "ro": "Pat moale cu proprietăți regenerative îmbunătățite.\r\nNu poți dormi dacă nu este construit sub un acoperiș."
+  },
+  {
+   "key": "DESC_RECIPE_ELECTRIX_GENERATOR_TextData",
+   "en": "Electric Pals at the base can now store electricity,\r\nallowing the use of electric facilities.",
+   "ro": "Palii de tip Electric din bază pot stoca acum electricitate,\r\npermițând utilizarea instalațiilor electrice."
+  },
+  {
+   "key": "DESC_RECIPE_ELECTRIX_GENERATOR_2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ELECTRIX_GENERATOR_3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Potato_plantation_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Corn_plantation_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Pumpkin_plantation_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_RecoverOtomo_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_HatchingPalEgg_TextData",
+   "en": "Place a Pal Egg inside to incubate it.",
+   "ro": "Așază un ou de Pal înăuntru pentru a-l incuba."
+  },
+  {
+   "key": "DESC_RECIPE_StationDeforest2_TextData",
+   "en": "Can produce wood at a base.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_SUITABILITY_Deforest|/> suitability.",
+   "ro": "Poate produce lemn într-o bază.\r\nNecesită un Pal cu aptitudinea <uiCommon id=|COMMON_WORK_SUITABILITY_Deforest|/>."
+  },
+  {
+   "key": "DESC_RECIPE_WORKBENCH_SKILLUNLOCK_TextData",
+   "en": "Produces items that allow Pals\r\nto use Partner Skills.",
+   "ro": "Produce obiecte care le permit Palilor\r\nsă folosească abilități de partener."
+  },
+  {
+   "key": "DESC_RECIPE_WORKBENCH_SKILLCARD_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_BOSS_DEFEAT_001_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_PalFoodBox_TextData",
+   "en": "Place food here, and Pals at the base\r\nwill eat from it.",
+   "ro": "Pune mâncare aici, iar Palii din bază\r\nvor mânca din ea."
+  },
+  {
+   "key": "DESC_RECIPE_Shield_01_TextData",
+   "en": "Strange shield made with Paldium technology.\r\nIt automatically repair itself after not taking damage for a while.",
+   "ro": "Scut ciudat fabricat cu tehnologie Paldium.\r\nSe repară automat dacă nu primește daune o perioadă."
+  },
+  {
+   "key": "DESC_RECIPE_Shield_02_TextData",
+   "en": "Strange shield made with Paldium technology.\r\nThe new model has been improved, enhancing its defense.\r\nCan be made at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Scut ciudat fabricat cu tehnologie Paldium.\r\nNoul model a fost îmbunătățit, mărindu-i apărarea.\r\nPoate fi fabricat la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Shield_03_TextData",
+   "en": "Strange shield made with Paldium technology.\r\nModifications have enhanced its effectiveness even further.\r\nCan be made at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "Scut ciudat fabricat cu tehnologie Paldium.\r\nModificările i-au crescut și mai mult eficacitatea.\r\nPoate fi fabricat la: <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Shield_04_TextData",
+   "en": "Strange shield made with Paldium technology.\r\nThrough repeated testing, the highest quality has been achieved.\r\nCan be made at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "Scut ciudat fabricat cu tehnologie Paldium.\r\nPrin testări repetate, s-a atins cea mai înaltă calitate.\r\nPoate fi fabricat la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Shield_Ultra_TextData",
+   "en": "Strange shield made with Paldium technology.\r\nAs a result of further experiments, ultimate quality has been achieved.\r\nCan be made at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "Scut ciudat fabricat cu tehnologie Paldium.\r\nÎn urma altor experimente, s-a atins calitatea supremă.\r\nPoate fi fabricat la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Shield_06_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Battle_Glider_Grade_01_TextData",
+   "en": "A glider for soaring through the air.\r\nCheaply made, it isn't very fast.",
+   "ro": "Un planor pentru zbor lin prin aer.\r\nFiind fabricat ieftin, nu este foarte rapid."
+  },
+  {
+   "key": "DESC_RECIPE_Battle_Glider_Grade_02_TextData",
+   "en": "A glider for soaring through the air.\r\nA mass produced commercial model, it’s decently fast.\r\nCan be made at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Un planor pentru zbor lin prin aer.\r\nUn model comercial produs în masă, e destul de rapid.\r\nPoate fi fabricat la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Battle_Glider_Grade_03_TextData",
+   "en": "A glider for soaring through the air.\r\nWith its capabilities improved, it can soar at high speed.\r\nCan be made at <mapObjectName id=|Factory_Hard_02|/>",
+   "ro": "Un planor pentru zbor lin prin aer.\r\nCu performanțe îmbunătățite, poate plana la viteză mare.\r\nPoate fi fabricat la: <mapObjectName id=|Factory_Hard_02|/>"
+  },
+  {
+   "key": "DESC_RECIPE_Battle_Glider_Grade_04_TextData",
+   "en": "A glider for soaring through the air.\r\nIts performance has been further improved, with increased speed and lift.\r\nCan be made at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "Un planor pentru zbor lin prin aer.\r\nPerformanța i-a fost sporită, având viteză și portanță crescute.\r\nPoate fi fabricat la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_RepairKit_TextData",
+   "en": "Tools for repairing structures.\r\nUse it on destroyed structures to repair them.",
+   "ro": "Unelte pentru repararea structurilor.\r\nFolosește-le pe structurile distruse pentru a le repara."
+  },
+  {
+   "key": "DESC_RECIPE_Berries_plantation_TextData",
+   "en": "Can produce berries at a base. Requires Pal with\r\n<uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/>, and <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/> suitabilities.",
+   "ro": "Poate produce boabe într-o bază. Necesită Pali cu\r\naptitudinile: <uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/> și <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/>."
+  },
+  {
+   "key": "DESC_RECIPE_wheat_plantation_TextData",
+   "en": "Use it to grow ingredients for <itemName id=|Pan|/>.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/>, and <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/> suitabilities.",
+   "ro": "Folosește-o pentru a cultiva ingrediente pentru <itemName id=|Pan|/>.\r\nNecesită Pali cu aptitudinile: <uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/> și <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/>."
+  },
+  {
+   "key": "DESC_RECIPE_tomato_plantation_TextData",
+   "en": "Farm for producing tomatoes.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/>, and <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/> suitabilities.",
+   "ro": "Fermă pentru cultivarea roșiilor.\r\nNecesită Pali cu aptitudinile: <uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/> și <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Lettuce_plantation_TextData",
+   "en": "Farm for producing lettuce.\r\nRequires Pal with <uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/>, and <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/> suitabilities.",
+   "ro": "Fermă pentru cultivarea salatei.\r\nNecesită Pali cu aptitudinile: <uiCommon id=|COMMON_WORK_TYPE_Seeding|/>, <uiCommon id=|COMMON_WORK_TYPE_Watering|/> și <uiCommon id=|COMMON_WORK_TYPE_CollectResourcePickable|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Wooden_foundation_TextData",
+   "en": "Infrastructure for a base. Low durability.",
+   "ro": "Infrastructură pentru o bază. Durabilitate scăzută."
+  },
+  {
+   "key": "DESC_RECIPE_Wooden_wall_TextData",
+   "en": "Protects supplies from attack. Low durability.",
+   "ro": "Protejează proviziile de atacuri. Durabilitate scăzută."
+  },
+  {
+   "key": "DESC_RECIPE_Wooden_roof_TextData",
+   "en": "Cannot sleep at a bed unless built under a roof.",
+   "ro": "Nu poți dormi într-un pat dacă nu este construit sub un acoperiș."
+  },
+  {
+   "key": "DESC_RECIPE_Wooden_stair_TextData",
+   "en": "Infrastructure for a base. Low durability.",
+   "ro": "Infrastructură pentru o bază. Durabilitate scăzută."
+  },
+  {
+   "key": "DESC_RECIPE_Stone_foundation_TextData",
+   "en": "Foundation with improved durability. Cannot be burned.",
+   "ro": "Fundație cu durabilitate îmbunătățită. Nu poate arde."
+  },
+  {
+   "key": "DESC_RECIPE_Stone_wall_TextData",
+   "en": "Defensive wall with improved durability. Cannot be burned.",
+   "ro": "Zid de apărare cu durabilitate îmbunătățită. Nu poate arde."
+  },
+  {
+   "key": "DESC_RECIPE_Stone_roof_TextData",
+   "en": "Roof with improved durability. Cannot be burned.",
+   "ro": "Acoperiș cu durabilitate îmbunătățită. Nu poate arde."
+  },
+  {
+   "key": "DESC_RECIPE_Stone_stair_TextData",
+   "en": "Stairs with improved durability. Cannot be burned.",
+   "ro": "Scări cu durabilitate îmbunătățită. Nu pot arde."
+  },
+  {
+   "key": "DESC_RECIPE_Metal_foundation_TextData",
+   "en": "Foundation with high durability. Cannot be burned.",
+   "ro": "Fundație cu durabilitate ridicată. Nu poate arde."
+  },
+  {
+   "key": "DESC_RECIPE_Metal_wall_TextData",
+   "en": "Defensive wall with high durability. Cannot be burned.",
+   "ro": "Zid de apărare cu durabilitate ridicată. Nu poate arde."
+  },
+  {
+   "key": "DESC_RECIPE_Metal_roof_TextData",
+   "en": "Roof with high durability. Cannot be burned.",
+   "ro": "Acoperiș cu durabilitate ridicată. Nu poate arde."
+  },
+  {
+   "key": "DESC_RECIPE_Metal_stair_TextData",
+   "en": "Stairs with improved durability. Cannot be burned.",
+   "ro": "Scări cu durabilitate îmbunătățită. Nu pot arde."
+  },
+  {
+   "key": "DESC_RECIPE_MAKESHIFTHANDGUN_TextData",
+   "en": "A handgun created from spare parts.\r\nRelatively well suited for close quarters combat, but can only fire one shot before needing to reload.\r\nCrafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Un pistol fabricat din piese de schimb.\r\nRelativ bine adaptat pentru lupta la distanță mică, dar poate trage un singur foc înainte de a necesita reîncărcare.\r\nSe fabrică la <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HANDGUNBULLET_TextData",
+   "en": "Ammo for the <itemName id=|HandGun_Default|/> and similar weapons.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Muniție pentru <itemName id=|HandGun_Default|/> și arme similare.\r\nPoate fi fabricată la: <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_RoughBullet_TextData",
+   "en": "Ammo for the <itemName id=|Musket|/>, <itemName id=|MakeshiftHandgun|/>, and similar weapons.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Muniție pentru <itemName id=|Musket|/>, <itemName id=|MakeshiftHandgun|/> și arme similare.\r\nSe poate fabrica la <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_MachingunBullet_TextData",
+   "en": "Ammo for <itemName id=|Machingun|/> and other similar weapons.\r\nRequires <mapObjectName id=|WeaponFactory_Dirty_01|/> to craft.",
+   "ro": "Muniție pentru <itemName id=|Machingun|/> și alte arme similare.\r\nNecesită <mapObjectName id=|WeaponFactory_Dirty_01|/> pentru fabricare."
+  },
+  {
+   "key": "DESC_RECIPE_AssaultRifleBullet_TextData",
+   "en": "Ammo for the <itemName id=|AssaultRifle_Default1|/> and similar weapons.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_02|/>.",
+   "ro": "Muniție pentru <itemName id=|AssaultRifle_Default1|/> și arme similare.\r\nPoate fi fabricată la: <mapObjectName id=|WeaponFactory_Dirty_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_MagnumBullet_TextData",
+   "en": "Ammo for <itemName id=|Magnum|/> and other similar weapons.\r\nRequires <mapObjectName id=|WeaponFactory_Dirty_01|/> to craft.",
+   "ro": "Muniție pentru <itemName id=|Magnum|/> și alte arme similare.\r\nNecesită <mapObjectName id=|WeaponFactory_Dirty_01|/> pentru fabricare."
+  },
+  {
+   "key": "DESC_RECIPE_Spa_TextData",
+   "en": "Pals recover SAN while in a <mapObjectName id=|Spa|/>.",
+   "ro": "Palii își recapătă SAN cât timp se află într-un <mapObjectName id=|Spa|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Spa2_TextData",
+   "en": "Pals recover plenty of SAN while in the hot spring.",
+   "ro": "Palii își recapătă mult SAN cât timp se află în izvorul termal."
+  },
+  {
+   "key": "DESC_RECIPE_Heater_TextData",
+   "en": "Warms the nearby area and protects against the cold.",
+   "ro": "Încălzește zona din apropiere și protejează împotriva frigului."
+  },
+  {
+   "key": "DESC_RECIPE_ElectricHeater_TextData",
+   "en": "Warms the nearby area and protects against the cold.\r\nImproved range and heating capabilities.",
+   "ro": "Încălzește zona din apropiere și protejează împotriva frigului.\r\nRază de acțiune și capacitate de încălzire îmbunătățite."
+  },
+  {
+   "key": "DESC_RECIPE_Cooler_TextData",
+   "en": "Cools the nearby area and protects against the heat.",
+   "ro": "Răcorește zona din apropiere și protejează împotriva căldurii."
+  },
+  {
+   "key": "DESC_RECIPE_ElectricCooler_TextData",
+   "en": "Cools the nearby area and protects against the heat.\r\nImproved range and cooling capabilities.",
+   "ro": "Răcorește zona din apropiere și protejează împotriva căldurii.\r\nRază de acțiune și capacitate de răcire îmbunătățite."
+  },
+  {
+   "key": "DESC_RECIPE_Torch_TextData",
+   "en": "Place it at a base to light the surrounding area.",
+   "ro": "Plaseaz-o într-o bază pentru a lumina zona din jur."
+  },
+  {
+   "key": "DESC_RECIPE_WallTorch_TextData",
+   "en": "Place it on a wall to light the surrounding area.",
+   "ro": "Plaseaz-o pe un perete pentru a lumina zona din jur."
+  },
+  {
+   "key": "DESC_RECIPE_Lamp_TextData",
+   "en": "Lights up dark areas at a base.",
+   "ro": "Luminează zonele întunecate dintr-o bază."
+  },
+  {
+   "key": "DESC_RECIPE_CeilingLamp_TextData",
+   "en": "Lights up dark areas below at a base.",
+   "ro": "Luminează zonele întunecate de dedesubt dintr-o bază."
+  },
+  {
+   "key": "DESC_RECIPE_LargeLamp_TextData",
+   "en": "Lights up large areas at a base.",
+   "ro": "Luminează zone extinse dintr-o bază."
+  },
+  {
+   "key": "DESC_RECIPE_LargeCeilingLamp_TextData",
+   "en": "Lights up large areas below at a base.",
+   "ro": "Luminează zone extinse de dedesubt dintr-o bază."
+  },
+  {
+   "key": "DESC_RECIPE_PALBOX_TextData",
+   "en": "Facility for storing captured Pals.\r\nPals inside gradually recover Health.\r\nThe area around this structure will become your base.",
+   "ro": "Structură pentru depozitarea Palilor capturați.\r\nPalii din interior își recapătă treptat viața.\r\nZona din jurul acestei structuri va deveni baza ta."
+  },
+  {
+   "key": "DESC_RECIPE_HandTorch_TextData",
+   "en": "Lights up dark areas and keeps you warm. \r\nCan also be used for close-range combat in a pinch.\r\nCan be crafted at <mapObjectName id=|WorkBench|/>.",
+   "ro": "Luminează zonele întunecate și îți ține de cald.\r\nLa nevoie, poate fi folosită și pentru luptă corp la corp.\r\nSe poate fabrica la <mapObjectName id=|WorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BuildableGoddessStatue_TextData",
+   "en": "Make offerings to enhance the stats of the Player and their Pals.",
+   "ro": "Adu ofrande pentru a îmbunătăți atributele jucătorului și ale Palilor săi."
+  },
+  {
+   "key": "DESC_RECIPE_Polymer_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Silicon_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Cement_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_CarbonFiber_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Wooden_Houseset_TextData",
+   "en": "Set for building bases using wood.\r\nAllows building of wooden foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea bazelor din lemn.\r\nPermite construirea de fundații, pereți, tavane, scări din lemn și alte elemente necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_Stone_Houseset_TextData",
+   "en": "Set for building bases using stone.\r\nAllows building of stone foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea bazelor din piatră.\r\nPermite construirea de fundații, pereți, tavane, scări din piatră și alte elemente necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_Metal_Houseset_TextData",
+   "en": "Set for building bases using metal.\r\nAllows building of metal foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea bazelor folosind metal.\r\nPermite construirea de fundații metalice, pereți, tavane, scări și alte elemente necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_Torch_set_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Lamp_set_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_LargeLamp_set_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_DisplayCharacter_TextData",
+   "en": "Container for observing captured Pals.\r\nPals inside cannot participate in battle or production, but they do not become hungry.",
+   "ro": "Recipient pentru observarea Palilor capturați.\r\nPalii din interior nu pot participa la luptă sau producție, dar nu li se face foame."
+  },
+  {
+   "key": "DESC_RECIPE_DefenseWall_TextData",
+   "en": "Large defensive wall that protects from enemy invasions.",
+   "ro": "Zid defensiv mare care protejează împotriva invaziilor inamice."
+  },
+  {
+   "key": "DESC_RECIPE_BaseCampBattleDirector_TextData",
+   "en": "Bell that sets the alert status for Pals on base.\r\nChange Pal behavior to either attack invading enemies or focus entirely on work whenever you like.",
+   "ro": "Clopot care setează starea de alertă a Palilor din bază.\r\nSchimbă comportamentul Palilor oricând dorești, fie pentru a ataca inamicii invadatori, fie pentru a se concentra doar pe muncă."
+  },
+  {
+   "key": "DESC_RECIPE_Spear_TextData",
+   "en": "Useful for close-range combat.\r\nIts length allows you to stand further away when attacking.",
+   "ro": "Utilă pentru lupta la distanță mică.\r\nLungimea sa îți permite să stai mai departe când ataci."
+  },
+  {
+   "key": "DESC_RECIPE_Spear_2_TextData",
+   "en": "Useful for close-range combat. \r\nThe metal tip gives it increased attack power.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_01|/>.",
+   "ro": "Utilă pentru lupta la distanță mică.\r\nVârful din metal îi oferă o putere de atac crescută.\r\nSe poate fabrica la: <mapObjectName id=|Factory_Hard_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Spear_3_TextData",
+   "en": "Useful for close-range combat. \r\nThe high-quality metal tip gives it increased attack power.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_02|/>.",
+   "ro": "Utilă pentru lupta la distanță mică.\r\nVârful din metal de înaltă calitate îi oferă o putere de atac crescută.\r\nSe poate fabrica la: <mapObjectName id=|Factory_Hard_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Lantern_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_AutoMealPouch_Tier1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_AutoMealPouch_Tier2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_AutoMealPouch_Tier3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_AutoMealPouch_Tier4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_AutoMealPouch_Tier5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Crusher_TextData",
+   "en": "Facility for breaking down <itemName id=|Stone|/> and <itemName id=|Wood|/> to exchange them for other materials.\r\nRequires Pal with the Watering suitability to spin the water turbine.",
+   "ro": "Instalație pentru zdrobirea materialelor de tip <itemName id=|Stone|/> și <itemName id=|Wood|/> pentru a le transforma în alte materiale.\r\nNecesită un Pal cu aptitudinea de Udare pentru a învârti turbina cu apă."
+  },
+  {
+   "key": "DESC_RECIPE_WoodCrusher_TextData",
+   "en": "<mapObjectName id=|WoodCrusher|/> can be constructed.\r\nYou can extract <itemName id=|Fiber|/> by cutting <itemName id=|Wood|/>.",
+   "ro": "Permite construirea următoarei structuri: <mapObjectName id=|WoodCrusher|/>.\r\nPoți extrage <itemName id=|Fiber|/> prin tăierea de <itemName id=|Wood|/>."
+  },
+  {
+   "key": "DESC_RECIPE_FlourMill_TextData",
+   "en": "Facility for milling <itemName id=|Wheat|/> to produce <itemName id=|Flour|/>. \r\nRequires Pal with the Watering suitability to spin the water turbine.",
+   "ro": "Instalație pentru măcinarea de <itemName id=|Wheat|/> pentru a produce <itemName id=|Flour|/>.\r\nNecesită un Pal cu aptitudinea de Udare pentru a învârti turbina cu apă."
+  },
+  {
+   "key": "DESC_RECIPE_FragGrenade_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_GrapplingGun_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_GrapplingGun2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_GrapplingGun3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_GrapplingGun4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Trap_MovingPanel_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Trap_MineElecShock_TextData",
+   "en": "Electrocutes those who step on it.\r\nElectrocuted Pals are easier to capture.",
+   "ro": "Electrocutează pe oricine calcă pe ea.\r\nPalii electrocutați sunt mai ușor de capturat."
+  },
+  {
+   "key": "DESC_RECIPE_Trap_MineFreeze_TextData",
+   "en": "Freezes those who step on it.\r\nFrozen Pals are easier to capture.",
+   "ro": "Îngheață pe oricine calcă pe ea.\r\nPalii înghețați sunt mai ușor de capturat."
+  },
+  {
+   "key": "DESC_RECIPE_Trap_MineAttack_TextData",
+   "en": "Automatically detonates when stepped on.",
+   "ro": "Detonează automat când se calcă pe ea."
+  },
+  {
+   "key": "DESC_RECIPE_Trap_LegHold_TextData",
+   "en": "Immobilizes those who step on it.\r\nOnly effective on small Pals or humans.",
+   "ro": "Imobilizează pe oricine calcă pe ea.\r\nEste eficientă doar împotriva Palilor mici sau a oamenilor."
+  },
+  {
+   "key": "DESC_RECIPE_Trap_LegHold_Big_TextData",
+   "en": "Immobilizes those who step on it.\r\nOnly effective on large Pals.",
+   "ro": "Imobilizează pe oricine calcă pe ea.\r\nEste eficientă doar împotriva Palilor mari."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Carbunclo_TextData",
+   "en": "The <itemName id=|SkillUnlock_Carbunclo|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Carbunclo|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Anubis_TextData",
+   "en": "The <itemName id=|SkillUnlock_Anubis|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Anubis|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Garm_TextData",
+   "en": "The <itemName id=|SkillUnlock_Garm|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Garm|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Umihebi_TextData",
+   "en": "The <itemName id=|SkillUnlock_Umihebi|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Umihebi|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Deer_TextData",
+   "en": "The <itemName id=|SkillUnlock_Deer|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Deer|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Hedgehog_TextData",
+   "en": "The <itemName id=|SkillUnlock_Hedgehog|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Hedgehog|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Kitsunebi_TextData",
+   "en": "The <itemName id=|SkillUnlock_Kitsunebi|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Kitsunebi|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Boar_TextData",
+   "en": "The <itemName id=|SkillUnlock_Boar|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Boar|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Monkey_TextData",
+   "en": "The <itemName id=|SkillUnlock_Monkey|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Monkey|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Penguin_TextData",
+   "en": "The <itemName id=|SkillUnlock_Penguin|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Penguin|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Alpaca_TextData",
+   "en": "The <itemName id=|SkillUnlock_Alpaca|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Alpaca|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FlowerDinosaur_TextData",
+   "en": "The <itemName id=|SkillUnlock_FlowerDinosaur|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_FlowerDinosaur|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_GrassMammoth_TextData",
+   "en": "The <itemName id=|SkillUnlock_GrassMammoth|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_GrassMammoth|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Kirin_TextData",
+   "en": "The <itemName id=|SkillUnlock_Kirin|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Kirin|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_ElecPanda_TextData",
+   "en": "The <itemName id=|SkillUnlock_ElecPanda|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_ElecPanda|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_LazyDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_LazyDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_LazyDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FireKirin_TextData",
+   "en": "The <itemName id=|SkillUnlock_FireKirin|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_FireKirin|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_SakuraSaurus_TextData",
+   "en": "The <itemName id=|SkillUnlock_SakuraSaurus|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_SakuraSaurus|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FlameBuffalo_TextData",
+   "en": "The <itemName id=|SkillUnlock_FlameBuffalo|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_FlameBuffalo|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_BlueDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_BlueDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_BlueDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FairyDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_FairyDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_FairyDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FengyunDeeper_TextData",
+   "en": "The <itemName id=|SkillUnlock_FengyunDeeper|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_FengyunDeeper|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_ColorfulBird_TextData",
+   "en": "The <itemName id=|SkillUnlock_ColorfulBird|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_ColorfulBird|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Eagle_TextData",
+   "en": "The <itemName id=|SkillUnlock_Eagle|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Eagle|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_NegativeOctopus_TextData",
+   "en": "The <itemName id=|SkillUnlock_NegativeOctopus|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_NegativeOctopus|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FlyingManta_TextData",
+   "en": "The <itemName id=|SkillUnlock_FlyingManta|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_FlyingManta|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_GhostBeast_TextData",
+   "en": "The <itemName id=|SkillUnlock_GhostBeast|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_GhostBeast|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_LilyQueen_TextData",
+   "en": "The <itemName id=|SkillUnlock_LilyQueen|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_LilyQueen|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FlowerRabbit_TextData",
+   "en": "The <itemName id=|SkillUnlock_FlowerRabbit|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_FlowerRabbit|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Manticore_TextData",
+   "en": "The <itemName id=|SkillUnlock_Manticore|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Manticore|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Suzaku_TextData",
+   "en": "The <itemName id=|SkillUnlock_Suzaku|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Suzaku|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Serpent_TextData",
+   "en": "The <itemName id=|SkillUnlock_Serpent|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Serpent|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_RaijinDaughter_TextData",
+   "en": "The <itemName id=|SkillUnlock_RaijinDaughter|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_RaijinDaughter|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_VolcanicMonster_TextData",
+   "en": "The <itemName id=|SkillUnlock_VolcanicMonster|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_VolcanicMonster|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_AmaterasuWolf_TextData",
+   "en": "The <itemName id=|SkillUnlock_AmaterasuWolf|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_AmaterasuWolf|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_DreamDemon_TextData",
+   "en": "The <itemName id=|SkillUnlock_DreamDemon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_DreamDemon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_BlackFurDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_BlackFurDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_BlackFurDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_IceHorse_TextData",
+   "en": "The <itemName id=|SkillUnlock_IceHorse|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_IceHorse|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Horus_TextData",
+   "en": "The <itemName id=|SkillUnlock_Horus|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Horus|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_KingBahamut_TextData",
+   "en": "The <itemName id=|SkillUnlock_KingBahamut|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_KingBahamut|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_IceDeer_TextData",
+   "en": "The <itemName id=|SkillUnlock_IceDeer|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_IceDeer|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_BlackGriffon_TextData",
+   "en": "The <itemName id=|SkillUnlock_BlackGriffon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_BlackGriffon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_BlackMetalDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_BlackMetalDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_BlackMetalDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_SkyDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_SkyDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_SkyDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_ThunderDog_TextData",
+   "en": "The <itemName id=|SkillUnlock_ThunderDog|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_ThunderDog|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_GrassPanda_TextData",
+   "en": "The <itemName id=|SkillUnlock_GrassPanda|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_GrassPanda|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_VioletFairy_TextData",
+   "en": "The <itemName id=|SkillUnlock_VioletFairy|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_VioletFairy|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Yeti_TextData",
+   "en": "The <itemName id=|SkillUnlock_Yeti|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_Yeti|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_HawkBird_TextData",
+   "en": "The <itemName id=|SkillUnlock_HawkBird|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_HawkBird|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_IceFox_TextData",
+   "en": "The <itemName id=|SkillUnlock_IceFox|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_IceFox|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_JetDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_JetDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_JetDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_HadesBird_TextData",
+   "en": "The <itemName id=|SkillUnlock_HadesBird|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_HadesBird|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_KingAlpaca_TextData",
+   "en": "The <itemName id=|SkillUnlock_KingAlpaca|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_KingAlpaca|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_SaintCentaur_TextData",
+   "en": "The <itemName id=|SkillUnlock_SaintCentaur|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_SaintCentaur|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_HerculesBeetle_TextData",
+   "en": "The <itemName id=|SkillUnlock_HerculesBeetle|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_HerculesBeetle|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_ThunderBird_TextData",
+   "en": "The <itemName id=|SkillUnlock_ThunderBird|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_ThunderBird|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_RedArmorBird_TextData",
+   "en": "The <itemName id=|SkillUnlock_RedArmorBird|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_RedArmorBird|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_BlackCentaur_TextData",
+   "en": "The <itemName id=|SkillUnlock_BlackCentaur|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_BlackCentaur|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_MopKing_TextData",
+   "en": "The <itemName id=|SkillUnlock_MopKing|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_MopKing|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_NaughtyCat_TextData",
+   "en": "The <itemName id=|SkillUnlock_NaughtyCat|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_NaughtyCat|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_WingGolem_TextData",
+   "en": "The <itemName id=|SkillUnlock_WingGolem|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_WingGolem|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_DrillGame_TextData",
+   "en": "The <itemName id=|SkillUnlock_DrillGame|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_DrillGame|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_BirdDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_BirdDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_BirdDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_WeaselDragon_TextData",
+   "en": "The <itemName id=|SkillUnlock_WeaselDragon|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_WeaselDragon|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_WindChimes_TextData",
+   "en": "The <itemName id=|SkillUnlock_WindChimes|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_WindChimes|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Umihebi_Fire_TextData",
+   "en": "The <itemName id=|SkillUnlock_WindChimes|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_WindChimes|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Deer_Ground_TextData",
+   "en": "The <itemName id=|SkillUnlock_WindChimes|/> becomes craftable at the <mapObjectName id=|WorkBench_SkillUnlock|/>.",
+   "ro": "<itemName id=|SkillUnlock_WindChimes|/> poate fi fabricat la <mapObjectName id=|WorkBench_SkillUnlock|/>."
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Hedgehog_Ice_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FlowerDinosaur_Electric_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_GrassMammoth_Ice_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_LazyDragon_Electric_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FireKirin_Dark_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_SakuraSaurus_Water_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_FairyDragon_Water_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_LilyQueen_Dark_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Manticore_Dark_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Suzaku_Water_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Serpent_Ground_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_VolcanicMonster_Ice_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_IceHorse_Dark_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_GrassPanda_Electric_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_Yeti_Grass_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_KingAlpaca_Ice_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_BirdDragon_Ice_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SkillUnlock_WindChimes_Ice_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ToolBoxV1_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_TYPE_ConvertItem|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_TYPE_ConvertItem|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_OlympicCauldron_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_EmitFlame|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_Fountain_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_Watering|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_Watering|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_Silo_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_Seeding|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_Seeding|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_TransmissionTower_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_GenerateElectricity|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_GenerateElectricity|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_FlowerBed_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_Collection|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_Collection|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_Stump_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_Deforest|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_Deforest|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_MiningTool_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_Mining|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_Mining|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_Cauldron_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_ProductMedicine|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_Snowman_TextData",
+   "en": "Place in a base to improve the <uiCommon id=|COMMON_WORK_SUITABILITY_Cool|/> efficiency of Pals.",
+   "ro": "Plasează în bază pentru a spori eficiența aptitudinii <uiCommon id=|COMMON_WORK_SUITABILITY_Cool|/> a Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_BreedFarm_TextData",
+   "en": "Assign a male and a female Pal to produce eggs.\r\n<itemName id=|Cake|/> is required for breeding.",
+   "ro": "Alocă un Pal mascul și o femelă pentru a produce ouă.\r\nNecesită <itemName id=|Cake|/> pentru reproducere."
+  },
+  {
+   "key": "DESC_RECIPE_Wooden_DoorWall_TextData",
+   "en": "Can be locked with a passcode.",
+   "ro": "Poate fi încuiat cu o parolă."
+  },
+  {
+   "key": "DESC_RECIPE_Stone_DoorWall_TextData",
+   "en": "Can be locked with a passcode.",
+   "ro": "Poate fi încuiat cu o parolă."
+  },
+  {
+   "key": "DESC_RECIPE_Metal_DoorWall_TextData",
+   "en": "Can be locked with a passcode.",
+   "ro": "Poate fi încuiat cu o parolă."
+  },
+  {
+   "key": "DESC_RECIPE_Musket_TextData",
+   "en": "Simple, old-fashioned gun. \r\nFires a single, powerful shot at the expense of a long reload time.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_01|/>.",
+   "ro": "Armă simplă, de modă veche.\r\nTrage o singură lovitură puternică, dar timpul de reîncărcare este lung.\r\nSe poate fabrica la <mapObjectName id=|WeaponFactory_Dirty_01|/>."
+  },
+  {
+   "key": "DESC_RECIPE_MeatCutterKnife_TextData",
+   "en": "Knife for butchering Pals.\r\nWhen equipped, the Pet command becomes Butcher.\r\nButchered Pals will be gone for good.",
+   "ro": "Cuțit pentru măcelărit Pali.\r\nCând este echipat, comanda Mângâie devine Măcelărește.\r\nPalii măcelăriți sunt pierduți pentru totdeauna."
+  },
+  {
+   "key": "DESC_RECIPE_CoolerBox_TextData",
+   "en": "A small food storage.\r\nWhen you assign an Ice Pal to it, the food inside becomes less likely to spoil.",
+   "ro": "Un spațiu mic de depozitare a alimentelor.\r\nCând îi aloci un Pal de tip Gheață, mâncarea din interior se strică mult mai greu."
+  },
+  {
+   "key": "DESC_RECIPE_Refrigerator_TextData",
+   "en": "A large food storage.\r\nWhen you assign an Ice Pal to it, the food inside becomes less likely to spoil.",
+   "ro": "Un spațiu mare de depozitare a alimentelor.\r\nCând îi aloci un Pal de tip Gheață, mâncarea din interior se strică mult mai greu."
+  },
+  {
+   "key": "DESC_RECIPE_BaseCampWorkHard_TextData",
+   "en": "You can command your Pals to work on various things inside a base.\r\nTry not to overwork them!",
+   "ro": "Le poți da instrucțiuni Palilor despre cum să lucreze în bază.\r\nAi grijă să nu-i suprasoliciți!"
+  },
+  {
+   "key": "DESC_RECIPE_MonsterFarm_TextData",
+   "en": "Ranch for raising sheep and fowl-like Pals.\r\nAssign Pals with the appropriate work suitability to the ranch\r\nto automatically produce items.",
+   "ro": "Fermă de Pali pentru creșterea creaturilor asemănătoare oilor sau păsărilor.\r\nAlocă la fermă Pali cu aptitudinea de lucru potrivită\r\npentru a produce automat obiecte."
+  },
+  {
+   "key": "DESC_RECIPE_Wood_Gate_TextData",
+   "en": "Wooden gate large enough for big Pals to pass through.",
+   "ro": "Poartă de lemn suficient de mare pentru a permite trecerea Palilor masivi."
+  },
+  {
+   "key": "DESC_RECIPE_Stone_Gate_TextData",
+   "en": "Stone gate large enough for big Pals to pass through.",
+   "ro": "Poartă de piatră suficient de mare pentru a permite trecerea Palilor masivi."
+  },
+  {
+   "key": "DESC_RECIPE_Metal_Gate_TextData",
+   "en": "Metal gate large enough for big Pals to pass through.",
+   "ro": "Poartă de metal suficient de mare pentru a permite trecerea Palilor masivi."
+  },
+  {
+   "key": "DESC_RECIPE_Trap_Noose_TextData",
+   "en": "Catches Pals that pass through.\r\nOnly effective on small Pals and humans.",
+   "ro": "Prinde Palii care trec pe deasupra.\r\nFuncționează doar împotriva Palilor mici și a oamenilor."
+  },
+  {
+   "key": "DESC_RECIPE_RepairBench_TextData",
+   "en": "Repairs damaged weapons and tools.",
+   "ro": "Repară armele și uneltele deteriorate."
+  },
+  {
+   "key": "DESC_RECIPE_DamagedScarecrow_TextData",
+   "en": "Training dummy shaped like a Pengullet.",
+   "ro": "Manechin de antrenament în formă de Pengullet."
+  },
+  {
+   "key": "DESC_RECIPE_Signboard_TextData",
+   "en": "Can be written on.",
+   "ro": "Se poate scrie pe ea."
+  },
+  {
+   "key": "DESC_RECIPE_DefenseWall_Wood_TextData",
+   "en": "Massive defensive wall to prevent enemy intrusions.\r\nMade from wood, it breaks easily.",
+   "ro": "Zid defensiv masiv pentru a împiedica pătrunderea inamicilor.\r\nFiind din lemn, se sparge ușor."
+  },
+  {
+   "key": "DESC_RECIPE_DefenseWall_Metal_TextData",
+   "en": "Massive defensive wall to prevent enemy intrusions.\r\nMade from metal, it is extremely durable.",
+   "ro": "Zid defensiv masiv pentru a împiedica pătrunderea inamicilor.\r\nFiind din metal, este extrem de rezistent."
+  },
+  {
+   "key": "DESC_RECIPE_TableSquare_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableCircular_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Bench_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stool_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Decal_PalSticker_PinkCat_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stool_High_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Barrel_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Box_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf_Cask_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf_Hang01_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf_Hang02_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Counter_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Rug_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Ivy01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Ivy02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Ivy03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Chair01_Wood_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Barrel01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Barrel02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Barrel03_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Box01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Box02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_CableCoil01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Chair01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Chair02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Clock01_Wall_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Container01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_GarbageBag_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_GoalSoccer_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_MachineGame01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_MachineVending01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_PipeClay01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf03_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf04_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SignExit_Ceiling_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SignExit_Wall_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Sofa01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Sofa02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stool01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableCircular01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableSide01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableSquare01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableSquare02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Tire01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficBarricade01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficBarricade02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficBarricade03_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficBarricade04_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficBarricade05_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficCone01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficCone02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficCone03_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficLight01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_BathTub_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Box01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Chair01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Chair02_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Clock01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Curtain01_Wall_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Desk01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Globe01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Mirror01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Mirror02_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Mirror01_Wall_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Partition_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Piano01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Piano02_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Rug01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Rug02_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Rug03_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Rug04_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf02_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf03_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf04_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf05_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf06_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf07_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf01_Wall_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Sofa01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Sofa02_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Sofa03_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stool01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stove01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableCircular01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableDresser01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TableSink01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Toilet01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_ToiletHolder01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TowlRack01_Stone_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Plant01_Plant_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Plant02_Plant_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Plant03_Plant_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Plant04_Plant_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_FloorLamp01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_FloorLamp02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_LightPole01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_LightPole02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_LightPole03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_LightPole04_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_FirePlace01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_MedicalPalBed_04_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_FirePlace02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_CandleSticks_Top_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Light_CandleSticks_Wall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Television01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Desk01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Shelf01_Wall_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficSign01_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficSign02_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficSign03_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_TrafficSign04_Iron_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Wood_WindowWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stone_WindowWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Metal_WindowWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Wood_TriangleWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stone_TriangleWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Metal_TriangleWall_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Wood_SlantedRoof_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Stone_SlantedRoof_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_Metal_SlantedRoof_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_1_TextData",
+   "en": "Decorative furniture set.\r\nPlace furniture in your living space and enjoy life with your Pals.",
+   "ro": "Set de mobilier decorativ.\r\nAșază mobilier în spațiul tău de locuit și bucură-te de viața alături de Palii tăi."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_2_TextData",
+   "en": "Set of wooden cabinets that look at home in a tavern.\r\nCan store items.",
+   "ro": "Set de dulapuri din lemn potrivite pentru o tavernă.\r\nPoate stoca obiecte."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_3_TextData",
+   "en": "Decorative furniture set.\r\nSet up a bar and enjoy life with your Pals.",
+   "ro": "Set de mobilier decorativ.\r\nAmenajează un bar și bucură-te de viața alături de Palii tăi."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_4_TextData",
+   "en": "Decorative furniture set.\r\nPlace plants on your base's walls for a splash of color.",
+   "ro": "Set de mobilier decorativ.\r\nAșază plante pe pereții bazei tale pentru un plus de culoare."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_5_TextData",
+   "en": "Decorative furniture set.\r\nNot suitable for doing keg stands.",
+   "ro": "Set de mobilier decorativ.\r\nNu este potrivit pentru băut bere direct din butoi în timp ce stai în mâini."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_6_TextData",
+   "en": "Container furniture set.\r\nCan store items.",
+   "ro": "Set de mobilier de tip container.\r\nPoate stoca obiecte."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_7_TextData",
+   "en": "Decorative furniture set.\r\nLeather screams luxury.",
+   "ro": "Set de mobilier decorativ.\r\nPielea emană lux."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_8_TextData",
+   "en": "Decorative furniture set.\r\nApparently a priceless artifact in more civilized times.",
+   "ro": "Set de mobilier decorativ.\r\nAparent, un artefact neprețuit în vremuri mai civilizate."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_9_TextData",
+   "en": "Decorative furniture set.\r\nPlace plants around your base for a splash of color.",
+   "ro": "Set de mobilier decorativ.\r\nAșază plante prin baza ta pentru un plus de culoare."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_10_TextData",
+   "en": "Decorative furniture set.\r\nPlace to keep somewhere off limits.",
+   "ro": "Set de mobilier decorativ.\r\nAșază-l pentru a restricționa accesul într-o anumită zonă."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_11_TextData",
+   "en": "Decorative furniture set.\r\nNo roads mean no traffic control.",
+   "ro": "Set de mobilier decorativ.\r\nDacă nu există drumuri, nu ai ce trafic să dirijezi."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_12_TextData",
+   "en": "Decorative furniture set.\r\nNo roads mean no traffic control.",
+   "ro": "Set de mobilier decorativ.\r\nDacă nu există drumuri, nu ai ce trafic să dirijezi."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_13_TextData",
+   "en": "Decorative furniture set.\r\nMatch with metal structures and enjoy life with your Pals.",
+   "ro": "Set de mobilier decorativ.\r\nCombină-l cu structuri metalice și bucură-te de viață alături de Palii tăi."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_14_TextData",
+   "en": "Decorative furniture set.\r\nMatch with metal structures and enjoy life with your Pals.",
+   "ro": "Set de mobilier decorativ.\r\nCombină-l cu structuri metalice și bucură-te de viață alături de Palii tăi."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_15_TextData",
+   "en": "Decorative furniture set.\r\nPlace in your base and dream about living a life of luxury.",
+   "ro": "Set de mobilier decorativ.\r\nAșază-l în baza ta și visează la o viață plină de lux."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_16_TextData",
+   "en": "Decorative furniture set.\r\nEssentially for making sure you look good.",
+   "ro": "Set de mobilier decorativ.\r\nUtil în principal pentru a te asigura că arăți bine."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_17_TextData",
+   "en": "Decorative furniture set.\r\nPlace on a foundation in your base for that homey feel.",
+   "ro": "Set de mobilier decorativ.\r\nAșază-l pe o fundație în baza ta pentru o atmosferă primitoare de cămin."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_18_TextData",
+   "en": "Decorative furniture set.\r\nGives the air of luxury to your base.",
+   "ro": "Set de mobilier decorativ.\r\nOferă bazei tale un aer de lux."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_19_TextData",
+   "en": "Decorative furniture set.\r\nUse with an antique desk.",
+   "ro": "Set de mobilier decorativ.\r\nFolosește-l împreună cu un birou antic."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_20_TextData",
+   "en": "Decorative furniture set.\r\nCan't actually be used to stay clean.",
+   "ro": "Set de mobilier decorativ.\r\nNu poate fi folosit efectiv pentru spălat."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_21_TextData",
+   "en": "Antique storage furniture set.\r\nCan store items.",
+   "ro": "Set de mobilier antic pentru depozitare.\r\nPoate stoca obiecte."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_22_TextData",
+   "en": "Antique storage cabinet set.\r\nCan store items.",
+   "ro": "Set de dulapuri antice pentru depozitare.\r\nPoate stoca obiecte."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_23_TextData",
+   "en": "Decorative furniture set.\r\nDoesn't actually tell time.",
+   "ro": "Set de mobilier decorativ.\r\nNu indică ora în mod real."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_24_TextData",
+   "en": "Decorative furniture set.\r\nUse with an antique chair.",
+   "ro": "Set de mobilier decorativ.\r\nFolosește-l împreună cu un scaun antic."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_25_TextData",
+   "en": "Decorative furniture set.\r\nCan't be used for its original purpose.",
+   "ro": "Set de mobilier decorativ.\r\nNu poate fi folosit pentru scopul său inițial."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_26_TextData",
+   "en": "Decorative furniture set.\r\nYour Pals will keep on working.",
+   "ro": "Set de mobilier decorativ.\r\nPalii tăi vor continua să muncească."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_27_TextData",
+   "en": "Street lamp set to provide illumination.\r\nRequires electricity to light.",
+   "ro": "Set de felinare stradale care oferă iluminare.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_28_TextData",
+   "en": "Brick fireplace set to provide illumination.\r\nMust be lit with fire.",
+   "ro": "Set de șeminee din cărămidă care oferă iluminare.\r\nTrebuie aprins cu foc."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_29_TextData",
+   "en": "Antique lamp set to provide illumination.\r\nRequires electricity to light.",
+   "ro": "Set de lămpi antice care asigură iluminarea.\r\nNecesită electricitate pentru a funcționa."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_30_TextData",
+   "en": "Metal shelf set.\r\nCan store items.",
+   "ro": "Set de rafturi metalice.\r\nPot depozita obiecte."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_31_TextData",
+   "en": "Decorative furniture set.\r\nSpruces up the outside of your base.",
+   "ro": "Set de mobilier decorativ.\r\nÎnfrumusețează exteriorul bazei tale."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureSet_32_TextData",
+   "en": "Decorative furniture set.\r\nGives an air of stately elegance to your base.",
+   "ro": "Set de mobilier decorativ.\r\nOferă un aer de eleganță nobilă bazei tale."
+  },
+  {
+   "key": "DESC_RECIPE_DecalGunSet_TextData",
+   "en": "Decal gun set.\r\nAllows crafting of a strange gun that paints a Pal decal where it is fired.\r\nRequired ammo also becomes craftable.",
+   "ro": "Set de pistoale cu abțibilduri.\r\nPermite fabricarea unei arme ciudate care pictează un abțibild cu Pali acolo unde nimerește.\r\nMuniția necesară poate fi de asemenea fabricată."
+  },
+  {
+   "key": "DESC_RECIPE_BuildObject_Chair01_Pal_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "DESC_RECIPE_SPHERE7_TextData",
+   "en": "An item that captures Pals when thrown. \r\nAlmost no Pals can escape its flawless design.\r\nCan be crafted at <mapObjectName id=|SphereFactory_Black_03|/>.",
+   "ro": "Un obiect care capturează Pali atunci când este aruncat.\r\nAproape niciun Pal nu poate scăpa de designul său desăvârșit.\r\nPoate fi fabricat la <mapObjectName id=|SphereFactory_Black_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR6_TextData",
+   "en": "Armor made of <itemName id=|Plastic|/>. \r\nIn addition to enhanced defense capabilities, its weight was also reduced.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "Armură făcută din <itemName id=|Plastic|/>.\r\nPe lângă capacitățile defensive sporite, i-a fost redusă și greutatea.\r\nPoate fi fabricată la <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_GrenadeLauncher_TextData",
+   "en": "Fires grenades that cause wide-ranging explosions. \r\nUseful when dealing with a large number of enemies.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "Trage cu grenade care provoacă explozii pe o arie extinsă.\r\nUtil când înfrunți un număr mare de inamici.\r\nPoate fi fabricat la <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_GuidedMissileLauncher_TextData",
+   "en": "Fires missiles that automatically track and pursue enemies. \r\nMissiles explode upon impact, causing damage over a wide area.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "Lansează rachete care urmăresc automat inamicii.\r\nRachetele explodează la impact, provocând daune pe o arie largă.\r\nPoate fi fabricat la <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_HELMET6_TextData",
+   "en": "Helmet made of <itemName id=|Plastic|/>. \r\nIn addition to enhanced defense capabilities, its weight was also reduced.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "Cască făcută din <itemName id=|Plastic|/>.\r\nPe lângă capacitățile defensive sporite, i-a fost redusă și greutatea.\r\nPoate fi fabricată la <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_LaserRifle_TextData",
+   "en": "A weapon that fires high-energy lasers. \r\nIt has impressive firepower and is easy to handle.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "O armă care trage cu lasere de mare energie.\r\nAre o putere de foc impresionantă și este ușor de mânuit.\r\nPoate fi fabricată la <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Flamethrower_TextData",
+   "en": "<itemName id=|Flamethrower|/> that fires long-range flames. \r\nCan set the enemy on fire.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "Un <itemName id=|Flamethrower|/> care trage cu flăcări la distanță mare.\r\nPoate aprinde inamicul.\r\nPoate fi fabricat la <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR6_Heat_TextData",
+   "en": "Improved <itemName id=|PlasticArmor|/>. \r\nBoasts high heat resistance.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|PlasticArmor|/>.\r\nSe mândrește cu o rezistență ridicată la căldură.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR6_Cold_TextData",
+   "en": "Improved <itemName id=|PlasticArmor|/>. \r\nUseful for surviving in cold climates.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "O versiune îmbunătățită de <itemName id=|PlasticArmor|/>.\r\nUtilă pentru supraviețuire în climate reci.\r\nPoate fi fabricată la: <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ARMOR6_Weight_TextData",
+   "en": "Improved <itemName id=|PlasticArmor|/>. \r\nIncreases carrying capacity.\r\nCan be crafted at <mapObjectName id=|Factory_Hard_03|/>.",
+   "ro": "Versiune îmbunătățită pentru <itemName id=|PlasticArmor|/>.\r\nCrește capacitatea de transport.\r\nPoate fi fabricată la <mapObjectName id=|Factory_Hard_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_GatlingGun_TextData",
+   "en": "A Gatling Gun capable of rapid fire. \r\nMows down enemies with suppressive shots.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_03|/>.",
+   "ro": "O mitralieră Gatling capabilă de tragere rapidă.\r\nSeceră inamicii cu tir de suprimare.\r\nPoate fi fabricată la <mapObjectName id=|WeaponFactory_Dirty_03|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Glass_Houseset_TextData",
+   "en": "Set for building bases using glass.\r\nAllows building of glass foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea bazelor din sticlă.\r\nPermite construirea de fundații, pereți, tavane, scări și alte elemente din sticlă necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_Launcher_Meteor_TextData",
+   "en": "A phenomenal weapon that fires a meteor. \r\nUpon striking its target, it creates an explosion similar to a meteorite impact.\r\nCan be crafted at <mapObjectName id=|WeaponFactory_Dirty_02|/>.",
+   "ro": "O armă fenomenală care lansează un meteorit. \r\nLa impactul cu ținta, creează o explozie similară cu impactul unui meteorit.\r\nPoate fi fabricată la: <mapObjectName id=|WeaponFactory_Dirty_02|/>."
+  },
+  {
+   "key": "DESC_RECIPE_Booth_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "DESC_RECIPE_JapaneseStyle_Houseset_TextData",
+   "en": "Set for building bases using Japanese-style architecture.\r\nAllows building of Japanese-style foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea bazelor în stil arhitectural japonez.\r\nPermite construirea de fundații, pereți, tavane, scări în stil japonez și alte elemente necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_JapaneseStyle_FurnitureSet_TextData",
+   "en": "Japanese-style decorative furniture set.\r\nTransform your base into a traditional Japanese haven.",
+   "ro": "Set de mobilier decorativ în stil japonez.\r\nTransformă-ți baza într-un refugiu tradițional japonez."
+  },
+  {
+   "key": "DESC_RECIPE_SF_Houseset_TextData",
+   "en": "Set for building bases using futuristic architecture. \r\nAllows building of futuristic foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea bazelor în stil arhitectural futuristic. \r\nPermite construirea de fundații, pereți, tavane, scări futuriste și alte elemente necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_FishingSet1_TextData",
+   "en": "Beginner-friendly fishing rod and bait set. \r\nOnce you craft both, you'll be able to fish for Pals near bodies of water.",
+   "ro": "Set de undiță și momeli pentru începători. \r\nDupă ce le fabrici pe ambele, vei putea pescui Pali în apropierea apelor."
+  },
+  {
+   "key": "DESC_RECIPE_FishingSet2_TextData",
+   "en": "Intermediate fishing rod and bait set. \r\nOnce you craft both, you'll be able to fish for Pals near bodies of water.",
+   "ro": "Set intermediar de undiță și momeli. \r\nDupă ce le fabrici pe ambele, vei putea pescui Pali în apropierea apelor."
+  },
+  {
+   "key": "DESC_RECIPE_FishingSet3_TextData",
+   "en": "Advanced fishing rod and bait set. \r\nOnce you craft both, you'll be able to fish for Pals near bodies of water.",
+   "ro": "Set avansat de undiță și momeli. \r\nDupă ce le fabrici pe ambele, vei putea pescui Pali în apropierea apelor."
+  },
+  {
+   "key": "DESC_RECIPE_HunterFlagSet_TextData",
+   "en": "<mapObjectName id=|Hunter_Flag|/> and <mapObjectName id=|Hunter_Banner|/> set. \r\nProof of your victory over the Rayne Syndicate.",
+   "ro": "Set cu <mapObjectName id=|Hunter_Flag|/> și <mapObjectName id=|Hunter_Banner|/>. \r\nDovada victoriei tale împotriva Sindicatului Rayne."
+  },
+  {
+   "key": "DESC_RECIPE_BelieverFlagSet_TextData",
+   "en": "<mapObjectName id=|Believer_Flag|/> and <mapObjectName id=|Believer_Banner|/> set. \r\nProof of your victory over the Free Pal Alliance.",
+   "ro": "Set cu <mapObjectName id=|Believer_Flag|/> și <mapObjectName id=|Believer_Banner|/>. \r\nDovada victoriei tale împotriva Alianței pentru Eliberarea Palilor."
+  },
+  {
+   "key": "DESC_RECIPE_FireCultFlagSet_TextData",
+   "en": "<mapObjectName id=|FireCult_Flag|/> and <mapObjectName id=|FireCult_Banner|/> set. \r\nProof of your victory over the Brothers of the Eternal Pyre.",
+   "ro": "Set cu <mapObjectName id=|FireCult_Flag|/> și <mapObjectName id=|FireCult_Banner|/>. \r\nDovada victoriei tale împotriva Fraților Rugului Etern."
+  },
+  {
+   "key": "DESC_RECIPE_PoliceFlagSet_TextData",
+   "en": "<mapObjectName id=|Police_Flag|/> and <mapObjectName id=|Police_Banner|/> set. \r\nProof of your victory over the PIDF.",
+   "ro": "Set cu <mapObjectName id=|Police_Flag|/> și <mapObjectName id=|Police_Banner|/>. \r\nDovada victoriei tale împotriva PIDF."
+  },
+  {
+   "key": "DESC_RECIPE_ScientistFlagSet_TextData",
+   "en": "<mapObjectName id=|Scientist_Flag|/> and <mapObjectName id=|Scientist_Banner|/> set. \r\nProof of your victory over the PAL Genetic Research Unit.",
+   "ro": "Set cu <mapObjectName id=|Scientist_Flag|/> și <mapObjectName id=|Scientist_Banner|/>. \r\nDovada victoriei tale împotriva Unității de Cercetare Genetică PAL."
+  },
+  {
+   "key": "DESC_RECIPE_NinjaFlagSet_TextData",
+   "en": "<mapObjectName id=|Ninja_Flag|/> and <mapObjectName id=|Ninja_Banner|/> set. \r\nProof of your victory over the Moonflowers.",
+   "ro": "Set cu <mapObjectName id=|Ninja_Flag|/> și <mapObjectName id=|Ninja_Banner|/>. \r\nDovada victoriei tale împotriva Moonflowers."
+  },
+  {
+   "key": "DESC_RECIPE_FishingBaitSet_1_TextData",
+   "en": "<itemName id=|FishingBait_1_A|/> and <itemName id=|FishingBait_1_B|/> set. \r\nSwitch things up with bait that has slightly different properties.",
+   "ro": "Set cu <itemName id=|FishingBait_1_A|/> și <itemName id=|FishingBait_1_B|/>. \r\nSchimbă tactica folosind momeli cu proprietăți ușor diferite."
+  },
+  {
+   "key": "DESC_RECIPE_FishingBaitSet_2_TextData",
+   "en": "<itemName id=|FishingBait_2_A|/> and <itemName id=|FishingBait_2_B|/> set. \r\nSwitch things up with bait that has slightly different properties.",
+   "ro": "Set cu <itemName id=|FishingBait_2_A|/> și <itemName id=|FishingBait_2_B|/>. \r\nSchimbă tactica folosind momeli cu proprietăți ușor diferite."
+  },
+  {
+   "key": "DESC_RECIPE_FishingBaitSet_3_TextData",
+   "en": "<itemName id=|FishingBait_3_A|/> and <itemName id=|FishingBait_3_B|/> set. \r\nSwitch things up with bait that has slightly different properties.",
+   "ro": "Set cu <itemName id=|FishingBait_3_A|/> și <itemName id=|FishingBait_3_B|/>. \r\nSchimbă tactica folosind momeli cu proprietăți ușor diferite."
+  },
+  {
+   "key": "DESC_RECIPE_OctaviaSet01_TextData",
+   "en": "[ULTRAKILL Collab] \r\nA set containing <itemName id=|Octavia001_Armor|/> and <itemName id=|OctaviaRevolver|/>.",
+   "ro": "[Colaborare ULTRAKILL] \r\nUn set care conține <itemName id=|Octavia001_Armor|/> și <itemName id=|OctaviaRevolver|/>."
+  },
+  {
+   "key": "DESC_RECIPE_OctaviaSet02_TextData",
+   "en": "[ULTRAKILL Collab] \r\nA set containing <itemName id=|Octavia002_Armor|/> and <itemName id=|OctaviaShotgun|/>.",
+   "ro": "[Colaborare ULTRAKILL] \r\nUn set care conține <itemName id=|Octavia002_Armor|/> și <itemName id=|OctaviaShotgun|/>."
+  },
+  {
+   "key": "DESC_RECIPE_BronzeSword_TextData",
+   "en": "A sword for close-range combat. \r\nNot bad for a battered sword. \r\nPerfect for getting up close and personal.",
+   "ro": "O sabie pentru lupta corp la corp. \r\nNu e deloc rea pentru o sabie ponosită. \r\nPerfectă pentru contactul direct."
+  },
+  {
+   "key": "DESC_RECIPE_Bat3_TextData",
+   "en": "A <itemName id=|Bat3|/> that works well in close combat. \r\nUse it to beat down anyone you don't like.",
+   "ro": "Un obiect de tip <itemName id=|Bat3|/> excelent în lupta corp la corp. \r\nFolosește-l ca să pui la pământ pe oricine îți displace."
+  },
+  {
+   "key": "DESC_RECIPE_Spear_ForestBoss2_TextData",
+   "en": "An enhanced version of Lily's beloved spear. \r\nPierces those who neglect their Pals.",
+   "ro": "O versiune îmbunătățită a suliței îndrăgite a lui Lily. \r\nÎi străpunge pe cei care își neglijează Palii."
+  },
+  {
+   "key": "DESC_RECIPE_Supplement_TextData",
+   "en": "A nutrient-rich <itemName id=|Supplement|/> that prevents hunger for a limited time. \r\nA concentrated, flavorful blend of nutrients ideal for long journeys.",
+   "ro": "Un obiect de tip <itemName id=|Supplement|/> bogat în nutrienți, care previne foamea pentru un timp limitat. \r\nUn amestec concentrat și gustos de nutrienți, ideal pentru călătorii lungi."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree01_Green_TextData",
+   "en": "Set for building bases using ancient architecture. \r\nAllows building of ancient-styled foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea de baze cu arhitectură antică. \r\nPermite construirea de fundații, pereți, tavane, scări în stil antic și alte elemente necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_LaserMiningTool_TextData",
+   "en": "A portable plasma cutter that concentrates and emits plasma energy.\r\nIt supports a wide range of uses, from ore excavation to tree cutting.\r\nIts high-output energy also allows for the mining of special ores.",
+   "ro": "Un tăietor portabil cu plasmă care concentrează și emite energie de plasmă.\r\nAre o gamă largă de utilizări, de la excavarea minereurilor până la tăiatul copacilor.\r\nPuterea sa energetică ridicată permite, de asemenea, mineritul minereurilor speciale."
+  },
+  {
+   "key": "DESC_RECIPE_WingGlider_TextData",
+   "en": "A portable glider that enables flight. \r\nConsumes <itemName id=|WingGlider_Fuel|/> to propel the user through the skies.",
+   "ro": "Un planor portabil care permite zborul. \r\nConsumă <itemName id=|WingGlider_Fuel|/> pentru a propulsa utilizatorul prin văzduh."
+  },
+  {
+   "key": "DESC_RECIPE_WingGlider_Fuel_TextData",
+   "en": "The fuel required to power the <itemName id=|WingGlider|/>.",
+   "ro": "Combustibilul necesar pentru a alimenta un obiect de tip <itemName id=|WingGlider|/>."
+  },
+  {
+   "key": "DESC_RECIPE_AncientHelmet_TextData",
+   "en": "An ancient helmet forged from <itemName id=|SkyislandIngot|/>.\r\nIt is imbued with wisdom passed down through the ages, protecting its wearer with unwavering strength.\r\nIts defensive capabilities far surpass those of modern equipment.",
+   "ro": "O cască antică făurită din <itemName id=|SkyislandIngot|/>.\r\nEste impregnată cu înțelepciunea transmisă de-a lungul veacurilor, protejându-și purtătorul cu o tărie neclintită.\r\nCapacitățile sale defensive le depășesc cu mult pe cele ale echipamentelor moderne."
+  },
+  {
+   "key": "DESC_RECIPE_AncientArmor_TextData",
+   "en": "Ancient armor forged from <itemName id=|SkyislandIngot|/>.\r\nCrafted with the essence of a lost civilization, it boasts overwhelming defensive power and is capable of withstanding cataclysmic threats.",
+   "ro": "Armură antică făurită din <itemName id=|SkyislandIngot|/>.\r\nCreată cu esența unei civilizații dispărute, oferă o putere defensivă copleșitoare și poate rezista la amenințări cataclismice."
+  },
+  {
+   "key": "DESC_RECIPE_AncientArmorHeat_TextData",
+   "en": "Refined <itemName id=|AncientArmor|/>.\r\nIts heat resistance has been further enhanced using ancient technology, allowing it to endure scorching environments",
+   "ro": "O versiune îmbunătățită pentru <itemName id=|AncientArmor|/>.\r\nRezistența la căldură i-a fost sporită și mai mult cu ajutorul tehnologiei antice, permițându-i să îndure medii toride"
+  },
+  {
+   "key": "DESC_RECIPE_AncientArmorCold_TextData",
+   "en": "Refined <itemName id=|AncientArmor|/>.\r\nIts cold resistance has been further enhanced using ancient technology, allowing the wearer to maintain their strength even in extreme cold regions.",
+   "ro": "O versiune îmbunătățită pentru <itemName id=|AncientArmor|/>.\r\nRezistența la frig i-a fost sporită și mai mult cu ajutorul tehnologiei antice, permițându-i purtătorului să își mențină puterile chiar și în regiuni extrem de reci."
+  },
+  {
+   "key": "DESC_RECIPE_AncientArmorWeight_TextData",
+   "en": "Refined <itemName id=|AncientArmor|/>.\r\nIt is equipped with ancient auxiliary mechanisms, allowing the wearer to carry more supplies.",
+   "ro": "O versiune îmbunătățită pentru <itemName id=|AncientArmor|/>.\r\nEste echipată cu mecanisme auxiliare antice, permițându-i purtătorului să transporte mai multe provizii."
+  },
+  {
+   "key": "DESC_RECIPE_SkyBow_TextData",
+   "en": "A bow crafted from Soralite Ingots.\r\nWith greatly enhanced initial velocity and piercing power, this high-precision weapon excels at ranged combat.",
+   "ro": "Un arc fabricat din lingouri de soralit.\r\nCu o viteză inițială și o putere de străpungere mult sporite, această armă de mare precizie excelează în lupta la distanță."
+  },
+  {
+   "key": "DESC_RECIPE_SkySubmachineGun_TextData",
+   "en": "A submachine gun made from Soralite Ingots.\r\nIts improved magazine and ammunition enhance its suppression power.",
+   "ro": "Un pistol-mitralieră fabricat din lingouri de soralit.\r\nÎncărcătorul și muniția îmbunătățite îi sporesc puterea de suprimare."
+  },
+  {
+   "key": "DESC_RECIPE_SkyShotgun_TextData",
+   "en": "A shotgun made from Soralite Ingots.\r\nIt delivers overwhelming firepower at close range, and its special magazine also provides high sustained combat capability.",
+   "ro": "O pușcă fabricată din lingouri de soralit.\r\nOferă o putere de foc copleșitoare la distanță mică, iar încărcătorul său special asigură o capacitate ridicată de luptă susținută."
+  },
+  {
+   "key": "DESC_RECIPE_SkyAssaultRifle_TextData",
+   "en": "An assault rifle made from Soralite Ingots.\r\nIt has been enhanced to handle powerful ammo while maintaining its versatility.",
+   "ro": "O pușcă de asalt fabricată din lingouri de soralit.\r\nA fost îmbunătățită pentru a folosi muniție puternică, păstrându-și în același timp versatilitatea."
+  },
+  {
+   "key": "DESC_RECIPE_SkyGrenadeLauncher_TextData",
+   "en": "A grenade launcher made from Soralite Ingots.\r\nImproved trajectory stability allows for precise long-range bombings.",
+   "ro": "Un lansator de grenade fabricat din lingouri de soralit.\r\nStabilitatea îmbunătățită a traiectoriei permite bombardamente precise la distanță mare."
+  },
+  {
+   "key": "DESC_RECIPE_SkyBeamSword_TextData",
+   "en": "A <itemName id=|BeamSword|/> made from Soralite Ingots. \r\nA close-range weapon that instantly cuts targets using its high-output energy blade.",
+   "ro": "Un obiect de tip <itemName id=|BeamSword|/> fabricat din lingouri de soralit.\r\nO armă pentru lupta de aproape care taie instantaneu țintele datorită lamei sale energetice de mare putere."
+  },
+  {
+   "key": "DESC_RECIPE_DroneLauncher_TextData",
+   "en": "A launcher that fires drones which perform autonomous attacks.\r\nCapable of deploying up to 9 units, enabling sustained suppression.",
+   "ro": "Un lansator care trimite drone ce atacă autonom.\r\nPoate trimite până la 9 unități, permițând o suprimare susținută."
+  },
+  {
+   "key": "DESC_RECIPE_BeamLauncher_TextData",
+   "en": "Fires a high-density beam that causes explosions over a wide area.\r\nCaution is required to prevent overheating during rapid fire.",
+   "ro": "Trage un fascicul de înaltă densitate care provoacă explozii pe o arie largă.\r\nTrebuie să ai grijă să eviți supraîncălzirea în timpul tragerii rapide."
+  },
+  {
+   "key": "DESC_RECIPE_ElectricArcAssaultRifle_TextData",
+   "en": "A rifle that releases an electrical discharge from the point of impact, which chains to multiple enemies.",
+   "ro": "O pușcă ce eliberează o descărcare electrică la impact, transmițându-se în lanț la mai mulți inamici."
+  },
+  {
+   "key": "DESC_RECIPE_WidePenetrateShotgun_TextData",
+   "en": "A specialized beam weapon for close-range combat.\r\nIt fires compressed energy in a wide, scattering blast.",
+   "ro": "O armă cu fascicul specializată pentru lupta de aproape.\r\nTrage energie comprimată într-o salvă largă și dispersată."
+  },
+  {
+   "key": "DESC_RECIPE_BeamLauncherBullet_TextData",
+   "en": "Ammo for the <itemName id=|BeamLauncher|/>.\r\nCan be crafted at <mapObjectName id=|AncientWorkBench|/>.",
+   "ro": "Muniție pentru <itemName id=|BeamLauncher|/>.\r\nSe poate fabrica la <mapObjectName id=|AncientWorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_ElectricArcAssaultRifleBullet_TextData",
+   "en": "Ammo for the <itemName id=|ElectricArcAssaultRifle|/>.\r\nCan be crafted at <mapObjectName id=|AncientWorkBench|/>.",
+   "ro": "Muniție pentru <itemName id=|ElectricArcAssaultRifle|/>.\r\nSe poate fabrica la <mapObjectName id=|AncientWorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_WidePenetrateShotgunBullet_TextData",
+   "en": "Ammo for the <itemName id=|WidePenetrateShotgun|/>.\r\nCan be crafted at <mapObjectName id=|AncientWorkBench|/>.",
+   "ro": "Muniție pentru <itemName id=|WidePenetrateShotgun|/>.\r\nSe poate fabrica la <mapObjectName id=|AncientWorkBench|/>."
+  },
+  {
+   "key": "DESC_RECIPE_PalSphere_Ancient_1_TextData",
+   "en": "An item that captures Pals when thrown.\r\nA high-grade Sphere from an ancient civilization that secured coexistence with Pals.",
+   "ro": "Un obiect care prinde Pali când este aruncat.\r\nO Sferă superioară dintr-o civilizație antică ce asigura coexistența cu Palii."
+  },
+  {
+   "key": "DESC_RECIPE_PalSphere_Ancient_2_TextData",
+   "en": "A tool that captures Pals when thrown.\r\nAn ultimate Sphere created as the pinnacle of an ancient civilization, imbued with the power of the World Tree.",
+   "ro": "Un instrument care prinde Pali când este aruncat.\r\nO Sferă supremă creată ca apogeu al unei civilizații antice, impregnată cu puterea din Arborele Lumii."
+  },
+  {
+   "key": "DESC_RECIPE_SkyislandIngot_TextData",
+   "en": "An ancient metal refined from ore that slumbers in Sunreach. \r\nA rare processed material, forming the foundation of high-grade equipment and structures.\r\nCan be refined at <mapObjectName id=|AncientBlastFurnace|/>.",
+   "ro": "Un metal antic rafinat din minereul care zace în Sunreach.\r\nUn material prelucrat rar, ce stă la baza echipamentelor și structurilor de nivel înalt.\r\nSe poate rafina la <mapObjectName id=|AncientBlastFurnace|/>."
+  },
+  {
+   "key": "DESC_RECIPE_WorldTreeIngot_TextData",
+   "en": "An indomitable alloy created by fusing <itemName id=|SkyIslandOre|/> and <itemName id=|WorldTreeOre|/>.\r\nA highly rare material, crystallizing the technology of ancient civilization and the power of the World Tree.\r\nIt is vital for crafting the highest-grade equipment and structures.",
+   "ro": "Un aliaj de neclintit creat prin fuziunea dintre <itemName id=|SkyIslandOre|/> și <itemName id=|WorldTreeOre|/>.\r\nUn material extrem de rar, care cristalizează tehnologia civilizației antice și puterea din Arborele Lumii.\r\nEste vital pentru fabricarea echipamentelor și structurilor de cel mai înalt nivel."
+  },
+  {
+   "key": "DESC_RECIPE_WaterBuildKit_TextData",
+   "en": "Construction kit that allows foundations\r\nto be placed on water.",
+   "ro": "Trusă de construcție care permite plasarea fundațiilor\r\npe apă."
+  },
+  {
+   "key": "DESC_RECIPE_AncientWorkBench_TextData",
+   "en": "A Pal-exclusive workbench that is capable of crafting any item in one place.\r\nIt cannot be used by the player, and operates at the same speed as a regular workbench.\r\nDue to its advanced equipment, it requires Pals with high-level Handiwork and Medicine Production suitability.",
+   "ro": "O bancă de lucru exclusivă pentru Pali, capabilă să fabrice orice obiect într-un singur loc.\r\nNu poate fi folosită de jucător și funcționează la aceeași viteză ca o bancă de lucru obișnuită.\r\nDatorită echipamentului avansat, necesită Pali cu un nivel ridicat la Lucru manual și Producție de medicamente."
+  },
+  {
+   "key": "DESC_RECIPE_AncientElectricGenerator_TextData",
+   "en": "A highly efficient power generator restored from lost ancient technology.\r\nIt produces massive amounts of electricity, but is prone to overheating while in operation.\r\nIt requires Pals with high-level Generating Electricity and any level of Watering suitability.",
+   "ro": "Un generator de energie extrem de eficient, restaurat din tehnologie antică pierdută.\r\nProduce cantități uriașe de electricitate, dar este predispus la supraîncălzire în timpul funcționării.\r\nNecesită Pali cu aptitudine de nivel înalt la Generare electricitate și de orice nivel la Udare."
+  },
+  {
+   "key": "DESC_RECIPE_AncientBlastFurnace_TextData",
+   "en": "A special furnace based on ancient technology that can smelt all types of ingots.\r\nMaterials are melted with fire, then quickly cooled and solidified using ice.\r\nIt requires Pals with high-level Kindling and Cooling suitability.",
+   "ro": "Un furnal special bazat pe tehnologie antică, capabil să topească toate tipurile de lingouri.\r\nMaterialele sunt topite cu foc, apoi răcite și solidificate rapid cu gheață.\r\nNecesită Pali cu aptitudini de nivel înalt la Aprindere și Răcire."
+  },
+  {
+   "key": "DESC_RECIPE_AncientCookingStove_TextData",
+   "en": "A special kitchen based on ancient technology that can create everything from existing dishes to entirely new recipes.\r\nIt retains heat through fire and completes cooking with manual preparation, allowing it to prepare any kind of cuisine.\r\nIt requires Pals with high-level Kindling and Handiwork suitability.",
+   "ro": "O bucătărie specială bazată pe tehnologie antică, capabilă să prepare de la feluri de mâncare existente până la rețete complet noi.\r\nPăstrează căldura prin foc și desăvârșește gătitul prin preparare manuală, permițând gătirea oricărui tip de mâncare.\r\nNecesită Pali cu aptitudini de nivel înalt la Aprindere și Lucru manual."
+  },
+  {
+   "key": "DESC_RECIPE_AncientMultiProduct_TextData",
+   "en": "A special generator based on ancient technology that uses the power of the World Tree to produce all kinds of wood and ore.\r\nDue to its complex structure, only one Pal can be assigned to it.",
+   "ro": "Un generator special bazat pe tehnologie antică, care folosește puterea Arborelui Lumii pentru a produce toate tipurile de lemn și minereu.\r\nDin cauza structurii sale complexe, îi poate fi atribuit un singur Pal."
+  },
+  {
+   "key": "DESC_RECIPE_AncientFarmBlock_TextData",
+   "en": "A special cultivation device based on ancient technology that harnesses the power of the World Tree to grow all kinds of plants on Palpagos Island.\r\nSmaller than a berry plantation and suitable for indoor placement, it still follows the same cultivation process as standard plots.\r\nIt requires Pals with high-level Planting, Watering, and Harvesting suitability.",
+   "ro": "Un dispozitiv special de cultivare bazat pe tehnologie antică, care valorifică puterea Arborelui Lumii pentru a crește toate tipurile de plante din Insulele Palpagos.\r\nMai mic decât o plantație de fructe de pădure și potrivit pentru interior, urmează totuși același proces de cultivare ca parcelele standard.\r\nNecesită Pali cu aptitudini de nivel înalt la Plantare, Udare și Culegere."
+  },
+  {
+   "key": "DESC_RECIPE_DefenseMachinegun_AutoTurret_TextData",
+   "en": "An unmanned turret of ancient technology equipped with rocket launcher–level size and firepower.\r\nIt requires no ammunition or Pal assignment, and performs fully automated interception using only electricity.\r\nHowever, despite its immense power, it requires a massive amount of electricity to operate.",
+   "ro": "O turelă automată bazată pe tehnologie antică, cu dimensiuni și putere de foc de nivelul unui lansator de rachete.\r\nNu necesită muniție sau atribuire de Pali și efectuează interceptări complet automate folosind doar electricitate.\r\nTotuși, în ciuda puterii sale imense, necesită o cantitate uriașă de electricitate pentru a funcționa."
+  },
+  {
+   "key": "DESC_RECIPE_MultiElectricHatchingPalEggWithBreed_TextData",
+   "en": "An advanced breeding facility of ancient civilization technology, enclosed in electronic glass.\r\nIt fully automates everything from egg production to incubation at high speed, and increases the inheritance rate of rare skills.\r\nPals are managed through holograms, it requires minimal pasture space.",
+   "ro": "O unitate avansată de împerechere bazată pe tehnologia unei civilizații antice, protejată de sticlă electronică.\r\nAutomatizează complet totul, de la producția ouălor până la incubare la viteză mare, și crește rata de moștenire a abilităților rare.\r\nPalii sunt gestionați prin holograme, necesitând un spațiu minim de fermă."
+  },
+  {
+   "key": "DESC_RECIPE_BaseCampWorkHard03_TextData",
+   "en": "A monitoring station based on ancient technology, embedded with Red Paldium.\r\nIt issues commands across the entire base through a holographic interface, reducing SAN depletion in Pals.\r\nA special wavelength surrounds the base, keeping Pals calm even in harsh working environments.",
+   "ro": "Un post de monitorizare bazat pe tehnologie antică, în care este încorporat Paldium roșu.\r\nTransmite comenzi în întreaga bază printr-o interfață holografică, reducând scăderea SAN la Pali.\r\nO lungime de undă specială învăluie baza, menținând Palii calmi chiar și în medii de lucru aspre."
+  },
+  {
+   "key": "DESC_RECIPE_Ancient_MedicalPalBed_TextData",
+   "en": "An ultimate Pal Bed made from ancient recovery pod with soft matress.\r\nIt offers one of the highest SAN recovery rates of all Pal beds, quickly relieving fatigue.\r\nIt is the same size as a Large Pal Bed, allowing large Pals to rest comfortably.",
+   "ro": "Un pat suprem pentru Pali, realizat dintr-o capsulă antică de recuperare cu o saltea moale.\r\nOferă una dintre cele mai mari rate de recuperare a SAN dintre toate paturile pentru Pali, alungând rapid oboseala.\r\nAre aceeași dimensiune ca un pat mare pentru Pali, permițând Palilor mari să se odihnească confortabil."
+  },
+  {
+   "key": "DESC_RECIPE_AncientAirConditioner_TextData",
+   "en": "An air conditioning unit based on ancient technology that regulates the temperature of the entire base.\r\nSmaller than standard heating and cooling systems, it maintains a comfortable temperature as long as it is powered.\r\nNo Pals are required for temperature control, and harsh climates can be neutralized with sufficient electricity.",
+   "ro": "O unitate de aer condiționat bazată pe tehnologie antică, ce reglează temperatura întregii baze.\r\nMai mică decât sistemele standard de încălzire și răcire, menține o temperatură confortabilă atât timp cât este alimentată cu energie.\r\nNu necesită Pali pentru reglarea temperaturii, iar climatele aspre pot fi neutralizate cu suficientă electricitate."
+  },
+  {
+   "key": "DESC_RECIPE_AncientSpa_TextData",
+   "en": "A hot spring built with ancient technology, filled with special water infused with Paldium.\r\nIt offers the highest SAN recovery of all hot springs and also restores Health.\r\nIt is the same size as a standard hot spring, and can fully heal injured Pals.",
+   "ro": "Un izvor termal construit cu tehnologie antică, plin cu apă specială infuzată cu Paldium.\r\nOferă cea mai mare recuperare de SAN dintre toate izvoarele termale și reface, de asemenea, viața.\r\nAre aceeași dimensiune ca un izvor termal standard și poate vindeca complet Palii răniți."
+  },
+  {
+   "key": "DESC_RECIPE_AncientRelicRecycler_TextData",
+   "en": "An ancient civilization device that converts materials using repurposed technology from a lost civilization.\r\nIt deciphers the technology left within Ancient Relics and refines them into new forms.\r\nA highly specialized facility designed for the efficient use of relics without waste.",
+   "ro": "Un dispozitiv al unei civilizații antice care convertește materiale folosind tehnologie adaptată de la o civilizație pierdută.\r\nDescifrează tehnologia rămasă în Relicvele antice și le rafinează în forme noi.\r\nO instalație extrem de specializată, concepută pentru utilizarea eficientă a relicvelor, fără risipă."
+  },
+  {
+   "key": "DESC_RECIPE_SkyIslandOrePit_TextData",
+   "en": "Facility for producing <itemName id=|SkyIslandOre|/>. \r\nDigging is grueling physical work. \r\nLeave it to a Pal that is good at mining.",
+   "ro": "Instalație pentru producerea de <itemName id=|SkyIslandOre|/>.\r\nSăpatul este o muncă fizică extenuantă.\r\nLas-o în seama unui Pal priceput la minerit."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Green_TextData",
+   "en": "A decorative artificial tree set.\r\nUse them to create a natural-looking base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de copaci artificiali decorativi.\r\nFolosește-i pentru a crea o bază cu aspect natural.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Red_TextData",
+   "en": "A decorative artificial autumn tree set.\r\nUse them to create a natural-looking base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de copaci de toamnă artificiali decorativi.\r\nFolosește-i pentru a crea o bază cu aspect natural.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Yellow_TextData",
+   "en": "A decorative artificial yellow autumn tree set.\r\nUse them to create a natural-looking base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de copaci galbeni de toamnă artificiali decorativi.\r\nFolosește-i pentru a crea o bază cu aspect natural.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Cherry_TextData",
+   "en": "A decorative artificial cherry blossom tree set.\r\nUse them to create a Sakurajima-inspired base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de cireși înfloriți artificiali decorativi.\r\nFolosește-i pentru a crea o bază inspirată de Sakurajima.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Tropical_TextData",
+   "en": "A decorative artificial tropical tree set.\r\nUse them to create a tropical-inspired base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de copaci tropicali artificiali decorativi.\r\nFolosește-i pentru a crea o bază cu tematică tropicală.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Snow_TextData",
+   "en": "A decorative artificial snow-covered tree set.\r\nUse them to create a winte-inspired base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de copaci acoperiți de zăpadă artificiali decorativi.\r\nFolosește-i pentru a crea o bază cu tematică de iarnă.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Desert_TextData",
+   "en": "A decorative artificial desert tree set.\r\nUse them to create a oasis-inspired base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de copaci de deșert artificiali decorativi.\r\nFolosește-i pentru a crea o bază inspirată de o oază.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_FurnitureTree_Bamboo_TextData",
+   "en": "A decorative artificial bamboo set.\r\nUse them to create a Bamboo Grove-inspired base.\r\nNo materials can be obtained from this structure.",
+   "ro": "Un set de bambus artificial decorativ.\r\nFolosește-l pentru a crea o bază inspirată de un crâng de bambus.\r\nNu se pot obține materiale din această structură."
+  },
+  {
+   "key": "DESC_RECIPE_TableCircular_TextData",
+   "en": "A neat decorative table set for building a clean and well-kept base.",
+   "ro": "Un set de masă decorativă îngrijită, pentru a construi o bază curată și bine întreținută."
+  },
+  {
+   "key": "DESC_RECIPE_DarkIslandFlagSet_TextData",
+   "en": "<mapObjectName id=|DarkIsland_Flag|/> and <mapObjectName id=|DarkIsland_Banner|/> set. \r\nProof of your victory over the Feybreak.",
+   "ro": "Set de <mapObjectName id=|DarkIsland_Flag|/> și <mapObjectName id=|DarkIsland_Banner|/>.\r\nDovada victoriei tale împotriva facțiunii Feybreak."
+  },
+  {
+   "key": "DESC_RECIPE_SkyIslandFlagSet_TextData",
+   "en": "<mapObjectName id=|SkyIsland_Flag|/> and <mapObjectName id=|SkyIsland_Banner|/> set. \r\nProof of your victory over the Azure Covenant.",
+   "ro": "Set de <mapObjectName id=|SkyIsland_Flag|/> și <mapObjectName id=|SkyIsland_Banner|/>.\r\nDovada victoriei tale împotriva Legământului de Azur."
+  },
+  {
+   "key": "DESC_RECIPE_Ancient_Houseset_TextData",
+   "en": "Set for building bases using ancient architecture. \r\nAllows building of ancient-styled foundations, walls, ceilings, stairs and other things necessary for shelters.",
+   "ro": "Set pentru construirea de baze cu arhitectură antică. \r\nPermite construirea de fundații, pereți, tavane, scări în stil antic și alte elemente necesare pentru adăposturi."
+  },
+  {
+   "key": "DESC_RECIPE_BaseCampWorkHard02_TextData",
+   "en": "A refined monitoring station with improved materials and structure.\r\nIn addition to being able to issue work orders, the system also lowers the SAN cost for Pals working at the base. \r\nWorking conditions are slightly improved, making Pals less likely to become dissatisfied.",
+   "ro": "O stație de monitorizare perfecționată, cu materiale și structură îmbunătățite.\r\nPe lângă faptul că permite emiterea de ordine de lucru, sistemul reduce și scăderea de SAN pentru Palii care muncesc în bază.\r\nCondițiile de muncă sunt ușor îmbunătățite, făcându-i pe Pali mai puțin predispuși la nemulțumiri."
+  },
+  {
+   "key": "DESC_RECIPE_Shield_07_TextData",
+   "en": "A shield created using lost ancient technology.\r\nIt automatically repairs itself after not taking damage for a while. \r\nIts performance is said to be impossible to reproduce in the modern era.",
+   "ro": "Un scut creat folosind o tehnologie antică pierdută.\r\nSe repară automat dacă nu primești daune pentru o perioadă.\r\nSe spune că performanța sa este imposibil de reprodus în era modernă."
+  },
+  {
+   "key": "DESC_RECIPE_OilPump02_TextData",
+   "en": "A device that pumps and extracts <itemName id=|CrudeOil|/> from deep underground.\r\nIt can produce <itemName id=|CrudeOil|/> even in areas without oil fields, but it can only be placed on open ground with no structures beneath it.\r\nIt requires a far greater supply of electricity than the <mapObjectName id=|OilPump|/>.",
+   "ro": "Un dispozitiv care pompează și extrage <itemName id=|CrudeOil|/> din adâncurile pământului.\r\nPoate produce <itemName id=|CrudeOil|/> chiar și în zone fără zăcăminte de petrol, dar poate fi amplasat doar pe teren deschis, fără structuri dedesubt.\r\nNecesită o cantitate mult mai mare de electricitate decât un <mapObjectName id=|OilPump|/>."
+  }
+ ]
+}

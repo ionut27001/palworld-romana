@@ -1,0 +1,415 @@
+{
+ "table": "DT_BuildObjectCategoryText",
+ "entries": [
+  {
+   "key": "CATEGORY_TYPE_A_Product_TextData",
+   "en": "Production",
+   "ro": "Producție"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Pal_TextData",
+   "en": "Pal",
+   "ro": "Pal"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Infrastructure_TextData",
+   "en": "Infrastructure",
+   "ro": "Infrastructură"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Food_TextData",
+   "en": "Food",
+   "ro": "Hrană"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Foundation_TextData",
+   "en": "Foundations",
+   "ro": "Fundații"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Defense_TextData",
+   "en": "Defenses",
+   "ro": "Apărare"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Other_TextData",
+   "en": "Other",
+   "ro": "Altele"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Storage_TextData",
+   "en": "Storage",
+   "ro": "Depozitare"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Light_TextData",
+   "en": "Lighting",
+   "ro": "Iluminat"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Furniture_TextData",
+   "en": "Furniture",
+   "ro": "Mobilier"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Dismantle_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Prod_Craft_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Prod_Resource_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Prod_Furnace_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Prod_Medicine_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Pal_Capture_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Pal_Breed_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Pal_Modify_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Infra_Medical_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Infra_Storage_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Infra_Trade_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Infra_GeneratePower_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Infra_Defense_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Infra_Environment_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Food_Basic_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Food_Agriculture_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Food_Cooking_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Food_Livestock_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Found_Basic_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Found_House_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_B_Other_TextData",
+   "en": "ex Text",
+   "ro": "ex Text"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Blueprint_TextData",
+   "en": "Schematics",
+   "ro": "Scheme"
+  },
+  {
+   "key": "CATEGORY_TYPE_A_Favorite_TextData",
+   "en": "Favorite",
+   "ro": "Favorite"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Product_Repair_TextData",
+   "en": "Crafting/Repair",
+   "ro": "Fabricare/Reparare"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Weapon_TextData",
+   "en": "Weapons",
+   "ro": "Arme"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Refine_TextData",
+   "en": "Refinement",
+   "ro": "Rafinare"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Medicine_TextData",
+   "en": "Medicine Production",
+   "ro": "Producție de medicamente"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Deforest_Mining_TextData",
+   "en": "Lumbering/Mining",
+   "ro": "Tăiat lemne/Minerit"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Milling_Crusher_TextData",
+   "en": "Milling/Crushing",
+   "ro": "Măcinare/Concasare"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_FishingPond_TextData",
+   "en": "Fishing Holes",
+   "ro": "Locuri de pescuit"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_PalCaptureItem_TextData",
+   "en": "Spheres",
+   "ro": "Sfere"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_PalManagement_TextData",
+   "en": "Pal Management",
+   "ro": "Gestionare Pali"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_PalTraining_TextData",
+   "en": "Pal Training",
+   "ro": "Antrenare Pali"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_PalWork_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_PalBreeding_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_PalOther_TextData",
+   "en": "Pal (Other)",
+   "ro": "Pali (altele)"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Chest_TextData",
+   "en": "Chests",
+   "ro": "Cufere"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_StorageFurniture_TextData",
+   "en": "Storage",
+   "ro": "Depozitare"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Cooking_TextData",
+   "en": "Cooking",
+   "ro": "Gătit"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_FeedBox_TextData",
+   "en": "Feed Box",
+   "ro": "Cutie de hrană"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Farm_TextData",
+   "en": "Farming",
+   "ro": "Fermă"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Bed_TextData",
+   "en": "Bedding",
+   "ro": "Paturi"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_GenerateElectricity_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Electricity_TextData",
+   "en": "Electricity",
+   "ro": "Electricitate"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Spa_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Health_TextData",
+   "en": "Health Care",
+   "ro": "Sănătate"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Freestanding_TextData",
+   "en": "Placeables",
+   "ro": "Obiecte amplasabile"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_WallHanging_TextData",
+   "en": "Wall Mounts",
+   "ro": "Montabile pe perete"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Ceiling_TextData",
+   "en": "Ceilings",
+   "ro": "Tavane"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Wood_TextData",
+   "en": "Wood",
+   "ro": "Lemn"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Stone_TextData",
+   "en": "Stone",
+   "ro": "Piatră"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Metal_TextData",
+   "en": "Metal",
+   "ro": "Metal"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Glass_TextData",
+   "en": "Glass",
+   "ro": "Sticlă"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_JapaneseStyle_TextData",
+   "en": "Japanese-Style",
+   "ro": "Stil japonez"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Clean_TextData",
+   "en": "Clean",
+   "ro": "Curat"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Trap_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Interception_TextData",
+   "en": "Defensive Structures",
+   "ro": "Structuri defensive"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Barieer_TextData",
+   "en": "Defensive Walls",
+   "ro": "Ziduri defensive"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_EfficiencEnhancement_TextData",
+   "en": "Efficiency Enhancement",
+   "ro": "Îmbunătățire eficiență"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_SignBoard_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_FleaMarket_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Statue_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Raid_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Desk_TextData",
+   "en": "Tables",
+   "ro": "Mese"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Chair_TextData",
+   "en": "Chairs",
+   "ro": "Scaune"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Carpet_TextData",
+   "en": "Carpets (Floor Coverings)",
+   "ro": "Covoare (acoperiri podea)"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_WallDecoration_TextData",
+   "en": "Wall & Ceiling Decor",
+   "ro": "Decorațiuni de perete și tavan"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Houseplants_TextData",
+   "en": "Plants",
+   "ro": "Plante"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Flag_TextData",
+   "en": "Flags",
+   "ro": "Steaguri"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Ornament_TextData",
+   "en": "Decorations",
+   "ro": "Decorațiuni"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Other_TextData",
+   "en": "Other",
+   "ro": "Altele"
+  },
+  {
+   "key": "CATEGORY_TYPE_UI_Ancient_TextData",
+   "en": "Ancient Civilization",
+   "ro": "Civilizație antică"
+  }
+ ]
+}

@@ -1,0 +1,4180 @@
+{
+ "table": "DT_TechnologyNameText_Common",
+ "entries": [
+  {
+   "key": "NAME_RECIPE_COPPER_TextData",
+   "en": "Copper Smelting",
+   "ro": "Topire cupru"
+  },
+  {
+   "key": "NAME_RECIPE_ASSAULT_01_TextData",
+   "en": "<itemName id=|AssaultRifle_Default1|/>",
+   "ro": "<itemName id=|AssaultRifle_Default1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ASSAULT_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_ASSAULT_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_PENGUIN_LAUNCHER_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_IRON_TextData",
+   "en": "Iron Smelting",
+   "ro": "Topire fier"
+  },
+  {
+   "key": "NAME_RECIPE_SCALE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_WORKBENCH_TextData",
+   "en": "<mapObjectName id=|WorkBench|/>",
+   "ro": "<mapObjectName id=|WorkBench|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AXE1_TextData",
+   "en": "<itemName id=|Axe_Tier_00|/>",
+   "ro": "<itemName id=|Axe_Tier_00|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AXE2_TextData",
+   "en": "<itemName id=|Axe_Tier_01|/>",
+   "ro": "<itemName id=|Axe_Tier_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AXE3_TextData",
+   "en": "<itemName id=|Axe_Tier_02|/>",
+   "ro": "<itemName id=|Axe_Tier_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AXE4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_PICKEAXE1_TextData",
+   "en": "<itemName id=|Pickaxe_Tier_00|/>",
+   "ro": "<itemName id=|Pickaxe_Tier_00|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PICKEAXE2_TextData",
+   "en": "<itemName id=|Pickaxe_Tier_01|/>",
+   "ro": "<itemName id=|Pickaxe_Tier_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PICKEAXE3_TextData",
+   "en": "<itemName id=|Pickaxe_Tier_02|/>",
+   "ro": "<itemName id=|Pickaxe_Tier_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PICKEAXE4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_BLAST_FURNACE_TextData",
+   "en": "<mapObjectName id=|BlastFurnace|/>",
+   "ro": "<mapObjectName id=|BlastFurnace|/>"
+  },
+  {
+   "key": "NAME_RECIPE_COPPER_INGOT_TextData",
+   "en": "Copper Smelting",
+   "ro": "Topire cupru"
+  },
+  {
+   "key": "NAME_RECIPE_IRON_INGOT_TextData",
+   "en": "<mapObjectName id=|BlastFurnace2|/>",
+   "ro": "<mapObjectName id=|BlastFurnace2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BAT_TextData",
+   "en": "<itemName id=|Bat|/>",
+   "ro": "<itemName id=|Bat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BAT2_TextData",
+   "en": "<itemName id=|Bat2|/>",
+   "ro": "<itemName id=|Bat2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ELECBATON_TextData",
+   "en": "<itemName id=|ElecBaton|/>",
+   "ro": "<itemName id=|ElecBaton|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BOW3_TextData",
+   "en": "<itemName id=|Bow_Triple|/>",
+   "ro": "<itemName id=|Bow_Triple|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BOW_TextData",
+   "en": "<itemName id=|WeakerBow|/>",
+   "ro": "<itemName id=|WeakerBow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BOW_FIRE_TextData",
+   "en": "<itemName id=|Bow_Fire|/>",
+   "ro": "<itemName id=|Bow_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BOW_POISON_TextData",
+   "en": "<itemName id=|Bow_Poison|/>",
+   "ro": "<itemName id=|Bow_Poison|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BOWGUN_FIRE_TextData",
+   "en": "<itemName id=|BowGun_Fire|/>",
+   "ro": "<itemName id=|BowGun_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BOWGUN_POISON_TextData",
+   "en": "<itemName id=|BowGun_Poison|/>",
+   "ro": "<itemName id=|BowGun_Poison|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARROW_TextData",
+   "en": "<itemName id=|Arrow|/>",
+   "ro": "<itemName id=|Arrow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARROW_FIRE_TextData",
+   "en": "<itemName id=|Arrow_Fire|/>",
+   "ro": "<itemName id=|Arrow_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARROW_POISON_TextData",
+   "en": "<itemName id=|Arrow_Poison|/>",
+   "ro": "<itemName id=|Arrow_Poison|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WEAPONFACTRY_TextData",
+   "en": "<mapObjectName id=|WeaponFactory_Dirty_01|/>",
+   "ro": "<mapObjectName id=|WeaponFactory_Dirty_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HUNDGUN_TextData",
+   "en": "<itemName id=|HandGun_Default|/>",
+   "ro": "<itemName id=|HandGun_Default|/>"
+  },
+  {
+   "key": "NAME_RECIPE_RIFLE_TextData",
+   "en": "<itemName id=|SingleShotRifle|/>",
+   "ro": "<itemName id=|SingleShotRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_RIFLEBULLET_TextData",
+   "en": "<itemName id=|RifleBullet|/>",
+   "ro": "<itemName id=|RifleBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SHOTGUN_TextData",
+   "en": "<itemName id=|DoubleBarrelShotgun|/>",
+   "ro": "<itemName id=|DoubleBarrelShotgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SHOTGUNBULLET_TextData",
+   "en": "<itemName id=|ShotgunBullet|/>",
+   "ro": "<itemName id=|ShotgunBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR1_TextData",
+   "en": "<itemName id=|ClothArmor|/>",
+   "ro": "<itemName id=|ClothArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR1_Heat_TextData",
+   "en": "<itemName id=|ClothArmorHeat|/>",
+   "ro": "<itemName id=|ClothArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR1_Cold_TextData",
+   "en": "<itemName id=|ClothArmorCold|/>",
+   "ro": "<itemName id=|ClothArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR2_TextData",
+   "en": "<itemName id=|FurArmor|/>",
+   "ro": "<itemName id=|FurArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR2_Heat_TextData",
+   "en": "<itemName id=|FurArmorHeat|/>",
+   "ro": "<itemName id=|FurArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR2_Cold_TextData",
+   "en": "<itemName id=|FurArmorCold|/>",
+   "ro": "<itemName id=|FurArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR3_TextData",
+   "en": "<itemName id=|CopperArmor|/>",
+   "ro": "<itemName id=|CopperArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR3_Heat_TextData",
+   "en": "<itemName id=|CopperArmorHeat|/>",
+   "ro": "<itemName id=|CopperArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR3_Cold_TextData",
+   "en": "<itemName id=|CopperArmorCold|/>",
+   "ro": "<itemName id=|CopperArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR4_TextData",
+   "en": "<itemName id=|IronArmor|/>",
+   "ro": "<itemName id=|IronArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR4_Heat_TextData",
+   "en": "<itemName id=|IronArmorHeat|/>",
+   "ro": "<itemName id=|IronArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR4_Cold_TextData",
+   "en": "<itemName id=|IronArmorCold|/>",
+   "ro": "<itemName id=|IronArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR5_TextData",
+   "en": "<itemName id=|StealArmor|/>",
+   "ro": "<itemName id=|StealArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR5_Heat_TextData",
+   "en": "<itemName id=|StealArmorHeat|/>",
+   "ro": "<itemName id=|StealArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR5_Cold_TextData",
+   "en": "<itemName id=|StealArmorCold|/>",
+   "ro": "<itemName id=|StealArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HELMET1_TextData",
+   "en": "<itemName id=|ClothHat|/>",
+   "ro": "<itemName id=|ClothHat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HELMET2_TextData",
+   "en": "<itemName id=|FurHelmet|/>",
+   "ro": "<itemName id=|FurHelmet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HELMET3_TextData",
+   "en": "<itemName id=|CopperHelmet|/>",
+   "ro": "<itemName id=|CopperHelmet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HELMET4_TextData",
+   "en": "<itemName id=|IronHelmet|/>",
+   "ro": "<itemName id=|IronHelmet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HELMET5_TextData",
+   "en": "<itemName id=|StealHelmet|/>",
+   "ro": "<itemName id=|StealHelmet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CAMPFIRE_TextData",
+   "en": "<mapObjectName id=|CampFire|/>",
+   "ro": "<mapObjectName id=|CampFire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FARM_TextData",
+   "en": "Plantation",
+   "ro": "Plantație"
+  },
+  {
+   "key": "NAME_RECIPE_WELL_TextData",
+   "en": "<mapObjectName id=|Well|/>",
+   "ro": "<mapObjectName id=|Well|/>"
+  },
+  {
+   "key": "NAME_RECIPE_COOKINGSTOVE_TextData",
+   "en": "<mapObjectName id=|CookingStove|/>",
+   "ro": "<mapObjectName id=|CookingStove|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HUMANBED_TextData",
+   "en": "Human Bed",
+   "ro": "Pat pentru oameni"
+  },
+  {
+   "key": "NAME_RECIPE_PALBED_TextData",
+   "en": "<mapObjectName id=|MedicalPalBed_02|/>",
+   "ro": "<mapObjectName id=|MedicalPalBed_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LOGHOUSE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_PALLABO_TextData",
+   "en": "<mapObjectName id=|CharacterRankUp|/>",
+   "ro": "<mapObjectName id=|CharacterRankUp|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CLOTH_TextData",
+   "en": "<itemName id=|Cloth|/>",
+   "ro": "<itemName id=|Cloth|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CLOTH2_TextData",
+   "en": "<itemName id=|Cloth2|/>",
+   "ro": "<itemName id=|Cloth2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BANDAGE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE1_TextData",
+   "en": "<itemName id=|PalSphere|/>",
+   "ro": "<itemName id=|PalSphere|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE2_TextData",
+   "en": "<itemName id=|PalSphere_Mega|/>",
+   "ro": "<itemName id=|PalSphere_Mega|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE3_TextData",
+   "en": "<itemName id=|PalSphere_Giga|/>",
+   "ro": "<itemName id=|PalSphere_Giga|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE4_TextData",
+   "en": "<itemName id=|PalSphere_Tera|/>",
+   "ro": "<itemName id=|PalSphere_Tera|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE5_TextData",
+   "en": "<itemName id=|PalSphere_Master|/>",
+   "ro": "<itemName id=|PalSphere_Master|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE6_TextData",
+   "en": "<itemName id=|PalSphere_Legend|/>",
+   "ro": "<itemName id=|PalSphere_Legend|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DefenseWait_TextData",
+   "en": "<mapObjectName id=|DefenseWait|/>",
+   "ro": "<mapObjectName id=|DefenseWait|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DEFENCE_MACHINE_GUN_TextData",
+   "en": "<mapObjectName id=|DefenseMachinegun|/>",
+   "ro": "<mapObjectName id=|DefenseMachinegun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_FACTORY_BLACK_01_TextData",
+   "en": "<mapObjectName id=|SphereFactory_Black_01|/>",
+   "ro": "<mapObjectName id=|SphereFactory_Black_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SHOTGUN2_TextData",
+   "en": "<itemName id=|PumpActionShotgun|/>",
+   "ro": "<itemName id=|PumpActionShotgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SNIPER_RIFLE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_Launcher_Meat_TextData",
+   "en": "<itemName id=|Launcher_Meat|/>",
+   "ro": "<itemName id=|Launcher_Meat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ROCKET_LAUNCHER_TextData",
+   "en": "<itemName id=|Launcher_Default|/>",
+   "ro": "<itemName id=|Launcher_Default|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LAUNCHERBULLET_TextData",
+   "en": "<itemName id=|ExplosiveBullet|/>",
+   "ro": "<itemName id=|ExplosiveBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_LAUNCHER_TextData",
+   "en": "<itemName id=|SphereLauncher|/>",
+   "ro": "<itemName id=|SphereLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_LAUNCHER_ONCE_TextData",
+   "en": "<itemName id=|SphereLauncher_Once|/>",
+   "ro": "<itemName id=|SphereLauncher_Once|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HOMING_SPHERE_LAUNCHER_TextData",
+   "en": "<itemName id=|HomingSphereLauncher|/>",
+   "ro": "<itemName id=|HomingSphereLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BOWGUN_TextData",
+   "en": "<itemName id=|BowGun|/>",
+   "ro": "<itemName id=|BowGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SWORD_TextData",
+   "en": "<itemName id=|Sword|/>",
+   "ro": "<itemName id=|Sword|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ASSAULTRIFLE_TextData",
+   "en": "<itemName id=|AssaultRifle_Default1|/>",
+   "ro": "<itemName id=|AssaultRifle_Default1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_STEAL_INGOT_TextData",
+   "en": "<mapObjectName id=|BlastFurnace3|/>",
+   "ro": "<mapObjectName id=|BlastFurnace3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ElectronicCircuit_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_MachineParts_TextData",
+   "en": "<itemName id=|MachineParts|/>",
+   "ro": "<itemName id=|MachineParts|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MachineParts2_TextData",
+   "en": "<itemName id=|MachineParts2|/>",
+   "ro": "<itemName id=|MachineParts2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Computer_TextData",
+   "en": "<itemName id=|Computer|/>",
+   "ro": "<itemName id=|Computer|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Gunpowder_TextData",
+   "en": "Igniting Powder",
+   "ro": "Pulbere inflamabilă"
+  },
+  {
+   "key": "NAME_RECIPE_Gunpowder2_TextData",
+   "en": "<itemName id=|Gunpowder2|/>",
+   "ro": "<itemName id=|Gunpowder2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ShippingItemBox_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_StonePit_TextData",
+   "en": "<mapObjectName id=|StonePit|/>",
+   "ro": "<mapObjectName id=|StonePit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FastTravelPoint_TextData",
+   "en": "<mapObjectName id=|FastTravelPoint|/>",
+   "ro": "<mapObjectName id=|FastTravelPoint|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_FACTORY_WHITE_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_FACTORY_WHITE_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_FACTORY_WHITE_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_FACTORY_BLACK_02_TextData",
+   "en": "<mapObjectName id=|SphereFactory_Black_02|/>",
+   "ro": "<mapObjectName id=|SphereFactory_Black_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE_FACTORY_BLACK_03_TextData",
+   "en": "<mapObjectName id=|SphereFactory_Black_03|/>",
+   "ro": "<mapObjectName id=|SphereFactory_Black_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_COOKING_ELECTRIC_KITCHEN_TextData",
+   "en": "<mapObjectName id=|ElectricKitchen|/>",
+   "ro": "<mapObjectName id=|ElectricKitchen|/>"
+  },
+  {
+   "key": "NAME_RECIPE_COOKING_HIGH_TECH_KITCHEN_TextData",
+   "en": "<mapObjectName id=|HighTechKitchen|/>",
+   "ro": "<mapObjectName id=|HighTechKitchen|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MEDICAL_PALBED_02_TextData",
+   "en": "<mapObjectName id=|MedicalPalBed_03|/>",
+   "ro": "<mapObjectName id=|MedicalPalBed_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_STONEHOUSE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_DEFENCE_GATLING_GUN_TextData",
+   "en": "<mapObjectName id=|DefenseGatlingGun|/>",
+   "ro": "<mapObjectName id=|DefenseGatlingGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DEFENCE_MISSILE_TextData",
+   "en": "<mapObjectName id=|DefenseMissile|/>",
+   "ro": "<mapObjectName id=|DefenseMissile|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DEFENCE_BOWGUN_TextData",
+   "en": "<mapObjectName id=|DefenseBowGun|/>",
+   "ro": "<mapObjectName id=|DefenseBowGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BLAST_FURNACE_4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_MEDICINE_FACILITY_01_TextData",
+   "en": "<mapObjectName id=|MedicineFacility_01|/>",
+   "ro": "<mapObjectName id=|MedicineFacility_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MEDICINE_FACILITY_02_TextData",
+   "en": "<mapObjectName id=|MedicineFacility_02|/>",
+   "ro": "<mapObjectName id=|MedicineFacility_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MEDICINE_FACILITY_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_WEAPON_FACTORY_DIRTY_02_TextData",
+   "en": "<mapObjectName id=|WeaponFactory_Dirty_02|/>",
+   "ro": "<mapObjectName id=|WeaponFactory_Dirty_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WEAPON_FACTORY_DIRTY_03_TextData",
+   "en": "<mapObjectName id=|WeaponFactory_Dirty_03|/>",
+   "ro": "<mapObjectName id=|WeaponFactory_Dirty_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WEAPON_FACTORY_CLEAN_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_WEAPON_FACTORY_CLEAN_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_WEAPON_FACTORY_CLEAN_03_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_FACTORY_HARD_01_TextData",
+   "en": "<mapObjectName id=|Factory_Hard_01|/>",
+   "ro": "<mapObjectName id=|Factory_Hard_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FACTORY_HARD_02_TextData",
+   "en": "<mapObjectName id=|Factory_Hard_02|/>",
+   "ro": "<mapObjectName id=|Factory_Hard_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FACTORY_HARD_03_TextData",
+   "en": "<mapObjectName id=|Factory_Hard_03|/>",
+   "ro": "<mapObjectName id=|Factory_Hard_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FACTORY_COMFORTABLE_01_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_FACTORY_COMFORTABLE_02_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_ITEM_CHEST_01_TextData",
+   "en": "<mapObjectName id=|ItemChest|/>",
+   "ro": "<mapObjectName id=|ItemChest|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ITEM_CHEST_02_TextData",
+   "en": "<mapObjectName id=|ItemChest_02|/>",
+   "ro": "<mapObjectName id=|ItemChest_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ITEM_CHEST_03_TextData",
+   "en": "<mapObjectName id=|ItemChest_03|/>",
+   "ro": "<mapObjectName id=|ItemChest_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PLAYER_BED_02_TextData",
+   "en": "<mapObjectName id=|PlayerBed_02|/>",
+   "ro": "<mapObjectName id=|PlayerBed_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PLAYER_BED_03_TextData",
+   "en": "<mapObjectName id=|PlayerBed_03|/>",
+   "ro": "<mapObjectName id=|PlayerBed_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ELECTRIX_GENERATOR_TextData",
+   "en": "<mapObjectName id=|ElectricGenerator|/>",
+   "ro": "<mapObjectName id=|ElectricGenerator|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ELECTRIX_GENERATOR_2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_ELECTRIX_GENERATOR_3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_Potato_plantation_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_Corn_plantation_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_Pumpkin_plantation_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_RecoverOtomo_TextData",
+   "en": "<mapObjectName id=|RecoverOtomo|/>",
+   "ro": "<mapObjectName id=|RecoverOtomo|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HatchingPalEgg_TextData",
+   "en": "<mapObjectName id=|HatchingPalEgg|/>",
+   "ro": "<mapObjectName id=|HatchingPalEgg|/>"
+  },
+  {
+   "key": "NAME_RECIPE_StationDeforest2_TextData",
+   "en": "<mapObjectName id=|StationDeforest2|/>",
+   "ro": "<mapObjectName id=|StationDeforest2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WORKBENCH_SKILLUNLOCK_TextData",
+   "en": "<mapObjectName id=|WorkBench_SkillUnlock|/>",
+   "ro": "<mapObjectName id=|WorkBench_SkillUnlock|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WORKBENCH_SKILLCARD_TextData",
+   "en": "<mapObjectName id=|WorkBench_SkillCard|/>",
+   "ro": "<mapObjectName id=|WorkBench_SkillCard|/>"
+  },
+  {
+   "key": "NAME_BOSS_DEFEAT_001_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_PalFoodBox_TextData",
+   "en": "<mapObjectName id=|PalFoodBox|/>",
+   "ro": "<mapObjectName id=|PalFoodBox|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_01_TextData",
+   "en": "<itemName id=|Shield_01|/>",
+   "ro": "<itemName id=|Shield_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_02_TextData",
+   "en": "<itemName id=|Shield_02|/>",
+   "ro": "<itemName id=|Shield_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_03_TextData",
+   "en": "<itemName id=|Shield_03|/>",
+   "ro": "<itemName id=|Shield_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_04_TextData",
+   "en": "<itemName id=|Shield_04|/>",
+   "ro": "<itemName id=|Shield_04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_Ultra_TextData",
+   "en": "<itemName id=|Shield_Ultra|/>",
+   "ro": "<itemName id=|Shield_Ultra|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_06_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "NAME_RECIPE_Battle_Glider_Grade_01_TextData",
+   "en": "<itemName id=|Glider_Old|/>",
+   "ro": "<itemName id=|Glider_Old|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Battle_Glider_Grade_02_TextData",
+   "en": "<itemName id=|Glider_Good|/>",
+   "ro": "<itemName id=|Glider_Good|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Battle_Glider_Grade_03_TextData",
+   "en": "<itemName id=|Glider_Super|/>",
+   "ro": "<itemName id=|Glider_Super|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Battle_Glider_Grade_04_TextData",
+   "en": "<itemName id=|Glider_Tera|/>",
+   "ro": "<itemName id=|Glider_Tera|/>"
+  },
+  {
+   "key": "NAME_RECIPE_RepairKit_TextData",
+   "en": "<itemName id=|RepairKit|/>",
+   "ro": "<itemName id=|RepairKit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Berries_plantation_TextData",
+   "en": "<mapObjectName id=|FarmBlockV2_Berries|/>",
+   "ro": "<mapObjectName id=|FarmBlockV2_Berries|/>"
+  },
+  {
+   "key": "NAME_RECIPE_wheat_plantation_TextData",
+   "en": "<mapObjectName id=|FarmBlockV2_wheet|/>",
+   "ro": "<mapObjectName id=|FarmBlockV2_wheet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_tomato_plantation_TextData",
+   "en": "<mapObjectName id=|FarmBlockV2_tomato|/>",
+   "ro": "<mapObjectName id=|FarmBlockV2_tomato|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Lettuce_plantation_TextData",
+   "en": "<mapObjectName id=|FarmBlockV2_Lettuce|/>",
+   "ro": "<mapObjectName id=|FarmBlockV2_Lettuce|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wooden_foundation_TextData",
+   "en": "<mapObjectName id=|Wooden_foundation|/>",
+   "ro": "<mapObjectName id=|Wooden_foundation|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wooden_wall_TextData",
+   "en": "<mapObjectName id=|Wooden_wall|/>",
+   "ro": "<mapObjectName id=|Wooden_wall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wooden_roof_TextData",
+   "en": "<mapObjectName id=|Wooden_roof|/>",
+   "ro": "<mapObjectName id=|Wooden_roof|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wooden_stair_TextData",
+   "en": "<mapObjectName id=|Wooden_stair|/>",
+   "ro": "<mapObjectName id=|Wooden_stair|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_foundation_TextData",
+   "en": "<mapObjectName id=|Stone_foundation|/>",
+   "ro": "<mapObjectName id=|Stone_foundation|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_wall_TextData",
+   "en": "<mapObjectName id=|Stone_wall|/>",
+   "ro": "<mapObjectName id=|Stone_wall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_roof_TextData",
+   "en": "<mapObjectName id=|Stone_roof|/>",
+   "ro": "<mapObjectName id=|Stone_roof|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_stair_TextData",
+   "en": "<mapObjectName id=|Stone_stair|/>",
+   "ro": "<mapObjectName id=|Stone_stair|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_foundation_TextData",
+   "en": "<mapObjectName id=|Metal_foundation|/>",
+   "ro": "<mapObjectName id=|Metal_foundation|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_wall_TextData",
+   "en": "<mapObjectName id=|Metal_wall|/>",
+   "ro": "<mapObjectName id=|Metal_wall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_roof_TextData",
+   "en": "<mapObjectName id=|Metal_roof|/>",
+   "ro": "<mapObjectName id=|Metal_roof|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_stair_TextData",
+   "en": "<mapObjectName id=|Metal_stair|/>",
+   "ro": "<mapObjectName id=|Metal_stair|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MAKESHIFTHANDGUN_TextData",
+   "en": "<itemName id=|MakeshiftHandgun|/>",
+   "ro": "<itemName id=|MakeshiftHandgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HANDGUNBULLET_TextData",
+   "en": "<itemName id=|HandgunBullet|/>",
+   "ro": "<itemName id=|HandgunBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_RoughBullet_TextData",
+   "en": "<itemName id=|RoughBullet|/>",
+   "ro": "<itemName id=|RoughBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MachingunBullet_TextData",
+   "en": "<itemName id=|MachingunBullet|/>",
+   "ro": "<itemName id=|MachingunBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AssaultRifleBullet_TextData",
+   "en": "<itemName id=|AssaultRifleBullet|/>",
+   "ro": "<itemName id=|AssaultRifleBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MagnumBullet_TextData",
+   "en": "<itemName id=|MagnumBullet|/>",
+   "ro": "<itemName id=|MagnumBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spa_TextData",
+   "en": "<mapObjectName id=|Spa|/>",
+   "ro": "<mapObjectName id=|Spa|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spa2_TextData",
+   "en": "<mapObjectName id=|Spa2|/>",
+   "ro": "<mapObjectName id=|Spa2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Heater_TextData",
+   "en": "<mapObjectName id=|Heater|/>",
+   "ro": "<mapObjectName id=|Heater|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ElectricHeater_TextData",
+   "en": "<mapObjectName id=|ElectricHeater|/>",
+   "ro": "<mapObjectName id=|ElectricHeater|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Cooler_TextData",
+   "en": "<mapObjectName id=|Cooler|/>",
+   "ro": "<mapObjectName id=|Cooler|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ElectricCooler_TextData",
+   "en": "<mapObjectName id=|ElectricCooler|/>",
+   "ro": "<mapObjectName id=|ElectricCooler|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Torch_TextData",
+   "en": "<mapObjectName id=|Torch|/>",
+   "ro": "<mapObjectName id=|Torch|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WallTorch_TextData",
+   "en": "<mapObjectName id=|WallTorch|/>",
+   "ro": "<mapObjectName id=|WallTorch|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Lamp_TextData",
+   "en": "<mapObjectName id=|Lamp|/>",
+   "ro": "<mapObjectName id=|Lamp|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CeilingLamp_TextData",
+   "en": "<mapObjectName id=|CeilingLamp|/>",
+   "ro": "<mapObjectName id=|CeilingLamp|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LargeLamp_TextData",
+   "en": "<mapObjectName id=|LargeLamp|/>",
+   "ro": "<mapObjectName id=|LargeLamp|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LargeCeilingLamp_TextData",
+   "en": "<mapObjectName id=|LargeCeilingLamp|/>",
+   "ro": "<mapObjectName id=|LargeCeilingLamp|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PALBOX_TextData",
+   "en": "<mapObjectName id=|PalBoxV2|/>",
+   "ro": "<mapObjectName id=|PalBoxV2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HandTorch_TextData",
+   "en": "<itemName id=|Torch|/>",
+   "ro": "<itemName id=|Torch|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BuildableGoddessStatue_TextData",
+   "en": "<mapObjectName id=|BuildableGoddessStatue|/>",
+   "ro": "<mapObjectName id=|BuildableGoddessStatue|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Polymer_TextData",
+   "en": "<itemName id=|Polymer|/>",
+   "ro": "<itemName id=|Polymer|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Silicon_TextData",
+   "en": "<itemName id=|Silicon|/>",
+   "ro": "<itemName id=|Silicon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Cement_TextData",
+   "en": "<itemName id=|Cement|/>",
+   "ro": "<itemName id=|Cement|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CarbonFiber_TextData",
+   "en": "<itemName id=|CarbonFiber|/>",
+   "ro": "<itemName id=|CarbonFiber|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wooden_Houseset_TextData",
+   "en": "Wooden Structure Set",
+   "ro": "Set de structuri din lemn"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_Houseset_TextData",
+   "en": "Stone Structure Set",
+   "ro": "Set de structuri din piatră"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_Houseset_TextData",
+   "en": "Metal Structure Set",
+   "ro": "Set de structuri metalice"
+  },
+  {
+   "key": "NAME_RECIPE_Torch_set_TextData",
+   "en": "dummy_text",
+   "ro": "dummy_text"
+  },
+  {
+   "key": "NAME_RECIPE_Lamp_set_TextData",
+   "en": "dummy_text",
+   "ro": "dummy_text"
+  },
+  {
+   "key": "NAME_RECIPE_LargeLamp_set_TextData",
+   "en": "dummy_text",
+   "ro": "dummy_text"
+  },
+  {
+   "key": "NAME_RECIPE_DisplayCharacter_TextData",
+   "en": "<mapObjectName id=|DisplayCharacter|/>",
+   "ro": "<mapObjectName id=|DisplayCharacter|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DefenseWall_TextData",
+   "en": "<mapObjectName id=|DefenseWall|/>",
+   "ro": "<mapObjectName id=|DefenseWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BaseCampBattleDirector_TextData",
+   "en": "<mapObjectName id=|BaseCampBattleDirector|/>",
+   "ro": "<mapObjectName id=|BaseCampBattleDirector|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spear_TextData",
+   "en": "<itemName id=|Spear|/>",
+   "ro": "<itemName id=|Spear|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spear_2_TextData",
+   "en": "<itemName id=|Spear_2|/>",
+   "ro": "<itemName id=|Spear_2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spear_3_TextData",
+   "en": "<itemName id=|Spear_3|/>",
+   "ro": "<itemName id=|Spear_3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalSphere_Robbery_TextData",
+   "en": "<itemName id=|PalSphere_Robbery|/>",
+   "ro": "<itemName id=|PalSphere_Robbery|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spear_ForestBoss_TextData",
+   "en": "<itemName id=|Spear_ForestBoss|/>",
+   "ro": "<itemName id=|Spear_ForestBoss|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Lantern_TextData",
+   "en": "<itemName id=|Lantern|/>",
+   "ro": "<itemName id=|Lantern|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AutoMealPouch_Tier1_TextData",
+   "en": "<itemName id=|AutoMealPouch_Tier1|/>",
+   "ro": "<itemName id=|AutoMealPouch_Tier1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AutoMealPouch_Tier2_TextData",
+   "en": "<itemName id=|AutoMealPouch_Tier2|/>",
+   "ro": "<itemName id=|AutoMealPouch_Tier2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AutoMealPouch_Tier3_TextData",
+   "en": "<itemName id=|AutoMealPouch_Tier3|/>",
+   "ro": "<itemName id=|AutoMealPouch_Tier3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AutoMealPouch_Tier4_TextData",
+   "en": "<itemName id=|AutoMealPouch_Tier4|/>",
+   "ro": "<itemName id=|AutoMealPouch_Tier4|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AutoMealPouch_Tier5_TextData",
+   "en": "<itemName id=|AutoMealPouch_Tier5|/>",
+   "ro": "<itemName id=|AutoMealPouch_Tier5|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Crusher_TextData",
+   "en": "<mapObjectName id=|Crusher|/>",
+   "ro": "<mapObjectName id=|Crusher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WoodCrusher_TextData",
+   "en": "<mapObjectName id=|WoodCrusher|/>",
+   "ro": "<mapObjectName id=|WoodCrusher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FlourMill_TextData",
+   "en": "<mapObjectName id=|FlourMill|/>",
+   "ro": "<mapObjectName id=|FlourMill|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_TextData",
+   "en": "<itemName id=|FragGrenade|/>",
+   "ro": "<itemName id=|FragGrenade|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Fire_TextData",
+   "en": "<itemName id=|FragGrenade_Fire|/>",
+   "ro": "<itemName id=|FragGrenade_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Ice_TextData",
+   "en": "<itemName id=|FragGrenade_Ice|/>",
+   "ro": "<itemName id=|FragGrenade_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Elec_TextData",
+   "en": "<itemName id=|FragGrenade_Elec|/>",
+   "ro": "<itemName id=|FragGrenade_Elec|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GrapplingGun_TextData",
+   "en": "<itemName id=|GrapplingGun|/>",
+   "ro": "<itemName id=|GrapplingGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GrapplingGun2_TextData",
+   "en": "<itemName id=|GrapplingGun2|/>",
+   "ro": "<itemName id=|GrapplingGun2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GrapplingGun3_TextData",
+   "en": "<itemName id=|GrapplingGun3|/>",
+   "ro": "<itemName id=|GrapplingGun3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GrapplingGun4_TextData",
+   "en": "<itemName id=|GrapplingGun4|/>",
+   "ro": "<itemName id=|GrapplingGun4|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Trap_MovingPanel_TextData",
+   "en": "<mapObjectName id=|Trap_MovingPanel|/>",
+   "ro": "<mapObjectName id=|Trap_MovingPanel|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Trap_MineElecShock_TextData",
+   "en": "<mapObjectName id=|Trap_MineElecShock|/>",
+   "ro": "<mapObjectName id=|Trap_MineElecShock|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Trap_MineFreeze_TextData",
+   "en": "<mapObjectName id=|Trap_MineFreeze|/>",
+   "ro": "<mapObjectName id=|Trap_MineFreeze|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Trap_MineAttack_TextData",
+   "en": "<mapObjectName id=|Trap_MineAttack|/>",
+   "ro": "<mapObjectName id=|Trap_MineAttack|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Trap_LegHold_TextData",
+   "en": "<mapObjectName id=|Trap_LegHold|/>",
+   "ro": "<mapObjectName id=|Trap_LegHold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Trap_LegHold_Big_TextData",
+   "en": "<mapObjectName id=|Trap_LegHold_Big|/>",
+   "ro": "<mapObjectName id=|Trap_LegHold_Big|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Carbunclo_TextData",
+   "en": "<itemName id=|SkillUnlock_Carbunclo|/>",
+   "ro": "<itemName id=|SkillUnlock_Carbunclo|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Anubis_TextData",
+   "en": "<itemName id=|SkillUnlock_Anubis|/>",
+   "ro": "<itemName id=|SkillUnlock_Anubis|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Garm_TextData",
+   "en": "<itemName id=|SkillUnlock_Garm|/>",
+   "ro": "<itemName id=|SkillUnlock_Garm|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Umihebi_TextData",
+   "en": "<itemName id=|SkillUnlock_Umihebi|/>",
+   "ro": "<itemName id=|SkillUnlock_Umihebi|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Deer_TextData",
+   "en": "<itemName id=|SkillUnlock_Deer|/>",
+   "ro": "<itemName id=|SkillUnlock_Deer|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Hedgehog_TextData",
+   "en": "<itemName id=|SkillUnlock_Hedgehog|/>",
+   "ro": "<itemName id=|SkillUnlock_Hedgehog|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Kitsunebi_TextData",
+   "en": "<itemName id=|SkillUnlock_Kitsunebi|/>",
+   "ro": "<itemName id=|SkillUnlock_Kitsunebi|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Boar_TextData",
+   "en": "<itemName id=|SkillUnlock_Boar|/>",
+   "ro": "<itemName id=|SkillUnlock_Boar|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Monkey_TextData",
+   "en": "<itemName id=|SkillUnlock_Monkey|/>",
+   "ro": "<itemName id=|SkillUnlock_Monkey|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Penguin_TextData",
+   "en": "<itemName id=|SkillUnlock_Penguin|/>",
+   "ro": "<itemName id=|SkillUnlock_Penguin|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Alpaca_TextData",
+   "en": "<itemName id=|SkillUnlock_Alpaca|/>",
+   "ro": "<itemName id=|SkillUnlock_Alpaca|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FlowerDinosaur_TextData",
+   "en": "<itemName id=|SkillUnlock_FlowerDinosaur|/>",
+   "ro": "<itemName id=|SkillUnlock_FlowerDinosaur|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GrassMammoth_TextData",
+   "en": "<itemName id=|SkillUnlock_GrassMammoth|/>",
+   "ro": "<itemName id=|SkillUnlock_GrassMammoth|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Kirin_TextData",
+   "en": "<itemName id=|SkillUnlock_Kirin|/>",
+   "ro": "<itemName id=|SkillUnlock_Kirin|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_ElecPanda_TextData",
+   "en": "<itemName id=|SkillUnlock_ElecPanda|/>",
+   "ro": "<itemName id=|SkillUnlock_ElecPanda|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_LazyDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_LazyDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_LazyDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FireKirin_TextData",
+   "en": "<itemName id=|SkillUnlock_FireKirin|/>",
+   "ro": "<itemName id=|SkillUnlock_FireKirin|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_SakuraSaurus_TextData",
+   "en": "<itemName id=|SkillUnlock_SakuraSaurus|/>",
+   "ro": "<itemName id=|SkillUnlock_SakuraSaurus|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FlameBuffalo_TextData",
+   "en": "<itemName id=|SkillUnlock_FlameBuffalo|/>",
+   "ro": "<itemName id=|SkillUnlock_FlameBuffalo|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlueDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_BlueDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_BlueDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FairyDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_FairyDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_FairyDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FengyunDeeper_TextData",
+   "en": "<itemName id=|SkillUnlock_FengyunDeeper|/>",
+   "ro": "<itemName id=|SkillUnlock_FengyunDeeper|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_ColorfulBird_TextData",
+   "en": "<itemName id=|SkillUnlock_ColorfulBird|/>",
+   "ro": "<itemName id=|SkillUnlock_ColorfulBird|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Eagle_TextData",
+   "en": "<itemName id=|SkillUnlock_Eagle|/>",
+   "ro": "<itemName id=|SkillUnlock_Eagle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_NegativeOctopus_TextData",
+   "en": "<itemName id=|SkillUnlock_NegativeOctopus|/>",
+   "ro": "<itemName id=|SkillUnlock_NegativeOctopus|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FlyingManta_TextData",
+   "en": "<itemName id=|SkillUnlock_FlyingManta|/>",
+   "ro": "<itemName id=|SkillUnlock_FlyingManta|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GhostBeast_TextData",
+   "en": "<itemName id=|SkillUnlock_GhostBeast|/>",
+   "ro": "<itemName id=|SkillUnlock_GhostBeast|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_LilyQueen_TextData",
+   "en": "<itemName id=|SkillUnlock_LilyQueen|/>",
+   "ro": "<itemName id=|SkillUnlock_LilyQueen|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FlowerRabbit_TextData",
+   "en": "<itemName id=|SkillUnlock_FlowerRabbit|/>",
+   "ro": "<itemName id=|SkillUnlock_FlowerRabbit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Manticore_TextData",
+   "en": "<itemName id=|SkillUnlock_Manticore|/>",
+   "ro": "<itemName id=|SkillUnlock_Manticore|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Suzaku_TextData",
+   "en": "<itemName id=|SkillUnlock_Suzaku|/>",
+   "ro": "<itemName id=|SkillUnlock_Suzaku|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Serpent_TextData",
+   "en": "<itemName id=|SkillUnlock_Serpent|/>",
+   "ro": "<itemName id=|SkillUnlock_Serpent|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_RaijinDaughter_TextData",
+   "en": "<itemName id=|SkillUnlock_RaijinDaughter|/>",
+   "ro": "<itemName id=|SkillUnlock_RaijinDaughter|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_VolcanicMonster_TextData",
+   "en": "<itemName id=|SkillUnlock_VolcanicMonster|/>",
+   "ro": "<itemName id=|SkillUnlock_VolcanicMonster|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_AmaterasuWolf_TextData",
+   "en": "<itemName id=|SkillUnlock_AmaterasuWolf|/>",
+   "ro": "<itemName id=|SkillUnlock_AmaterasuWolf|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_DreamDemon_TextData",
+   "en": "<itemName id=|SkillUnlock_DreamDemon|/>",
+   "ro": "<itemName id=|SkillUnlock_DreamDemon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlackFurDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_BlackFurDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_BlackFurDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceHorse_TextData",
+   "en": "<itemName id=|SkillUnlock_IceHorse|/>",
+   "ro": "<itemName id=|SkillUnlock_IceHorse|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Horus_TextData",
+   "en": "<itemName id=|SkillUnlock_Horus|/>",
+   "ro": "<itemName id=|SkillUnlock_Horus|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_KingBahamut_TextData",
+   "en": "<itemName id=|SkillUnlock_KingBahamut|/>",
+   "ro": "<itemName id=|SkillUnlock_KingBahamut|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceDeer_TextData",
+   "en": "<itemName id=|SkillUnlock_IceDeer|/>",
+   "ro": "<itemName id=|SkillUnlock_IceDeer|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlackGriffon_TextData",
+   "en": "<itemName id=|SkillUnlock_BlackGriffon|/>",
+   "ro": "<itemName id=|SkillUnlock_BlackGriffon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlackMetalDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_BlackMetalDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_BlackMetalDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_SkyDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_SkyDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_SkyDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_ThunderDog_TextData",
+   "en": "<itemName id=|SkillUnlock_ThunderDog|/>",
+   "ro": "<itemName id=|SkillUnlock_ThunderDog|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GrassPanda_TextData",
+   "en": "<itemName id=|SkillUnlock_GrassPanda|/>",
+   "ro": "<itemName id=|SkillUnlock_GrassPanda|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_VioletFairy_TextData",
+   "en": "<itemName id=|SkillUnlock_VioletFairy|/>",
+   "ro": "<itemName id=|SkillUnlock_VioletFairy|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Yeti_TextData",
+   "en": "<itemName id=|SkillUnlock_Yeti|/>",
+   "ro": "<itemName id=|SkillUnlock_Yeti|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_HawkBird_TextData",
+   "en": "<itemName id=|SkillUnlock_HawkBird|/>",
+   "ro": "<itemName id=|SkillUnlock_HawkBird|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceFox_TextData",
+   "en": "<itemName id=|SkillUnlock_IceFox|/>",
+   "ro": "<itemName id=|SkillUnlock_IceFox|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_JetDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_JetDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_JetDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_HadesBird_TextData",
+   "en": "<itemName id=|SkillUnlock_HadesBird|/>",
+   "ro": "<itemName id=|SkillUnlock_HadesBird|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_KingAlpaca_TextData",
+   "en": "<itemName id=|SkillUnlock_KingAlpaca|/>",
+   "ro": "<itemName id=|SkillUnlock_KingAlpaca|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_SaintCentaur_TextData",
+   "en": "<itemName id=|SkillUnlock_SaintCentaur|/>",
+   "ro": "<itemName id=|SkillUnlock_SaintCentaur|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_HerculesBeetle_TextData",
+   "en": "<itemName id=|SkillUnlock_HerculesBeetle|/>",
+   "ro": "<itemName id=|SkillUnlock_HerculesBeetle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_ThunderBird_TextData",
+   "en": "<itemName id=|SkillUnlock_ThunderBird|/>",
+   "ro": "<itemName id=|SkillUnlock_ThunderBird|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_RedArmorBird_TextData",
+   "en": "<itemName id=|SkillUnlock_RedArmorBird|/>",
+   "ro": "<itemName id=|SkillUnlock_RedArmorBird|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlackCentaur_TextData",
+   "en": "<itemName id=|SkillUnlock_BlackCentaur|/>",
+   "ro": "<itemName id=|SkillUnlock_BlackCentaur|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_MopKing_TextData",
+   "en": "<itemName id=|SkillUnlock_MopKing|/>",
+   "ro": "<itemName id=|SkillUnlock_MopKing|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_NaughtyCat_TextData",
+   "en": "<itemName id=|SkillUnlock_NaughtyCat|/>",
+   "ro": "<itemName id=|SkillUnlock_NaughtyCat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WingGolem_TextData",
+   "en": "<itemName id=|SkillUnlock_WingGolem|/>",
+   "ro": "<itemName id=|SkillUnlock_WingGolem|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_DrillGame_TextData",
+   "en": "<itemName id=|SkillUnlock_DrillGame|/>",
+   "ro": "<itemName id=|SkillUnlock_DrillGame|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BirdDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_BirdDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_BirdDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WeaselDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_WeaselDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_WeaselDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WindChimes_TextData",
+   "en": "<itemName id=|SkillUnlock_WindChimes|/>",
+   "ro": "<itemName id=|SkillUnlock_WindChimes|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Umihebi_Fire_TextData",
+   "en": "<itemName id=|SkillUnlock_Umihebi_Fire|/>",
+   "ro": "<itemName id=|SkillUnlock_Umihebi_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Deer_Ground_TextData",
+   "en": "<itemName id=|SkillUnlock_Deer_Ground|/>",
+   "ro": "<itemName id=|SkillUnlock_Deer_Ground|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Hedgehog_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_Hedgehog_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_Hedgehog_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FlowerDinosaur_Electric_TextData",
+   "en": "<itemName id=|SkillUnlock_FlowerDinosaur_Electric|/>",
+   "ro": "<itemName id=|SkillUnlock_FlowerDinosaur_Electric|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GrassMammoth_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_GrassMammoth_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_GrassMammoth_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_LazyDragon_Electric_TextData",
+   "en": "<itemName id=|SkillUnlock_LazyDragon_Electric|/>",
+   "ro": "<itemName id=|SkillUnlock_LazyDragon_Electric|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FireKirin_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_FireKirin_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_FireKirin_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_SakuraSaurus_Water_TextData",
+   "en": "<itemName id=|SkillUnlock_SakuraSaurus_Water|/>",
+   "ro": "<itemName id=|SkillUnlock_SakuraSaurus_Water|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FairyDragon_Water_TextData",
+   "en": "<itemName id=|SkillUnlock_FairyDragon_Water|/>",
+   "ro": "<itemName id=|SkillUnlock_FairyDragon_Water|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_LilyQueen_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_LilyQueen_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_LilyQueen_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Manticore_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_Manticore_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_Manticore_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Suzaku_Water_TextData",
+   "en": "<itemName id=|SkillUnlock_Suzaku_Water|/>",
+   "ro": "<itemName id=|SkillUnlock_Suzaku_Water|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Serpent_Ground_TextData",
+   "en": "<itemName id=|SkillUnlock_Serpent_Ground|/>",
+   "ro": "<itemName id=|SkillUnlock_Serpent_Ground|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_VolcanicMonster_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_VolcanicMonster_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_VolcanicMonster_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceHorse_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_IceHorse_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_IceHorse_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GrassPanda_Electric_TextData",
+   "en": "<itemName id=|SkillUnlock_GrassPanda_Electric|/>",
+   "ro": "<itemName id=|SkillUnlock_GrassPanda_Electric|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Yeti_Grass_TextData",
+   "en": "<itemName id=|SkillUnlock_Yeti_Grass|/>",
+   "ro": "<itemName id=|SkillUnlock_Yeti_Grass|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_KingAlpaca_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_KingAlpaca_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_KingAlpaca_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BirdDragon_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_BirdDragon_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_BirdDragon_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WindChimes_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_WindChimes_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_WindChimes_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ToolBoxV1_TextData",
+   "en": "<mapObjectName id=|ToolBoxV1|/>",
+   "ro": "<mapObjectName id=|ToolBoxV1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OlympicCauldron_TextData",
+   "en": "<mapObjectName id=|OlympicCauldron|/>",
+   "ro": "<mapObjectName id=|OlympicCauldron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Fountain_TextData",
+   "en": "<mapObjectName id=|Fountain|/>",
+   "ro": "<mapObjectName id=|Fountain|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Silo_TextData",
+   "en": "<mapObjectName id=|Silo|/>",
+   "ro": "<mapObjectName id=|Silo|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TransmissionTower_TextData",
+   "en": "<mapObjectName id=|TransmissionTower|/>",
+   "ro": "<mapObjectName id=|TransmissionTower|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FlowerBed_TextData",
+   "en": "<mapObjectName id=|FlowerBed|/>",
+   "ro": "<mapObjectName id=|FlowerBed|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stump_TextData",
+   "en": "<mapObjectName id=|Stump|/>",
+   "ro": "<mapObjectName id=|Stump|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MiningTool_TextData",
+   "en": "<mapObjectName id=|MiningTool|/>",
+   "ro": "<mapObjectName id=|MiningTool|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Cauldron_TextData",
+   "en": "<mapObjectName id=|Cauldron|/>",
+   "ro": "<mapObjectName id=|Cauldron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Snowman_TextData",
+   "en": "<mapObjectName id=|Snowman|/>",
+   "ro": "<mapObjectName id=|Snowman|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BreedFarm_TextData",
+   "en": "<mapObjectName id=|BreedFarm|/>",
+   "ro": "<mapObjectName id=|BreedFarm|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wooden_DoorWall_TextData",
+   "en": "<mapObjectName id=|Wooden_DoorWall|/>",
+   "ro": "<mapObjectName id=|Wooden_DoorWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BaseCampWorkHard_TextData",
+   "en": "<mapObjectName id=|BaseCampWorkHard|/>",
+   "ro": "<mapObjectName id=|BaseCampWorkHard|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_DoorWall_TextData",
+   "en": "<mapObjectName id=|Stone_DoorWall|/>",
+   "ro": "<mapObjectName id=|Stone_DoorWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_DoorWall_TextData",
+   "en": "<mapObjectName id=|Metal_DoorWall|/>",
+   "ro": "<mapObjectName id=|Metal_DoorWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Musket_TextData",
+   "en": "<itemName id=|Musket|/>",
+   "ro": "<itemName id=|Musket|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MeatCutterKnife_TextData",
+   "en": "<itemName id=|MeatCutterKnife|/>",
+   "ro": "<itemName id=|MeatCutterKnife|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableSquare_Wood_TextData",
+   "en": "<mapObjectName id=|TableSquare_Wood|/>",
+   "ro": "<mapObjectName id=|TableSquare_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableCircular_Wood_TextData",
+   "en": "<mapObjectName id=|TableCircular_Wood|/>",
+   "ro": "<mapObjectName id=|TableCircular_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Bench_Wood_TextData",
+   "en": "<mapObjectName id=|Bench_Wood|/>",
+   "ro": "<mapObjectName id=|Bench_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stool_Wood_TextData",
+   "en": "<mapObjectName id=|Stool_Wood|/>",
+   "ro": "<mapObjectName id=|Stool_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CoolerBox_TextData",
+   "en": "<mapObjectName id=|CoolerBox|/>",
+   "ro": "<mapObjectName id=|CoolerBox|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Refrigerator_TextData",
+   "en": "<mapObjectName id=|Refrigerator|/>",
+   "ro": "<mapObjectName id=|Refrigerator|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DecalGun_1_TextData",
+   "en": "<itemName id=|DecalGun_1|/>",
+   "ro": "<itemName id=|DecalGun_1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DecalGun_2_TextData",
+   "en": "<itemName id=|DecalGun_2|/>",
+   "ro": "<itemName id=|DecalGun_2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DecalGun_3_TextData",
+   "en": "<itemName id=|DecalGun_3|/>",
+   "ro": "<itemName id=|DecalGun_3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DecalGun_4_TextData",
+   "en": "<itemName id=|DecalGun_4|/>",
+   "ro": "<itemName id=|DecalGun_4|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DecalGun_5_TextData",
+   "en": "<itemName id=|DecalGun_5|/>",
+   "ro": "<itemName id=|DecalGun_5|/>"
+  },
+  {
+   "key": "NAME_RECIPE_InkBullet_TextData",
+   "en": "<itemName id=|InkBullet|/>",
+   "ro": "<itemName id=|InkBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DamagedScarecrow_TextData",
+   "en": "<mapObjectName id=|DamagedScarecrow|/>",
+   "ro": "<mapObjectName id=|DamagedScarecrow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Signboard_TextData",
+   "en": "<mapObjectName id=|Signboard|/>",
+   "ro": "<mapObjectName id=|Signboard|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MonsterFarm_TextData",
+   "en": "<mapObjectName id=|MonsterFarm|/>",
+   "ro": "<mapObjectName id=|MonsterFarm|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wood_Gate_TextData",
+   "en": "<mapObjectName id=|Wood_Gate|/>",
+   "ro": "<mapObjectName id=|Wood_Gate|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_Gate_TextData",
+   "en": "<mapObjectName id=|Stone_Gate|/>",
+   "ro": "<mapObjectName id=|Stone_Gate|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_Gate_TextData",
+   "en": "<mapObjectName id=|Metal_Gate|/>",
+   "ro": "<mapObjectName id=|Metal_Gate|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Trap_Noose_TextData",
+   "en": "<mapObjectName id=|Trap_Noose|/>",
+   "ro": "<mapObjectName id=|Trap_Noose|/>"
+  },
+  {
+   "key": "NAME_RECIPE_RepairBench_TextData",
+   "en": "<mapObjectName id=|RepairBench|/>",
+   "ro": "<mapObjectName id=|RepairBench|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Decal_PalSticker_PinkCat_TextData",
+   "en": "<mapObjectName id=|Decal_PalSticker_PinkCat|/>",
+   "ro": "<mapObjectName id=|Decal_PalSticker_PinkCat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stool_High_Wood_TextData",
+   "en": "<mapObjectName id=|Stool_High_Wood|/>",
+   "ro": "<mapObjectName id=|Stool_High_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Barrel_Wood_TextData",
+   "en": "<mapObjectName id=|Barrel_Wood|/>",
+   "ro": "<mapObjectName id=|Barrel_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Box_Wood_TextData",
+   "en": "<mapObjectName id=|Box_Wood|/>",
+   "ro": "<mapObjectName id=|Box_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf_Wood_TextData",
+   "en": "<mapObjectName id=|Shelf_Wood|/>",
+   "ro": "<mapObjectName id=|Shelf_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf_Cask_Wood_TextData",
+   "en": "<mapObjectName id=|Shelf_Cask_Wood|/>",
+   "ro": "<mapObjectName id=|Shelf_Cask_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf_Hang01_Wood_TextData",
+   "en": "<mapObjectName id=|Shelf_Hang01_Wood|/>",
+   "ro": "<mapObjectName id=|Shelf_Hang01_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf_Hang02_Wood_TextData",
+   "en": "<mapObjectName id=|Shelf_Hang02_Wood|/>",
+   "ro": "<mapObjectName id=|Shelf_Hang02_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Counter_Wood_TextData",
+   "en": "<mapObjectName id=|Counter_Wood|/>",
+   "ro": "<mapObjectName id=|Counter_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Rug_Wood_TextData",
+   "en": "<mapObjectName id=|Rug_Wood|/>",
+   "ro": "<mapObjectName id=|Rug_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Ivy01_TextData",
+   "en": "<mapObjectName id=|Ivy01|/>",
+   "ro": "<mapObjectName id=|Ivy01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Ivy02_TextData",
+   "en": "<mapObjectName id=|Ivy02|/>",
+   "ro": "<mapObjectName id=|Ivy02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Ivy03_TextData",
+   "en": "<mapObjectName id=|Ivy03|/>",
+   "ro": "<mapObjectName id=|Ivy03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Chair01_Wood_TextData",
+   "en": "<mapObjectName id=|Chair01_Wood|/>",
+   "ro": "<mapObjectName id=|Chair01_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Barrel01_Iron_TextData",
+   "en": "<mapObjectName id=|Barrel01_Iron|/>",
+   "ro": "<mapObjectName id=|Barrel01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Barrel02_Iron_TextData",
+   "en": "<mapObjectName id=|Barrel02_Iron|/>",
+   "ro": "<mapObjectName id=|Barrel02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Barrel03_Iron_TextData",
+   "en": "<mapObjectName id=|Barrel03_Iron|/>",
+   "ro": "<mapObjectName id=|Barrel03_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Box01_Iron_TextData",
+   "en": "<mapObjectName id=|Box01_Iron|/>",
+   "ro": "<mapObjectName id=|Box01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Box02_Iron_TextData",
+   "en": "<mapObjectName id=|Box02_Iron|/>",
+   "ro": "<mapObjectName id=|Box02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CableCoil01_Iron_TextData",
+   "en": "<mapObjectName id=|CableCoil01_Iron|/>",
+   "ro": "<mapObjectName id=|CableCoil01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Chair01_Iron_TextData",
+   "en": "<mapObjectName id=|Chair01_Iron|/>",
+   "ro": "<mapObjectName id=|Chair01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Chair02_Iron_TextData",
+   "en": "<mapObjectName id=|Chair02_Iron|/>",
+   "ro": "<mapObjectName id=|Chair02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Clock01_Wall_Iron_TextData",
+   "en": "<mapObjectName id=|Clock01_Wall_Iron|/>",
+   "ro": "<mapObjectName id=|Clock01_Wall_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Container01_Iron_TextData",
+   "en": "<mapObjectName id=|Container01_Iron|/>",
+   "ro": "<mapObjectName id=|Container01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GarbageBag_Iron_TextData",
+   "en": "<mapObjectName id=|GarbageBag_Iron|/>",
+   "ro": "<mapObjectName id=|GarbageBag_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GoalSoccer_Iron_TextData",
+   "en": "<mapObjectName id=|GoalSoccer_Iron|/>",
+   "ro": "<mapObjectName id=|GoalSoccer_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MachineGame01_Iron_TextData",
+   "en": "<mapObjectName id=|MachineGame01_Iron|/>",
+   "ro": "<mapObjectName id=|MachineGame01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MachineVending01_Iron_TextData",
+   "en": "<mapObjectName id=|MachineVending01_Iron|/>",
+   "ro": "<mapObjectName id=|MachineVending01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PipeClay01_Iron_TextData",
+   "en": "<mapObjectName id=|PipeClay01_Iron|/>",
+   "ro": "<mapObjectName id=|PipeClay01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf01_Iron_TextData",
+   "en": "<mapObjectName id=|Shelf01_Iron|/>",
+   "ro": "<mapObjectName id=|Shelf01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf02_Iron_TextData",
+   "en": "<mapObjectName id=|Shelf02_Iron|/>",
+   "ro": "<mapObjectName id=|Shelf02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf03_Iron_TextData",
+   "en": "<mapObjectName id=|Shelf03_Iron|/>",
+   "ro": "<mapObjectName id=|Shelf03_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf04_Iron_TextData",
+   "en": "<mapObjectName id=|Shelf04_Iron|/>",
+   "ro": "<mapObjectName id=|Shelf04_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SignExit_Ceiling_Iron_TextData",
+   "en": "<mapObjectName id=|SignExit_Ceiling_Iron|/>",
+   "ro": "<mapObjectName id=|SignExit_Ceiling_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SignExit_Wall_Iron_TextData",
+   "en": "<mapObjectName id=|SignExit_Wall_Iron|/>",
+   "ro": "<mapObjectName id=|SignExit_Wall_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Sofa01_Iron_TextData",
+   "en": "<mapObjectName id=|Sofa01_Iron|/>",
+   "ro": "<mapObjectName id=|Sofa01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Sofa02_Iron_TextData",
+   "en": "<mapObjectName id=|Sofa02_Iron|/>",
+   "ro": "<mapObjectName id=|Sofa02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stool01_Iron_TextData",
+   "en": "<mapObjectName id=|Stool01_Iron|/>",
+   "ro": "<mapObjectName id=|Stool01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableCircular01_Iron_TextData",
+   "en": "<mapObjectName id=|TableCircular01_Iron|/>",
+   "ro": "<mapObjectName id=|TableCircular01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableSide01_Iron_TextData",
+   "en": "<mapObjectName id=|TableSide01_Iron|/>",
+   "ro": "<mapObjectName id=|TableSide01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableSquare01_Iron_TextData",
+   "en": "<mapObjectName id=|TableSquare01_Iron|/>",
+   "ro": "<mapObjectName id=|TableSquare01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableSquare02_Iron_TextData",
+   "en": "<mapObjectName id=|TableSquare02_Iron|/>",
+   "ro": "<mapObjectName id=|TableSquare02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Tire01_Iron_TextData",
+   "en": "<mapObjectName id=|Tire01_Iron|/>",
+   "ro": "<mapObjectName id=|Tire01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficBarricade01_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficBarricade01_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficBarricade01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficBarricade02_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficBarricade02_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficBarricade02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficBarricade03_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficBarricade03_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficBarricade03_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficBarricade04_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficBarricade04_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficBarricade04_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficBarricade05_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficBarricade05_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficBarricade05_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficCone01_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficCone01_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficCone01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficCone02_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficCone02_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficCone02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficCone03_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficCone03_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficCone03_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficLight01_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficLight01_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficLight01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BathTub_Stone_TextData",
+   "en": "<mapObjectName id=|BathTub_Stone|/>",
+   "ro": "<mapObjectName id=|BathTub_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Box01_Stone_TextData",
+   "en": "<mapObjectName id=|Box01_Stone|/>",
+   "ro": "<mapObjectName id=|Box01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Chair01_Stone_TextData",
+   "en": "<mapObjectName id=|Chair01_Stone|/>",
+   "ro": "<mapObjectName id=|Chair01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Chair02_Stone_TextData",
+   "en": "<mapObjectName id=|Chair02_Stone|/>",
+   "ro": "<mapObjectName id=|Chair02_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Clock01_Stone_TextData",
+   "en": "<mapObjectName id=|Clock01_Stone|/>",
+   "ro": "<mapObjectName id=|Clock01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Curtain01_Wall_Stone_TextData",
+   "en": "<mapObjectName id=|Curtain01_Wall_Stone|/>",
+   "ro": "<mapObjectName id=|Curtain01_Wall_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Desk01_Stone_TextData",
+   "en": "<mapObjectName id=|Desk01_Stone|/>",
+   "ro": "<mapObjectName id=|Desk01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Globe01_Stone_TextData",
+   "en": "<mapObjectName id=|Globe01_Stone|/>",
+   "ro": "<mapObjectName id=|Globe01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Mirror01_Stone_TextData",
+   "en": "<mapObjectName id=|Mirror01_Stone|/>",
+   "ro": "<mapObjectName id=|Mirror01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Mirror02_Stone_TextData",
+   "en": "<mapObjectName id=|Mirror02_Stone|/>",
+   "ro": "<mapObjectName id=|Mirror02_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Mirror01_Wall_Stone_TextData",
+   "en": "<mapObjectName id=|Mirror01_Wall_Stone|/>",
+   "ro": "<mapObjectName id=|Mirror01_Wall_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Partition_Stone_TextData",
+   "en": "<mapObjectName id=|Partition_Stone|/>",
+   "ro": "<mapObjectName id=|Partition_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Piano01_Stone_TextData",
+   "en": "<mapObjectName id=|Piano01_Stone|/>",
+   "ro": "<mapObjectName id=|Piano01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Piano02_Stone_TextData",
+   "en": "<mapObjectName id=|Piano02_Stone|/>",
+   "ro": "<mapObjectName id=|Piano02_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Rug01_Stone_TextData",
+   "en": "<mapObjectName id=|Rug01_Stone|/>",
+   "ro": "<mapObjectName id=|Rug01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Rug02_Stone_TextData",
+   "en": "<mapObjectName id=|Rug02_Stone|/>",
+   "ro": "<mapObjectName id=|Rug02_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Rug03_Stone_TextData",
+   "en": "<mapObjectName id=|Rug03_Stone|/>",
+   "ro": "<mapObjectName id=|Rug03_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Rug04_Stone_TextData",
+   "en": "<mapObjectName id=|Rug04_Stone|/>",
+   "ro": "<mapObjectName id=|Rug04_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf01_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf01_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf02_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf02_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf02_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf03_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf03_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf03_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf04_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf04_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf04_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf05_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf05_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf05_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf06_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf06_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf06_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf07_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf07_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf07_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf01_Wall_Stone_TextData",
+   "en": "<mapObjectName id=|Shelf01_Wall_Stone|/>",
+   "ro": "<mapObjectName id=|Shelf01_Wall_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Sofa01_Stone_TextData",
+   "en": "<mapObjectName id=|Sofa01_Stone|/>",
+   "ro": "<mapObjectName id=|Sofa01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Sofa02_Stone_TextData",
+   "en": "<mapObjectName id=|Sofa02_Stone|/>",
+   "ro": "<mapObjectName id=|Sofa02_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Sofa03_Stone_TextData",
+   "en": "<mapObjectName id=|Sofa03_Stone|/>",
+   "ro": "<mapObjectName id=|Sofa03_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stool01_Stone_TextData",
+   "en": "<mapObjectName id=|Stool01_Stone|/>",
+   "ro": "<mapObjectName id=|Stool01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stove01_Stone_TextData",
+   "en": "<mapObjectName id=|Stove01_Stone|/>",
+   "ro": "<mapObjectName id=|Stove01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableCircular01_Stone_TextData",
+   "en": "<mapObjectName id=|TableCircular01_Stone|/>",
+   "ro": "<mapObjectName id=|TableCircular01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableDresser01_Stone_TextData",
+   "en": "<mapObjectName id=|TableDresser01_Stone|/>",
+   "ro": "<mapObjectName id=|TableDresser01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TableSink01_Stone_TextData",
+   "en": "<mapObjectName id=|TableSink01_Stone|/>",
+   "ro": "<mapObjectName id=|TableSink01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Toilet01_Stone_TextData",
+   "en": "<mapObjectName id=|Toilet01_Stone|/>",
+   "ro": "<mapObjectName id=|Toilet01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ToiletHolder01_Stone_TextData",
+   "en": "<mapObjectName id=|ToiletHolder01_Stone|/>",
+   "ro": "<mapObjectName id=|ToiletHolder01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TowlRack01_Stone_TextData",
+   "en": "<mapObjectName id=|TowlRack01_Stone|/>",
+   "ro": "<mapObjectName id=|TowlRack01_Stone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Plant01_Plant_TextData",
+   "en": "<mapObjectName id=|Plant01_Plant|/>",
+   "ro": "<mapObjectName id=|Plant01_Plant|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Plant02_Plant_TextData",
+   "en": "<mapObjectName id=|Plant02_Plant|/>",
+   "ro": "<mapObjectName id=|Plant02_Plant|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Plant03_Plant_TextData",
+   "en": "<mapObjectName id=|Plant03_Plant|/>",
+   "ro": "<mapObjectName id=|Plant03_Plant|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Plant04_Plant_TextData",
+   "en": "<mapObjectName id=|Plant04_Plant|/>",
+   "ro": "<mapObjectName id=|Plant04_Plant|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_FloorLamp01_TextData",
+   "en": "<mapObjectName id=|Light_FloorLamp01|/>",
+   "ro": "<mapObjectName id=|Light_FloorLamp01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_FloorLamp02_TextData",
+   "en": "<mapObjectName id=|Light_FloorLamp02|/>",
+   "ro": "<mapObjectName id=|Light_FloorLamp02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_LightPole01_TextData",
+   "en": "<mapObjectName id=|Light_LightPole01|/>",
+   "ro": "<mapObjectName id=|Light_LightPole01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_LightPole02_TextData",
+   "en": "<mapObjectName id=|Light_LightPole02|/>",
+   "ro": "<mapObjectName id=|Light_LightPole02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_LightPole03_TextData",
+   "en": "<mapObjectName id=|Light_LightPole03|/>",
+   "ro": "<mapObjectName id=|Light_LightPole03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_LightPole04_TextData",
+   "en": "<mapObjectName id=|Light_LightPole04|/>",
+   "ro": "<mapObjectName id=|Light_LightPole04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_FirePlace01_TextData",
+   "en": "<mapObjectName id=|Light_FirePlace01|/>",
+   "ro": "<mapObjectName id=|Light_FirePlace01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MedicalPalBed_04_TextData",
+   "en": "<mapObjectName id=|MedicalPalBed_04|/>",
+   "ro": "<mapObjectName id=|MedicalPalBed_04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DefenseWall_Wood_TextData",
+   "en": "<mapObjectName id=|DefenseWall_Wood|/>",
+   "ro": "<mapObjectName id=|DefenseWall_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DefenseWall_Metal_TextData",
+   "en": "<mapObjectName id=|DefenseWall_Metal|/>",
+   "ro": "<mapObjectName id=|DefenseWall_Metal|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_FirePlace02_TextData",
+   "en": "<mapObjectName id=|Light_FirePlace02|/>",
+   "ro": "<mapObjectName id=|Light_FirePlace02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_CandleSticks_Top_TextData",
+   "en": "<mapObjectName id=|Light_CandleSticks_Top|/>",
+   "ro": "<mapObjectName id=|Light_CandleSticks_Top|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Light_CandleSticks_Wall_TextData",
+   "en": "<mapObjectName id=|Light_CandleSticks_Wall|/>",
+   "ro": "<mapObjectName id=|Light_CandleSticks_Wall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Television01_Iron_TextData",
+   "en": "<mapObjectName id=|Television01_Iron|/>",
+   "ro": "<mapObjectName id=|Television01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Desk01_Iron_TextData",
+   "en": "<mapObjectName id=|Desk01_Iron|/>",
+   "ro": "<mapObjectName id=|Desk01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shelf01_Wall_Iron_TextData",
+   "en": "<mapObjectName id=|Shelf01_Wall_Iron|/>",
+   "ro": "<mapObjectName id=|Shelf01_Wall_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficSign01_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficSign01_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficSign01_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficSign02_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficSign02_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficSign02_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficSign03_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficSign03_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficSign03_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_TrafficSign04_Iron_TextData",
+   "en": "<mapObjectName id=|TrafficSign04_Iron|/>",
+   "ro": "<mapObjectName id=|TrafficSign04_Iron|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wood_WindowWall_TextData",
+   "en": "<mapObjectName id=|Wood_WindowWall|/>",
+   "ro": "<mapObjectName id=|Wood_WindowWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_WindowWall_TextData",
+   "en": "<mapObjectName id=|Stone_WindowWall|/>",
+   "ro": "<mapObjectName id=|Stone_WindowWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_WindowWall_TextData",
+   "en": "<mapObjectName id=|Metal_WindowWall|/>",
+   "ro": "<mapObjectName id=|Metal_WindowWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wood_TriangleWall_TextData",
+   "en": "<mapObjectName id=|Wood_TriangleWall|/>",
+   "ro": "<mapObjectName id=|Wood_TriangleWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_TriangleWall_TextData",
+   "en": "<mapObjectName id=|Stone_TriangleWall|/>",
+   "ro": "<mapObjectName id=|Stone_TriangleWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_TriangleWall_TextData",
+   "en": "<mapObjectName id=|Metal_TriangleWall|/>",
+   "ro": "<mapObjectName id=|Metal_TriangleWall|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wood_SlantedRoof_TextData",
+   "en": "<mapObjectName id=|Wood_SlantedRoof|/>",
+   "ro": "<mapObjectName id=|Wood_SlantedRoof|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Stone_SlantedRoof_TextData",
+   "en": "<mapObjectName id=|Stone_SlantedRoof|/>",
+   "ro": "<mapObjectName id=|Stone_SlantedRoof|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Metal_SlantedRoof_TextData",
+   "en": "<mapObjectName id=|Metal_SlantedRoof|/>",
+   "ro": "<mapObjectName id=|Metal_SlantedRoof|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_1_TextData",
+   "en": "Wooden Living Room Furniture Set",
+   "ro": "Set de mobilier de sufragerie din lemn"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_2_TextData",
+   "en": "Wooden Tavern Cabinet Furniture Set",
+   "ro": "Set de dulapuri de tavernă din lemn"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_3_TextData",
+   "en": "Wooden Tavern Furniture Set",
+   "ro": "Set de mobilier de tavernă din lemn"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_4_TextData",
+   "en": "Wall-Mounted Houseplant Set",
+   "ro": "Set de plante de interior suspendate"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_5_TextData",
+   "en": "Metal Barrel Set",
+   "ro": "Set de butoaie metalice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_6_TextData",
+   "en": "Storage Container Set",
+   "ro": "Set de containere de depozitare"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_7_TextData",
+   "en": "Leather Chair Set",
+   "ro": "Set de scaune din piele"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_8_TextData",
+   "en": "Emergency Exit Sign Set",
+   "ro": "Set de indicatoare de ieșire de urgență"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_9_TextData",
+   "en": "Houseplant Set",
+   "ro": "Set de plante de interior"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_10_TextData",
+   "en": "Barricade Set",
+   "ro": "Set de baricade"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_11_TextData",
+   "en": "Traffic Control Set",
+   "ro": "Set de dirijare a traficului"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_12_TextData",
+   "en": "Road Sign Set",
+   "ro": "Set de indicatoare rutiere"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_13_TextData",
+   "en": "Metal Chair and Desk Set",
+   "ro": "Set de birou și scaun din metal"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_14_TextData",
+   "en": "Ironwood Table Set",
+   "ro": "Set de mese din lemn de fier"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_15_TextData",
+   "en": "Piano Furniture Set",
+   "ro": "Set de mobilier cu pian"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_16_TextData",
+   "en": "Antique Mirror Set",
+   "ro": "Set de oglinzi antice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_17_TextData",
+   "en": "Carpet Set",
+   "ro": "Set de covoare"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_18_TextData",
+   "en": "Antique Couch Set",
+   "ro": "Set de canapele antice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_19_TextData",
+   "en": "Antique Chair Set",
+   "ro": "Set de scaune antice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_20_TextData",
+   "en": "Antique Bath Set",
+   "ro": "Set de baie antic"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_21_TextData",
+   "en": "Antique Storage Set",
+   "ro": "Set de depozitare antic"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_22_TextData",
+   "en": "Antique Storage Cabinet Set",
+   "ro": "Set de dulapuri de depozitare antice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_23_TextData",
+   "en": "Clock Set",
+   "ro": "Set de ceasuri"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_24_TextData",
+   "en": "Antique Desk Set",
+   "ro": "Set de birouri antice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_25_TextData",
+   "en": "Bathroom Set",
+   "ro": "Set pentru baie"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_26_TextData",
+   "en": "Amusement Furniture Set",
+   "ro": "Set de mobilier recreativ"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_27_TextData",
+   "en": "Street Lamp Set",
+   "ro": "Set de felinare stradale"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_28_TextData",
+   "en": "Fireplace Set",
+   "ro": "Set de șemineuri"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_29_TextData",
+   "en": "Antique Lamp Set",
+   "ro": "Set de lămpi antice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_30_TextData",
+   "en": "Metal Shelf Set",
+   "ro": "Set de rafturi metalice"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_31_TextData",
+   "en": "Outdoor Furniture Set",
+   "ro": "Set de mobilier pentru exterior"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureSet_32_TextData",
+   "en": "Antique High Quality Furniture Set",
+   "ro": "Set de mobilier antic de înaltă calitate"
+  },
+  {
+   "key": "NAME_RECIPE_DecalGunSet_TextData",
+   "en": "Decal Gun Set",
+   "ro": "Set de arme cu decalcomanii"
+  },
+  {
+   "key": "NAME_RECIPE_BuildObject_Chair01_Pal_TextData",
+   "en": "<mapObjectName id=|BuildObject_Chair01_Pal|/>",
+   "ro": "<mapObjectName id=|BuildObject_Chair01_Pal|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Altar_TextData",
+   "en": "<mapObjectName id=|Altar|/>",
+   "ro": "<mapObjectName id=|Altar|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_Nonkilling_TextData",
+   "en": "<itemName id=|Accessory_Nonkilling|/>",
+   "ro": "<itemName id=|Accessory_Nonkilling|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_TalentChecker_TextData",
+   "en": "<itemName id=|Accessory_TalentChecker|/>",
+   "ro": "<itemName id=|Accessory_TalentChecker|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CopperPit_TextData",
+   "en": "<mapObjectName id=|CopperPit|/>",
+   "ro": "<mapObjectName id=|CopperPit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CopperPit_2_TextData",
+   "en": "<mapObjectName id=|CopperPit_2|/>",
+   "ro": "<mapObjectName id=|CopperPit_2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ElectricHatchingPalEgg_TextData",
+   "en": "<mapObjectName id=|ElectricHatchingPalEgg|/>",
+   "ro": "<mapObjectName id=|ElectricHatchingPalEgg|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Homeward_TextData",
+   "en": "<itemName id=|Homeward|/>",
+   "ro": "<itemName id=|Homeward|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SPHERE7_TextData",
+   "en": "<itemName id=|PalSphere_Ultimate|/>",
+   "ro": "<itemName id=|PalSphere_Ultimate|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Plastic_TextData",
+   "en": "<itemName id=|Plastic|/>",
+   "ro": "<itemName id=|Plastic|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR6_TextData",
+   "en": "<itemName id=|PlasticArmor|/>",
+   "ro": "<itemName id=|PlasticArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OilPump_TextData",
+   "en": "<mapObjectName id=|OilPump|/>",
+   "ro": "<mapObjectName id=|OilPump|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GrenadeLauncher_TextData",
+   "en": "<itemName id=|GrenadeLauncher|/>",
+   "ro": "<itemName id=|GrenadeLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CoolerPalFoodBox_TextData",
+   "en": "<mapObjectName id=|CoolerPalFoodBox|/>",
+   "ro": "<mapObjectName id=|CoolerPalFoodBox|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GuidedMissileLauncher_TextData",
+   "en": "<itemName id=|GuidedMissileLauncher|/>",
+   "ro": "<itemName id=|GuidedMissileLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WallSignBoard_TextData",
+   "en": "<mapObjectName id=|WallSignBoard|/>",
+   "ro": "<mapObjectName id=|WallSignBoard|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HELMET6_TextData",
+   "en": "<itemName id=|PlasticHelmet|/>",
+   "ro": "<itemName id=|PlasticHelmet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LaserRifle_TextData",
+   "en": "<itemName id=|LaserRifle|/>",
+   "ro": "<itemName id=|LaserRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LaserBullet_TextData",
+   "en": "<itemName id=|LaserBullet|/>",
+   "ro": "<itemName id=|LaserBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FlameThrower_TextData",
+   "en": "<itemName id=|FlameThrower|/>",
+   "ro": "<itemName id=|FlameThrower|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FlamethrowerBullet_TextData",
+   "en": "<itemName id=|FlamethrowerBullet|/>",
+   "ro": "<itemName id=|FlamethrowerBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Gasoline_TextData",
+   "en": "<itemName id=|Gasoline|/>",
+   "ro": "<itemName id=|Gasoline|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DismantlingConveyor_TextData",
+   "en": "<mapObjectName id=|DismantlingConveyor|/>",
+   "ro": "<mapObjectName id=|DismantlingConveyor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SulfurPit_TextData",
+   "en": "<mapObjectName id=|SulfurPit|/>",
+   "ro": "<mapObjectName id=|SulfurPit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CoalPit_TextData",
+   "en": "<mapObjectName id=|CoalPit|/>",
+   "ro": "<mapObjectName id=|CoalPit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR6_Heat_TextData",
+   "en": "<itemName id=|PlasticArmorHeat|/>",
+   "ro": "<itemName id=|PlasticArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GrenadeBullet_TextData",
+   "en": "<itemName id=|GrenadeBullet|/>",
+   "ro": "<itemName id=|GrenadeBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Propellant_TextData",
+   "en": "<itemName id=|Propellant|/>",
+   "ro": "<itemName id=|Propellant|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Super_TextData",
+   "en": "<itemName id=|FragGrenade_Super|/>",
+   "ro": "<itemName id=|FragGrenade_Super|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR6_Cold_TextData",
+   "en": "<itemName id=|PlasticArmorCold|/>",
+   "ro": "<itemName id=|PlasticArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MissileBullet_TextData",
+   "en": "<itemName id=|MissileBullet|/>",
+   "ro": "<itemName id=|MissileBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_IceCrusher_TextData",
+   "en": "<mapObjectName id=|IceCrusher|/>",
+   "ro": "<mapObjectName id=|IceCrusher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ARMOR6_Weight_TextData",
+   "en": "<itemName id=|PlasticArmorWeight|/>",
+   "ro": "<itemName id=|PlasticArmorWeight|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GatlingGun_TextData",
+   "en": "<itemName id=|GatlingGun|/>",
+   "ro": "<itemName id=|GatlingGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GatlingBullet_TextData",
+   "en": "<itemName id=|GatlingBullet|/>",
+   "ro": "<itemName id=|GatlingBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MultiGuidedMissileLauncher_TextData",
+   "en": "<itemName id=|MultiGuidedMissileLauncher|/>",
+   "ro": "<itemName id=|MultiGuidedMissileLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ElectricGenerator_Large_TextData",
+   "en": "<mapObjectName id=|ElectricGenerator_Large|/>",
+   "ro": "<mapObjectName id=|ElectricGenerator_Large|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Glass_Houseset_TextData",
+   "en": "Glass Structure Set",
+   "ro": "Set de structuri din sticlă"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GuardianDog_TextData",
+   "en": "<itemName id=|SkillUnlock_GuardianDog|/>",
+   "ro": "<itemName id=|SkillUnlock_GuardianDog|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FeatherOstrich_TextData",
+   "en": "<itemName id=|SkillUnlock_FeatherOstrich|/>",
+   "ro": "<itemName id=|SkillUnlock_FeatherOstrich|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WeaselDragon_Fire_TextData",
+   "en": "<itemName id=|SkillUnlock_WeaselDragon_Fire|/>",
+   "ro": "<itemName id=|SkillUnlock_WeaselDragon_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_MushroomDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_MushroomDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_MushroomDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_MushroomDragon_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_MushroomDragon_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_MushroomDragon_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_HadesBird_Electric_TextData",
+   "en": "<itemName id=|SkillUnlock_HadesBird_Electric|/>",
+   "ro": "<itemName id=|SkillUnlock_HadesBird_Electric|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_MoonQueen_TextData",
+   "en": "<itemName id=|SkillUnlock_MoonQueen|/>",
+   "ro": "<itemName id=|SkillUnlock_MoonQueen|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_SkyDragon_Grass_TextData",
+   "en": "<itemName id=|SkillUnlock_SkyDragon_Grass|/>",
+   "ro": "<itemName id=|SkillUnlock_SkyDragon_Grass|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_KingBahamut_Dragon_TextData",
+   "en": "<itemName id=|SkillUnlock_KingBahamut_Dragon|/>",
+   "ro": "<itemName id=|SkillUnlock_KingBahamut_Dragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Unlock_Picking_Tier1_TextData",
+   "en": "<itemName id=|Unlock_Picking_Tier1|/>",
+   "ro": "<itemName id=|Unlock_Picking_Tier1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WhiteAlienDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_WhiteAlienDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_WhiteAlienDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Unlock_Picking_Tier2_TextData",
+   "en": "<itemName id=|Unlock_Picking_Tier2|/>",
+   "ro": "<itemName id=|Unlock_Picking_Tier2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Unlock_Picking_Tier3_TextData",
+   "en": "<itemName id=|Unlock_Picking_Tier3|/>",
+   "ro": "<itemName id=|Unlock_Picking_Tier3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkinChange_TextData",
+   "en": "<mapObjectName id=|SkinChange|/>",
+   "ro": "<mapObjectName id=|SkinChange|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Launcher_Meteor_TextData",
+   "en": "<itemName id=|Launcher_Meteor|/>",
+   "ro": "<itemName id=|Launcher_Meteor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SemiAutoShotgun_TextData",
+   "en": "<itemName id=|SemiAutoShotgun|/>",
+   "ro": "<itemName id=|SemiAutoShotgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_EnergyRocketLauncher_TextData",
+   "en": "<itemName id=|EnergyRocketLauncher|/>",
+   "ro": "<itemName id=|EnergyRocketLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Dark_TextData",
+   "en": "<itemName id=|FragGrenade_Dark|/>",
+   "ro": "<itemName id=|FragGrenade_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Dragon_TextData",
+   "en": "<itemName id=|FragGrenade_Dragon|/>",
+   "ro": "<itemName id=|FragGrenade_Dragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Ground_TextData",
+   "en": "<itemName id=|FragGrenade_Ground|/>",
+   "ro": "<itemName id=|FragGrenade_Ground|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Leaf_TextData",
+   "en": "<itemName id=|FragGrenade_Leaf|/>",
+   "ro": "<itemName id=|FragGrenade_Leaf|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FragGrenade_Water_TextData",
+   "en": "<itemName id=|FragGrenade_Water|/>",
+   "ro": "<itemName id=|FragGrenade_Water|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Katana_TextData",
+   "en": "<itemName id=|Katana|/>",
+   "ro": "<itemName id=|Katana|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BeamSword_TextData",
+   "en": "<itemName id=|BeamSword|/>",
+   "ro": "<itemName id=|BeamSword|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalRevive_TextData",
+   "en": "<itemName id=|PalRevive|/>",
+   "ro": "<itemName id=|PalRevive|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AdditionalInventory_001_TextData",
+   "en": "<itemName id=|AdditionalInventory_001|/>",
+   "ro": "<itemName id=|AdditionalInventory_001|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AdditionalInventory_002_TextData",
+   "en": "<itemName id=|AdditionalInventory_002|/>",
+   "ro": "<itemName id=|AdditionalInventory_002|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AdditionalInventory_003_TextData",
+   "en": "<itemName id=|AdditionalInventory_003|/>",
+   "ro": "<itemName id=|AdditionalInventory_003|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AdditionalInventory_004_TextData",
+   "en": "<itemName id=|AdditionalInventory_004|/>",
+   "ro": "<itemName id=|AdditionalInventory_004|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OldRevolver_TextData",
+   "en": "<itemName id=|OldRevolver|/>",
+   "ro": "<itemName id=|OldRevolver|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Pickaxe_Steal_TextData",
+   "en": "<itemName id=|Pickaxe_Steal|/>",
+   "ro": "<itemName id=|Pickaxe_Steal|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Axe_Steal_TextData",
+   "en": "<itemName id=|Axe_Steal|/>",
+   "ro": "<itemName id=|Axe_Steal|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MakeshiftAssaultRifle_TextData",
+   "en": "<itemName id=|MakeshiftAssaultRifle|/>",
+   "ro": "<itemName id=|MakeshiftAssaultRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SemiAutoRifle_TextData",
+   "en": "<itemName id=|SemiAutoRifle|/>",
+   "ro": "<itemName id=|SemiAutoRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MakeshiftSubmachineGun_TextData",
+   "en": "<itemName id=|MakeshiftSubmachineGun|/>",
+   "ro": "<itemName id=|MakeshiftSubmachineGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SubmachineGun_TextData",
+   "en": "<itemName id=|SubmachineGun|/>",
+   "ro": "<itemName id=|SubmachineGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MakeshiftShotgun_TextData",
+   "en": "<itemName id=|MakeshiftShotgun|/>",
+   "ro": "<itemName id=|MakeshiftShotgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SFHelmet_TextData",
+   "en": "<itemName id=|SFHelmet|/>",
+   "ro": "<itemName id=|SFHelmet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SFArmor_TextData",
+   "en": "<itemName id=|SFArmor|/>",
+   "ro": "<itemName id=|SFArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SFArmorHeat_TextData",
+   "en": "<itemName id=|SFArmorHeat|/>",
+   "ro": "<itemName id=|SFArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SFArmorCold_TextData",
+   "en": "<itemName id=|SFArmorCold|/>",
+   "ro": "<itemName id=|SFArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SFArmorWeight_TextData",
+   "en": "<itemName id=|SFArmorWeight|/>",
+   "ro": "<itemName id=|SFArmorWeight|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LaserGatlingBullet_TextData",
+   "en": "<itemName id=|LaserGatlingBullet|/>",
+   "ro": "<itemName id=|LaserGatlingBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_EnergyLauncherBullet_TextData",
+   "en": "<itemName id=|EnergyLauncherBullet|/>",
+   "ro": "<itemName id=|EnergyLauncherBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_SF_TextData",
+   "en": "<itemName id=|Shield_SF|/>",
+   "ro": "<itemName id=|Shield_SF|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MetalDetector_TextData",
+   "en": "<itemName id=|MetalDetector|/>",
+   "ro": "<itemName id=|MetalDetector|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_JumpPower_Increase_TextData",
+   "en": "<itemName id=|Accessory_JumpPower_Increase|/>",
+   "ro": "<itemName id=|Accessory_JumpPower_Increase|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_JumpCount_Increase1_TextData",
+   "en": "<itemName id=|Accessory_JumpCount_Increase1|/>",
+   "ro": "<itemName id=|Accessory_JumpCount_Increase1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_JumpCount_Increase2_TextData",
+   "en": "<itemName id=|Accessory_JumpCount_Increase2|/>",
+   "ro": "<itemName id=|Accessory_JumpCount_Increase2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_JumpCount_Increase3_TextData",
+   "en": "<itemName id=|Accessory_JumpCount_Increase3|/>",
+   "ro": "<itemName id=|Accessory_JumpCount_Increase3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_AirDash1_TextData",
+   "en": "<itemName id=|Accessory_AirDash1|/>",
+   "ro": "<itemName id=|Accessory_AirDash1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_AirDash2_TextData",
+   "en": "<itemName id=|Accessory_AirDash2|/>",
+   "ro": "<itemName id=|Accessory_AirDash2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_AirDash3_TextData",
+   "en": "<itemName id=|Accessory_AirDash3|/>",
+   "ro": "<itemName id=|Accessory_AirDash3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_AirDash4_TextData",
+   "en": "<itemName id=|Accessory_AirDash4|/>",
+   "ro": "<itemName id=|Accessory_AirDash4|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalSphere_Exotic_TextData",
+   "en": "<itemName id=|PalSphere_Exotic|/>",
+   "ro": "<itemName id=|PalSphere_Exotic|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CompoundBow_TextData",
+   "en": "<itemName id=|CompoundBow|/>",
+   "ro": "<itemName id=|CompoundBow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ReinforcedArrow_TextData",
+   "en": "<itemName id=|ReinforcedArrow|/>",
+   "ro": "<itemName id=|ReinforcedArrow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SFBow_TextData",
+   "en": "<itemName id=|SFBow|/>",
+   "ro": "<itemName id=|SFBow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SFArrow_TextData",
+   "en": "<itemName id=|SFArrow|/>",
+   "ro": "<itemName id=|SFArrow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_StainlessSteel_TextData",
+   "en": "<itemName id=|StainlessSteel|/>",
+   "ro": "<itemName id=|StainlessSteel|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Potion_Extreme_TextData",
+   "en": "<itemName id=|Potion_Extreme|/>",
+   "ro": "<itemName id=|Potion_Extreme|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FarmBlockV2_Carrot_TextData",
+   "en": "<mapObjectName id=|FarmBlockV2_Carrot|/>",
+   "ro": "<mapObjectName id=|FarmBlockV2_Carrot|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FarmBlockV2_Onion_TextData",
+   "en": "<mapObjectName id=|FarmBlockV2_Onion|/>",
+   "ro": "<mapObjectName id=|FarmBlockV2_Onion|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FarmBlockV2_Potato_TextData",
+   "en": "<mapObjectName id=|FarmBlockV2_Potato|/>",
+   "ro": "<mapObjectName id=|FarmBlockV2_Potato|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SphereFactory_Black_04_TextData",
+   "en": "<mapObjectName id=|SphereFactory_Black_04|/>",
+   "ro": "<mapObjectName id=|SphereFactory_Black_04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MultiElectricHatchingPalEgg_TextData",
+   "en": "<mapObjectName id=|MultiElectricHatchingPalEgg|/>",
+   "ro": "<mapObjectName id=|MultiElectricHatchingPalEgg|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HugeKitchen_TextData",
+   "en": "<mapObjectName id=|HugeKitchen|/>",
+   "ro": "<mapObjectName id=|HugeKitchen|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Factory_Hard_04_TextData",
+   "en": "<mapObjectName id=|Factory_Hard_04|/>",
+   "ro": "<mapObjectName id=|Factory_Hard_04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WeaponFactory_Dirty_04_TextData",
+   "en": "<mapObjectName id=|WeaponFactory_Dirty_04|/>",
+   "ro": "<mapObjectName id=|WeaponFactory_Dirty_04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SanityDecrease1_TextData",
+   "en": "<mapObjectName id=|SanityDecrease1|/>",
+   "ro": "<mapObjectName id=|SanityDecrease1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WorkSpeedIncrease1_TextData",
+   "en": "<mapObjectName id=|WorkSpeedIncrease1|/>",
+   "ro": "<mapObjectName id=|WorkSpeedIncrease1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_QuartzPit_TextData",
+   "en": "<mapObjectName id=|QuartzPit|/>",
+   "ro": "<mapObjectName id=|QuartzPit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Factory_Money_TextData",
+   "en": "<mapObjectName id=|Factory_Money|/>",
+   "ro": "<mapObjectName id=|Factory_Money|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ItemChest_04_TextData",
+   "en": "<mapObjectName id=|ItemChest_04|/>",
+   "ro": "<mapObjectName id=|ItemChest_04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MedicalPalBed_05_TextData",
+   "en": "<mapObjectName id=|MedicalPalBed_05|/>",
+   "ro": "<mapObjectName id=|MedicalPalBed_05|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BaseCampItemDispenser_TextData",
+   "en": "<mapObjectName id=|BaseCampItemDispenser|/>",
+   "ro": "<mapObjectName id=|BaseCampItemDispenser|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GuildChest_TextData",
+   "en": "<mapObjectName id=|GuildChest|/>",
+   "ro": "<mapObjectName id=|GuildChest|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WoodCreator_TextData",
+   "en": "<mapObjectName id=|WoodCreator|/>",
+   "ro": "<mapObjectName id=|WoodCreator|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Expedition_TextData",
+   "en": "<mapObjectName id=|Expedition|/>",
+   "ro": "<mapObjectName id=|Expedition|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Lab_TextData",
+   "en": "<mapObjectName id=|Lab|/>",
+   "ro": "<mapObjectName id=|Lab|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OperatingTable_TextData",
+   "en": "<mapObjectName id=|OperatingTable|/>",
+   "ro": "<mapObjectName id=|OperatingTable|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ManualElectricGenerator_TextData",
+   "en": "<mapObjectName id=|ManualElectricGenerator|/>",
+   "ro": "<mapObjectName id=|ManualElectricGenerator|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Farm_SkillFruits_TextData",
+   "en": "<mapObjectName id=|Farm_SkillFruits|/>",
+   "ro": "<mapObjectName id=|Farm_SkillFruits|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Wooden_ladder_TextData",
+   "en": "<mapObjectName id=|Wooden_ladder|/>",
+   "ro": "<mapObjectName id=|Wooden_ladder|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalMedicineBox_TextData",
+   "en": "<mapObjectName id=|PalMedicineBox|/>",
+   "ro": "<mapObjectName id=|PalMedicineBox|/>"
+  },
+  {
+   "key": "NAME_RECIPE_EnergyStorage_Electric_TextData",
+   "en": "<mapObjectName id=|EnergyStorage_Electric|/>",
+   "ro": "<mapObjectName id=|EnergyStorage_Electric|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BlastFurnace4_TextData",
+   "en": "<mapObjectName id=|BlastFurnace4|/>",
+   "ro": "<mapObjectName id=|BlastFurnace4|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ItemBooth_TextData",
+   "en": "<mapObjectName id=|ItemBooth|/>",
+   "ro": "<mapObjectName id=|ItemBooth|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalBooth_TextData",
+   "en": "<mapObjectName id=|PalBooth|/>",
+   "ro": "<mapObjectName id=|PalBooth|/>"
+  },
+  {
+   "key": "NAME_RECIPE_JapaneseStyle_Houseset_TextData",
+   "en": "Japanese-Style Structure Set",
+   "ro": "Set de structuri în stil japonez"
+  },
+  {
+   "key": "NAME_RECIPE_LaserGatlingGun_TextData",
+   "en": "<itemName id=|LaserGatlingGun|/>",
+   "ro": "<itemName id=|LaserGatlingGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MedicineFacility_03_TextData",
+   "en": "<mapObjectName id=|MedicineFacility_03|/>",
+   "ro": "<mapObjectName id=|MedicineFacility_03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SphereModule_Heavy_TextData",
+   "en": "<itemName id=|SphereModule_Heavy|/>",
+   "ro": "<itemName id=|SphereModule_Heavy|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SphereModule_Curve_TextData",
+   "en": "<itemName id=|SphereModule_Curve|/>",
+   "ro": "<itemName id=|SphereModule_Curve|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SphereModule_Sniper_TextData",
+   "en": "<itemName id=|SphereModule_Sniper|/>",
+   "ro": "<itemName id=|SphereModule_Sniper|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SphereModule_Homing_TextData",
+   "en": "<itemName id=|SphereModule_Homing|/>",
+   "ro": "<itemName id=|SphereModule_Homing|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Headstone_TextData",
+   "en": "<mapObjectName id=|Headstone|/>",
+   "ro": "<mapObjectName id=|Headstone|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SphereModule_Curve2_TextData",
+   "en": "<itemName id=|SphereModule_Curve2|/>",
+   "ro": "<itemName id=|SphereModule_Curve2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SphereModule_Sniper2_TextData",
+   "en": "<itemName id=|SphereModule_Sniper2|/>",
+   "ro": "<itemName id=|SphereModule_Sniper2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_DarkMechaDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_DarkMechaDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_DarkMechaDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_NightBlueHorse_TextData",
+   "en": "<itemName id=|SkillUnlock_NightBlueHorse|/>",
+   "ro": "<itemName id=|SkillUnlock_NightBlueHorse|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WhiteShieldDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_WhiteShieldDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_WhiteShieldDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WhiteDeer_TextData",
+   "en": "<itemName id=|SkillUnlock_WhiteDeer|/>",
+   "ro": "<itemName id=|SkillUnlock_WhiteDeer|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_PurpleSpider_TextData",
+   "en": "<itemName id=|SkillUnlock_PurpleSpider|/>",
+   "ro": "<itemName id=|SkillUnlock_PurpleSpider|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlueThunderHorse_TextData",
+   "en": "<itemName id=|SkillUnlock_BlueThunderHorse|/>",
+   "ro": "<itemName id=|SkillUnlock_BlueThunderHorse|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_SnowTigerBeastman_TextData",
+   "en": "<itemName id=|SkillUnlock_SnowTigerBeastman|/>",
+   "ro": "<itemName id=|SkillUnlock_SnowTigerBeastman|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_AmaterasuWolf_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_AmaterasuWolf_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_AmaterasuWolf_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FengyunDeeper_Electric_TextData",
+   "en": "<itemName id=|SkillUnlock_FengyunDeeper_Electric|/>",
+   "ro": "<itemName id=|SkillUnlock_FengyunDeeper_Electric|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Horus_Water_TextData",
+   "en": "<itemName id=|SkillUnlock_Horus_Water|/>",
+   "ro": "<itemName id=|SkillUnlock_Horus_Water|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlackPuppy_TextData",
+   "en": "<itemName id=|SkillUnlock_BlackPuppy|/>",
+   "ro": "<itemName id=|SkillUnlock_BlackPuppy|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Kitsunebi_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_Kitsunebi_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_Kitsunebi_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_RaijinDaughter_Water_TextData",
+   "en": "<itemName id=|SkillUnlock_RaijinDaughter_Water|/>",
+   "ro": "<itemName id=|SkillUnlock_RaijinDaughter_Water|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GoldenHorse_TextData",
+   "en": "<itemName id=|SkillUnlock_GoldenHorse|/>",
+   "ro": "<itemName id=|SkillUnlock_GoldenHorse|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BadCatgirl_TextData",
+   "en": "<itemName id=|SkillUnlock_BadCatgirl|/>",
+   "ro": "<itemName id=|SkillUnlock_BadCatgirl|/>"
+  },
+  {
+   "key": "NAME_RECIPE_JapaneseStyle_FurnitureSet_TextData",
+   "en": "Japanese-Style Furniture Set",
+   "ro": "Set de mobilier în stil japonez"
+  },
+  {
+   "key": "NAME_RECIPE_YakushimaBlade_TextData",
+   "en": "<itemName id=|YakushimaBlade|/>",
+   "ro": "<itemName id=|YakushimaBlade|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GlobalPalStorage_TextData",
+   "en": "<mapObjectname id=|GlobalPalStorage|/>",
+   "ro": "<mapObjectname id=|GlobalPalStorage|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CompositeDesk_TextData",
+   "en": "<mapObjectname id=|CompositeDesk|/>",
+   "ro": "<mapObjectname id=|CompositeDesk|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DimensionPalStorage_TextData",
+   "en": "<mapObjectname id=|DimensionPalStorage|/>",
+   "ro": "<mapObjectname id=|DimensionPalStorage|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SF_Houseset_TextData",
+   "en": "Futuristic Structure Set",
+   "ro": "Set de structuri futuriste"
+  },
+  {
+   "key": "NAME_RECIPE_ChargeLaserRifle_TextData",
+   "en": "<itemName id=|ChargeLaserRifle|/>",
+   "ro": "<itemName id=|ChargeLaserRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OverheatRifle_TextData",
+   "en": "<itemName id=|OverheatRifle|/>",
+   "ro": "<itemName id=|OverheatRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_EnergyShotgun_TextData",
+   "en": "<itemName id=|EnergyShotgun|/>",
+   "ro": "<itemName id=|EnergyShotgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalDopingShot_TextData",
+   "en": "<itemName id=|PalDopingShot|/>",
+   "ro": "<itemName id=|PalDopingShot|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalDopingShot_2_TextData",
+   "en": "<itemName id=|PalDopingShot_2|/>",
+   "ro": "<itemName id=|PalDopingShot_2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalHealingGrenade_TextData",
+   "en": "<itemName id=|PalHealingGrenade|/>",
+   "ro": "<itemName id=|PalHealingGrenade|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ChargeLaserRifleBullet_TextData",
+   "en": "<itemName id=|ChargeLaserRifleBullet|/>",
+   "ro": "<itemName id=|ChargeLaserRifleBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OverheatRifleBullet_TextData",
+   "en": "<itemName id=|OverheatRifleBullet|/>",
+   "ro": "<itemName id=|OverheatRifleBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_EnergyShotgunBullet_TextData",
+   "en": "<itemName id=|EnergyShotgunBullet|/>",
+   "ro": "<itemName id=|EnergyShotgunBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalDopingShotBullet_TextData",
+   "en": "<itemName id=|PalDopingShotBullet|/>",
+   "ro": "<itemName id=|PalDopingShotBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Salvage_TreasureBoxKey01_TextData",
+   "en": "<itemName id=|Salvage_TreasureBoxKey01|/>",
+   "ro": "<itemName id=|Salvage_TreasureBoxKey01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Salvage_TreasureBoxKey02_TextData",
+   "en": "<itemName id=|Salvage_TreasureBoxKey02|/>",
+   "ro": "<itemName id=|Salvage_TreasureBoxKey02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Lantern_High_TextData",
+   "en": "<itemName id=|Lantern_High|/>",
+   "ro": "<itemName id=|Lantern_High|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceNarwhal_TextData",
+   "en": "<itemName id=|SkillUnlock_IceNarwhal|/>",
+   "ro": "<itemName id=|SkillUnlock_IceNarwhal|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GhostAnglerfish_TextData",
+   "en": "<itemName id=|SkillUnlock_GhostAnglerfish|/>",
+   "ro": "<itemName id=|SkillUnlock_GhostAnglerfish|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_LeafMomonga_TextData",
+   "en": "<itemName id=|SkillUnlock_LeafMomonga|/>",
+   "ro": "<itemName id=|SkillUnlock_LeafMomonga|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceSeal_TextData",
+   "en": "<itemName id=|SkillUnlock_IceSeal|/>",
+   "ro": "<itemName id=|SkillUnlock_IceSeal|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Plesiosaur_TextData",
+   "en": "<itemName id=|SkillUnlock_Plesiosaur|/>",
+   "ro": "<itemName id=|SkillUnlock_Plesiosaur|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_TropicalOstrich_TextData",
+   "en": "<itemName id=|SkillUnlock_TropicalOstrich|/>",
+   "ro": "<itemName id=|SkillUnlock_TropicalOstrich|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_PoseidonOrca_TextData",
+   "en": "<itemName id=|SkillUnlock_PoseidonOrca|/>",
+   "ro": "<itemName id=|SkillUnlock_PoseidonOrca|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_NegativeOctopus_Neutral_TextData",
+   "en": "<itemName id=|SkillUnlock_NegativeOctopus_Neutral|/>",
+   "ro": "<itemName id=|SkillUnlock_NegativeOctopus_Neutral|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Penguin_Electric_TextData",
+   "en": "<itemName id=|SkillUnlock_Penguin_Electric|/>",
+   "ro": "<itemName id=|SkillUnlock_Penguin_Electric|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_FlyingManta_Thunder_TextData",
+   "en": "<itemName id=|SkillUnlock_FlyingManta_Thunder|/>",
+   "ro": "<itemName id=|SkillUnlock_FlyingManta_Thunder|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlueDragon_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_BlueDragon_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_BlueDragon_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GhostAnglerfish_Fire_TextData",
+   "en": "<itemName id=|SkillUnlock_GhostAnglerfish_Fire|/>",
+   "ro": "<itemName id=|SkillUnlock_GhostAnglerfish_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceNarwhal_Fire_TextData",
+   "en": "<itemName id=|SkillUnlock_IceNarwhal_Fire|/>",
+   "ro": "<itemName id=|SkillUnlock_IceNarwhal_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingRod_1_TextData",
+   "en": "<itemName id=|FishingRod_1|/>",
+   "ro": "<itemName id=|FishingRod_1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingRod_2_TextData",
+   "en": "<itemName id=|FishingRod_2|/>",
+   "ro": "<itemName id=|FishingRod_2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingRod_3_TextData",
+   "en": "<itemName id=|FishingRod_3|/>",
+   "ro": "<itemName id=|FishingRod_3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GrapplingGun5_TextData",
+   "en": "<itemName id=|GrapplingGun5|/>",
+   "ro": "<itemName id=|GrapplingGun5|/>"
+  },
+  {
+   "key": "NAME_RECIPE_CrystalPit_TextData",
+   "en": "<mapObjectname id=|CrystalPit|/>",
+   "ro": "<mapObjectname id=|CrystalPit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spa3_TextData",
+   "en": "<mapObjectname id=|Spa3|/>",
+   "ro": "<mapObjectname id=|Spa3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MultiHatchingPalEgg_TextData",
+   "en": "<mapObjectname id=|MultiHatchingPalEgg|/>",
+   "ro": "<mapObjectname id=|MultiHatchingPalEgg|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingPond1_TextData",
+   "en": "<mapObjectname id=|FishingPond1|/>",
+   "ro": "<mapObjectname id=|FishingPond1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingPond2_TextData",
+   "en": "<mapObjectname id=|FishingPond2|/>",
+   "ro": "<mapObjectname id=|FishingPond2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BaseCampWorkerExtraStation_TextData",
+   "en": "<mapObjectname id=|BaseCampWorkerExtraStation|/>",
+   "ro": "<mapObjectname id=|BaseCampWorkerExtraStation|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBait_2_TextData",
+   "en": "<itemName id=|FishingBait_2|/>",
+   "ro": "<itemName id=|FishingBait_2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBait_4_TextData",
+   "en": "<itemName id=|FishingBait_4|/>",
+   "ro": "<itemName id=|FishingBait_4|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBait_6_TextData",
+   "en": "<itemName id=|FishingBait_6|/>",
+   "ro": "<itemName id=|FishingBait_6|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingSet1_TextData",
+   "en": "Beginner Fishing Set",
+   "ro": "Set de pescuit pentru începători"
+  },
+  {
+   "key": "NAME_RECIPE_FishingSet2_TextData",
+   "en": "Intermediate Fishing Set",
+   "ro": "Set de pescuit intermediar"
+  },
+  {
+   "key": "NAME_RECIPE_FishingSet3_TextData",
+   "en": "Advanced Fishing Set",
+   "ro": "Set de pescuit avansat"
+  },
+  {
+   "key": "NAME_RECIPE_ManganeseIngot_TextData",
+   "en": "<itemName id=|ManganeseIngot|/>",
+   "ro": "<itemName id=|ManganeseIngot|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HunterFlagSet_TextData",
+   "en": "Rayne Syndicate Flag Set",
+   "ro": "Set de steaguri ale Sindicatului Rayne"
+  },
+  {
+   "key": "NAME_RECIPE_BelieverFlagSet_TextData",
+   "en": "Free Pal Alliance Flag Set",
+   "ro": "Set de steaguri ale Alianței Pali Liberi"
+  },
+  {
+   "key": "NAME_RECIPE_FireCultFlagSet_TextData",
+   "en": "Brothers of the Eternal Pyre Flag Set",
+   "ro": "Set de steaguri ale Fraților Rugului Etern"
+  },
+  {
+   "key": "NAME_RECIPE_PoliceFlagSet_TextData",
+   "en": "PIDF Flag Set",
+   "ro": "Set de steaguri PIDF"
+  },
+  {
+   "key": "NAME_RECIPE_ScientistFlagSet_TextData",
+   "en": "PAL Genetic Research Unit Flag Set",
+   "ro": "Set de steaguri ale Unității de Cercetare Genetică Pal"
+  },
+  {
+   "key": "NAME_RECIPE_NinjaFlagSet_TextData",
+   "en": "Moonflower Flag Set",
+   "ro": "Set de steaguri Moonflower"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBaitSet_1_TextData",
+   "en": "Beginner Bait Set",
+   "ro": "Set de momeală pentru începători"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBaitSet_2_TextData",
+   "en": "Intermediate Bait Set",
+   "ro": "Set de momeală intermediar"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBaitSet_3_TextData",
+   "en": "Advanced Bait Set",
+   "ro": "Set de momeală avansat"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBait_3_A_TextData",
+   "en": "<itemName id=|FishingBait_3_A|/>",
+   "ro": "<itemName id=|FishingBait_3_A|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingRod_03_1_TextData",
+   "en": "<itemName id=|FishingRod_03_1|/>",
+   "ro": "<itemName id=|FishingRod_03_1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingBait_3_TextData",
+   "en": "<itemName id=|FishingBait_3|/>",
+   "ro": "<itemName id=|FishingBait_3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_FishingRod_02_1_TextData",
+   "en": "<itemName id=|FishingRod_02_1|/>",
+   "ro": "<itemName id=|FishingRod_02_1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_YakushimaBlade005_TextData",
+   "en": "<itemName id=|YakushimaBlade005|/>",
+   "ro": "<itemName id=|YakushimaBlade005|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_LegendDeer_TextData",
+   "en": "<itemName id=|SkillUnlock_LegendDeer|/>",
+   "ro": "<itemName id=|SkillUnlock_LegendDeer|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OctaviaSet01_TextData",
+   "en": "ULTRAKILL Collab Set 1",
+   "ro": "Set de colaborare ULTRAKILL 1"
+  },
+  {
+   "key": "NAME_RECIPE_OctaviaSet02_TextData",
+   "en": "ULTRAKILL Collab Set 2",
+   "ro": "Set de colaborare ULTRAKILL 2"
+  },
+  {
+   "key": "NAME_RECIPE_SkyislandIngot_TextData",
+   "en": "<itemName id=|SkyislandIngot|/>",
+   "ro": "<itemName id=|SkyislandIngot|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WaterBuildKit_TextData",
+   "en": "<itemName id=|WaterBuildKit|/>",
+   "ro": "<itemName id=|WaterBuildKit|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyBow_TextData",
+   "en": "<itemName id=|SkyBow|/>",
+   "ro": "<itemName id=|SkyBow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalSphere_Ancient_1_TextData",
+   "en": "<itemName id=|PalSphere_Ancient_1|/>",
+   "ro": "<itemName id=|PalSphere_Ancient_1|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyHeavyBullet_TextData",
+   "en": "<itemName id=|SkyHeavyBullet|/>",
+   "ro": "<itemName id=|SkyHeavyBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkySubmachineGun_TextData",
+   "en": "<itemName id=|SkySubmachineGun|/>",
+   "ro": "<itemName id=|SkySubmachineGun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyLightBullet_TextData",
+   "en": "<itemName id=|SkyLightBullet|/>",
+   "ro": "<itemName id=|SkyLightBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientArmor_TextData",
+   "en": "<itemName id=|AncientArmor|/>",
+   "ro": "<itemName id=|AncientArmor|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientHelmet_TextData",
+   "en": "<itemName id=|AncientHelmet|/>",
+   "ro": "<itemName id=|AncientHelmet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyShotgun_TextData",
+   "en": "<itemName id=|SkyShotgun|/>",
+   "ro": "<itemName id=|SkyShotgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_LaserMiningTool_TextData",
+   "en": "<itemName id=|LaserMiningTool|/>",
+   "ro": "<itemName id=|LaserMiningTool|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyAssaultRifle_TextData",
+   "en": "<itemName id=|SkyAssaultRifle|/>",
+   "ro": "<itemName id=|SkyAssaultRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyGrenadeLauncher_TextData",
+   "en": "<itemName id=|SkyGrenadeLauncher|/>",
+   "ro": "<itemName id=|SkyGrenadeLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyBeamSword_TextData",
+   "en": "<itemName id=|SkyBeamSword|/>",
+   "ro": "<itemName id=|SkyBeamSword|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WorldTreeIngot_TextData",
+   "en": "<itemName id=|WorldTreeIngot|/>",
+   "ro": "<itemName id=|WorldTreeIngot|/>"
+  },
+  {
+   "key": "NAME_RECIPE_PalSphere_Ancient_2_TextData",
+   "en": "<itemName id=|PalSphere_Ancient_2|/>",
+   "ro": "<itemName id=|PalSphere_Ancient_2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WidePenetrateShotgun_TextData",
+   "en": "<itemName id=|WidePenetrateShotgun|/>",
+   "ro": "<itemName id=|WidePenetrateShotgun|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WidePenetrateShotgunBullet_TextData",
+   "en": "<itemName id=|WidePenetrateShotgunBullet|/>",
+   "ro": "<itemName id=|WidePenetrateShotgunBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientArmorHeat_TextData",
+   "en": "<itemName id=|AncientArmorHeat|/>",
+   "ro": "<itemName id=|AncientArmorHeat|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DroneLauncher_TextData",
+   "en": "<itemName id=|DroneLauncher|/>",
+   "ro": "<itemName id=|DroneLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientArmorCold_TextData",
+   "en": "<itemName id=|AncientArmorCold|/>",
+   "ro": "<itemName id=|AncientArmorCold|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ElectricArcAssaultRifle_TextData",
+   "en": "<itemName id=|ElectricArcAssaultRifle|/>",
+   "ro": "<itemName id=|ElectricArcAssaultRifle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_ElectricArcAssaultRifleBullet_TextData",
+   "en": "<itemName id=|ElectricArcAssaultRifleBullet|/>",
+   "ro": "<itemName id=|ElectricArcAssaultRifleBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientArmorWeight_TextData",
+   "en": "<itemName id=|AncientArmorWeight|/>",
+   "ro": "<itemName id=|AncientArmorWeight|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BeamLauncher_TextData",
+   "en": "<itemName id=|BeamLauncher|/>",
+   "ro": "<itemName id=|BeamLauncher|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BeamLauncherBullet_TextData",
+   "en": "<itemName id=|BeamLauncherBullet|/>",
+   "ro": "<itemName id=|BeamLauncherBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WingGlider_TextData",
+   "en": "<itemName id=|WingGlider|/>",
+   "ro": "<itemName id=|WingGlider|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientBlastFurnace_TextData",
+   "en": "<mapObjectname id=|AncientBlastFurnace|/>",
+   "ro": "<mapObjectname id=|AncientBlastFurnace|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientWorkBench_TextData",
+   "en": "<mapObjectname id=|AncientWorkBench|/>",
+   "ro": "<mapObjectname id=|AncientWorkBench|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientCookingStove_TextData",
+   "en": "<mapObjectname id=|AncientCookingStove|/>",
+   "ro": "<mapObjectname id=|AncientCookingStove|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientElectricGenerator_TextData",
+   "en": "<mapObjectname id=|AncientElectricGenerator|/>",
+   "ro": "<mapObjectname id=|AncientElectricGenerator|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientMultiProduct_TextData",
+   "en": "<mapObjectname id=|AncientMultiProduct|/>",
+   "ro": "<mapObjectname id=|AncientMultiProduct|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientFarmBlock_TextData",
+   "en": "<mapObjectname id=|AncientFarmBlock|/>",
+   "ro": "<mapObjectname id=|AncientFarmBlock|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AncientRelicRecycler_TextData",
+   "en": "<mapObjectname id=|AncientRelicRecycler|/>",
+   "ro": "<mapObjectname id=|AncientRelicRecycler|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_KingSunfish_TextData",
+   "en": "<itemName id=|SkillUnlock_KingSunfish|/>",
+   "ro": "<itemName id=|SkillUnlock_KingSunfish|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_KingSunfish_Thunder_TextData",
+   "en": "<itemName id=|SkillUnlock_KingSunfish_Thunder|/>",
+   "ro": "<itemName id=|SkillUnlock_KingSunfish_Thunder|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Monkey_Fire_TextData",
+   "en": "<itemName id=|SkillUnlock_Monkey_Fire|/>",
+   "ro": "<itemName id=|SkillUnlock_Monkey_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_ThunderFluffyBird_TextData",
+   "en": "<itemName id=|SkillUnlock_ThunderFluffyBird|/>",
+   "ro": "<itemName id=|SkillUnlock_ThunderFluffyBird|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlackPuppy_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_BlackPuppy_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_BlackPuppy_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_NightBlueHorse_Neutral_TextData",
+   "en": "<itemName id=|SkillUnlock_NightBlueHorse_Neutral|/>",
+   "ro": "<itemName id=|SkillUnlock_NightBlueHorse_Neutral|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_ThunderBird_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_ThunderBird_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_ThunderBird_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GrassGolem_TextData",
+   "en": "<itemName id=|SkillUnlock_GrassGolem|/>",
+   "ro": "<itemName id=|SkillUnlock_GrassGolem|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GrassGolem_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_GrassGolem_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_GrassGolem_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_WhiteDeer_Dark_TextData",
+   "en": "<itemName id=|SkillUnlock_WhiteDeer_Dark|/>",
+   "ro": "<itemName id=|SkillUnlock_WhiteDeer_Dark|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GhostDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_GhostDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_GhostDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_GhostDragon_Fire_TextData",
+   "en": "<itemName id=|SkillUnlock_GhostDragon_Fire|/>",
+   "ro": "<itemName id=|SkillUnlock_GhostDragon_Fire|/>"
+  },
+  {
+   "key": "NAME_RECIPE_WingGlider_Fuel_TextData",
+   "en": "<itemName id=|WingGlider_Fuel|/>",
+   "ro": "<itemName id=|WingGlider_Fuel|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BronzeSword_TextData",
+   "en": "<itemName id=|BronzeSword|/>",
+   "ro": "<itemName id=|BronzeSword|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Bat3_TextData",
+   "en": "<itemName id=|Bat3|/>",
+   "ro": "<itemName id=|Bat3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Spear_ForestBoss2_TextData",
+   "en": "<itemName id=|Spear_ForestBoss2|/>",
+   "ro": "<itemName id=|Spear_ForestBoss2|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Processed_Wood_TextData",
+   "en": "<itemName id=|Processed_Wood|/>",
+   "ro": "<itemName id=|Processed_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_HighGrade_Processed_Wood_TextData",
+   "en": "<itemName id=|HighGrade_Processed_Wood|/>",
+   "ro": "<itemName id=|HighGrade_Processed_Wood|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Bio_Coolant_TextData",
+   "en": "<itemName id=|Bio_Coolant|/>",
+   "ro": "<itemName id=|Bio_Coolant|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Corrosive_Solvent_TextData",
+   "en": "<itemName id=|Corrosive_Solvent|/>",
+   "ro": "<itemName id=|Corrosive_Solvent|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Bio_Battery_TextData",
+   "en": "<itemName id=|Bio_Battery|/>",
+   "ro": "<itemName id=|Bio_Battery|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Thermal_Core_TextData",
+   "en": "<itemName id=|Thermal_Core|/>",
+   "ro": "<itemName id=|Thermal_Core|/>"
+  },
+  {
+   "key": "NAME_RECIPE_AIcore_TextData",
+   "en": "<itemName id=|AIcore|/>",
+   "ro": "<itemName id=|AIcore|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Supplement_TextData",
+   "en": "<itemName id=|Supplement|/>",
+   "ro": "<itemName id=|Supplement|/>"
+  },
+  {
+   "key": "NAME_RECIPE_GasMask_TextData",
+   "en": "<itemName id=|GasMask|/>",
+   "ro": "<itemName id=|GasMask|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Accessory_ExplosionResist_TextData",
+   "en": "<itemName id=|Accessory_ExplosionResist|/>",
+   "ro": "<itemName id=|Accessory_ExplosionResist|/>"
+  },
+  {
+   "key": "NAME_RECIPE_MultiElectricHatchingPalEggWithBreed_TextData",
+   "en": "<mapObjectname id=|MultiElectricHatchingPalEggWithBreed|/>",
+   "ro": "<mapObjectname id=|MultiElectricHatchingPalEggWithBreed|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DefenseMachinegun_AutoTurret_TextData",
+   "en": "<mapObjectname id=|DefenseMachinegun_AutoTurret|/>",
+   "ro": "<mapObjectname id=|DefenseMachinegun_AutoTurret|/>"
+  },
+  {
+   "key": "NAME_RECIPE_UnlockEquipmentSlot_Weapon_01_TextData",
+   "en": "<itemName id=|UnlockEquipmentSlot_Weapon_01|/>",
+   "ro": "<itemName id=|UnlockEquipmentSlot_Weapon_01|/>"
+  },
+  {
+   "key": "NAME_RECIPE_UnlockEquipmentSlot_Weapon_02_TextData",
+   "en": "<itemName id=|UnlockEquipmentSlot_Weapon_02|/>",
+   "ro": "<itemName id=|UnlockEquipmentSlot_Weapon_02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyBowArrow_TextData",
+   "en": "<itemName id=|SkyBowArrow|/>",
+   "ro": "<itemName id=|SkyBowArrow|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkySubmachineGunBullet_TextData",
+   "en": "<itemName id=|SkySubmachineGunBullet|/>",
+   "ro": "<itemName id=|SkySubmachineGunBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyShotgunBullet_TextData",
+   "en": "<itemName id=|SkyShotgunBullet|/>",
+   "ro": "<itemName id=|SkyShotgunBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyAssaultRifleBullet_TextData",
+   "en": "<itemName id=|SkyAssaultRifleBullet|/>",
+   "ro": "<itemName id=|SkyAssaultRifleBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkyGrenadeLauncherBullet_TextData",
+   "en": "<itemName id=|SkyGrenadeLauncherBullet|/>",
+   "ro": "<itemName id=|SkyGrenadeLauncherBullet|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Ancient_Houseset_TextData",
+   "en": "Ancient Structure Set",
+   "ro": "Set de structuri antice"
+  },
+  {
+   "key": "NAME_RECIPE_SkyIslandOrePit_TextData",
+   "en": "Soralite Quarry",
+   "ro": "Carieră de soralit"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Green_TextData",
+   "en": "Faux Greenery Set",
+   "ro": "Set de vegetație artificială"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Red_TextData",
+   "en": "Faux Crimson Foliage Set",
+   "ro": "Set de frunziș stacojiu artificial"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Yellow_TextData",
+   "en": "Faux Golden Foliage Set",
+   "ro": "Set de frunziș auriu artificial"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Cherry_TextData",
+   "en": "Faux Cherry Blossoms Set",
+   "ro": "Set de cireși înfloriți artificiali"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Tropical_TextData",
+   "en": "Faux Tropical Greenery Set",
+   "ro": "Set de vegetație tropicală artificială"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Snow_TextData",
+   "en": "Faux Snowy Greenery Set",
+   "ro": "Set de vegetație înzăpezită artificială"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Desert_TextData",
+   "en": "Faux Desert Greenery Set",
+   "ro": "Set de vegetație deșertică artificială"
+  },
+  {
+   "key": "NAME_RECIPE_FurnitureTree_Bamboo_TextData",
+   "en": "Faux Bamboo Set",
+   "ro": "Set de bambus artificial"
+  },
+  {
+   "key": "NAME_RECIPE_TableCircular_TextData",
+   "en": "Tidy Table Set",
+   "ro": "Set de mese îngrijite"
+  },
+  {
+   "key": "NAME_RECIPE_JetDragonStatue_TextData",
+   "en": "<mapObjectname id=|JetDragonStatue|/>",
+   "ro": "<mapObjectname id=|JetDragonStatue|/>"
+  },
+  {
+   "key": "NAME_RECIPE_IceHorseStatue_TextData",
+   "en": "<mapObjectname id=|IceHorseStatue|/>",
+   "ro": "<mapObjectname id=|IceHorseStatue|/>"
+  },
+  {
+   "key": "NAME_RECIPE_DarkIslandFlagSet_TextData",
+   "en": "Feybreak Flag Set",
+   "ro": "Set de steaguri Feybreak"
+  },
+  {
+   "key": "NAME_RECIPE_SkyIslandFlagSet_TextData",
+   "en": "Azure Covenant Flag Set",
+   "ro": "Set de steaguri Legământul de Azur"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_CubeTurtle_TextData",
+   "en": "<itemName id=|SkillUnlock_CubeTurtle|/>",
+   "ro": "<itemName id=|SkillUnlock_CubeTurtle|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_CubeTurtle_Neutral_TextData",
+   "en": "<itemName id=|SkillUnlock_CubeTurtle_Neutral|/>",
+   "ro": "<itemName id=|SkillUnlock_CubeTurtle_Neutral|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_VolcanoDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_VolcanoDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_VolcanoDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_VolcanoDragon_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_VolcanoDragon_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_VolcanoDragon_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Kirin_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_Kirin_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_Kirin_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_Thunderdog_Ice_TextData",
+   "en": "<itemName id=|SkillUnlock_Thunderdog_Ice|/>",
+   "ro": "<itemName id=|SkillUnlock_Thunderdog_Ice|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_DomeArmorDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_DomeArmorDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_DomeArmorDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_SumoDog_TextData",
+   "en": "<itemName id=|SkillUnlock_SumoDog|/>",
+   "ro": "<itemName id=|SkillUnlock_SumoDog|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_IceSeal_Ground_TextData",
+   "en": "<itemName id=|SkillUnlock_IceSeal_Ground|/>",
+   "ro": "<itemName id=|SkillUnlock_IceSeal_Ground|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_ThiefBird_TextData",
+   "en": "<itemName id=|SkillUnlock_ThiefBird|/>",
+   "ro": "<itemName id=|SkillUnlock_ThiefBird|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_BlueSkyDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_BlueSkyDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_BlueSkyDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_StationDeforest3_TextData",
+   "en": "<mapObjectname id=|StationDeforest3|/>",
+   "ro": "<mapObjectname id=|StationDeforest3|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BaseCampWorkHard02_TextData",
+   "en": "<mapObjectname id=|BaseCampWorkHard02|/>",
+   "ro": "<mapObjectname id=|BaseCampWorkHard02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_BaseCampWorkHard03_TextData",
+   "en": "<mapObjectname id=|BaseCampWorkHard03|/>",
+   "ro": "<mapObjectname id=|BaseCampWorkHard03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Ancient_Spa_TextData",
+   "en": "<mapObjectname id=|Ancient_Spa|/>",
+   "ro": "<mapObjectname id=|Ancient_Spa|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Clinic_TextData",
+   "en": "<mapObjectname id=|Clinic|/>",
+   "ro": "<mapObjectname id=|Clinic|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Ancient_Clinic_TextData",
+   "en": "<mapObjectname id=|Ancient_Clinic|/>",
+   "ro": "<mapObjectname id=|Ancient_Clinic|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Cake02_TextData",
+   "en": "<itemName id=|Cake02|/>",
+   "ro": "<itemName id=|Cake02|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Cake03_TextData",
+   "en": "<itemName id=|Cake03|/>",
+   "ro": "<itemName id=|Cake03|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Cake04_TextData",
+   "en": "<itemName id=|Cake04|/>",
+   "ro": "<itemName id=|Cake04|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Cake05_TextData",
+   "en": "<itemName id=|Cake05|/>",
+   "ro": "<itemName id=|Cake05|/>"
+  },
+  {
+   "key": "NAME_RECIPE_SkillUnlock_LotusDragon_TextData",
+   "en": "<itemName id=|SkillUnlock_LotusDragon|/>",
+   "ro": "<itemName id=|SkillUnlock_LotusDragon|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Shield_07_TextData",
+   "en": "<itemName id=|Shield_07|/>",
+   "ro": "<itemName id=|Shield_07|/>"
+  },
+  {
+   "key": "NAME_RECIPE_Ancient_MedicalPalBed_TextData",
+   "en": "<mapObjectname id=|Ancient_MedicalPalBed|/>",
+   "ro": "<mapObjectname id=|Ancient_MedicalPalBed|/>"
+  },
+  {
+   "key": "NAME_RECIPE_OilPump02_TextData",
+   "en": "<mapObjectName id=|OilPump02|/>",
+   "ro": "<mapObjectName id=|OilPump02|/>"
+  }
+ ]
+}

@@ -1,0 +1,840 @@
+{
+ "table": "DT_UniqueNPCText_Common",
+ "entries": [
+  {
+   "key": "NAME_JOHNSON_TextData",
+   "en": "Johnson",
+   "ro": "Johnson"
+  },
+  {
+   "key": "NAME_BOBBY_TextData",
+   "en": "Bobby",
+   "ro": "Bobby"
+  },
+  {
+   "key": "NAME_UNIQUE002_TextData",
+   "en": "Unique002",
+   "ro": "Unique002"
+  },
+  {
+   "key": "NAME_C_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_D_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_E_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_F_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_G_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_H_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_VILLAGELEADER01_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "NAME_NOVICEPALTIMER_TextData",
+   "en": "Scouting Party Survivor",
+   "ro": "Supraviețuitor al patrulei de recunoaștere"
+  },
+  {
+   "key": "Vigilante_lackey_TextData",
+   "en": "Junior Patrol Member",
+   "ro": "Membru junior de patrulă"
+  },
+  {
+   "key": "Head_of_Village_TextData",
+   "en": "Village Chief",
+   "ro": "Șef de sat"
+  },
+  {
+   "key": "Police_dependable_TextData",
+   "en": "Reliable PIDF Officer",
+   "ro": "Ofițer PIDF de încredere"
+  },
+  {
+   "key": "InnkeeperA_TextData",
+   "en": "Innkeeper",
+   "ro": "Hangiță"
+  },
+  {
+   "key": "Rumor-loving_villagers_TextData",
+   "en": "Gossiping Villager",
+   "ro": "Sătean bârfitor"
+  },
+  {
+   "key": "Research-oriented_scholar_TextData",
+   "en": "Enthusiastic Amateur Researcher",
+   "ro": "Cercetător amator entuziast"
+  },
+  {
+   "key": "People_cant_leave_TextData",
+   "en": "Displaced Islander",
+   "ro": "Insular strămutat"
+  },
+  {
+   "key": "Sweaty_paltimer_TextData",
+   "en": "Sweaty Part-timer",
+   "ro": "Lucrător temporar transpirat"
+  },
+  {
+   "key": "Shabby_looking_merchant_TextData",
+   "en": "Traveling Merchant",
+   "ro": "Negustor călător"
+  },
+  {
+   "key": "SKILLED_PALTAMIER_TextData",
+   "en": "Skilled Islander",
+   "ro": "Insular priceput"
+  },
+  {
+   "key": "NAME_DarkTrader_TextData",
+   "en": "Black Marketeer",
+   "ro": "Traficant de pe piața neagră"
+  },
+  {
+   "key": "BOSSNAME_DEMO_PLAIN_LEADER_TextData",
+   "en": "ZOE",
+   "ro": "ZOE"
+  },
+  {
+   "key": "BOSSNAME_DEMO_PLAIN_LEADER_PAL_TextData",
+   "en": "GRIZZBOLT",
+   "ro": "GRIZZBOLT"
+  },
+  {
+   "key": "BOSSNAME_DEMO_VOLCANO_LEADER_TextData",
+   "en": "AXEL",
+   "ro": "AXEL"
+  },
+  {
+   "key": "BOSSNAME_DEMO_VOLCANO_LEADER_PAL_TextData",
+   "en": "ORSERK",
+   "ro": "ORSERK"
+  },
+  {
+   "key": "BOSSNAME_DEMO_FOREST_LEADER_TextData",
+   "en": "LILY",
+   "ro": "LILY"
+  },
+  {
+   "key": "BOSSNAME_DEMO_FOREST_LEADER_PAL_TextData",
+   "en": "LYLEEN",
+   "ro": "LYLEEN"
+  },
+  {
+   "key": "BOSSNAME_DEMO_DESERT_LEADER_TextData",
+   "en": "MARCUS",
+   "ro": "MARCUS"
+  },
+  {
+   "key": "BOSSNAME_DEMO_DESERT_LEADER_PAL_TextData",
+   "en": "FALERIS",
+   "ro": "FALERIS"
+  },
+  {
+   "key": "BOSSNAME_DEMO_SNOWYMOUNTAIN_LEADER_TextData",
+   "en": "VICTOR",
+   "ro": "VICTOR"
+  },
+  {
+   "key": "BOSSNAME_DEMO_SNOWYMOUNTAIN_LEADER_PAL_TextData",
+   "en": "SHADOWBEAK",
+   "ro": "SHADOWBEAK"
+  },
+  {
+   "key": "DesertVillage001_TextData",
+   "en": "Chilly Desert Inhabitant",
+   "ro": "Locuitor zgribulit din deșert"
+  },
+  {
+   "key": "DesertVillage002_TextData",
+   "en": "Kind Desert Inhabitant",
+   "ro": "Locuitor amabil din deșert"
+  },
+  {
+   "key": "DesertVillage003_TextData",
+   "en": "Timid Desert Inhabitant",
+   "ro": "Locuitor timid din deșert"
+  },
+  {
+   "key": "DesertPolice001_TextData",
+   "en": "PIDF Grunt",
+   "ro": "Soldat PIDF"
+  },
+  {
+   "key": "DesertPolice002_TextData",
+   "en": "PIDF Goody Two-Shoes",
+   "ro": "Tip corect din PIDF"
+  },
+  {
+   "key": "DesertPolice003_TextData",
+   "en": "PIDF Bonfire-Lover",
+   "ro": "Ofițer PIDF iubitor de foc de tabără"
+  },
+  {
+   "key": "Police001_TextData",
+   "en": "Reincarnated Guy",
+   "ro": "Tip reîncarnat"
+  },
+  {
+   "key": "VolcanoVillage001_TextData",
+   "en": "Fish-Loving Villager",
+   "ro": "Sătean amator de pește"
+  },
+  {
+   "key": "VolcanoVillage002_TextData",
+   "en": "Over-Caring Villager",
+   "ro": "Sătean exagerat de grijuliu"
+  },
+  {
+   "key": "VolcanoVillage003_TextData",
+   "en": "Star-Loving Villager",
+   "ro": "Sătean pasionat de stele"
+  },
+  {
+   "key": "VolcanoVillage004_TextData",
+   "en": "Flame-Worshipping Villager",
+   "ro": "Sătean adorator al flăcărilor"
+  },
+  {
+   "key": "VolcanoPolice001_TextData",
+   "en": "PIDF Slacker",
+   "ro": "Leneș din PIDF"
+  },
+  {
+   "key": "VolcanoPolice002_TextData",
+   "en": "Sensitive-Nosed PIDF Officer",
+   "ro": "Ofițer PIDF cu nas fin"
+  },
+  {
+   "key": "RandomBattle_PalTamer_TextData",
+   "en": "Burly Merc",
+   "ro": "Mercenar vânjos"
+  },
+  {
+   "key": "RandomBattle_Police_TextData",
+   "en": "Burly PIDF Officer",
+   "ro": "Ofițer PIDF vânjos"
+  },
+  {
+   "key": "PvPVillage001_TextData",
+   "en": "Desert Runaway",
+   "ro": "Fugar din deșert"
+  },
+  {
+   "key": "PvPVillage002_TextData",
+   "en": "Vagrant Challenger",
+   "ro": "Provocator vagabond"
+  },
+  {
+   "key": "PvPVillage003_TextData",
+   "en": "Mercenary With a Wounded Knee",
+   "ro": "Mercenar rănit la genunchi"
+  },
+  {
+   "key": "PvPVillage004_TextData",
+   "en": "Cowardly Victim",
+   "ro": "Victimă lașă"
+  },
+  {
+   "key": "PvPVillage005_TextData",
+   "en": "Cowardly Islander",
+   "ro": "Insular fricos"
+  },
+  {
+   "key": "PvPVillage006_TextData",
+   "en": "Resigned Islander",
+   "ro": "Insular resemnat"
+  },
+  {
+   "key": "BattlePaltamer001_TextData",
+   "en": "Newbie Pal Tamer",
+   "ro": "Îmblânzitor de Pali începător"
+  },
+  {
+   "key": "BattlePaltamer002_TextData",
+   "en": "Up-and-Coming Pal Tamer",
+   "ro": "Îmblânzitor de Pali promițător"
+  },
+  {
+   "key": "BattlePaltamer003_TextData",
+   "en": "Cruel Pal Tamer",
+   "ro": "Îmblânzitor de Pali nemilos"
+  },
+  {
+   "key": "BattlePaltamer004_TextData",
+   "en": "Veteran Pal Tamer",
+   "ro": "Îmblânzitor de Pali veteran"
+  },
+  {
+   "key": "BattlePaltamer005_TextData",
+   "en": "Vigorous Pal Tamer",
+   "ro": "Îmblânzitor de Pali energic"
+  },
+  {
+   "key": "BattlePaltamer006_TextData",
+   "en": "Master Pal Tamer",
+   "ro": "Îmblânzitor de Pali maestru"
+  },
+  {
+   "key": "MerchantwithPAL_TextData",
+   "en": "Shady Pal Merchant",
+   "ro": "Negustor de Pali dubios"
+  },
+  {
+   "key": "Assassin001_TextData",
+   "en": "Always-Smiling Merchant",
+   "ro": "Negustor mereu zâmbitor"
+  },
+  {
+   "key": "Assassin002_TextData",
+   "en": "Honest-looking Merchant",
+   "ro": "Negustor cu aer cinstit"
+  },
+  {
+   "key": "Assassin003_TextData",
+   "en": "Discerning Merchant",
+   "ro": "Negustor cu ochi format"
+  },
+  {
+   "key": "MedalTrader_TextData",
+   "en": "Medal Merchant",
+   "ro": "Negustor de medalii"
+  },
+  {
+   "key": "BOSSNAME_DEMO_SAKURAJIMA_LEADER_TextData",
+   "en": "SAYA",
+   "ro": "SAYA"
+  },
+  {
+   "key": "BOSSNAME_DEMO_SAKURAJIMA_LEADER_PAL_TextData",
+   "en": "SELYNE",
+   "ro": "SELYNE"
+  },
+  {
+   "key": "Police_WarningOilrig_TextData",
+   "en": "Cautious PIDF Officer",
+   "ro": "Ofițer PIDF precaut"
+  },
+  {
+   "key": "BOSSNAME_DEMO_VIKING_LEADER_TextData",
+   "en": "BJORN",
+   "ro": "BJORN"
+  },
+  {
+   "key": "BOSSNAME_DEMO_VIKING_LEADER_PAL_TextData",
+   "en": "BASTIGOR",
+   "ro": "BASTIGOR"
+  },
+  {
+   "key": "BountyNavigator_TextData",
+   "en": "Bounty Intel Dealer",
+   "ro": "Traficant de informații despre recompense"
+  },
+  {
+   "key": "Presenter001_TextData",
+   "en": "Friendly Pal Tamer",
+   "ro": "Îmblânzitor prietenos de Pali"
+  },
+  {
+   "key": "BountyTrader_TextData",
+   "en": "PIDF Bounty Officer",
+   "ro": "Ofițer de recompense PIDF"
+  },
+  {
+   "key": "Yamishima_guide1_TextData",
+   "en": "Wise Geologist",
+   "ro": "Geolog înțelept"
+  },
+  {
+   "key": "Yamishima_guide2_TextData",
+   "en": "Elated Pal Scholar",
+   "ro": "Cercetător entuziasmat de Pali"
+  },
+  {
+   "key": "Yamishima_guide3_TextData",
+   "en": "Cheerful Ore Researcher",
+   "ro": "Cercetător vesel de minereuri"
+  },
+  {
+   "key": "Yamishima_guide4_TextData",
+   "en": "Hopeless Supplier",
+   "ro": "Furnizor deznădăjduit"
+  },
+  {
+   "key": "Yamishima_guide5_TextData",
+   "en": "Feybreak Deserter",
+   "ro": "Dezertor din Feybreak"
+  },
+  {
+   "key": "NAME_PalPassive_Doctor_TextData",
+   "en": "Dr. Brawn",
+   "ro": "Dr. Mușchi"
+  },
+  {
+   "key": "NAME_Reward_Food_TextData",
+   "en": "Arrogant Gourmet",
+   "ro": "Gourmet arogant"
+  },
+  {
+   "key": "NAME_Reward_Paldex_TextData",
+   "en": "Pal Ecological Researcher",
+   "ro": "Cercetător în ecologia Palilor"
+  },
+  {
+   "key": "NAME_Reward_BossDefeat_TextData",
+   "en": "Veteran Hunter",
+   "ro": "Vânător veteran"
+  },
+  {
+   "key": "NAME_Reward_PalCaptureCount_TextData",
+   "en": "Wise Hunter",
+   "ro": "Vânător înțelept"
+  },
+  {
+   "key": "NAME_Reward_Emote_A_01_TextData",
+   "en": "Messenger of Love",
+   "ro": "Mesagerul iubirii"
+  },
+  {
+   "key": "NAME_Reward_PalDisplay_TextData",
+   "en": "Arrogant Pal Critic",
+   "ro": "Critic arogant de Pali"
+  },
+  {
+   "key": "ArenaShop_TextData",
+   "en": "Arena Merchant",
+   "ro": "Negustor de la arenă"
+  },
+  {
+   "key": "NAME_QUEST_FARMER01_TextData",
+   "en": "Desperate Farmer",
+   "ro": "Fermier disperat"
+  },
+  {
+   "key": "NAME_QUEST_FARMER02_TextData",
+   "en": "Foodie Farmer",
+   "ro": "Fermier gurmand"
+  },
+  {
+   "key": "NAME_QUEST_FARMER03_TextData",
+   "en": "Worrywart Farmer",
+   "ro": "Fermier prăpăstios"
+  },
+  {
+   "key": "NAME_QUEST_FARMER04_TextData",
+   "en": "Pal-Loving Farmer",
+   "ro": "Fermier iubitor de Pali"
+  },
+  {
+   "key": "NAME_QUEST_SCHOLAR01_TextData",
+   "en": "Legend-Loving Researcher",
+   "ro": "Cercetător pasionat de legende"
+  },
+  {
+   "key": "NAME_QUEST_SCHOLAR02_TextData",
+   "en": "Archaeological Society Researcher",
+   "ro": "Cercetător al Societății de Arheologie"
+  },
+  {
+   "key": "NAME_QUEST_SCHOLAR03_TextData",
+   "en": "Fuack Fanatic Researcher",
+   "ro": "Cercetător fanatic după Fuack"
+  },
+  {
+   "key": "NAME_QUEST_SCHOLAR04_TextData",
+   "en": "Rock-Obsessed Researcher",
+   "ro": "Cercetător obsedat de roci"
+  },
+  {
+   "key": "NAME_QUEST_BREEDER01_TextData",
+   "en": "Rookie Pal Breeder",
+   "ro": "Crescător novice de Pali"
+  },
+  {
+   "key": "NAME_QUEST_BREEDER02_TextData",
+   "en": "Loyal-Hearted Breeder",
+   "ro": "Crescător loial"
+  },
+  {
+   "key": "NAME_QUEST_BREEDER03_TextData",
+   "en": "Vertigo-Stricken Breeder",
+   "ro": "Crescător amețit de vertij"
+  },
+  {
+   "key": "NAME_QUEST_BREEDER04_TextData",
+   "en": "Passionate Pal Breeder",
+   "ro": "Crescător pasionat de Pali"
+  },
+  {
+   "key": "NAME_QUEST_RANGER01_TextData",
+   "en": "Ever-Eager Hunter",
+   "ro": "Vânător plin de zel"
+  },
+  {
+   "key": "NAME_QUEST_RANGER02_TextData",
+   "en": "Righteous Hunter",
+   "ro": "Vânător neprihănit"
+  },
+  {
+   "key": "NAME_QUEST_RANGER03_TextData",
+   "en": "Big Game Hunter",
+   "ro": "Vânător de pradă mare"
+  },
+  {
+   "key": "NAME_QUEST_RANGER04_TextData",
+   "en": "Sweet-Smelling Hunter",
+   "ro": "Vânător cu miros plăcut"
+  },
+  {
+   "key": "NAME_QUEST_NOMAD01_TextData",
+   "en": "One-Way Wanderer",
+   "ro": "Hoinar fără întoarcere"
+  },
+  {
+   "key": "NAME_QUEST_NOMAD02_TextData",
+   "en": "Sparkle-Seeking Wanderer",
+   "ro": "Hoinar în căutare de sclipiri"
+  },
+  {
+   "key": "NAME_QUEST_NOMAD03_TextData",
+   "en": "Journey-Junkie Wanderer",
+   "ro": "Hoinar dependent de călătorii"
+  },
+  {
+   "key": "NAME_QUEST_NOMAD04_TextData",
+   "en": "Restless Wanderer",
+   "ro": "Hoinar neobosit"
+  },
+  {
+   "key": "NAME_QUEST_ANGLER01_TextData",
+   "en": "Laid-Back Angler",
+   "ro": "Pescar relaxat"
+  },
+  {
+   "key": "CampPolice001_TextData",
+   "en": "PIDF Lookout",
+   "ro": "Santinelă PIDF"
+  },
+  {
+   "key": "CampPolice002_TextData",
+   "en": "Off-Duty PIDF Officer",
+   "ro": "Ofițer PIDF în afara serviciului"
+  },
+  {
+   "key": "CampPolice003_TextData",
+   "en": "Booze-Loving PIDF Officer",
+   "ro": "Ofițer PIDF amator de băutură"
+  },
+  {
+   "key": "CampPolice004_TextData",
+   "en": "Snarky PIDF Officer",
+   "ro": "Ofițer PIDF sarcastic"
+  },
+  {
+   "key": "CampPolice005_TextData",
+   "en": "Mid-Stream PIDF Officer",
+   "ro": "Ofițer PIDF din mijlocul râului"
+  },
+  {
+   "key": "CampPolice006_TextData",
+   "en": "Straight-Laced PIDF Officer",
+   "ro": "Ofițer PIDF conștiincios"
+  },
+  {
+   "key": "CampPolice007_TextData",
+   "en": "Slacker Chief",
+   "ro": "Șef chiulangiu"
+  },
+  {
+   "key": "CampPolice008_TextData",
+   "en": "Jittery PIDF Officer",
+   "ro": "Ofițer PIDF agitat"
+  },
+  {
+   "key": "CampPolice009_TextData",
+   "en": "Chatty PIDF Officer",
+   "ro": "Ofițer PIDF vorbăreț"
+  },
+  {
+   "key": "CampPolice010_TextData",
+   "en": "Unshakable PIDF Officer",
+   "ro": "Ofițer PIDF de neclintit"
+  },
+  {
+   "key": "CampPolice011_TextData",
+   "en": "Treasure-Hoarding PIDF Officer",
+   "ro": "Ofițer PIDF colecționar de comori"
+  },
+  {
+   "key": "CampPolice012_TextData",
+   "en": "Mid-Break PIDF Officer",
+   "ro": "Ofițer PIDF în pauză"
+  },
+  {
+   "key": "CampPolice013_TextData",
+   "en": "Lazy PIDF Officer",
+   "ro": "Ofițer PIDF leneș"
+  },
+  {
+   "key": "CampPolice014_TextData",
+   "en": "Half-Asleep PIDF Officer",
+   "ro": "Ofițer PIDF pe jumătate adormit"
+  },
+  {
+   "key": "CampPolice015_TextData",
+   "en": "Plastered PIDF Officer",
+   "ro": "Ofițer PIDF turtit de băutură"
+  },
+  {
+   "key": "CampPolice016_TextData",
+   "en": "Parched PIDF Officer",
+   "ro": "Ofițer PIDF însetat"
+  },
+  {
+   "key": "CampPolice017_TextData",
+   "en": "Wary PIDF Officer",
+   "ro": "Ofițer PIDF suspicios"
+  },
+  {
+   "key": "NAME_GrassBoss_TextData",
+   "en": "Zoe",
+   "ro": "Zoe"
+  },
+  {
+   "key": "NAME_QUEST_KIGURUMI01_TextData",
+   "en": "Wannabe Depresso Islander",
+   "ro": "Insular aspirant la Depresso"
+  },
+  {
+   "key": "NAME_SurveyGirl_TextData",
+   "en": "Fia",
+   "ro": "Fia"
+  },
+  {
+   "key": "NAME_SurveyWoman_TextData",
+   "en": "Carla",
+   "ro": "Carla"
+  },
+  {
+   "key": "NAME_SurveyMan_TextData",
+   "en": "Gadel",
+   "ro": "Gadel"
+  },
+  {
+   "key": "NAME_StrongOldMan_TextData",
+   "en": "Harold",
+   "ro": "Harold"
+  },
+  {
+   "key": "NAME_Male_DTairikuPeople01_TextData",
+   "en": "Bamboo Grove Inhabitant",
+   "ro": "Locuitor din Crângul de Bambus"
+  },
+  {
+   "key": "NAME_Female_DTairikuPeople01_TextData",
+   "en": "Bamboo Grove Inhabitant",
+   "ro": "Locuitor din Crângul de Bambus"
+  },
+  {
+   "key": "NAME_Male_TenrakuPeople01_TextData",
+   "en": "Feybreak Researcher",
+   "ro": "Cercetător din Feybreak"
+  },
+  {
+   "key": "NAME_Female_TenrakuPeople01_TextData",
+   "en": "Feybreak Researcher",
+   "ro": "Cercetător din Feybreak"
+  },
+  {
+   "key": "NAME_Male_SnowPeople01_TextData",
+   "en": "Snowbound Villager",
+   "ro": "Sătean din ținutul înzăpezit"
+  },
+  {
+   "key": "NAME_Female_SnowPeople01_TextData",
+   "en": "Snowbound Villager",
+   "ro": "Sătean din ținutul înzăpezit"
+  },
+  {
+   "key": "NAME_Male_SakurajimaPeople01_TextData",
+   "en": "Sakurajima Inhabitant",
+   "ro": "Locuitor din Sakurajima"
+  },
+  {
+   "key": "NAME_Female_SakurajimaPeople01_TextData",
+   "en": "Sakurajima Inhabitant",
+   "ro": "Locuitor din Sakurajima"
+  },
+  {
+   "key": "NAME_Negotiator_TextData",
+   "en": "Negotiator",
+   "ro": "Negociator"
+  },
+  {
+   "key": "NAME_Male_WorldTreePeople01_TextData",
+   "en": "World Tree Guardian",
+   "ro": "Păzitor al Arborelui Lumii"
+  },
+  {
+   "key": "NAME_Female_WorldTreePeople01_TextData",
+   "en": "World Tree Guardian",
+   "ro": "Păzitor al Arborelui Lumii"
+  },
+  {
+   "key": "NAME_ArenaNPC_101_TextData",
+   "en": "Regiultima",
+   "ro": "Regiultima"
+  },
+  {
+   "key": "NAME_ArenaNPC_102_TextData",
+   "en": "Shell Knight",
+   "ro": "Cavalerul Cochilie"
+  },
+  {
+   "key": "NAME_ArenaNPC_103_TextData",
+   "en": "Koshi Anpan",
+   "ro": "Koshi Anpan"
+  },
+  {
+   "key": "NAME_ArenaNPC_104_TextData",
+   "en": "Winget",
+   "ro": "Winget"
+  },
+  {
+   "key": "NAME_ArenaNPC_105_TextData",
+   "en": "Nabeau",
+   "ro": "Nabeau"
+  },
+  {
+   "key": "NAME_ArenaNPC_106_TextData",
+   "en": "Krissy Komiya",
+   "ro": "Krissy Komiya"
+  },
+  {
+   "key": "NAME_ArenaNPC_107_TextData",
+   "en": "Nozomiso",
+   "ro": "Nozomiso"
+  },
+  {
+   "key": "NAME_ArenaNPC_108_TextData",
+   "en": "Maximum",
+   "ro": "Maximum"
+  },
+  {
+   "key": "NAME_ArenaNPC_109_TextData",
+   "en": "The Cheat Phantom",
+   "ro": "Fantoma Trișoare"
+  },
+  {
+   "key": "NAME_ArenaNPC_110_TextData",
+   "en": "Prima",
+   "ro": "Prima"
+  },
+  {
+   "key": "NAME_ArenaNPC_111_TextData",
+   "en": "Jam4u2",
+   "ro": "Jam4u2"
+  },
+  {
+   "key": "NAME_ArenaNPC_112_TextData",
+   "en": "Certified Cynic",
+   "ro": "Cinic atestat"
+  },
+  {
+   "key": "NAME_ArenaNPC_113_TextData",
+   "en": "Jeevis",
+   "ro": "Jeevis"
+  },
+  {
+   "key": "NAME_ArenaNPC_114_TextData",
+   "en": "RabbitXV",
+   "ro": "RabbitXV"
+  },
+  {
+   "key": "NAME_ArenaNPC_115_TextData",
+   "en": "Ashee",
+   "ro": "Ashee"
+  },
+  {
+   "key": "NAME_ArenaNPC_116_TextData",
+   "en": "Okaetsu",
+   "ro": "Okaetsu"
+  },
+  {
+   "key": "NAME_ArenaNPC_117_TextData",
+   "en": "RedMage",
+   "ro": "RedMage"
+  },
+  {
+   "key": "NAME_ArenaNPC_118_TextData",
+   "en": "Ent",
+   "ro": "Ent"
+  },
+  {
+   "key": "NAME_ArenaNPC_119_TextData",
+   "en": "Pylar",
+   "ro": "Pylar"
+  },
+  {
+   "key": "NAME_ArenaNPC_120_TextData",
+   "en": "iori",
+   "ro": "iori"
+  },
+  {
+   "key": "NAME_AncientResearcher_TextData",
+   "en": "Ancient Civilization Researcher",
+   "ro": "Cercetător al civilizației antice"
+  },
+  {
+   "key": "NAME_Male_SorajimaPeople01_TextData",
+   "en": "Sunreach Citizen",
+   "ro": "Cetățean din Sunreach"
+  },
+  {
+   "key": "NAME_Female_SorajimaPeople01_TextData",
+   "en": "Sunreach Citizen",
+   "ro": "Cetățean din Sunreach"
+  },
+  {
+   "key": "BOSSNAME_DEMO_SORAJIMA_LEADER_TextData",
+   "en": "AURI",
+   "ro": "AURI"
+  },
+  {
+   "key": "BOSSNAME_DEMO_SORAJIMA_LEADER_PAL_TextData",
+   "en": "SHAOLONG",
+   "ro": "SHAOLONG"
+  },
+  {
+   "key": "NAME_Male_VolcanoPorter_TextData",
+   "en": "Volcano Porter",
+   "ro": "Hamal de pe vulcan"
+  },
+  {
+   "key": "NAME_Male_DesertVillage004_TextData",
+   "en": "Reticent Desert Inhabitant",
+   "ro": "Locuitor reticent al deșertului"
+  }
+ ]
+}

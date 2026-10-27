@@ -1,0 +1,1000 @@
+{
+ "table": "DT_MapRespawnPointInfoText",
+ "entries": [
+  {
+   "key": "SpawnPoint_1_TextData",
+   "en": "A small hill with a good view and plentiful resources.\r\nRecommended for new players.",
+   "ro": "Un deal mic cu o priveliște frumoasă și resurse din belșug.\r\nRecomandat pentru jucătorii noi."
+  },
+  {
+   "key": "SpawnPoint_1_Title_TextData",
+   "en": "Windswept Island - Hill of Beginnings",
+   "ro": "Insula Bătută de Vânt - Dealul Începuturilor"
+  },
+  {
+   "key": "SpawnPoint_2_TextData",
+   "en": "Sandy beach with lots of water Pals around.\r\nNot many trees, but many Pals call this place home.",
+   "ro": "Plajă nisipoasă cu mulți Pali de Apă prin preajmă.\r\nNu sunt mulți copaci, dar mulți Pali numesc acest loc cămin."
+  },
+  {
+   "key": "SpawnPoint_2_Title_TextData",
+   "en": "Windswept Island- Flying Fish Coast",
+   "ro": "Insula Bătută de Vânt - Coasta Peștelui Zburător"
+  },
+  {
+   "key": "SpawnPoint_3_TextData",
+   "en": "Coastline with reefs in every direction.\r\nAverage number of resources and Pals.\r\nThough rocky, it's easy enough to secure a wide, open plot of land.",
+   "ro": "Tărm cu recife în toate direcțiile.\r\nNumăr mediu de resurse și Pali.\r\nDeși e stâncos, e destul de ușor să găsești un teren deschis și larg."
+  },
+  {
+   "key": "SpawnPoint_3_Title_TextData",
+   "en": "Sea Breeze Archipelago - Reef",
+   "ro": "Arhipelagul Brizei Marine - Recif"
+  },
+  {
+   "key": "SpawnPoint_4_TextData",
+   "en": "A sunny island blessed with a pleasant sea breeze.\r\nNear a volcano with a warm, easy-to-live in climate.\r\nWith good access to the surrounding islands, it's a great place for setting off on adventures.",
+   "ro": "O insulă însorită, binecuvântată cu o briză marină plăcută.\r\nAproape de un vulcan, cu o climă caldă și primitoare.\r\nCu acces facil către insulele din jur, e un loc excelent pentru a porni în aventură."
+  },
+  {
+   "key": "SpawnPoint_4_Title_TextData",
+   "en": "Sea Breeze Archipelago - Castaway Beach",
+   "ro": "Arhipelagul Brizei Marine - Plaja Naufragiatului"
+  },
+  {
+   "key": "SpawnPoint_5_TextData",
+   "en": "An island devoid of any signs of human life.\r\nIts lack of greenery makes settling there far from ideal.",
+   "ro": "O insulă lipsită de orice urmă de viață omenească.\r\nLipsa vegetației face ca stabilirea aici să fie departe de ideal."
+  },
+  {
+   "key": "SpawnPoint_5_Title_TextData",
+   "en": "Isle of Silence",
+   "ro": "Insula Liniștii"
+  },
+  {
+   "key": "SpawnPoint_6_TextData",
+   "en": "A restful island with peaks and valleys surrounded by sprawling forests.\r\nBecause its resources and Pals are in limited supply, not many people set their roots here.",
+   "ro": "O insulă tihnită, cu vârfuri și văi înconjurate de păduri întinse.\r\nDeoarece resursele și Palii sunt în număr limitat, puțini oameni își prind rădăcinile aici."
+  },
+  {
+   "key": "SpawnPoint_6_Title_TextData",
+   "en": "Isle of Murmurs",
+   "ro": "Insula Murmurului"
+  },
+  {
+   "key": "SpawnPoint_7_TextData",
+   "en": "Wild island to the east.\r\nAt the edge of the main island, none have considered developing it.\r\nThose not used to living in the wilds would find it hard to survive here.",
+   "ro": "Insulă sălbatică spre est.\r\nLa marginea insulei principale, nimeni nu s-a gândit să o dezvolte.\r\nCei neobișnuiți cu viața în sălbăticie ar găsi cu greu o cale de supraviețuire aici."
+  },
+  {
+   "key": "SpawnPoint_7_Title_TextData",
+   "en": "Eastern Wild Island",
+   "ro": "Insula Sălbatică de Est"
+  },
+  {
+   "key": "SpawnPoint_8_TextData",
+   "en": "An island with sprawling wetlands.\r\nThe ample moisture allows for berries to grow in abundance and wide variety of Pal inhabitants.​",
+   "ro": "O insulă cu zone umede întinse.\r\nUmiditatea ridicată permite fructelor de pădure să crească din abundență și adăpostește o mare varietate de Pali"
+  },
+  {
+   "key": "SpawnPoint_8_Title_TextData",
+   "en": "Marsh Island",
+   "ro": "Insula Mlaștinilor"
+  },
+  {
+   "key": "FTPoint1_TextData",
+   "en": "Mount Obsidian - Midpoint",
+   "ro": "Muntele Obsidian - Mijloc"
+  },
+  {
+   "key": "FTPoint2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "FTPoint3_TextData",
+   "en": "Brothers of the Eternal Pyre Tower Entrance",
+   "ro": "Intrare în Turnul Fraților Rugului Etern"
+  },
+  {
+   "key": "FTPoint4_TextData",
+   "en": "Ancient Civilization Ruins",
+   "ro": "Ruinele Civilizației Antice"
+  },
+  {
+   "key": "FTPoint5_TextData",
+   "en": "Fisherman's Point",
+   "ro": "Punctul Pescarului"
+  },
+  {
+   "key": "FTPoint6_TextData",
+   "en": "Mount Obsidian - Anubis Statue",
+   "ro": "Muntele Obsidian - Statuia lui Anubis"
+  },
+  {
+   "key": "FTPoint7_TextData",
+   "en": "Beach of Everlasting Summer",
+   "ro": "Plaja Verii Veșnice"
+  },
+  {
+   "key": "FTPoint8_TextData",
+   "en": "Ruined Fortress City",
+   "ro": "Orașul-Fortăreață în Ruine"
+  },
+  {
+   "key": "FTPoint9_TextData",
+   "en": "PIDF Tower Entrance",
+   "ro": "Intrare în Turnul PIDF"
+  },
+  {
+   "key": "FTPoint10_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "FTPoint11_TextData",
+   "en": "Sand Dunes Entrance",
+   "ro": "Intrarea în Dunele de Nisip"
+  },
+  {
+   "key": "FTPoint12_TextData",
+   "en": "Duneshelter",
+   "ro": "Adăpostul Dunelor"
+  },
+  {
+   "key": "FTPoint13_TextData",
+   "en": "Deep Sand Dunes",
+   "ro": "Dunele de Nisip Adânci"
+  },
+  {
+   "key": "FTPoint14_TextData",
+   "en": "Cold Shore",
+   "ro": "Țărmul Rece"
+  },
+  {
+   "key": "FTPoint15_TextData",
+   "en": "No Man's Trail",
+   "ro": "Cărarea Pustie"
+  },
+  {
+   "key": "FTPoint16_TextData",
+   "en": "Icy Weasel Hill",
+   "ro": "Dealul Nevăstuicii de Gheață"
+  },
+  {
+   "key": "FTPoint17_TextData",
+   "en": "Unthawable Lake",
+   "ro": "Lacul de nedezghețat"
+  },
+  {
+   "key": "FTPoint18_TextData",
+   "en": "Land of Absolute Zero",
+   "ro": "Ținutul zero absolut"
+  },
+  {
+   "key": "FTPoint19_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "FTPoint20_TextData",
+   "en": "PAL Genetic Research Unit Tower Entrance",
+   "ro": "Intrare în turnul Unității de Cercetare Genetică a Palilor"
+  },
+  {
+   "key": "FTPoint21_TextData",
+   "en": "Grassy Behemoth Hills",
+   "ro": "Colinele uriașului înverzit"
+  },
+  {
+   "key": "FTPoint22_TextData",
+   "en": "Desolate Church",
+   "ro": "Biserica părăsită"
+  },
+  {
+   "key": "FTPoint23_TextData",
+   "en": "Hill of Beginnings",
+   "ro": "Dealul începuturilor"
+  },
+  {
+   "key": "FTPoint24_TextData",
+   "en": "Small Settlement",
+   "ro": "Așezare mică"
+  },
+  {
+   "key": "FTPoint25_TextData",
+   "en": "Ascetic Falls",
+   "ro": "Cascada ascetului"
+  },
+  {
+   "key": "FTPoint26_TextData",
+   "en": "Foot of the Volcano",
+   "ro": "Poalele vulcanului"
+  },
+  {
+   "key": "FTPoint27_TextData",
+   "en": "Sealed Realm of the Frozen Wings",
+   "ro": "Tărâmul sigilat al aripilor înghețate"
+  },
+  {
+   "key": "FTPoint28_TextData",
+   "en": "Fort Ruins",
+   "ro": "Ruinele fortăreței"
+  },
+  {
+   "key": "FTPoint29_TextData",
+   "en": "Sealed Realm of the Swordmaster",
+   "ro": "Tărâmul sigilat al maestrului spadasin"
+  },
+  {
+   "key": "FTPoint30_TextData",
+   "en": "Investigator's Fork",
+   "ro": "Răscrucea investigatorului"
+  },
+  {
+   "key": "FTPoint31_TextData",
+   "en": "Ancient Ritual Site",
+   "ro": "Situl ritualic antic"
+  },
+  {
+   "key": "FTPoint32_TextData",
+   "en": "Mount Flopie Summit",
+   "ro": "Vârful Muntelui Flopie"
+  },
+  {
+   "key": "FTPoint33_TextData",
+   "en": "Lake Center",
+   "ro": "Centrul lacului"
+  },
+  {
+   "key": "FTPoint34_TextData",
+   "en": "Hypocrite Hill",
+   "ro": "Dealul Fățarnicului"
+  },
+  {
+   "key": "FTPoint35_TextData",
+   "en": "Sealed Realm of the Mystic",
+   "ro": "Tărâmul sigilat al Misticului"
+  },
+  {
+   "key": "FTPoint36_TextData",
+   "en": "Snowy Mountain Crossroads",
+   "ro": "Răscrucea Munților Înzăpeziți"
+  },
+  {
+   "key": "FTPoint37_TextData",
+   "en": "Frostbound Mountains Summit",
+   "ro": "Vârful Munților Înghețați"
+  },
+  {
+   "key": "FTPoint38_TextData",
+   "en": "Sealed Realm of the Swift",
+   "ro": "Tărâmul sigilat al Iuțelii"
+  },
+  {
+   "key": "FTPoint39_TextData",
+   "en": "Mossanda Forest",
+   "ro": "Pădurea Mossanda"
+  },
+  {
+   "key": "FTPoint40_TextData",
+   "en": "Gobfin's Turf",
+   "ro": "Teritoriul lui Gobfin"
+  },
+  {
+   "key": "FTPoint41_TextData",
+   "en": "Cinnamoth Forest",
+   "ro": "Pădurea Cinnamoth"
+  },
+  {
+   "key": "FTPoint42_TextData",
+   "en": "Sealed Realm of the Ardent",
+   "ro": "Tărâmul sigilat al Înflăcăratului"
+  },
+  {
+   "key": "FTPoint43_TextData",
+   "en": "Deep Bamboo Thicket",
+   "ro": "Desișul de bambus"
+  },
+  {
+   "key": "FTPoint44_TextData",
+   "en": "Sealed Realm of the Myriad Flames",
+   "ro": "Tărâmul sigilat al Nenumăratelor Flăcări"
+  },
+  {
+   "key": "FTPoint45_TextData",
+   "en": "Rayne Syndicate Tower Entrance",
+   "ro": "Intrarea în Turnul Sindicatului Rayne"
+  },
+  {
+   "key": "FTPoint46_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "FTPoint47_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "FTPoint48_TextData",
+   "en": "Pristine Snow Field",
+   "ro": "Câmpia de zăpadă imaculată"
+  },
+  {
+   "key": "FTPoint49_TextData",
+   "en": "Isle of Silence",
+   "ro": "Insula Liniștii"
+  },
+  {
+   "key": "FTPoint50_TextData",
+   "en": "Isle of Murmurs",
+   "ro": "Insula Murmurului"
+  },
+  {
+   "key": "FTPoint51_TextData",
+   "en": "Kelpsea Hill",
+   "ro": "Dealul Kelpsea"
+  },
+  {
+   "key": "FTPoint52_TextData",
+   "en": "Sea Breeze Archipelago - Castaway Beach",
+   "ro": "Arhipelagul Brizei Marine - Plaja Naufragiatului"
+  },
+  {
+   "key": "FTPoint53_TextData",
+   "en": "Sea Breeze Archipelago Church",
+   "ro": "Biserica din Arhipelagul Brizei Marine"
+  },
+  {
+   "key": "FTPoint54_TextData",
+   "en": "Small Cove",
+   "ro": "Golfuleț"
+  },
+  {
+   "key": "FTPoint55_TextData",
+   "en": "Islandhopper Coast",
+   "ro": "Coasta Hoinarilor de Insule"
+  },
+  {
+   "key": "FTPoint56_TextData",
+   "en": "Marsh Island",
+   "ro": "Insula Mlaștinilor"
+  },
+  {
+   "key": "FTPoint57_TextData",
+   "en": "Eastern Wild Island",
+   "ro": "Insula Sălbatică de Est"
+  },
+  {
+   "key": "FTPoint58_TextData",
+   "en": "Natural Bridge",
+   "ro": "Pod natural"
+  },
+  {
+   "key": "FTPoint59_TextData",
+   "en": "Isle of Silence Church Ruins",
+   "ro": "Ruinele bisericii din Insula Tăcerii"
+  },
+  {
+   "key": "FTPoint60_TextData",
+   "en": "Marsh Island Church Ruins",
+   "ro": "Ruinele bisericii din Insula Mlaștinii"
+  },
+  {
+   "key": "FTPoint61_TextData",
+   "en": "Bridge of the Twin Knights",
+   "ro": "Podul Cavalerilor Gemeni"
+  },
+  {
+   "key": "FTPoint62_TextData",
+   "en": "Ravine Entrance",
+   "ro": "Intrarea în râpă"
+  },
+  {
+   "key": "FTPoint63_TextData",
+   "en": "Arena Entrance",
+   "ro": "Intrarea în arenă"
+  },
+  {
+   "key": "FTPoint64_TextData",
+   "en": "Sakurajima - Mushroom Wetlands",
+   "ro": "Sakurajima - Mlaștinile cu ciuperci"
+  },
+  {
+   "key": "FTPoint65_TextData",
+   "en": "Sakurajima - Southern Sandbar",
+   "ro": "Sakurajima - Bancul de nisip sudic"
+  },
+  {
+   "key": "FTPoint66_TextData",
+   "en": "Moonflower Tower",
+   "ro": "Turnul Moonflower"
+  },
+  {
+   "key": "FTPoint67_TextData",
+   "en": "Moonflower Tower Entrance",
+   "ro": "Intrarea în Turnul Moonflower"
+  },
+  {
+   "key": "FTPoint68_TextData",
+   "en": "Cherry Blossom Crossroads",
+   "ro": "Răscrucea Florilor de Cireș"
+  },
+  {
+   "key": "FTPoint69_TextData",
+   "en": "Sakurajima - Northern Rock Field",
+   "ro": "Sakurajima - Câmpul stâncos nordic"
+  },
+  {
+   "key": "FTPoint70_TextData",
+   "en": "Secluded Cemetery",
+   "ro": "Cimitirul retras"
+  },
+  {
+   "key": "FTPoint71_TextData",
+   "en": "Scorched Ashland",
+   "ro": "Ținutul cenușei pârjolite"
+  },
+  {
+   "key": "FTPoint72_TextData",
+   "en": "Stone Pillar Cave Entrance",
+   "ro": "Intrarea în Peștera Stâlpilor de Piatră"
+  },
+  {
+   "key": "FTPoint73_TextData",
+   "en": "Loess Plains",
+   "ro": "Câmpiile de loess"
+  },
+  {
+   "key": "FTPoint74_TextData",
+   "en": "Hidden Passage to the Oculus Gate",
+   "ro": "Pasajul ascuns spre Poarta Oculus"
+  },
+  {
+   "key": "FTPoint75_TextData",
+   "en": "The Oculus Gate, Tower in Sight",
+   "ro": "Poarta Oculus, cu vedere spre turn"
+  },
+  {
+   "key": "FTPoint76_TextData",
+   "en": "Feybreak Tower Entrance",
+   "ro": "Intrarea în Turnul Feybreak"
+  },
+  {
+   "key": "FTPoint78_TextData",
+   "en": "Scorched Hill",
+   "ro": "Colina pârjolită"
+  },
+  {
+   "key": "FTPoint79_TextData",
+   "en": "Deserted Ash Plateau",
+   "ro": "Podișul cenușiu părăsit"
+  },
+  {
+   "key": "FTPoint80_TextData",
+   "en": "Emberstone Plateau",
+   "ro": "Podișul Pietrei Incandescente"
+  },
+  {
+   "key": "FTPoint81_TextData",
+   "en": "Shield Dragon Tunnel",
+   "ro": "Tunelul Dragonului Scut"
+  },
+  {
+   "key": "FTPoint82_TextData",
+   "en": "Shield Dragon Tunnel",
+   "ro": "Tunelul Dragonului Scut"
+  },
+  {
+   "key": "FTPoint83_TextData",
+   "en": "Feybreak Shipwreck",
+   "ro": "Epava din Feybreak"
+  },
+  {
+   "key": "FTPoint84_TextData",
+   "en": "Sunlit Isle",
+   "ro": "Insula însorită"
+  },
+  {
+   "key": "FTPoint85_TextData",
+   "en": "Oasis Isle",
+   "ro": "Insula Oazei"
+  },
+  {
+   "key": "FTPoint86_TextData",
+   "en": "Isle of the Glacial Core",
+   "ro": "Insula Nucleului Glaciar"
+  },
+  {
+   "key": "FTPoint87_TextData",
+   "en": "Frostbitten Isle",
+   "ro": "Insula Degerată"
+  },
+  {
+   "key": "FTPoint88_TextData",
+   "en": "Phantom Isle",
+   "ro": "Insula Fantomă"
+  },
+  {
+   "key": "FTPoint89_TextData",
+   "en": "Isle of Decayed Treasures",
+   "ro": "Insula Comorilor Putrezite"
+  },
+  {
+   "key": "FTPoint90_TextData",
+   "en": "Sealed Realm of Terraria",
+   "ro": "Tărâmul Sigilat al Terrariei"
+  },
+  {
+   "key": "FTPoint91_TextData",
+   "en": "Isle of Murmurs Beach",
+   "ro": "Plaja Insulei Murmurelor"
+  },
+  {
+   "key": "FTPoint92_TextData",
+   "en": "Anubis Dunes",
+   "ro": "Dunele lui Anubis"
+  },
+  {
+   "key": "FTPoint93_TextData",
+   "en": "Whisperwind Cliffs",
+   "ro": "Falezele Vântului Șoptit"
+  },
+  {
+   "key": "FTPoint94_TextData",
+   "en": "Whisperwind Hill",
+   "ro": "Colina Vântului Șoptit"
+  },
+  {
+   "key": "FTPoint95_TextData",
+   "en": "Windscream Valley",
+   "ro": "Valea Vântului Urlător"
+  },
+  {
+   "key": "FTPoint96_TextData",
+   "en": "Sea Breeze Coast",
+   "ro": "Coasta Brizei Marine"
+  },
+  {
+   "key": "FTPoint97_TextData",
+   "en": "Dustview Coast",
+   "ro": "Coasta Prafului Zburător"
+  },
+  {
+   "key": "FTPoint98_TextData",
+   "en": "Altar of the Windcaller",
+   "ro": "Altarul Chemătorului de Vânt"
+  },
+  {
+   "key": "FTPoint99_TextData",
+   "en": "Mossanda Inner Coast",
+   "ro": "Coasta Interioară a lui Mossanda"
+  },
+  {
+   "key": "FTPoint100_TextData",
+   "en": "Verdant Stream",
+   "ro": "Pârâul Înverzit"
+  },
+  {
+   "key": "FTPoint101_TextData",
+   "en": "Desiccated Coast",
+   "ro": "Coasta Desecată"
+  },
+  {
+   "key": "FTPoint102_TextData",
+   "en": "Thirst's End",
+   "ro": "Capătul Setii"
+  },
+  {
+   "key": "FTPoint103_TextData",
+   "en": "Desert Backbone",
+   "ro": "Șira Deșertului"
+  },
+  {
+   "key": "FTPoint104_TextData",
+   "en": "Sandbar of Solitude",
+   "ro": "Bancul Singurătății"
+  },
+  {
+   "key": "FTPoint105_TextData",
+   "en": "The Furthest Flats",
+   "ro": "Plajele Îndepărtate"
+  },
+  {
+   "key": "FTPoint106_TextData",
+   "en": "Seaward Passage",
+   "ro": "Pasajul spre Mare"
+  },
+  {
+   "key": "FTPoint107_TextData",
+   "en": "Frozen Dune Cape",
+   "ro": "Capul Dunei Înghețate"
+  },
+  {
+   "key": "FTPoint108_TextData",
+   "en": "Windwatch Outlook",
+   "ro": "Punctul de Veghe al Vântului"
+  },
+  {
+   "key": "FTPoint109_TextData",
+   "en": "Mount Obsidian - Second Ascent",
+   "ro": "Muntele Obsidian - A doua urcare"
+  },
+  {
+   "key": "FTPoint110_TextData",
+   "en": "Mount Obsidian Trail",
+   "ro": "Cărarea Muntelui Obsidian"
+  },
+  {
+   "key": "FTPoint111_TextData",
+   "en": "Dry Dunes",
+   "ro": "Dunele Uscate"
+  },
+  {
+   "key": "FTPoint112_TextData",
+   "en": "Heatwave Gate",
+   "ro": "Poarta Valului de Căldură"
+  },
+  {
+   "key": "FTPoint113_TextData",
+   "en": "Thawtide Cape",
+   "ro": "Capul Dezghețului"
+  },
+  {
+   "key": "FTPoint114_TextData",
+   "en": "Garden Beneath the Astral Mountains",
+   "ro": "Grădina de sub Munții Astrali"
+  },
+  {
+   "key": "FTPoint115_TextData",
+   "en": "Garden Beneath the Cliffs",
+   "ro": "Grădina de sub Stânci"
+  },
+  {
+   "key": "FTPoint116_TextData",
+   "en": "Sakurajima: West Coast",
+   "ro": "Sakurajima: Coasta de Vest"
+  },
+  {
+   "key": "FTPoint117_TextData",
+   "en": "Crimson Cliffs",
+   "ro": "Stâncile purpurii"
+  },
+  {
+   "key": "FTPoint118_TextData",
+   "en": "Hill Entrance",
+   "ro": "Intrarea pe deal"
+  },
+  {
+   "key": "FTPoint119_TextData",
+   "en": "Curved Redrock",
+   "ro": "Stânca roșie curbată"
+  },
+  {
+   "key": "FTPoint120_TextData",
+   "en": "Scarlet Outlook",
+   "ro": "Punctul de belvedere stacojiu"
+  },
+  {
+   "key": "FTPoint121_TextData",
+   "en": "Crimson Labyrinth",
+   "ro": "Labirintul purpuriu"
+  },
+  {
+   "key": "FTPoint122_TextData",
+   "en": "Crystallized Great Tree",
+   "ro": "Marele copac cristalizat"
+  },
+  {
+   "key": "FTPoint123_TextData",
+   "en": "Wildlands Floodgate",
+   "ro": "Ecluza din ținuturile sălbatice"
+  },
+  {
+   "key": "FTPoint124_TextData",
+   "en": "Oilfield Overlook",
+   "ro": "Belvederea câmpului petrolier"
+  },
+  {
+   "key": "FTPoint125_TextData",
+   "en": "Shady Mushroom Cliffs",
+   "ro": "Stâncile cu ciuperci suspecte"
+  },
+  {
+   "key": "FTPoint126_TextData",
+   "en": "Silent Lake",
+   "ro": "Lacul tăcut"
+  },
+  {
+   "key": "FTPoint127_TextData",
+   "en": "Azure Cliffs",
+   "ro": "Stâncile azurii"
+  },
+  {
+   "key": "FTPoint128_TextData",
+   "en": "Amethyst Outcrop",
+   "ro": "Aflorimentul de ametist"
+  },
+  {
+   "key": "FTPoint129_TextData",
+   "en": "Exile's Cape",
+   "ro": "Capul exilatului"
+  },
+  {
+   "key": "Boss_KingWhale_TextData",
+   "en": "Deserted Islet",
+   "ro": "Insulița pustie"
+  },
+  {
+   "key": "Boss_Forest_TextData",
+   "en": "Free Pal Alliance Tower Entrance",
+   "ro": "Intrarea în turnul Alianței Free Pal"
+  },
+  {
+   "key": "WatchTower_1_TextData",
+   "en": "Windswept Island Watchtower",
+   "ro": "Turn de veghe din Insula Bătută de Vânt"
+  },
+  {
+   "key": "WatchTower_2_TextData",
+   "en": "Eastern Wild Island Watchtower",
+   "ro": "Turn de veghe din Insula Sălbatică de Est"
+  },
+  {
+   "key": "WatchTower_3_TextData",
+   "en": "Crescent Moon Shore Watchtower",
+   "ro": "Turn de veghe din Țărmul Semilunei"
+  },
+  {
+   "key": "WatchTower_4_TextData",
+   "en": "Searing Dunes Watchtower",
+   "ro": "Turn de veghe din Dunele Arzute"
+  },
+  {
+   "key": "WatchTower_5_TextData",
+   "en": "Sandstone Plateau Watchtower",
+   "ro": "Turn de veghe din Platoul de Gresie"
+  },
+  {
+   "key": "WatchTower_6_TextData",
+   "en": "Verdant Stream Watchtower",
+   "ro": "Turn de veghe din Pârâul Înverzit"
+  },
+  {
+   "key": "WatchTower_7_TextData",
+   "en": "Icy Weasel Hill Watchtower",
+   "ro": "Turn de veghe din Dealul Nevăstuicii Înghețate"
+  },
+  {
+   "key": "WatchTower_8_TextData",
+   "en": "Astral Mountains Garden Watchtower",
+   "ro": "Turn de veghe din Grădina Munților Astrali"
+  },
+  {
+   "key": "WatchTower_9_TextData",
+   "en": "Bamboo Groves Watchtower",
+   "ro": "Turn de veghe din Crângurile de Bambus"
+  },
+  {
+   "key": "WatchTower_10_TextData",
+   "en": "Sea Breeze Archipelago Watchtower",
+   "ro": "Turn de veghe din Arhipelagul Brizei Marine"
+  },
+  {
+   "key": "WatchTower_11_TextData",
+   "en": "Deep Bamboo Thicket Watchtower",
+   "ro": "Turn de veghe din Desișul Adânc de Bambus"
+  },
+  {
+   "key": "WatchTower_12_TextData",
+   "en": "Sakurajima Watchtower",
+   "ro": "Turn de veghe din Sakurajima"
+  },
+  {
+   "key": "WatchTower_13_TextData",
+   "en": "Scorched Obsidian Watchtower",
+   "ro": "Turn de veghe din Obsidianul Pârjolit"
+  },
+  {
+   "key": "WatchTower_14_TextData",
+   "en": "Lava Reservoir Watchtower",
+   "ro": "Turn de veghe din Bazinul de Lavă"
+  },
+  {
+   "key": "WatchTower_15_TextData",
+   "en": "Dry Sandy Beach Watchtower",
+   "ro": "Turn de veghe din Plaja Nisipoasă Uscată"
+  },
+  {
+   "key": "WatchTower_16_TextData",
+   "en": "Ruined Fortress City Watchtower",
+   "ro": "Turn de veghe din orașul fortăreață ruinat"
+  },
+  {
+   "key": "WatchTower_17_TextData",
+   "en": "Loess Plains Watchtower",
+   "ro": "Turn de veghe din câmpiile de loess"
+  },
+  {
+   "key": "WatchTower_18_TextData",
+   "en": "Burning Fault Watchtower",
+   "ro": "Turn de veghe din falia arzândă"
+  },
+  {
+   "key": "WatchTower_19_TextData",
+   "en": "Scorched Plateau Watchtower",
+   "ro": "Turn de veghe de pe platoul pârjolit"
+  },
+  {
+   "key": "WatchTower_20_TextData",
+   "en": "Frozen Coral Hill Watchtower",
+   "ro": "Turn de veghe de pe dealul de corali înghețați"
+  },
+  {
+   "key": "WatchTower_21_TextData",
+   "en": "Arid Wasteland Watchtower",
+   "ro": "Turn de veghe din pustietatea aridă"
+  },
+  {
+   "key": "WatchTower_22_TextData",
+   "en": "Sunreach Watchtower",
+   "ro": "Turn de veghe din Sunreach"
+  },
+  {
+   "key": "SkyIsland_A_TextData",
+   "en": "Enchanted Firmament",
+   "ro": "Bolta fermecată"
+  },
+  {
+   "key": "SkyIsland_B_TextData",
+   "en": "Crystalline Archipelago",
+   "ro": "Arhipelagul cristalin"
+  },
+  {
+   "key": "SkyIsland_C_TextData",
+   "en": "Waterlily Gorge",
+   "ro": "Cheile nuferilor"
+  },
+  {
+   "key": "SkyIsland_D_TextData",
+   "en": "The Azure Tapestry",
+   "ro": "Tapiseria de azur"
+  },
+  {
+   "key": "SkyIsland_E_TextData",
+   "en": "Farcry Marsh",
+   "ro": "Mlaștina îndepărtată"
+  },
+  {
+   "key": "SkyIsland_BOSS_TextData",
+   "en": "Azure Covenant Tower Entrance",
+   "ro": "Intrarea în Turnul Legământului de Azur"
+  },
+  {
+   "key": "WorldTree_A_TextData",
+   "en": "The Verdant Rootpath",
+   "ro": "Cărarea rădăcinilor înverzite"
+  },
+  {
+   "key": "WorldTree_B_TextData",
+   "en": "Whimsical Wisteria Grove",
+   "ro": "Dumbrava cu glicină bizară"
+  },
+  {
+   "key": "WorldTree_C_1_TextData",
+   "en": "Dusty Ravine",
+   "ro": "Râpa prăfuită"
+  },
+  {
+   "key": "WorldTree_C_2_TextData",
+   "en": "Remnant Riverside",
+   "ro": "Malul rămășițelor"
+  },
+  {
+   "key": "WorldTree_D_TextData",
+   "en": "Corroded Hollow",
+   "ro": "Scobitura corodată"
+  },
+  {
+   "key": "WorldTree_E_TextData",
+   "en": "Alluvion Lakefront",
+   "ro": "Malul Lacului Aluvionar"
+  },
+  {
+   "key": "WorldTree_I_TextData",
+   "en": "Boreal Summit",
+   "ro": "Culmea boreală"
+  },
+  {
+   "key": "WorldTree_L_TextData",
+   "en": "Spore Cloister",
+   "ro": "Galeria cu spori"
+  },
+  {
+   "key": "WorldTree_M_TextData",
+   "en": "Lacrymal Shoal",
+   "ro": "Bancul lacrimar"
+  },
+  {
+   "key": "WorldTree_N_TextData",
+   "en": "Gilded City Ruins",
+   "ro": "Ruinele Orașului Aurit"
+  },
+  {
+   "key": "WorldTree_lab_TextData",
+   "en": "Abandoned Laboratory",
+   "ro": "Laborator abandonat"
+  },
+  {
+   "key": "WorldTree_LastBoss_TextData",
+   "en": "Sealed Sanctum",
+   "ro": "Sanctuarul sigilat"
+  },
+  {
+   "key": "WatchTower_WorldTree_1_TextData",
+   "en": "Dusty Ravine Watchtower",
+   "ro": "Turnul de veghe din Râpa prăfuită"
+  },
+  {
+   "key": "WatchTower_WorldTree_2_TextData",
+   "en": "Gilded City Ruins Watchtower",
+   "ro": "Turnul de veghe din Ruinele Orașului Aurit"
+  },
+  {
+   "key": "New_SmallIsland01_TextData",
+   "en": "Islet of Circular Ruins",
+   "ro": "Insulița Ruinelor Circulare"
+  },
+  {
+   "key": "New_SmallIsland02_TextData",
+   "en": "Flamepulse Islet",
+   "ro": "Insulița Pulsului de Foc"
+  },
+  {
+   "key": "New_SmallIsland03_TextData",
+   "en": "Scouring Islet",
+   "ro": "Insulița eroziunii"
+  },
+  {
+   "key": "New_SmallIsland04_TextData",
+   "en": "Bicornis Islet",
+   "ro": "Insulița Bicornis"
+  },
+  {
+   "key": "New_SmallIsland05_TextData",
+   "en": "Glacial Memento Islet",
+   "ro": "Insulița Memento Glaciar"
+  },
+  {
+   "key": "New_SmallIsland06_TextData",
+   "en": "Sandstone Gate Islet",
+   "ro": "Insulița Porții de Gresie"
+  },
+  {
+   "key": "New_SmallIsland07_TextData",
+   "en": "Suncrest Islet",
+   "ro": "Insulița Crestei Solare"
+  },
+  {
+   "key": "FootOfWorldTree_TextData",
+   "en": "Foot of the World Tree",
+   "ro": "La poalele Arborelui Lumii"
+  },
+  {
+   "key": "WorldTree_MiddleBoss_1_TextData",
+   "en": "Rotmist Root",
+   "ro": "Rădăcina Ceții Corozive"
+  },
+  {
+   "key": "WorldTree_MiddleBoss_2_TextData",
+   "en": "Shinespore Root",
+   "ro": "Rădăcina Sporilor Strălucitori"
+  },
+  {
+   "key": "WorldTree_MiddleBoss_3_TextData",
+   "en": "Forbidden Laboratory",
+   "ro": "Laboratorul interzis"
+  }
+ ]
+}

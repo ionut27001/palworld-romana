@@ -1,0 +1,660 @@
+{
+ "table": "DT_PartnerSkillAppendText",
+ "entries": [
+  {
+   "key": "TEST_TEXT_RANK_1_TextData",
+   "en": "★0 <Elem_Water>Style Change</>",
+   "ro": "★0 <Elem_Water>Schimbare de stil</>"
+  },
+  {
+   "key": "TEST_TEXT_RANK_2_TextData",
+   "en": "★1 <Elem_Water>Style Change</>",
+   "ro": "★1 <Elem_Water>Schimbare de stil</>"
+  },
+  {
+   "key": "TEST_TEXT_RANK_3_TextData",
+   "en": "★2 <Elem_Water>Style Change</>",
+   "ro": "★2 <Elem_Water>Schimbare de stil</>"
+  },
+  {
+   "key": "TEST_TEXT_RANK_4_TextData",
+   "en": "★3 <Elem_Water>Style Change</>",
+   "ro": "★3 <Elem_Water>Schimbare de stil</>"
+  },
+  {
+   "key": "TEST_TEXT_RANK_5_TextData",
+   "en": "★4 <Elem_Water>Style Change</>",
+   "ro": "★4 <Elem_Water>Schimbare de stil</>"
+  },
+  {
+   "key": "DamageUp_Rank_2_TextData",
+   "en": "(Damage Up: <Status_Up>S</>)",
+   "ro": "(Creștere daune: <Status_Up>S</>)"
+  },
+  {
+   "key": "DamageUp_Rank_3_TextData",
+   "en": "(Damage Up: <Status_Up>M</>)",
+   "ro": "(Creștere daune: <Status_Up>M</>)"
+  },
+  {
+   "key": "DamageUp_Rank_4_TextData",
+   "en": "(Damage Up: <Status_Up>L</>)",
+   "ro": "(Creștere daune: <Status_Up>L</>)"
+  },
+  {
+   "key": "DamageUp_Rank_5_TextData",
+   "en": "(Damage Up: <Status_Up>XL</>)",
+   "ro": "(Creștere daune: <Status_Up>XL</>)"
+  },
+  {
+   "key": "CooldownReduction_Rank_2_TextData",
+   "en": "(Cooldown Reduction: <Status_Up>S</>)",
+   "ro": "(Reducere timp de reîncărcare: <Status_Up>S</>)"
+  },
+  {
+   "key": "CooldownReduction_Rank_3_TextData",
+   "en": "(Cooldown Reduction: <Status_Up>M</>)",
+   "ro": "(Reducere timp de reîncărcare: <Status_Up>M</>)"
+  },
+  {
+   "key": "CooldownReduction_Rank_4_TextData",
+   "en": "(Cooldown Reduction: <Status_Up>L</>)",
+   "ro": "(Reducere timp de reîncărcare: <Status_Up>L</>)"
+  },
+  {
+   "key": "CooldownReduction_Rank_5_TextData",
+   "en": "(Cooldown Reduction: <Status_Up>XL</>)",
+   "ro": "(Reducere timp de reîncărcare: <Status_Up>XL</>)"
+  },
+  {
+   "key": "MiningUp_Rank_2_TextData",
+   "en": "(Mining Up: <Status_Up>S</>)",
+   "ro": "(Creștere minerit: <Status_Up>S</>)"
+  },
+  {
+   "key": "MiningUp_Rank_3_TextData",
+   "en": "(Mining Up: <Status_Up>M</>)",
+   "ro": "(Creștere minerit: <Status_Up>M</>)"
+  },
+  {
+   "key": "MiningUp_Rank_4_TextData",
+   "en": "(Mining Up: <Status_Up>L</>)",
+   "ro": "(Minerit crescut: <Status_Up>L</>)"
+  },
+  {
+   "key": "MiningUp_Rank_5_TextData",
+   "en": "(Mining Up: <Status_Up>XL</>)",
+   "ro": "(Minerit crescut: <Status_Up>XL</>)"
+  },
+  {
+   "key": "RideSpeedUp_Rank_2_TextData",
+   "en": "(Ride Speed Up: <Status_Up>10%</>)",
+   "ro": "(Viteză călărit crescută: <Status_Up>10%</>)"
+  },
+  {
+   "key": "RideSpeedUp_Rank_3_TextData",
+   "en": "(Ride Speed Up: <Status_Up>12%</>)",
+   "ro": "(Viteză călărit crescută: <Status_Up>12%</>)"
+  },
+  {
+   "key": "RideSpeedUp_Rank_4_TextData",
+   "en": "(Ride Speed Up: <Status_Up>15%</>)",
+   "ro": "(Viteză călărit crescută: <Status_Up>15%</>)"
+  },
+  {
+   "key": "RideSpeedUp_Rank_5_TextData",
+   "en": "(Ride Speed Up: <Status_Up>20%</>)",
+   "ro": "(Viteză călărit crescută: <Status_Up>20%</>)"
+  },
+  {
+   "key": "SwimSpeedUp_Rank_2_TextData",
+   "en": "(Swim Speed Up: <Status_Up>10%</>)",
+   "ro": "(Viteză înot crescută: <Status_Up>10%</>)"
+  },
+  {
+   "key": "SwimSpeedUp_Rank_3_TextData",
+   "en": "(Swim Speed Up: <Status_Up>14%</>)",
+   "ro": "(Viteză înot crescută: <Status_Up>14%</>)"
+  },
+  {
+   "key": "SwimSpeedUp_Rank_4_TextData",
+   "en": "(Swim Speed Up: <Status_Up>18%</>)",
+   "ro": "(Viteză înot crescută: <Status_Up>18%</>)"
+  },
+  {
+   "key": "SwimSpeedUp_Rank_5_TextData",
+   "en": "(Swim Speed Up: <Status_Up>25%</>)",
+   "ro": "(Viteză înot crescută: <Status_Up>25%</>)"
+  },
+  {
+   "key": "LoggingUp_Rank_2_TextData",
+   "en": "(Logging Up: <Status_Up>S</>)",
+   "ro": "(Tăiat lemne crescut: <Status_Up>S</>)"
+  },
+  {
+   "key": "LoggingUp_Rank_3_TextData",
+   "en": "(Logging Up: <Status_Up>M</>)",
+   "ro": "(Tăiat lemne crescut: <Status_Up>M</>)"
+  },
+  {
+   "key": "LoggingUp_Rank_4_TextData",
+   "en": "(Logging Up: <Status_Up>L</>)",
+   "ro": "(Tăiat lemne crescut: <Status_Up>L</>)"
+  },
+  {
+   "key": "LoggingUp_Rank_5_TextData",
+   "en": "(Logging Up: <Status_Up>XL</>)",
+   "ro": "(Tăiat lemne crescut: <Status_Up>XL</>)"
+  },
+  {
+   "key": "DropUp_Rank_2_TextData",
+   "en": "(Item Drop Amount Up: <Status_Up>S</>)",
+   "ro": "(Cantitate pradă crescută: <Status_Up>S</>)"
+  },
+  {
+   "key": "DropUp_Rank_3_TextData",
+   "en": "(Item Drop Amount Up: <Status_Up>M</>)",
+   "ro": "(Creștere cantitate obiecte obținute: <Status_Up>M</>)"
+  },
+  {
+   "key": "DropUp_Rank_4_TextData",
+   "en": "(Item Drop Amount Up: <Status_Up>L</>)",
+   "ro": "(Creștere cantitate obiecte obținute: <Status_Up>L</>)"
+  },
+  {
+   "key": "DropUp_Rank_5_TextData",
+   "en": "(Item Drop Amount Up: <Status_Up>XL</>)",
+   "ro": "(Creștere cantitate obiecte obținute: <Status_Up>XL</>)"
+  },
+  {
+   "key": "FishingAssist_Rank_2_TextData",
+   "en": "(Fishing Assist Up: <Status_Up>S</>)",
+   "ro": "(Creștere asistență pescuit: <Status_Up>S</>)"
+  },
+  {
+   "key": "FishingAssist_Rank_3_TextData",
+   "en": "(Fishing Assist Up: <Status_Up>M</>)",
+   "ro": "(Creștere asistență pescuit: <Status_Up>M</>)"
+  },
+  {
+   "key": "FishingAssist_Rank_4_TextData",
+   "en": "(Fishing Assist Up: <Status_Up>L</>)",
+   "ro": "(Creștere asistență pescuit: <Status_Up>L</>)"
+  },
+  {
+   "key": "FishingAssist_Rank_5_TextData",
+   "en": "(Fishing Assist Up: <Status_Up>XL</>)",
+   "ro": "(Creștere asistență pescuit: <Status_Up>XL</>)"
+  },
+  {
+   "key": "LifeSteal_Rank_2_TextData",
+   "en": "(Life Steal Up: <Status_Up>S</>)",
+   "ro": "(Creștere furt de viață: <Status_Up>S</>)"
+  },
+  {
+   "key": "LifeSteal_Rank_3_TextData",
+   "en": "(Life Steal Up: <Status_Up>M</>)",
+   "ro": "(Creștere furt de viață: <Status_Up>M</>)"
+  },
+  {
+   "key": "LifeSteal_Rank_4_TextData",
+   "en": "(Life Steal Up: <Status_Up>L</>)",
+   "ro": "(Creștere furt de viață: <Status_Up>L</>)"
+  },
+  {
+   "key": "LifeSteal_Rank_5_TextData",
+   "en": "(Life Steal Up: <Status_Up>XL</>)",
+   "ro": "(Creștere furt de viață: <Status_Up>XL</>)"
+  },
+  {
+   "key": "RideSpeedUp_CooldownReduction_Rank_2_TextData",
+   "en": "(Ride Speed Up + Cooldown Reduction: <Status_Up>S</>)",
+   "ro": "(Creștere viteză de călărit + reducere timp de reîncărcare: <Status_Up>S</>)"
+  },
+  {
+   "key": "RideSpeedUp_CooldownReduction_Rank_3_TextData",
+   "en": "(Ride Speed Up + Cooldown Reduction: <Status_Up>M</>)",
+   "ro": "(Creștere viteză de călărit + reducere timp de reîncărcare: <Status_Up>M</>)"
+  },
+  {
+   "key": "RideSpeedUp_CooldownReduction_Rank_4_TextData",
+   "en": "(Ride Speed Up + Cooldown Reduction: <Status_Up>L</>)",
+   "ro": "(Creștere viteză de călărit + reducere timp de reîncărcare: <Status_Up>L</>)"
+  },
+  {
+   "key": "RideSpeedUp_CooldownReduction_Rank_5_TextData",
+   "en": "(Ride Speed Up + Cooldown Reduction: <Status_Up>XL</>)",
+   "ro": "(Creștere viteză de călărit + reducere timp de reîncărcare: <Status_Up>XL</>)"
+  },
+  {
+   "key": "SwimSpeedUp_CooldownReduction_Rank_2_TextData",
+   "en": "(Swim Speed Up <Status_Up>10%</> + Cooldown Reduction: <Status_Up>S</>)",
+   "ro": "(Viteză de înot mărită: <Status_Up>10%</> + Reducere a timpului de reîncărcare: <Status_Up>S</>)"
+  },
+  {
+   "key": "SwimSpeedUp_CooldownReduction_Rank_3_TextData",
+   "en": "(Swim Speed Up <Status_Up>14%</> + Cooldown Reduction: <Status_Up>M</>)",
+   "ro": "(Viteză de înot mărită: <Status_Up>14%</> + Reducere a timpului de reîncărcare: <Status_Up>M</>)"
+  },
+  {
+   "key": "SwimSpeedUp_CooldownReduction_Rank_4_TextData",
+   "en": "(Swim Speed Up <Status_Up>18%</> + Cooldown Reduction: <Status_Up>L</>)",
+   "ro": "(Viteză de înot mărită: <Status_Up>18%</> + Reducere a timpului de reîncărcare: <Status_Up>L</>)"
+  },
+  {
+   "key": "SwimSpeedUp_CooldownReduction_Rank_5_TextData",
+   "en": "(Swim Speed Up <Status_Up>25%</> + Cooldown Reduction: <Status_Up>XL</>)",
+   "ro": "(Viteză de înot mărită: <Status_Up>25%</> + Reducere a timpului de reîncărcare: <Status_Up>XL</>)"
+  },
+  {
+   "key": "LoggingUp_MiningUp_Rank_2_TextData",
+   "en": "(Logging Up + Mining Up: <Status_Up>S</>)",
+   "ro": "(Eficiență la tăiat lemne și minerit mărită: <Status_Up>S</>)"
+  },
+  {
+   "key": "LoggingUp_MiningUp_Rank_3_TextData",
+   "en": "(Logging Up + Mining Up: <Status_Up>M</>)",
+   "ro": "(Eficiență la tăiat lemne și minerit mărită: <Status_Up>M</>)"
+  },
+  {
+   "key": "LoggingUp_MiningUp_Rank_4_TextData",
+   "en": "(Logging Up + Mining Up: <Status_Up>L</>)",
+   "ro": "(Eficiență la tăiat lemne și minerit mărită: <Status_Up>L</>)"
+  },
+  {
+   "key": "LoggingUp_MiningUp_Rank_5_TextData",
+   "en": "(Logging Up + Mining Up: <Status_Up>XL</>)",
+   "ro": "(Eficiență la tăiat lemne și minerit mărită: <Status_Up>XL</>)"
+  },
+  {
+   "key": "ElementPassive_Dark_Rank_2_TextData",
+   "en": "(Dark Pal Attack Up: <Status_Up>S</>)",
+   "ro": "(Atac al Palilor de Întuneric mărit: <Status_Up>S</>)"
+  },
+  {
+   "key": "ElementPassive_Dark_Rank_3_TextData",
+   "en": "(Dark Pal Attack Up: <Status_Up>M</>)",
+   "ro": "(Atac al Palilor de Întuneric mărit: <Status_Up>M</>)"
+  },
+  {
+   "key": "ElementPassive_Dark_Rank_4_TextData",
+   "en": "(Dark Pal Attack Up: <Status_Up>L</>)",
+   "ro": "(Atac al Palilor de Întuneric mărit: <Status_Up>L</>)"
+  },
+  {
+   "key": "ElementPassive_Dark_Rank_5_TextData",
+   "en": "(Dark Pal Attack Up: <Status_Up>XL</>)",
+   "ro": "(Atac al Palilor de Întuneric mărit: <Status_Up>XL</>)"
+  },
+  {
+   "key": "ItemCollectRangeUp_Rank_2_TextData",
+   "en": "(Item Collection Range Up: <Status_Up>S</>)",
+   "ro": "(Rază de colectare a obiectelor mărită: <Status_Up>S</>)"
+  },
+  {
+   "key": "ItemCollectRangeUp_Rank_3_TextData",
+   "en": "(Item Collection Range Up: <Status_Up>M</>)",
+   "ro": "(Rază de colectare a obiectelor mărită: <Status_Up>M</>)"
+  },
+  {
+   "key": "ItemCollectRangeUp_Rank_4_TextData",
+   "en": "(Item Collection Range Up: <Status_Up>L</>)",
+   "ro": "(Rază de colectare a obiectelor mărită: <Status_Up>L</>)"
+  },
+  {
+   "key": "ItemCollectRangeUp_Rank_5_TextData",
+   "en": "(Item Collection Range Up: <Status_Up>XL</>)",
+   "ro": "(Rază de colectare a obiectelor mărită: <Status_Up>XL</>)"
+  },
+  {
+   "key": "SANDownResist_Rank_2_TextData",
+   "en": "(SAN Depletion Resistance Up: <Status_Up>S</>)",
+   "ro": "(Rezistență la scăderea SAN mărită: <Status_Up>S</>)"
+  },
+  {
+   "key": "SANDownResist_Rank_3_TextData",
+   "en": "(SAN Depletion Resistance Up: <Status_Up>M</>)",
+   "ro": "(Rezistență la scăderea SAN mărită: <Status_Up>M</>)"
+  },
+  {
+   "key": "SANDownResist_Rank_4_TextData",
+   "en": "(SAN Depletion Resistance Up: <Status_Up>L</>)",
+   "ro": "(Rezistență la scăderea SAN mărită: <Status_Up>L</>)"
+  },
+  {
+   "key": "SANDownResist_Rank_5_TextData",
+   "en": "(SAN Depletion Resistance Up: <Status_Up>XL</>)",
+   "ro": "(Rezistență la scăderea SAN mărită: <Status_Up>XL</>)"
+  },
+  {
+   "key": "ElementBoost_Dark_Rank_2_TextData",
+   "en": "(Dark Attack Boost: <Status_Up>S</>)",
+   "ro": "(Spor atac de Întuneric: <Status_Up>S</>)"
+  },
+  {
+   "key": "ElementBoost_Dark_Rank_3_TextData",
+   "en": "(Dark Attack Boost: <Status_Up>M</>)",
+   "ro": "(Spor atac de Întuneric: <Status_Up>M</>)"
+  },
+  {
+   "key": "ElementBoost_Dark_Rank_4_TextData",
+   "en": "(Dark Attack Boost: <Status_Up>L</>)",
+   "ro": "(Spor atac de Întuneric: <Status_Up>L</>)"
+  },
+  {
+   "key": "ElementBoost_Dark_Rank_5_TextData",
+   "en": "(Dark Attack Boost: <Status_Up>XL</>)",
+   "ro": "(Spor atac de Întuneric: <Status_Up>XL</>)"
+  },
+  {
+   "key": "SyncroPassiveWhenCapture_Rank_2_TextData",
+   "en": "(Pal Passive Sync Boost: <Status_Up>S</>)",
+   "ro": "(Spor sincronizare pasivă Pal: <Status_Up>S</>)"
+  },
+  {
+   "key": "SyncroPassiveWhenCapture_Rank_3_TextData",
+   "en": "(Pal Passive Sync Boost: <Status_Up>M</>)",
+   "ro": "(Spor sincronizare pasivă Pal: <Status_Up>M</>)"
+  },
+  {
+   "key": "SyncroPassiveWhenCapture_Rank_4_TextData",
+   "en": "(Pal Passive Sync Boost: <Status_Up>L</>)",
+   "ro": "(Spor sincronizare pasivă Pal: <Status_Up>L</>)"
+  },
+  {
+   "key": "SyncroPassiveWhenCapture_Rank_5_TextData",
+   "en": "(Pal Passive Sync Boost: <Status_Up>XL</>)",
+   "ro": "(Spor sincronizare pasivă Pal: <Status_Up>XL</>)"
+  },
+  {
+   "key": "FarmCropGrowupSpeed_Rank_2_TextData",
+   "en": "(Crop Growth Speed Up: <Status_Up>S</>)",
+   "ro": "(Viteză de creștere a culturilor mărită: <Status_Up>S</>)"
+  },
+  {
+   "key": "FarmCropGrowupSpeed_Rank_3_TextData",
+   "en": "(Crop Growth Speed Up: <Status_Up>M</>)",
+   "ro": "(Viteză de creștere a culturilor mărită: <Status_Up>M</>)"
+  },
+  {
+   "key": "FarmCropGrowupSpeed_Rank_4_TextData",
+   "en": "(Crop Growth Speed Up: <Status_Up>L</>)",
+   "ro": "(Creștere viteză de dezvoltare a culturilor: <Status_Up>L</>)"
+  },
+  {
+   "key": "FarmCropGrowupSpeed_Rank_5_TextData",
+   "en": "(Crop Growth Speed Up: <Status_Up>XL</>)",
+   "ro": "(Creștere viteză de dezvoltare a culturilor: <Status_Up>XL</>)"
+  },
+  {
+   "key": "GriderPerformanceUp_Rank_2_TextData",
+   "en": "(Glider Performance Boost: <Status_Up>S</>)",
+   "ro": "(Îmbunătățire performanță planor: <Status_Up>S</>)"
+  },
+  {
+   "key": "GriderPerformanceUp_Rank_3_TextData",
+   "en": "(Glider Performance Boost: <Status_Up>M</>)",
+   "ro": "(Îmbunătățire performanță planor: <Status_Up>M</>)"
+  },
+  {
+   "key": "GriderPerformanceUp_Rank_4_TextData",
+   "en": "(Glider Performance Boost: <Status_Up>L</>)",
+   "ro": "(Îmbunătățire performanță planor: <Status_Up>L</>)"
+  },
+  {
+   "key": "GriderPerformanceUp_Rank_5_TextData",
+   "en": "(Glider Performance Boost: <Status_Up>XL</>)",
+   "ro": "(Îmbunătățire performanță planor: <Status_Up>XL</>)"
+  },
+  {
+   "key": "FarmCropHarvestNumRate_Rank_2_TextData",
+   "en": "(Harvest Yield Up: <Status_Up>S</>)",
+   "ro": "(Creștere randament recoltă: <Status_Up>S</>)"
+  },
+  {
+   "key": "FarmCropHarvestNumRate_Rank_3_TextData",
+   "en": "(Harvest Yield Up: <Status_Up>M</>)",
+   "ro": "(Creștere randament recoltă: <Status_Up>M</>)"
+  },
+  {
+   "key": "FarmCropHarvestNumRate_Rank_4_TextData",
+   "en": "(Harvest Yield Up: <Status_Up>L</>)",
+   "ro": "(Creștere randament recoltă: <Status_Up>L</>)"
+  },
+  {
+   "key": "FarmCropHarvestNumRate_Rank_5_TextData",
+   "en": "(Harvest Yield Up: <Status_Up>XL</>)",
+   "ro": "(Creștere randament recoltă: <Status_Up>XL</>)"
+  },
+  {
+   "key": "ElementBoost_Neutral_Dark_Rank_2_TextData",
+   "en": "(Neutral Attack Boost + Dark Attack Boost: <Status_Up>S</>)",
+   "ro": "(Spor atac Neutru + spor atac Întuneric: <Status_Up>S</>)"
+  },
+  {
+   "key": "ElementBoost_Neutral_Dark_Rank_3_TextData",
+   "en": "(Neutral Attack Boost + Dark Attack Boost: <Status_Up>M</>)",
+   "ro": "(Spor atac Neutru + spor atac Întuneric: <Status_Up>M</>)"
+  },
+  {
+   "key": "ElementBoost_Neutral_Dark_Rank_4_TextData",
+   "en": "(Neutral Attack Boost + Dark Attack Boost: <Status_Up>L</>)",
+   "ro": "(Spor atac Neutru + spor atac Întuneric: <Status_Up>L</>)"
+  },
+  {
+   "key": "ElementBoost_Neutral_Dark_Rank_5_TextData",
+   "en": "(Neutral Attack Boost + Dark Attack Boost: <Status_Up>XL</>)",
+   "ro": "(Spor atac Neutru + spor atac Întuneric: <Status_Up>XL</>)"
+  },
+  {
+   "key": "Funnel_Rank_2_TextData",
+   "en": "(Follow-Up Boost: <Status_Up>S</>)",
+   "ro": "(Spor lovituri de urmărire: <Status_Up>S</>)"
+  },
+  {
+   "key": "Funnel_Rank_3_TextData",
+   "en": "(Follow-Up Boost: <Status_Up>M</>)",
+   "ro": "(Bonus atac ulterior: <Status_Up>M</>)"
+  },
+  {
+   "key": "Funnel_Rank_4_TextData",
+   "en": "(Follow-Up Boost: <Status_Up>L</>)",
+   "ro": "(Bonus atac ulterior: <Status_Up>L</>)"
+  },
+  {
+   "key": "Funnel_Rank_5_TextData",
+   "en": "(Follow-Up Boost: <Status_Up>XL</>)",
+   "ro": "(Bonus atac ulterior: <Status_Up>XL</>)"
+  },
+  {
+   "key": "DamageUp_CooldownReduction_Rank_2_TextData",
+   "en": "(Damage Up + Cooldown Reduction: <Status_Up>S</>)",
+   "ro": "(Daune sporite + reducere timp de reîncărcare: <Status_Up>S</>)"
+  },
+  {
+   "key": "DamageUp_CooldownReduction_Rank_3_TextData",
+   "en": "(Damage Up + Cooldown Reduction: <Status_Up>M</>)",
+   "ro": "(Daune sporite + reducere timp de reîncărcare: <Status_Up>M</>)"
+  },
+  {
+   "key": "DamageUp_CooldownReduction_Rank_4_TextData",
+   "en": "(Damage Up + Cooldown Reduction: <Status_Up>L</>)",
+   "ro": "(Daune sporite + reducere timp de reîncărcare: <Status_Up>L</>)"
+  },
+  {
+   "key": "DamageUp_CooldownReduction_Rank_5_TextData",
+   "en": "(Damage Up + Cooldown Reduction: <Status_Up>XL</>)",
+   "ro": "(Daune sporite + reducere timp de reîncărcare: <Status_Up>XL</>)"
+  },
+  {
+   "key": "Talent_Rank_2_TextData",
+   "en": "(Talented Pal Catch Rate Up: <Status_Up>S</>)",
+   "ro": "(Șansă captură Pali talentați sporită: <Status_Up>S</>)"
+  },
+  {
+   "key": "Talent_Rank_3_TextData",
+   "en": "(Talented Pal Catch Rate Up: <Status_Up>M</>)",
+   "ro": "(Șansă captură Pali talentați sporită: <Status_Up>M</>)"
+  },
+  {
+   "key": "Talent_Rank_4_TextData",
+   "en": "(Talented Pal Catch Rate Up: <Status_Up>L</>)",
+   "ro": "(Șansă captură Pali talentați sporită: <Status_Up>L</>)"
+  },
+  {
+   "key": "Talent_Rank_5_TextData",
+   "en": "(Talented Pal Catch Rate Up: <Status_Up>XL</>)",
+   "ro": "(Șansă captură Pali talentați sporită: <Status_Up>XL</>)"
+  },
+  {
+   "key": "StealthTime_Rank_1_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "StealthTime_Rank_2_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "StealthTime_Rank_3_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "StealthTime_Rank_4_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "StealthTime_Rank_5_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "ShortDashSpeed_Rank_2_TextData",
+   "en": "(Sprint Speed Up: <Status_Up>S</>)",
+   "ro": "(Viteză de sprint sporită: <Status_Up>S</>)"
+  },
+  {
+   "key": "ShortDashSpeed_Rank_3_TextData",
+   "en": "(Sprint Speed Up: <Status_Up>M</>)",
+   "ro": "(Viteză de sprint sporită: <Status_Up>M</>)"
+  },
+  {
+   "key": "ShortDashSpeed_Rank_4_TextData",
+   "en": "(Sprint Speed Up: <Status_Up>L</>)",
+   "ro": "(Viteză de sprint sporită: <Status_Up>L</>)"
+  },
+  {
+   "key": "ShortDashSpeed_Rank_5_TextData",
+   "en": "(Sprint Speed Up: <Status_Up>XL</>)",
+   "ro": "(Viteză de sprint sporită: <Status_Up>XL</>)"
+  },
+  {
+   "key": "ShortDashSpeedCoolTime_Rank_2_TextData",
+   "en": "(Dash Speed Up + Cooldown Reduction: <Status_Up>S</>)",
+   "ro": "(Viteză sprint crescută + Timp de reîncărcare redus: <Status_Up>S</>)"
+  },
+  {
+   "key": "ShortDashSpeedCoolTime_Rank_3_TextData",
+   "en": "(Dash Speed Up + Cooldown Reduction: <Status_Up>M</>)",
+   "ro": "(Viteză sprint crescută + Timp de reîncărcare redus: <Status_Up>M</>)"
+  },
+  {
+   "key": "ShortDashSpeedCoolTime_Rank_4_TextData",
+   "en": "(Dash Speed Up + Cooldown Reduction: <Status_Up>L</>)",
+   "ro": "(Viteză sprint crescută + Timp de reîncărcare redus: <Status_Up>L</>)"
+  },
+  {
+   "key": "ShortDashSpeedCoolTime_Rank_5_TextData",
+   "en": "(Dash Speed Up + Cooldown Reduction: <Status_Up>XL</>)",
+   "ro": "(Viteză sprint crescută + Timp de reîncărcare redus: <Status_Up>XL</>)"
+  },
+  {
+   "key": "Waza_Rank_1_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "Waza_Rank_2_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "Waza_Rank_3_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "Waza_Rank_4_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "Waza_Rank_5_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "CaptureRate_Rank_2_TextData",
+   "en": "(Capture Rate Up: <Status_Up>S</>)",
+   "ro": "(Rată de captură crescută: <Status_Up>S</>)"
+  },
+  {
+   "key": "CaptureRate_Rank_3_TextData",
+   "en": "(Capture Rate Up: <Status_Up>M</>)",
+   "ro": "(Rată de captură crescută: <Status_Up>M</>)"
+  },
+  {
+   "key": "CaptureRate_Rank_4_TextData",
+   "en": "(Capture Rate Up: <Status_Up>L</>)",
+   "ro": "(Rată de captură crescută: <Status_Up>L</>)"
+  },
+  {
+   "key": "CaptureRate_Rank_5_TextData",
+   "en": "(Capture Rate Up: <Status_Up>XL</>)",
+   "ro": "(Rată de captură crescută: <Status_Up>XL</>)"
+  },
+  {
+   "key": "EnemySightRate_Rank_2_TextData",
+   "en": "(Stealth Up: <Status_Up>S</>)",
+   "ro": "(Furișare crescută: <Status_Up>S</>)"
+  },
+  {
+   "key": "EnemySightRate_Rank_3_TextData",
+   "en": "(Stealth Up: <Status_Up>M</>)",
+   "ro": "(Furișare crescută: <Status_Up>M</>)"
+  },
+  {
+   "key": "EnemySightRate_Rank_4_TextData",
+   "en": "(Stealth Up: <Status_Up>L</>)",
+   "ro": "(Furișare crescută: <Status_Up>L</>)"
+  },
+  {
+   "key": "EnemySightRate_Rank_5_TextData",
+   "en": "(Stealth Up: <Status_Up>XL</>)",
+   "ro": "(Furișare crescută: <Status_Up>XL</>)"
+  },
+  {
+   "key": "SearchAreaCoolTime_Rank_2_TextData",
+   "en": "(Detection Range Expansion + Cooldown Reduction: <Status_Up>S</>)",
+   "ro": "(Rază de detecție mărită + Timp de reîncărcare redus: <Status_Up>S</>)"
+  },
+  {
+   "key": "SearchAreaCoolTime_Rank_3_TextData",
+   "en": "(Detection Range Expansion + Cooldown Reduction: <Status_Up>M</>)",
+   "ro": "(Rază de detecție mărită + Timp de reîncărcare redus: <Status_Up>M</>)"
+  },
+  {
+   "key": "SearchAreaCoolTime_Rank_4_TextData",
+   "en": "(Detection Range Expansion + Cooldown Reduction: <Status_Up>L</>)",
+   "ro": "(Rază de detecție mărită + Timp de reîncărcare redus: <Status_Up>L</>)"
+  },
+  {
+   "key": "SearchAreaCoolTime_Rank_5_TextData",
+   "en": "(Detection Range Expansion + Cooldown Reduction: <Status_Up>XL</>)",
+   "ro": "(Extindere rază de detecție + Reducere timp de reîncărcare: <Status_Up>XL</>)"
+  }
+ ]
+}

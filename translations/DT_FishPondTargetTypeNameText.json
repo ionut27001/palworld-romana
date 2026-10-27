@@ -1,0 +1,20 @@
+{
+ "table": "DT_FishPondTargetTypeNameText",
+ "entries": [
+  {
+   "key": "NAME_SHADOW_SMALL_TextData",
+   "en": "Small Fish Silhouette",
+   "ro": "Siluetă de pește mic"
+  },
+  {
+   "key": "NAME_SHADOW_MEDIUM_TextData",
+   "en": "Medium Fish Silhouette",
+   "ro": "Siluetă de pește mediu"
+  },
+  {
+   "key": "NAME_SHADOW_BIG_TextData",
+   "en": "Large Fish Silhouette",
+   "ro": "Siluetă de pește mare"
+  }
+ ]
+}

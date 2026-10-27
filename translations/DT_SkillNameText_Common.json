@@ -1,0 +1,5795 @@
+{
+ "table": "DT_SkillNameText_Common",
+ "entries": [
+  {
+   "key": "PASSIVE_TestSkill1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestSkill2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestSkill3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestSkill4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestSkill5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestSkill6_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestSkill7_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestSkill8_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestHoming_L_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestHoming_H_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestExplosive_L_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TestExplosive_H_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_BulletSpeed_L_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_BulletSpeed_H_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_RecoilIncrease_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_RecoilDecrease_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_AccuracyIncrease_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_AccuracyDecrease_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_AccuracySuperDecrease_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_MeleeAttack_up1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_MeleeAttack_up2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_MeleeAttack_down1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_MeleeAttack_down2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_ShotAttack_up1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_ShotAttack_up2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_ShotAttack_down1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_ShotAttack_down2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_CraftSpeed_up1_TextData",
+   "en": "Serious",
+   "ro": "Serios"
+  },
+  {
+   "key": "PASSIVE_CraftSpeed_up2_TextData",
+   "en": "Artisan",
+   "ro": "Meșteșugar"
+  },
+  {
+   "key": "PASSIVE_CraftSpeed_up3_TextData",
+   "en": "Remarkable Craftsmanship",
+   "ro": "Măiestrie remarcabilă"
+  },
+  {
+   "key": "PASSIVE_CraftSpeed_down1_TextData",
+   "en": "Clumsy",
+   "ro": "Îndemânatic"
+  },
+  {
+   "key": "PASSIVE_CraftSpeed_down2_TextData",
+   "en": "Slacker",
+   "ro": "Puturos"
+  },
+  {
+   "key": "PASSIVE_Deffence_up1_TextData",
+   "en": "Hard Skin",
+   "ro": "Piele tare"
+  },
+  {
+   "key": "PASSIVE_Deffence_up2_TextData",
+   "en": "Burly Body",
+   "ro": "Corp masiv"
+  },
+  {
+   "key": "PASSIVE_Deffence_up3_TextData",
+   "en": "Diamond Body",
+   "ro": "Corp de diamant"
+  },
+  {
+   "key": "PASSIVE_Deffence_down1_TextData",
+   "en": "Downtrodden",
+   "ro": "Doborât"
+  },
+  {
+   "key": "PASSIVE_Deffence_down2_TextData",
+   "en": "Brittle",
+   "ro": "Casant"
+  },
+  {
+   "key": "PASSIVE_PAL_FullStomach_Up_1_TextData",
+   "en": "Glutton",
+   "ro": "Mâncăcios"
+  },
+  {
+   "key": "PASSIVE_PAL_FullStomach_Up_2_TextData",
+   "en": "Bottomless Stomach",
+   "ro": "Stomac fără fund"
+  },
+  {
+   "key": "PASSIVE_PAL_FullStomach_Down_1_TextData",
+   "en": "Dainty Eater",
+   "ro": "Mâncăcios pretențios"
+  },
+  {
+   "key": "PASSIVE_PAL_FullStomach_Down_2_TextData",
+   "en": "Diet Lover",
+   "ro": "Iubitor de dietă"
+  },
+  {
+   "key": "PASSIVE_PAL_FullStomach_Down_3_TextData",
+   "en": "Mastery of Fasting",
+   "ro": "Stăpânirea postului"
+  },
+  {
+   "key": "PASSIVE_PAL_Sanity_Up_1_TextData",
+   "en": "Unstable",
+   "ro": "Instabil"
+  },
+  {
+   "key": "PASSIVE_PAL_Sanity_Up_2_TextData",
+   "en": "Destructive",
+   "ro": "Distructiv"
+  },
+  {
+   "key": "PASSIVE_PAL_Sanity_Down_1_TextData",
+   "en": "Positive Thinker",
+   "ro": "Gândire pozitivă"
+  },
+  {
+   "key": "PASSIVE_PAL_Sanity_Down_2_TextData",
+   "en": "Workaholic",
+   "ro": "Muncahoolic"
+  },
+  {
+   "key": "PASSIVE_PAL_Sanity_Down_3_TextData",
+   "en": "Heart of the Immovable King",
+   "ro": "Inima Regelui De Neclintit"
+  },
+  {
+   "key": "PASSIVE_PAL_ALLAttack_up3_TextData",
+   "en": "Demon God",
+   "ro": "Zeu Demon"
+  },
+  {
+   "key": "PASSIVE_PAL_ALLAttack_up2_TextData",
+   "en": "Ferocious",
+   "ro": "Fioros"
+  },
+  {
+   "key": "PASSIVE_PAL_ALLAttack_up1_TextData",
+   "en": "Brave",
+   "ro": "Curajos"
+  },
+  {
+   "key": "PASSIVE_PAL_ALLAttack_down1_TextData",
+   "en": "Coward",
+   "ro": "Laș"
+  },
+  {
+   "key": "PASSIVE_PAL_ALLAttack_down2_TextData",
+   "en": "Pacifist",
+   "ro": "Pacifist"
+  },
+  {
+   "key": "PASSIVE_PAL_rude_TextData",
+   "en": "Hooligan",
+   "ro": "Huligan"
+  },
+  {
+   "key": "PASSIVE_PAL_SpiritualInst_TextData",
+   "en": "Mentally unstable",
+   "ro": "Instabil psihic"
+  },
+  {
+   "key": "PASSIVE_PAL_sadist_TextData",
+   "en": "Sadist",
+   "ro": "Sadist"
+  },
+  {
+   "key": "PASSIVE_PAL_masochist_TextData",
+   "en": "Masochist",
+   "ro": "Masochist"
+  },
+  {
+   "key": "PASSIVE_PAL_CorporateSlave_TextData",
+   "en": "Work Slave",
+   "ro": "Sclav al muncii"
+  },
+  {
+   "key": "PASSIVE_PAL_conceited_TextData",
+   "en": "Conceited",
+   "ro": "Îngâmfat"
+  },
+  {
+   "key": "PASSIVE_PAL_oraora_TextData",
+   "en": "Aggressive",
+   "ro": "Agresiv"
+  },
+  {
+   "key": "PASSIVE_MoveSpeed_up_1_TextData",
+   "en": "Nimble",
+   "ro": "Sprinten"
+  },
+  {
+   "key": "PASSIVE_MoveSpeed_up_2_TextData",
+   "en": "Runner",
+   "ro": "Alergător"
+  },
+  {
+   "key": "PASSIVE_MoveSpeed_up_3_TextData",
+   "en": "Swift",
+   "ro": "Iute"
+  },
+  {
+   "key": "PASSIVE_Noukin_TextData",
+   "en": "Musclehead",
+   "ro": "Mușchi-fără-creier"
+  },
+  {
+   "key": "PASSIVE_Support_up1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Support_up2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Support_down1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Support_down2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveAFire_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveAWater_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveALeaf_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveAElectricity_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveAIce_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveAEarth_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveADark_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_GiveADragon_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_CollectItem_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Egg_TextData",
+   "en": "Egg Layer",
+   "ro": "Ouătoare"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Milk_TextData",
+   "en": "Milk Maker",
+   "ro": "Producător de lapte"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Berries_TextData",
+   "en": "Berry Picker",
+   "ro": "Culegător de fructe"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Sweets_TextData",
+   "en": "Confectioner",
+   "ro": "Cofetar"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Money_TextData",
+   "en": "Gold Digger",
+   "ro": "Căutător de aur"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Wool_Alpaca_TextData",
+   "en": "Wool Maker",
+   "ro": "Producător de lână"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Wool_SheepBall_TextData",
+   "en": "Wool Maker",
+   "ro": "Producător de lână"
+  },
+  {
+   "key": "PASSIVE_CollectItem_Wool_WhiteMoth_TextData",
+   "en": "Silk Spinner",
+   "ro": "Țesător de mătase"
+  },
+  {
+   "key": "PASSIVE_CollectItem_CuteFox_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Logging_up1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Logging_up2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Logging_up3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Logging_up4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Logging_up5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Logging_up1_Otomo_only_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Logging_up2_Otomo_only_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mining_up1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mining_up2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mining_up3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mining_up4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mining_up5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mining_up1_Otomo_only_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mining_up2_Otomo_only_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_StealExpert_1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_StealExpert_2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_StealExpert_3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_StealExpert_4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mute_1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mute_2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mute_3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mute_4_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_Mute_5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_CraftSpeed*3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_CraftSpeed*5_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Heat1_TextData",
+   "en": "Heat Resistance Lv. 1",
+   "ro": "Rezistență la căldură Nv. 1"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Heat2_TextData",
+   "en": "Heat Resistance Lv. 2",
+   "ro": "Rezistență la căldură Nv. 2"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Heat3_TextData",
+   "en": "Heat Resistance Lv. 3",
+   "ro": "Rezistență la căldură Nv. 3"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Cold1_TextData",
+   "en": "Cold Resistance Lv. 1",
+   "ro": "Rezistență la frig Nv. 1"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Cold2_TextData",
+   "en": "Cold Resistance Lv. 2",
+   "ro": "Rezistență la frig Nv. 2"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Cold3_TextData",
+   "en": "Cold Resistance Lv. 3",
+   "ro": "Rezistență la frig Nv. 3"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Heat1Cold1_TextData",
+   "en": "Heat Resistance Lv. 1 / Cold Resistance Lv. 1",
+   "ro": "Rezistență la căldură Nv. 1 / Rezistență la frig Nv. 1"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Heat2Cold2_TextData",
+   "en": "Heat Resistance Lv. 2 / Cold Resistance Lv. 2",
+   "ro": "Rezistență la căldură Nv. 2 / Rezistență la frig Nv. 2"
+  },
+  {
+   "key": "PASSIVE_TemperatureResist_Heat3Cold3_TextData",
+   "en": "Heat Resistance Lv. 3 / Cold Resistance Lv. 3",
+   "ro": "Rezistență la căldură Nv. 3 / Rezistență la frig Nv. 3"
+  },
+  {
+   "key": "PASSIVE_Rare_TextData",
+   "en": "Lucky",
+   "ro": "Norocos"
+  },
+  {
+   "key": "PASSIVE_Legend_TextData",
+   "en": "Legend",
+   "ro": "Legendă"
+  },
+  {
+   "key": "PASSIVE_MaxInventoryWeight_up_TextData",
+   "en": "Max Carrying Capacity Lv. 1",
+   "ro": "Capacitate maximă de transport Nv. 1"
+  },
+  {
+   "key": "PASSIVE_MaxInventoryWeight_up2_TextData",
+   "en": "Max Carrying Capacity Lv. 2",
+   "ro": "Capacitate maximă de transport Nv. 2"
+  },
+  {
+   "key": "PASSIVE_MaxInventoryWeight_up3_TextData",
+   "en": "Max Carrying Capacity Lv. 3",
+   "ro": "Capacitate maximă de transport Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Normal_1_TextData",
+   "en": "Neutral Damage Reduction Lv. 1",
+   "ro": "Reducere daune neutre Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Fire_1_TextData",
+   "en": "Fire Damage Reduction Lv. 1",
+   "ro": "Reducere daune de foc Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Aqua_1_TextData",
+   "en": "Water Damage Reduction Lv. 1",
+   "ro": "Reducere daune de apă Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Thunder_1_TextData",
+   "en": "Electric Damage Reduction Lv. 1",
+   "ro": "Reducere daune de tip Electric Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Leaf_1_TextData",
+   "en": "Grass Damage Reduction Lv. 1",
+   "ro": "Reducere daune de tip Iarbă Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Ice_1_TextData",
+   "en": "Ice Damage Reduction Lv. 1",
+   "ro": "Reducere daune de tip Gheață Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Earth_1_TextData",
+   "en": "Earth Damage Reduction Lv. 1",
+   "ro": "Reducere daune de tip Pământ Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dark_1_TextData",
+   "en": "Dark Damage Reduction Lv. 1",
+   "ro": "Reducere daune de tip Întuneric Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dragon_1_TextData",
+   "en": "Dragon Damage Reduction Lv. 1",
+   "ro": "Reducere daune de tip Dragon Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Normal_2_TextData",
+   "en": "Neutral Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Neutru Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Fire_2_TextData",
+   "en": "Fire Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Foc Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Aqua_2_TextData",
+   "en": "Water Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Apă Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Thunder_2_TextData",
+   "en": "Electric Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Electric Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Leaf_2_TextData",
+   "en": "Grass Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Iarbă Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Ice_2_TextData",
+   "en": "Ice Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Gheață Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Earth_2_TextData",
+   "en": "Earth Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Pământ Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dark_2_TextData",
+   "en": "Dark Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Întuneric Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dragon_2_TextData",
+   "en": "Dragon Damage Reduction Lv. 2",
+   "ro": "Reducere daune de tip Dragon Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Normal_3_TextData",
+   "en": "Neutral Damage Reduction Lv. 3",
+   "ro": "Reducere daune Neutru Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Fire_3_TextData",
+   "en": "Fire Damage Reduction Lv. 3",
+   "ro": "Reducere daune Foc Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Aqua_3_TextData",
+   "en": "Water Damage Reduction Lv. 3",
+   "ro": "Reducere daune Apă Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Thunder_3_TextData",
+   "en": "Electric Damage Reduction Lv. 3",
+   "ro": "Reducere daune Electric Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Leaf_3_TextData",
+   "en": "Grass Damage Reduction Lv. 3",
+   "ro": "Reducere daune Iarbă Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Ice_3_TextData",
+   "en": "Ice Damage Reduction Lv. 3",
+   "ro": "Reducere daune Gheață Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Earth_3_TextData",
+   "en": "Earth Damage Reduction Lv. 3",
+   "ro": "Reducere daune Pământ Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dark_3_TextData",
+   "en": "Dark Damage Reduction Lv. 3",
+   "ro": "Reducere daune Întuneric Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dragon_3_TextData",
+   "en": "Dragon Damage Reduction Lv. 3",
+   "ro": "Reducere daune Dragon Nv. 3"
+  },
+  {
+   "key": "COOP_RIDE_TextData",
+   "en": "Mount",
+   "ro": "Călărește"
+  },
+  {
+   "key": "COOP_SHIELD_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_SHOULDER_RIDE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_HEAD_RIDE_TextData",
+   "en": "Get on my head!",
+   "ro": "Urcă-te pe capul meu!"
+  },
+  {
+   "key": "COOP_THROW_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_ROCKET_TextData",
+   "en": "Under investigation.",
+   "ro": "În curs de investigare."
+  },
+  {
+   "key": "COOP_FLAMETHROWER_TextData",
+   "en": "Burn!",
+   "ro": "Arde!"
+  },
+  {
+   "key": "COOP_SEARCH_MINE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_SEARCH_PAL_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_SEARCH_DUNGEON_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_TOBOGGAN_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_CATPUNCH_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_HEAL_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_BERSERK_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_NIGHTRUNNER_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "COOP_ASSAULTRIFLE_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_Human_Punch_TextData",
+   "en": "Punch",
+   "ro": "Pumn"
+  },
+  {
+   "key": "ACTION_SKILL_Throw_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_EnergyShot_TextData",
+   "en": "Ice Missile",
+   "ro": "Rachetă de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_Scratch_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Anubis_LowRoundKick_TextData",
+   "en": "Spinning Roundhouse",
+   "ro": "Lovitură rotativă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Anubis_GroundPunch_TextData",
+   "en": "Ground Smash",
+   "ro": "Izbitură în pământ"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Anubis_Tackle_TextData",
+   "en": "Forceful Charge",
+   "ro": "Șarjă puternică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Deer_PushupHorn_TextData",
+   "en": "Antler Uppercut",
+   "ro": "Uppercut cu coarne"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Deer_Ground_DirtyHorn_TextData",
+   "en": "Mud Horn",
+   "ro": "Corn noroios"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Garm_Bite_TextData",
+   "en": "Fierce Fang",
+   "ro": "Colț feroce"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Boar_Tackle_TextData",
+   "en": "Reckless Charge",
+   "ro": "Șarjă nesăbuită"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_PinkCat_CatPunch_TextData",
+   "en": "Punch Flurry",
+   "ro": "Rafală de pumni"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FlowerDinosaur_Whip_TextData",
+   "en": "Botanical Smash",
+   "ro": "Izbitură botanică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FlowerDinosaur_Electric_ThunderWhip_TextData",
+   "en": "Lightning Smash",
+   "ro": "Izbitură de fulger"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SheepBall_Roll_TextData",
+   "en": "Roly Poly",
+   "ro": "Rostogolire"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ChickenPal_ChickenPeck_TextData",
+   "en": "Chicken Rush",
+   "ro": "Năvală de găină"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Horus_FlareBird_TextData",
+   "en": "Phoenix Flare",
+   "ro": "Vâlvătaie de Phoenix"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Horus_Water_AquaStorm_TextData",
+   "en": "Phoenix Tide",
+   "ro": "Maree de Phoenix"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ElecPanda_ElecScratch_TextData",
+   "en": "Lightning Claw",
+   "ro": "Gheară de fulger"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FairyDragon_FairyTornado_TextData",
+   "en": "Mystic Whirlwind",
+   "ro": "Vârtej mistic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Gorilla_GroundPunch_TextData",
+   "en": "Ground Pound",
+   "ro": "Izbitură în sol"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Gorilla_Ground_EarthPunch_TextData",
+   "en": "Rumble Combo",
+   "ro": "Combo zguduitor"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Grassmammoth_Earthquake_TextData",
+   "en": "Earth Impact",
+   "ro": "Impact terestru"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassPanda_MusclePunch_TextData",
+   "en": "Crushing Punch",
+   "ro": "Pumn zdrobitor"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassPanda_Electric_ElectricPunch_TextData",
+   "en": "Blast Punch",
+   "ro": "Pumn exploziv"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Alpaca_Tackle_TextData",
+   "en": "Fluffy Tackle",
+   "ro": "Plonjon pufos"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_AmaterasuWolf_FireCharge_TextData",
+   "en": "Daring Flames",
+   "ro": "Flăcări îndrăznețe"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_AmaterasuWolf_Dark_DarkCharge_TextData",
+   "en": "Daring Shadowstorm",
+   "ro": "Furtună întunecată îndrăzneață"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Baphomet_SwallowKite_TextData",
+   "en": "Hellfire Claw",
+   "ro": "Gheară infernală"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Baphomet_Dark_DarkKite_TextData",
+   "en": "Nightmare Claw",
+   "ro": "Gheara coșmarului"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BirdDragon_FireBreath_TextData",
+   "en": "Flame Breath",
+   "ro": "Suflu de flăcări"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BirdDragon_Ice_IceBreath_TextData",
+   "en": "Tempest Blizzard",
+   "ro": "Viscol năpraznic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlackCentaur_TwoSpearRushes_TextData",
+   "en": "Twin Spears",
+   "ro": "Sulițe gemene"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlackFurDragon_RotationalSlash_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlackGriffon_TackleLaser_TextData",
+   "en": "Divine Disaster",
+   "ro": "Dezastru divin"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlackMetalDragon_FirePunch_TextData",
+   "en": "Firefist Breathstorm",
+   "ro": "Furtună de suflu și pumni de foc"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_CaptainPenguin_BodySlide_TextData",
+   "en": "Emperor Slide",
+   "ro": "Alunecare imperială"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkCrow_TelePoke_TextData",
+   "en": "Phantom Peck",
+   "ro": "Ciocănit fantomă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkMutant_DarkTackle_TextData",
+   "en": "Apocalypse",
+   "ro": "Apocalipsă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkScorpion_Pierce_TextData",
+   "en": "Jumping Stinger",
+   "ro": "Ac săltăreț"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DrillGame_ShellAttack_TextData",
+   "en": "Shell Spin",
+   "ro": "Rotire în caroce"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Eagle_GlidingNail_TextData",
+   "en": "Gale Claw",
+   "ro": "Gheară de vijelie"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FengyunDeeper_CloudTempest_TextData",
+   "en": "Cloud Tempest",
+   "ro": "Furtună de nori"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FengyunDeeper_Electric_ThunderTempest_TextData",
+   "en": "Thunder Tempest",
+   "ro": "Furtună de trăsnete"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FireKirin_Tackle_TextData",
+   "en": "Ignis Charge",
+   "ro": "Șarjă de foc"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FireKirin_Dark_DarkTossin_TextData",
+   "en": "Dark Charge",
+   "ro": "Șarjă întunecată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FlameBuffalo_FlameHorn_TextData",
+   "en": "Blazing Horn",
+   "ro": "Corn arzător"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GhostBeast_Tossin_TextData",
+   "en": "Spirit Dash",
+   "ro": "Năvală spirituală"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassRabbitMan_GrassRoundKick_TextData",
+   "en": "Leaping Roundhouse",
+   "ro": "Lovitură circulară din săritură"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_HawkBird_Storm_TextData",
+   "en": "Tornado Attack",
+   "ro": "Atac tornadă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_HerculesBeetle_BeetleTackle_TextData",
+   "en": "Giga Horn",
+   "ro": "Corn giga"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_IceDeer_IceHorn_TextData",
+   "en": "Freezing Charge",
+   "ro": "Șarjă înghețată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_IceHorse_IceBladeAttack_TextData",
+   "en": "Crystal Wing",
+   "ro": "Aripă de cristal"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_IceHorse_Dark_DarkBladeAttack_TextData",
+   "en": "Dark Wing",
+   "ro": "Aripă întunecată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_JetDragon_JumpBeam_TextData",
+   "en": "Beam Comet",
+   "ro": "Cometă de raze"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingAlpaca_BodyPress_TextData",
+   "en": "Kingly Slam",
+   "ro": "Trântire regală"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingAlpaca_Ice_IcePress_TextData",
+   "en": "Frozen Press",
+   "ro": "Presare înghețată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingBahamut_AirCrash_TextData",
+   "en": "Magna Crush",
+   "ro": "Zdrobitură magmatică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Kirin_LightningTackle_TextData",
+   "en": "Lightning Gale",
+   "ro": "Vijelie de fulger"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Manticore_InfernoStrike_TextData",
+   "en": "Volcanic Fang",
+   "ro": "Colț vulcanic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NaughtyCat_CatPress_TextData",
+   "en": "Cat Press",
+   "ro": "Presare de pisică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_QueenBee_SpinLance_TextData",
+   "en": "Spinning Staff",
+   "ro": "Toiag rotativ"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_RedArmorBird_TriplePeck_TextData",
+   "en": "Rush Beak",
+   "ro": "Cioc năvalnic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_RobinHood_BowSnipe_TextData",
+   "en": "Focus Shot",
+   "ro": "Tragere concentrată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Ronin_Iai_TextData",
+   "en": "Iaigiri",
+   "ro": "Iaigiri"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SaintCentaur_OneSpearRushes_TextData",
+   "en": "Spear Thrust",
+   "ro": "Împunsătură de suliță"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SakuraSaurus_SideTackle_TextData",
+   "en": "Muscle Slam",
+   "ro": "Trântă musculoasă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SakuraSaurus_Water_SplashTackle_TextData",
+   "en": "Splash Tackle",
+   "ro": "Plonjon acvatic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SoldierBee_NeedleLance_TextData",
+   "en": "Needle Spear",
+   "ro": "Suliță-ac"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderBird_ThunderStorm_TextData",
+   "en": "Lightning Dive",
+   "ro": "Plonjon fulgerător"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDog_InazumaShorai_TextData",
+   "en": "Beckon Lightning",
+   "ro": "Chemarea fulgerului"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDragonMan_ThunderSwordAttack_TextData",
+   "en": "Kerauno",
+   "ro": "Kerauno"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Umihebi_WindingTackle_TextData",
+   "en": "Slither Slam",
+   "ro": "Izbire șerpuitoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Umihebi_Fire_FireWindingTackle_TextData",
+   "en": "Magma Serpent",
+   "ro": "Șarpe de magmă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_VolcanicMonster_MagmaAttack_TextData",
+   "en": "Volcanic Burst",
+   "ro": "Erupție vulcanică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_VolcanicMonster_Ice_IceAttack_TextData",
+   "en": "Frost Burst",
+   "ro": "Explozie înghețată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WeaselDragon_FlyingTackle_TextData",
+   "en": "Rocket Slam",
+   "ro": "Trântă rachetă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Werewolf_Scratch_TextData",
+   "en": "Jumping Claw",
+   "ro": "Gheară săltăreață"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Werewolf_Ice_SnowScratch_TextData",
+   "en": "Snow Claw",
+   "ro": "Gheară de zăpadă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WhiteTiger_IceScratch_TextData",
+   "en": "Blizzard Claw",
+   "ro": "Gheară de viscol"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WhiteTiger_Ground_IronScratch_TextData",
+   "en": "Stone Claw",
+   "ro": "Gheară de piatră"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Yeti_SnowBall_TextData",
+   "en": "Snow Bowling",
+   "ro": "Bowling de zăpadă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Yeti_Grass_GrassBall_TextData",
+   "en": "Lawn Bowling",
+   "ro": "Bowling pe iarbă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NightLady_WarpBeam_Straight_TextData",
+   "en": "Nightmare Ray",
+   "ro": "Rază de coșmar"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NightLady_WarpBeam_TextData",
+   "en": "Nightmare Bloom",
+   "ro": "Înflorire de coșmar"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NightLady_FlameNightmare_TextData",
+   "en": "Flame Waltz",
+   "ro": "Vals de flăcări"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingBahamut_ArmSmash_TextData",
+   "en": "Brawn Impact",
+   "ro": "Impact brutal"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_MoonQueen_MoonBeam_TextData",
+   "en": "Moonlight Beam",
+   "ro": "Rază de lumină lunară"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_MoonQueen_MoonBlade_TextData",
+   "en": "Seigetsu Blade",
+   "ro": "Lamă Seigetsu"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WingGolem_RoundCutter_TextData",
+   "en": "Ground Cutter",
+   "ro": "Tăietor de pământ"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FeatherOstrich_Tossin_TextData",
+   "en": "Earth Dash",
+   "ro": "Năpustire terestră"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkAlien_JumpScractch_TextData",
+   "en": "Evil Slash",
+   "ro": "Sfâșiere malefică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ScorpionMan_UpperCut_TextData",
+   "en": "Upper Smash",
+   "ro": "Lovitură ascendentă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SifuDog_Counter_TextData",
+   "en": "Wholehearted Stance",
+   "ro": "Poziție devotată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ElecPanda_GatlingAttack_TextData",
+   "en": "Heavy Thunder Tank",
+   "ro": "Tanc greu de tunet"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LilyQueen_LilyHealing_TextData",
+   "en": "Bountiful Protection",
+   "ro": "Protecție îmbelșugată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDragonMan_NumerousSwordAttack_TextData",
+   "en": "Polykeraunos",
+   "ro": "Polykeraunos"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Horus_PerfectStorm_TextData",
+   "en": "Raging Flame Wave",
+   "ro": "Val de flăcări furioase"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlackGriffon_TackleLaser2_TextData",
+   "en": "Divine Disaster II",
+   "ro": "Dezastru divin II"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_MoonQueen_IceMoonBlade_TextData",
+   "en": "Seigetsu Flash",
+   "ro": "Fulgerare Seigetsu"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LilyQueen_WindBarrier_TextData",
+   "en": "Wind Barrier",
+   "ro": "Barieră de vânt"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkMechaDragon_WarpComet_TextData",
+   "en": "Cosmic Meteor",
+   "ro": "Meteorit cosmic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkMechaDragon_BeamSlash_TextData",
+   "en": "Beam Slash",
+   "ro": "Tăietură laser"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkMechaDragon_SetFunnel_TextData",
+   "en": "Satellite Bit",
+   "ro": "Dronă satelit"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkMechaDragon_ConvergentBeam_TextData",
+   "en": "Astral Ray",
+   "ro": "Rază astrală"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DarkMechaDragon_FunnelLaser_TextData",
+   "en": "Omega Laser",
+   "ro": "Laser Omega"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SnowTigerBeastman_TrampleSlash_TextData",
+   "en": "Frost Talon",
+   "ro": "Gheară înghețată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SnowTigerBeastman_SnowImpact_TextData",
+   "en": "Glacial Impact",
+   "ro": "Impact glaciar"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_PurpleSpider_SpiderRaid_TextData",
+   "en": "Webstrike Impact",
+   "ro": "Lovitură cu pânză"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_MysteryMask_LifeSteal_TextData",
+   "en": "Soul Drain",
+   "ro": "Drenare a sufletului"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrimGirl_BrutalMachete_TextData",
+   "en": "Grudge Barrage",
+   "ro": "Baraj de ranchiună"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WhiteShieldDragon_ShieldTackle_TextData",
+   "en": "Aegis Charge",
+   "ro": "Șarjă de egidă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NightBlueHorse_DeathStep_TextData",
+   "en": "Lethal Step",
+   "ro": "Pas letal"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlueThunderHorse_FlashDash_TextData",
+   "en": "Bolt Blink",
+   "ro": "Sclipire de trăsnet"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WhiteDeer_HolyPillar_TextData",
+   "en": "Holy Nova",
+   "ro": "Novă sfântă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GoldenHorse_StoneDash_TextData",
+   "en": "Crash Dash",
+   "ro": "Șarjă zdrobitoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_TentacleTurtle_HydroSpin_TextData",
+   "en": "Hydro Spin",
+   "ro": "Rotire hidro"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_PoseidonOrca_TorrentLaser_TextData",
+   "en": "Thalassonic Laser",
+   "ro": "Laser talasonic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_IceNarwhal_JumpingHorn_TextData",
+   "en": "High Breach",
+   "ro": "Săritură înaltă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GhostAnglerfish_SweepBait_TextData",
+   "en": "Lantern Sweep",
+   "ro": "Măturare cu felinarul"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GhostAnglerfish_Fire_SweepBait_Fire_TextData",
+   "en": "Scorching Lantern Sweep",
+   "ro": "Măturare cu felinar arzător"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_OctopursGirl_Inkjet_TextData",
+   "en": "Smoke Jet",
+   "ro": "Jet de fum"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_StuffedShark_HiddenWeapon_TextData",
+   "en": "Trigger Happy",
+   "ro": "Trăgaci sprinten"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_IceCrocodile_SpitAttack_TextData",
+   "en": "Chaotic Spray",
+   "ro": "Pulverizare haotică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LeafMomonga_SomerSault_TextData",
+   "en": "Konoha Flip",
+   "ro": "Mortal Konoha"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Plesiosaur_LongBreath_TextData",
+   "en": "Deep Breath",
+   "ro": "Respirație adâncă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_TropicalOstrich_DashKick_TextData",
+   "en": "Dash Kick",
+   "ro": "Lovitură prin sprint"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_CaptainPenguin_Black_BodySlide_Electric_TextData",
+   "en": "Thunderslide",
+   "ro": "Alunecare fulgerătoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Yakushima_EyeTossin_TextData",
+   "en": "Lock-On Lunge",
+   "ro": "Fandare ochită"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Yakushima_MouthTossin_TextData",
+   "en": "Frenzied Charge",
+   "ro": "Șarjă frenetică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Yakushima_SummonServant_TextData",
+   "en": "Servant Call",
+   "ro": "Chemarea slugilor"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster001_SlimePress_Normal_TextData",
+   "en": "Slime Press (Neutral)",
+   "ro": "Presă de mâzgă (Neutru)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster001_SlimePress_Leaf_TextData",
+   "en": "Slime Press (Grass)",
+   "ro": "Presă de mâzgă (Iarbă)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster001_SlimePress_Water_TextData",
+   "en": "Slime Press (Water)",
+   "ro": "Presă de mâzgă (Apă)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster001_SlimePress_Fire_TextData",
+   "en": "Slime Press (Fire)",
+   "ro": "Presă de mâzgă (Foc)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster001_SlimePress_Dark_TextData",
+   "en": "Slime Press (Dark)",
+   "ro": "Presă de mâzgă (Întuneric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster001_SlimePress_Rainbow_TextData",
+   "en": "Slime Press (Rainbow)",
+   "ro": "Presă de mâzgă (Curcubeu)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaBoss001_Small_DemonEyeCharge_TextData",
+   "en": "Ocular Rush",
+   "ro": "Năvală oculară"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster002_SwordCharge_TextData",
+   "en": "Sword Charge",
+   "ro": "Șarjă cu sabia"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_YakushimaMonster003_BatCharge_TextData",
+   "en": "Winged Assault",
+   "ro": "Asalt înaripat"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LegendDeer_WarpPillarBurst_TextData",
+   "en": "Sacred Rain",
+   "ro": "Ploaie sacră"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LegendDeer_RadiantWingRush_TextData",
+   "en": "Divine Wing",
+   "ro": "Aripă divină"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LegendDeer_RadiantPurge_Otomo_TextData",
+   "en": "Purifying Light",
+   "ro": "Lumină purificatoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingWhale_WaveTackle_TextData",
+   "en": "Tidal Charge",
+   "ro": "Șarjă mareică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingWhale_Breaching_TextData",
+   "en": "Grand Breach",
+   "ro": "Salt spectaculos"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingWhale_HomingBubble_TextData",
+   "en": "Bubble Rain",
+   "ro": "Ploaie de bule"
+  },
+  {
+   "key": "ACTION_SKILL_CreepingBubble_TextData",
+   "en": "Creeping Bubbles",
+   "ro": "Bule târâtoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingWhale_AquaBlade_TextData",
+   "en": "Aqua Blade",
+   "ro": "Lamă acvatică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingWhale_Maelstrom_TextData",
+   "en": "Maelstrom",
+   "ro": "Maelstrom"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_KingWhale_AquaTornado_TextData",
+   "en": "Aqua Tornado",
+   "ro": "Tornadă de apă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlueSkyDragon_Tossin_TextData",
+   "en": "Hydra Charge",
+   "ro": "Șarjă de hidră"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlueSkyDragon_SweepBreath_TextData",
+   "en": "Azure Dracoflare",
+   "ro": "Flacără de dragon azuriu"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlueSkyDragon_DrainStorm_TextData",
+   "en": "Celestial Vortex",
+   "ro": "Vârtej ceresc"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_VolcanoDragon_VolcanicLaser_TextData",
+   "en": "Magma Laser",
+   "ro": "Laser de magmă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_VolcanoDragon_MagmaSpit_TextData",
+   "en": "Magma Spit",
+   "ro": "Scuipat de magmă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_VolcanoDragon_Ice_IceLaser_TextData",
+   "en": "Ice Laser",
+   "ro": "Laser de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_VolcanoDragon_Ice_IcicleSpit_TextData",
+   "en": "Ice Spit",
+   "ro": "Scuipat de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassGolem_RocketPunch_TextData",
+   "en": "Rocket Arm",
+   "ro": "Braț rachetă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassGolem_ArmCannon_TextData",
+   "en": "Root Cannon",
+   "ro": "Tun de rădăcini"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassGolem_Dark_DarkArmCannon_TextData",
+   "en": "Dark Root",
+   "ro": "Rădăcină întunecată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Sekhmet_SomersaultScratch_TextData",
+   "en": "Somersault Scratch",
+   "ro": "Zgârietură cu salt"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Sekhmet_RollingScratch_TextData",
+   "en": "Rolling Scratch",
+   "ro": "Zgârietură din rostogolire"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_MonochromeQueen_BalletJump_TextData",
+   "en": "Black Quilled Ballet",
+   "ro": "Balet cu pene negre"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LanternButler_LanternFlame_TextData",
+   "en": "Lantern Flame",
+   "ro": "Flacăra felinarului"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_RockBeast_RockHorn_TextData",
+   "en": "Horn Burst",
+   "ro": "Izbucnire de corn"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_RockBeast_Ice_IceHorn_TextData",
+   "en": "Ice Burst",
+   "ro": "Izbucnire de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ClownRabbit_TrickShow_TextData",
+   "en": "Trickster Show",
+   "ro": "Spectacol de iluzionism"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_CubeTurtle_CubePress_TextData",
+   "en": "Cube Press",
+   "ro": "Presă cubică"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_CubeTurtle_Neutral_HolyPress_TextData",
+   "en": "Holy Press",
+   "ro": "Presă sfântă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SamuraiDog_DashSlash_TextData",
+   "en": "Persistent Slash",
+   "ro": "Tăietură stăruitoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_MummyPal_MummyAttack_TextData",
+   "en": "Mummy Rush",
+   "ro": "Asalt de mumie"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SumoDog_SumoStomp_TextData",
+   "en": "Sumo Stomp",
+   "ro": "Izbitură de sumo"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_LotusDragon_LotusBloom_TextData",
+   "en": "Lotus Bloom",
+   "ro": "Înflorire de lotus"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_DomeArmorDragon_ExplosiveMissile_TextData",
+   "en": "Missile Burst",
+   "ro": "Rafală de rachete"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GhostDragon_TailSlash_TextData",
+   "en": "Tail Slash",
+   "ro": "Tăietură de coadă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GhostDragon_PhosphorousBeam_TextData",
+   "en": "Blazing Beam",
+   "ro": "Rază incandescentă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassMinotaur_BullRush_Lower_TextData",
+   "en": "Bull Rush",
+   "ro": "Șarjă de taur"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassMinotaur_BullRush_TextData",
+   "en": "Raging Bull Rush",
+   "ro": "Șarjă de taur furios"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassMinotaur_Ice_BullRush_Lower_TextData",
+   "en": "Snow Rush",
+   "ro": "Șarjă de zăpadă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GrassMinotaur_Ice_BullRush_TextData",
+   "en": "Raging Snow Rush",
+   "ro": "Șarjă de zăpadă furioasă"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_PandaGirl_RapidKick_TextData",
+   "en": "Rapid Kick",
+   "ro": "Lovitură rapidă de picior"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ElecSnail_ShellCharge_TextData",
+   "en": "Shell Charge",
+   "ro": "Șarjă cu carapacea"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_CuteMole_DiggingAttack_TextData",
+   "en": "Fuddler Tunneler",
+   "ro": "Tunelare Fuddler"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlueThunderHorse_Tossin_TextData",
+   "en": "Flash Charge",
+   "ro": "Șarjă fulgerătoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NightBlueHorse_Tossin_TextData",
+   "en": "Spectral Steed",
+   "ro": "Armăsar spectral"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NightBlueHorse_Neutral_Tossin_TextData",
+   "en": "Silver Steed",
+   "ro": "Armăsar argintiu"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_NightBlueHorse_Neutral_AirStep_TextData",
+   "en": "Royal Step",
+   "ro": "Pas regal"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Kirin_Ice_IceTackle_TextData",
+   "en": "Ice Gale Strike",
+   "ro": "Lovitură cu vijelie de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDog_Ice_KoriShorai_TextData",
+   "en": "Frostcall",
+   "ro": "Chemarea gerului"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ScorpionMan_Erectric_UpperThunder_TextData",
+   "en": "Thunder Uppercut",
+   "ro": "Upercut de trăsnet"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WingGolem_Fire_FlameCutter_TextData",
+   "en": "Flame Cutter",
+   "ro": "Tăietor de flăcări"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderBird_Ice_SnowStrom_TextData",
+   "en": "Glacial Plunge",
+   "ro": "Coborâre glaciară"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_WhiteDeer_Dark_DarkPillar_TextData",
+   "en": "Dark Nova",
+   "ro": "Novă întunecată"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Garm_BiteV2_TextData",
+   "en": "Double Fang",
+   "ro": "Colți dubli"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GuardianDog_Bite_TextData",
+   "en": "Fierce Fang",
+   "ro": "Colț feroce"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GuardianDog_BiteV2_TextData",
+   "en": "Double Fang",
+   "ro": "Colți dubli"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDog_Bite_TextData",
+   "en": "Fierce Fang (Electric)",
+   "ro": "Colți aprigi (electric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDog_BiteV2_TextData",
+   "en": "Double Fang (Electric)",
+   "ro": "Colți dubli (electric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ElecPomeranian_Bite_TextData",
+   "en": "Fierce Fang (Electric)",
+   "ro": "Colți aprigi (electric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ElecPomeranian_BiteV2_TextData",
+   "en": "Double Fang (Electric)",
+   "ro": "Colți dubli (electric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDog_Ice_Bite_TextData",
+   "en": "Fierce Fang (Ice)",
+   "ro": "Colți aprigi (gheață)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_ThunderDog_Ice_BiteV2_TextData",
+   "en": "Double Fang (Ice)",
+   "ro": "Colți dubli (gheață)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GoldenHorse_Bite_TextData",
+   "en": "Fierce Fang (Ground)",
+   "ro": "Colți aprigi (pământ)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_GoldenHorse_BiteV2_TextData",
+   "en": "Double Fang (Ground)",
+   "ro": "Colți dubli (pământ)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SamuraiDog_Bite_TextData",
+   "en": "Fierce Fang (Ground)",
+   "ro": "Colți aprigi (pământ)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SamuraiDog_BiteV2_TextData",
+   "en": "Double Fang (Ground)",
+   "ro": "Colți dubli (pământ)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_AmaterasuWolf_Bite_TextData",
+   "en": "Fierce Fang (Fire)",
+   "ro": "Colț feroce (foc)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_AmaterasuWolf_BiteV2_TextData",
+   "en": "Double Fang (Fire)",
+   "ro": "Colț dublu (foc)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_AmaterasuWolf_Dark_Bite_TextData",
+   "en": "Fierce Fang (Dark)",
+   "ro": "Colț feroce (întuneric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_AmaterasuWolf_Dark_BiteV2_TextData",
+   "en": "Double Fang (Dark)",
+   "ro": "Colț dublu (întuneric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlackPuppy_Bite_TextData",
+   "en": "Fierce Fang (Dark)",
+   "ro": "Colț feroce (întuneric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BlackPuppy_BiteV2_TextData",
+   "en": "Double Fang (Dark)",
+   "ro": "Colț dublu (întuneric)"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FlowerPrince_PoisonGasDance_TextData",
+   "en": "Toxic Dance",
+   "ro": "Dans toxic"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_FlowerPrince_PoisonGasTackle_TextData",
+   "en": "Poison Promenade",
+   "ro": "Promenadă otrăvitoare"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Mothman_GiantSpore_TextData",
+   "en": "Giant Spore",
+   "ro": "Spor uriaș"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Mothman_SporeScatter_TextData",
+   "en": "Spore Burst",
+   "ro": "Rafală de spori"
+  },
+  {
+   "key": "ACTION_SKILL_Weapon_Use_TextData",
+   "en": "Use Weapon",
+   "ro": "Folosește arma"
+  },
+  {
+   "key": "ACTION_SKILL_PoisonFog_TextData",
+   "en": "Poison Fog",
+   "ro": "Ceață otrăvitoare"
+  },
+  {
+   "key": "ACTION_SKILL_HyperBeam_TextData",
+   "en": "Pal Blast",
+   "ro": "Rafală Pal"
+  },
+  {
+   "key": "ACTION_SKILL_PowerShot_TextData",
+   "en": "Power Shot",
+   "ro": "Tir de putere"
+  },
+  {
+   "key": "ACTION_SKILL_PowerBall_TextData",
+   "en": "Power Bomb",
+   "ro": "Bombă de putere"
+  },
+  {
+   "key": "ACTION_SKILL_SelfDestruct_TextData",
+   "en": "Implode",
+   "ro": "Implozie"
+  },
+  {
+   "key": "ACTION_SKILL_SelfDestruct_Bee_TextData",
+   "en": "Bee Quiet",
+   "ro": "Bâzâit final"
+  },
+  {
+   "key": "ACTION_SKILL_SelfExplosion_TextData",
+   "en": "Megaton Implode",
+   "ro": "Implozie de megatone"
+  },
+  {
+   "key": "ACTION_SKILL_Intimidate_TextData",
+   "en": "Intimidate",
+   "ro": "Intimidare"
+  },
+  {
+   "key": "ACTION_SKILL_AirCanon_TextData",
+   "en": "Air Cannon",
+   "ro": "Tun de aer"
+  },
+  {
+   "key": "ACTION_SKILL_AirBlade_TextData",
+   "en": "Air Blade",
+   "ro": "Lamă de aer"
+  },
+  {
+   "key": "ACTION_SKILL_HolyBlast_TextData",
+   "en": "Holy Burst",
+   "ro": "Explozie sfântă"
+  },
+  {
+   "key": "ACTION_SKILL_StarMine_TextData",
+   "en": "Star Mine",
+   "ro": "Mină stelară"
+  },
+  {
+   "key": "ACTION_SKILL_PredatorBeam_TextData",
+   "en": "Predator Blast",
+   "ro": "Suflu de prădător"
+  },
+  {
+   "key": "ACTION_SKILL_PredatorWave_TextData",
+   "en": "Predator Surge",
+   "ro": "Val de prădător"
+  },
+  {
+   "key": "ACTION_SKILL_PredatorLockon_TextData",
+   "en": "Predator Mark",
+   "ro": "Însemn de prădător"
+  },
+  {
+   "key": "ACTION_SKILL_RadiantBarrage_TextData",
+   "en": "Radiant Barrage",
+   "ro": "Tir radiant"
+  },
+  {
+   "key": "ACTION_SKILL_StardustArrow_TextData",
+   "en": "Fireball",
+   "ro": "Minge de foc"
+  },
+  {
+   "key": "ACTION_SKILL_FireBlast_TextData",
+   "en": "Ignis Blast",
+   "ro": "Suflu Ignis"
+  },
+  {
+   "key": "ACTION_SKILL_Flamethrower_TextData",
+   "en": "Ignis Breath",
+   "ro": "Respirație Ignis"
+  },
+  {
+   "key": "ACTION_SKILL_FireBall_TextData",
+   "en": "Fire Ball",
+   "ro": "Minge de foc"
+  },
+  {
+   "key": "ACTION_SKILL_FlareArrow_TextData",
+   "en": "Flare Arrow",
+   "ro": "Săgeată de flăcări"
+  },
+  {
+   "key": "ACTION_SKILL_FireSeed_TextData",
+   "en": "Spirit Fire",
+   "ro": "Foc spiritual"
+  },
+  {
+   "key": "ACTION_SKILL_FlareTornado_TextData",
+   "en": "Flare Storm",
+   "ro": "Furtună de flăcări"
+  },
+  {
+   "key": "ACTION_SKILL_Inferno_TextData",
+   "en": "Ignis Rage",
+   "ro": "Furie Ignis"
+  },
+  {
+   "key": "ACTION_SKILL_FlameWall_TextData",
+   "en": "Flame Wall",
+   "ro": "Zid de flăcări"
+  },
+  {
+   "key": "ACTION_SKILL_Eruption_TextData",
+   "en": "Volcanic Rain",
+   "ro": "Ploaie vulcanică"
+  },
+  {
+   "key": "ACTION_SKILL_FlameFunnel_TextData",
+   "en": "Flame Funnel",
+   "ro": "Pâlnie de flăcări"
+  },
+  {
+   "key": "ACTION_SKILL_FlareTwister_TextData",
+   "en": "Flare Twister",
+   "ro": "Tornadă de foc"
+  },
+  {
+   "key": "ACTION_SKILL_WaterGun_TextData",
+   "en": "Aqua Gun",
+   "ro": "Pistol acvatic"
+  },
+  {
+   "key": "ACTION_SKILL_HydroPump_TextData",
+   "en": "Hydro Laser",
+   "ro": "Laser hidro"
+  },
+  {
+   "key": "ACTION_SKILL_WaterBall_TextData",
+   "en": "Aqua Burst",
+   "ro": "Explozie acvatică"
+  },
+  {
+   "key": "ACTION_SKILL_TidalWave_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_AquaJet_TextData",
+   "en": "Hydro Jet",
+   "ro": "Hidrojet"
+  },
+  {
+   "key": "ACTION_SKILL_BubbleShot_TextData",
+   "en": "Bubble Blast",
+   "ro": "Rafală de bule"
+  },
+  {
+   "key": "ACTION_SKILL_AcidRain_TextData",
+   "en": "Acid Rain",
+   "ro": "Ploaie acidă"
+  },
+  {
+   "key": "ACTION_SKILL_LineGeyser_TextData",
+   "en": "Splash",
+   "ro": "Stropire"
+  },
+  {
+   "key": "ACTION_SKILL_WallSplash_TextData",
+   "en": "Curtain Splash",
+   "ro": "Perdea de stropi"
+  },
+  {
+   "key": "ACTION_SKILL_SeaGush_TextData",
+   "en": "Geyser Gush",
+   "ro": "Șuvoi de gheizer"
+  },
+  {
+   "key": "ACTION_SKILL_RipTide_TextData",
+   "en": "Aqua Surge",
+   "ro": "Val acvatic"
+  },
+  {
+   "key": "ACTION_SKILL_DiversionLaser_TextData",
+   "en": "Torrential Blast",
+   "ro": "Rafală torențială"
+  },
+  {
+   "key": "ACTION_SKILL_HydroSlicer_TextData",
+   "en": "Hydro Slicer",
+   "ro": "Tăietor hidro"
+  },
+  {
+   "key": "ACTION_SKILL_WindCutter_TextData",
+   "en": "Wind Cutter",
+   "ro": "Tăiș de vânt"
+  },
+  {
+   "key": "ACTION_SKILL_GrassTornado_TextData",
+   "en": "Grass Tornado",
+   "ro": "Tornadă de iarbă"
+  },
+  {
+   "key": "ACTION_SKILL_SolarBeam_TextData",
+   "en": "Solar Blast",
+   "ro": "Rafală solară"
+  },
+  {
+   "key": "ACTION_SKILL_SeedMachinegun_TextData",
+   "en": "Seed Machine Gun",
+   "ro": "Mitralieră de semințe"
+  },
+  {
+   "key": "ACTION_SKILL_SeedMine_TextData",
+   "en": "Seed Mine",
+   "ro": "Mină de semințe"
+  },
+  {
+   "key": "ACTION_SKILL_RootAttack_TextData",
+   "en": "Spine Vine",
+   "ro": "Liană spinoasă"
+  },
+  {
+   "key": "ACTION_SKILL_SpecialCutter_TextData",
+   "en": "Multicutter",
+   "ro": "Multităietor"
+  },
+  {
+   "key": "ACTION_SKILL_RootLance_TextData",
+   "en": "Circle Vine",
+   "ro": "Liană circulară"
+  },
+  {
+   "key": "ACTION_SKILL_RaidCutter_TextData",
+   "en": "Raid Cutter",
+   "ro": "Tăiș de raid"
+  },
+  {
+   "key": "ACTION_SKILL_WindEdge_TextData",
+   "en": "Wind Edge",
+   "ro": "Tăișul vântului"
+  },
+  {
+   "key": "ACTION_SKILL_CrossWind_TextData",
+   "en": "Crosswind",
+   "ro": "Vânt încrucișat"
+  },
+  {
+   "key": "ACTION_SKILL_ReflectiveShuriken_TextData",
+   "en": "Reflect Leaf",
+   "ro": "Frunză reflectantă"
+  },
+  {
+   "key": "ACTION_SKILL_WindBurst_TextData",
+   "en": "Wind Burst",
+   "ro": "Rafală de vânt"
+  },
+  {
+   "key": "ACTION_SKILL_ThunderRain_TextData",
+   "en": "Thunder Rain",
+   "ro": "Ploaie de trăsnete"
+  },
+  {
+   "key": "ACTION_SKILL_ThunderBall_TextData",
+   "en": "Electric Ball",
+   "ro": "Gheotroc electric"
+  },
+  {
+   "key": "ACTION_SKILL_LineThunder_TextData",
+   "en": "Lightning Streak",
+   "ro": "Dâră de fulger"
+  },
+  {
+   "key": "ACTION_SKILL_CrossThunder_TextData",
+   "en": "Cross Lightning",
+   "ro": "Fulgere în cruce"
+  },
+  {
+   "key": "ACTION_SKILL_ThreeThunder_TextData",
+   "en": "Tri-Lightning",
+   "ro": "Trifulger"
+  },
+  {
+   "key": "ACTION_SKILL_ElecWave_TextData",
+   "en": "Shockwave",
+   "ro": "Undă de șoc"
+  },
+  {
+   "key": "ACTION_SKILL_Thunderbolt_TextData",
+   "en": "Lightning Bolt",
+   "ro": "Săgeată de fulger"
+  },
+  {
+   "key": "ACTION_SKILL_ThunderFunnel_TextData",
+   "en": "Plasma Funnel",
+   "ro": "Pâlnie de plasmă"
+  },
+  {
+   "key": "ACTION_SKILL_SpreadPulse_TextData",
+   "en": "Spark Blast",
+   "ro": "Explozie de scântei"
+  },
+  {
+   "key": "ACTION_SKILL_LockonLaser_TextData",
+   "en": "Lock-on Laser",
+   "ro": "Laser ghidat"
+  },
+  {
+   "key": "ACTION_SKILL_LightningStrike_TextData",
+   "en": "Lightning Strike",
+   "ro": "Lovitură de trăsnet"
+  },
+  {
+   "key": "ACTION_SKILL_TriSpark_TextData",
+   "en": "TriSpark",
+   "ro": "Triscânteie"
+  },
+  {
+   "key": "ACTION_SKILL_ThunderStorm_TextData",
+   "en": "Thunderstorm",
+   "ro": "Furtună cu trăsnete"
+  },
+  {
+   "key": "ACTION_SKILL_RangeThunder_TextData",
+   "en": "All Range Thunder",
+   "ro": "Tunet omnidirecțional"
+  },
+  {
+   "key": "ACTION_SKILL_RailBolt_TextData",
+   "en": "Thunder Rail",
+   "ro": "Șină de trăsnet"
+  },
+  {
+   "key": "ACTION_SKILL_ShokeiLaser_TextData",
+   "en": "Lethal Laser",
+   "ro": "Laser letal"
+  },
+  {
+   "key": "ACTION_SKILL_ThunderSpear_TextData",
+   "en": "Thunder Spear",
+   "ro": "Suliță de trăsnet"
+  },
+  {
+   "key": "ACTION_SKILL_IceMissile_TextData",
+   "en": "Ice Missile",
+   "ro": "Rachetă de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_BlizzardLance_TextData",
+   "en": "Iceberg",
+   "ro": "Iceberg"
+  },
+  {
+   "key": "ACTION_SKILL_Snowstorm_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_IcicleThrow_TextData",
+   "en": "Blizzard Spike",
+   "ro": "Țepușă de viscol"
+  },
+  {
+   "key": "ACTION_SKILL_IceBlade_TextData",
+   "en": "Icicle Cutter",
+   "ro": "Tăietor de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_FrostBreath_TextData",
+   "en": "Crystal Breath",
+   "ro": "Suflare de cristal"
+  },
+  {
+   "key": "ACTION_SKILL_DiamondFall_TextData",
+   "en": "Diamond Rain",
+   "ro": "Ploaie de diamante"
+  },
+  {
+   "key": "ACTION_SKILL_IcicleLine_TextData",
+   "en": "Icicle Line",
+   "ro": "Linie de țurțuri"
+  },
+  {
+   "key": "ACTION_SKILL_DoubleIcicleThrow_TextData",
+   "en": "Double Blizzard Spike",
+   "ro": "Țepușă dublă de viscol"
+  },
+  {
+   "key": "ACTION_SKILL_IceAge_TextData",
+   "en": "Absolute Frost",
+   "ro": "Ger absolut"
+  },
+  {
+   "key": "ACTION_SKILL_IciclePierce_TextData",
+   "en": "Icicle Bullet",
+   "ro": "Glonț de gheață"
+  },
+  {
+   "key": "ACTION_SKILL_IceWall_TextData",
+   "en": "Freeze Wall",
+   "ro": "Zid de îngheț"
+  },
+  {
+   "key": "ACTION_SKILL_SandTornado_TextData",
+   "en": "Sand Tornado",
+   "ro": "Tornadă de nisip"
+  },
+  {
+   "key": "ACTION_SKILL_ThrowRock_TextData",
+   "en": "Stone Cannon",
+   "ro": "Tun de piatră"
+  },
+  {
+   "key": "ACTION_SKILL_RockLance_TextData",
+   "en": "Rock Lance",
+   "ro": "Lance de stâncă"
+  },
+  {
+   "key": "ACTION_SKILL_MudShot_TextData",
+   "en": "Bog Blast",
+   "ro": "Suflu de mlaștină"
+  },
+  {
+   "key": "ACTION_SKILL_StoneShotgun_TextData",
+   "en": "Stone Blast",
+   "ro": "Explozie de piatră"
+  },
+  {
+   "key": "ACTION_SKILL_Tremor_TextData",
+   "en": "Rockburst",
+   "ro": "Ruptură de stâncă"
+  },
+  {
+   "key": "ACTION_SKILL_SandTwister_TextData",
+   "en": "Sand Twister",
+   "ro": "Tornadă de nisip"
+  },
+  {
+   "key": "ACTION_SKILL_RockBeat_TextData",
+   "en": "Rocky Impact",
+   "ro": "Impact stâncos"
+  },
+  {
+   "key": "ACTION_SKILL_DarkLaser_TextData",
+   "en": "Dark Laser",
+   "ro": "Laser întunecat"
+  },
+  {
+   "key": "ACTION_SKILL_DarkWave_TextData",
+   "en": "Shadow Burst",
+   "ro": "Explozie de umbră"
+  },
+  {
+   "key": "ACTION_SKILL_Psychokinesis_TextData",
+   "en": "Psycho Gravity",
+   "ro": "Psiho-gravitație"
+  },
+  {
+   "key": "ACTION_SKILL_ShadowBall_TextData",
+   "en": "Nightmare Ball",
+   "ro": "Gheotoc de coșmar"
+  },
+  {
+   "key": "ACTION_SKILL_GhostFlame_TextData",
+   "en": "Spirit Flame",
+   "ro": "Flacără spectrală"
+  },
+  {
+   "key": "ACTION_SKILL_PoisonShot_TextData",
+   "en": "Poison Blast",
+   "ro": "Explozie otrăvitoare"
+  },
+  {
+   "key": "ACTION_SKILL_DarkBall_TextData",
+   "en": "Dark Ball",
+   "ro": "Gheotoc întunecat"
+  },
+  {
+   "key": "ACTION_SKILL_DarkLegion_TextData",
+   "en": "Dark Whisp",
+   "ro": "Foc nestins întunecat"
+  },
+  {
+   "key": "ACTION_SKILL_DarkFog_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_DarkCanon_TextData",
+   "en": "Dark Cannon",
+   "ro": "Tun întunecat"
+  },
+  {
+   "key": "ACTION_SKILL_DarkArrow_TextData",
+   "en": "Dark Arrow",
+   "ro": "Săgeată întunecată"
+  },
+  {
+   "key": "ACTION_SKILL_DarkPulse_TextData",
+   "en": "Umbral Surge",
+   "ro": "Puls umbral"
+  },
+  {
+   "key": "ACTION_SKILL_Apocalypse_TextData",
+   "en": "Apocalypse",
+   "ro": "Apocalipsă"
+  },
+  {
+   "key": "ACTION_SKILL_ChaosLaser_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "ACTION_SKILL_BubbleShower_TextData",
+   "en": "Poison Shower",
+   "ro": "Ploaie otrăvitoare"
+  },
+  {
+   "key": "ACTION_SKILL_GravityShot_TextData",
+   "en": "Dark Shot",
+   "ro": "Tragere întunecată"
+  },
+  {
+   "key": "ACTION_SKILL_DragonMeteor_TextData",
+   "en": "Dragon Meteor",
+   "ro": "Meteorit de dragon"
+  },
+  {
+   "key": "ACTION_SKILL_DragonBreath_TextData",
+   "en": "Dragon Breath",
+   "ro": "Răsuflare de dragon"
+  },
+  {
+   "key": "ACTION_SKILL_DragonWave_TextData",
+   "en": "Dragon Burst",
+   "ro": "Izbucnire de dragon"
+  },
+  {
+   "key": "ACTION_SKILL_DragonCanon_TextData",
+   "en": "Dragon Cannon",
+   "ro": "Tun de dragon"
+  },
+  {
+   "key": "ACTION_SKILL_BeamSlicer_TextData",
+   "en": "Beam Slicer",
+   "ro": "Feliator cu rază"
+  },
+  {
+   "key": "ACTION_SKILL_Commet_TextData",
+   "en": "Comet Strike",
+   "ro": "Lovitură de cometă"
+  },
+  {
+   "key": "ACTION_SKILL_ThreeCommet_TextData",
+   "en": "Comet Barrage",
+   "ro": "Baraj de comete"
+  },
+  {
+   "key": "ACTION_SKILL_CommetRain_TextData",
+   "en": "Meteorain",
+   "ro": "Ploaie de meteoriți"
+  },
+  {
+   "key": "ACTION_SKILL_BlastCanon_TextData",
+   "en": "Blast Cannon",
+   "ro": "Tun exploziv"
+  },
+  {
+   "key": "ACTION_SKILL_ChargeCanon_TextData",
+   "en": "Charge Cannon",
+   "ro": "Tun încărcat"
+  },
+  {
+   "key": "ACTION_SKILL_TripleCanon_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up1_TextData",
+   "en": "Attack Up Lv. 1",
+   "ro": "Creștere atac Nv. 1"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up2_TextData",
+   "en": "Attack Up Lv. 2",
+   "ro": "Creștere atac Nv. 2"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up3_TextData",
+   "en": "Attack Up Lv. 3",
+   "ro": "Creștere atac Nv. 3"
+  },
+  {
+   "key": "PASSIVE_HP_ACC_up1_TextData",
+   "en": "Health Up Lv. 1",
+   "ro": "Creștere viață Nv. 1"
+  },
+  {
+   "key": "PASSIVE_HP_ACC_up2_TextData",
+   "en": "Health Up Lv. 2",
+   "ro": "Creștere viață Nv. 2"
+  },
+  {
+   "key": "PASSIVE_HP_ACC_up3_TextData",
+   "en": "Health Up Lv. 3",
+   "ro": "Creștere viață Nv. 3"
+  },
+  {
+   "key": "PASSIVE_defense_ACC_up1_TextData",
+   "en": "Defense Up Lv. 1",
+   "ro": "Creștere apărare Nv. 1"
+  },
+  {
+   "key": "PASSIVE_defense_ACC_up2_TextData",
+   "en": "Defense Up Lv. 2",
+   "ro": "Creștere apărare Nv. 2"
+  },
+  {
+   "key": "PASSIVE_defense_ACC_up3_TextData",
+   "en": "Defense Up Lv. 3",
+   "ro": "Creștere apărare Nv. 3"
+  },
+  {
+   "key": "PASSIVE_WorkSpeed_ACC_up1_TextData",
+   "en": "Speedy Worker Lv. 1",
+   "ro": "Muncitor rapid Nv. 1"
+  },
+  {
+   "key": "PASSIVE_WorkSpeed_ACC_up2_TextData",
+   "en": "Speedy Worker Lv. 2",
+   "ro": "Muncitor rapid Nv. 2"
+  },
+  {
+   "key": "PASSIVE_WorkSpeed_ACC_up3_TextData",
+   "en": "Speedy Worker Lv. 3",
+   "ro": "Muncitor rapid Nv. 3"
+  },
+  {
+   "key": "PASSIVE_MoveSpeed_ACC_up_1_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_MoveSpeed_ACC_up_2_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_MoveSpeed_ACC_up_3_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_PAL_ElementPassive_Test_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PASSIVE_PAL_TribePassive_Test_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BluePlatypus_Toboggan_TextData",
+   "en": "Surfing Slam",
+   "ro": "Trântă pe valuri"
+  },
+  {
+   "key": "ACTION_SKILL_Partner_Ganesha_HealWater_TextData",
+   "en": "en Text",
+   "ro": "en Text"
+  },
+  {
+   "key": "PARTNERSKILL_Alpaca_TextData",
+   "en": "Pacapaca Wool",
+   "ro": "Lână de Pacapaca"
+  },
+  {
+   "key": "PARTNERSKILL_AmaterasuWolf_TextData",
+   "en": "Wolf of the Sun",
+   "ro": "Lupul soarelui"
+  },
+  {
+   "key": "PARTNERSKILL_Anubis_TextData",
+   "en": "Guardian of the Desert",
+   "ro": "Păzitorul deșertului"
+  },
+  {
+   "key": "PARTNERSKILL_Baphomet_TextData",
+   "en": "Flameclaw Hunter",
+   "ro": "Vânător cu gheare de foc"
+  },
+  {
+   "key": "PARTNERSKILL_Baphomet_Dark_TextData",
+   "en": "Darkclaw Hunter",
+   "ro": "Vânător cu gheare întunecate"
+  },
+  {
+   "key": "PARTNERSKILL_Bastet_TextData",
+   "en": "Gold Digger",
+   "ro": "Căutător de aur"
+  },
+  {
+   "key": "PARTNERSKILL_Bastet_Ice_TextData",
+   "en": "Icy Whispers",
+   "ro": "Șoapte înghețate"
+  },
+  {
+   "key": "PARTNERSKILL_BeardedDragon_TextData",
+   "en": "Tentative text",
+   "ro": "Text provizoriu"
+  },
+  {
+   "key": "PARTNERSKILL_BerryGoat_TextData",
+   "en": "Berry Picker",
+   "ro": "Culegător de fructe"
+  },
+  {
+   "key": "PARTNERSKILL_BirdDragon_TextData",
+   "en": "Aerial Marauder",
+   "ro": "Prădător aerian"
+  },
+  {
+   "key": "PARTNERSKILL_BirdDragon_Ice_TextData",
+   "en": "Aerial Marauder",
+   "ro": "Prădător aerian"
+  },
+  {
+   "key": "PARTNERSKILL_BlackCentaur_TextData",
+   "en": "Dark Knight of the Abyss",
+   "ro": "Cavalerul întunecat al abisului"
+  },
+  {
+   "key": "PARTNERSKILL_BlackFurDragon_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "PARTNERSKILL_BlackGriffon_TextData",
+   "en": "Modified DNA",
+   "ro": "ADN modificat"
+  },
+  {
+   "key": "PARTNERSKILL_BlackMetalDragon_TextData",
+   "en": "Black Ankylosaur",
+   "ro": "Anchilozaur negru"
+  },
+  {
+   "key": "PARTNERSKILL_BlueDragon_TextData",
+   "en": "Waterwing Dance",
+   "ro": "Dansul aripilor de apă"
+  },
+  {
+   "key": "PARTNERSKILL_BluePlatypus_TextData",
+   "en": "Surfing Slam",
+   "ro": "Trântă pe valuri"
+  },
+  {
+   "key": "PARTNERSKILL_Boar_TextData",
+   "en": "Hard Head",
+   "ro": "Cap tare"
+  },
+  {
+   "key": "PARTNERSKILL_Carbunclo_TextData",
+   "en": "Lifmunk Recoil",
+   "ro": "Recul de Lifmunk"
+  },
+  {
+   "key": "PARTNERSKILL_CatBat_TextData",
+   "en": "Ultrasonic Sensor",
+   "ro": "Senzor cu ultrasunete"
+  },
+  {
+   "key": "PARTNERSKILL_CatMage_TextData",
+   "en": "Mystical Black Magic",
+   "ro": "Magie neagră mistică"
+  },
+  {
+   "key": "PARTNERSKILL_CatVampire_TextData",
+   "en": "Life Steal",
+   "ro": "Furt de viață"
+  },
+  {
+   "key": "PARTNERSKILL_CaptainPenguin_TextData",
+   "en": "Brave Sailor",
+   "ro": "Marinar curajos"
+  },
+  {
+   "key": "PARTNERSKILL_ChickenPal_TextData",
+   "en": "Egg Layer",
+   "ro": "Ouătoare"
+  },
+  {
+   "key": "PARTNERSKILL_ColorfulBird_TextData",
+   "en": "Eggbomb Launcher",
+   "ro": "Lansator de bombe-ou"
+  },
+  {
+   "key": "PARTNERSKILL_CowPal_TextData",
+   "en": "Milk Maker",
+   "ro": "Producător de lapte"
+  },
+  {
+   "key": "PARTNERSKILL_CuteButterfly_TextData",
+   "en": "Mysterious Scales",
+   "ro": "Solzi misterioși"
+  },
+  {
+   "key": "PARTNERSKILL_CuteFox_TextData",
+   "en": "Dig Here!",
+   "ro": "Sapă aici!"
+  },
+  {
+   "key": "PARTNERSKILL_CuteMole_TextData",
+   "en": "Mining Assistance",
+   "ro": "Asistență la minerit"
+  },
+  {
+   "key": "PARTNERSKILL_DarkCrow_TextData",
+   "en": "Eerie Nightstreaker",
+   "ro": "Fantomă a nopții sinistre"
+  },
+  {
+   "key": "PARTNERSKILL_DarkMutant_TextData",
+   "en": "Teleki Explosion",
+   "ro": "Explozie telechinetică"
+  },
+  {
+   "key": "PARTNERSKILL_DarkScorpion_TextData",
+   "en": "Steel Scorpion",
+   "ro": "Scorpion de oțel"
+  },
+  {
+   "key": "PARTNERSKILL_Deer_TextData",
+   "en": "Guardian of the Forest",
+   "ro": "Păzitorul pădurii"
+  },
+  {
+   "key": "PARTNERSKILL_Deer_Ground_TextData",
+   "en": "Guardian of the Golden Forest",
+   "ro": "Păzitorul pădurii aurii"
+  },
+  {
+   "key": "PARTNERSKILL_DreamDemon_TextData",
+   "en": "Dream Chaser",
+   "ro": "Vânător de vise"
+  },
+  {
+   "key": "PARTNERSKILL_DrillGame_TextData",
+   "en": "Drill Crusher",
+   "ro": "Concasor cu burghiu"
+  },
+  {
+   "key": "PARTNERSKILL_Eagle_TextData",
+   "en": "Galeclaw Glider",
+   "ro": "Planor Galeclaw"
+  },
+  {
+   "key": "PARTNERSKILL_ElecCat_TextData",
+   "en": "Static Electricity",
+   "ro": "Electricitate statică"
+  },
+  {
+   "key": "PARTNERSKILL_ElecLion_TextData",
+   "en": "Ride",
+   "ro": "Călărire"
+  },
+  {
+   "key": "PARTNERSKILL_ElecPanda_TextData",
+   "en": "Yellow Tank",
+   "ro": "Tanc galben"
+  },
+  {
+   "key": "PARTNERSKILL_FairyDragon_TextData",
+   "en": "Amicable Holy Dragon",
+   "ro": "Dragon sfânt prietenos"
+  },
+  {
+   "key": "PARTNERSKILL_FairyDragon_Water_TextData",
+   "en": "Amicable Water Dragon",
+   "ro": "Dragon acvatic prietenos"
+  },
+  {
+   "key": "PARTNERSKILL_FengyunDeeper_TextData",
+   "en": "Wind and Clouds",
+   "ro": "Vânt și nori"
+  },
+  {
+   "key": "PARTNERSKILL_FireKirin_TextData",
+   "en": "Red Hare",
+   "ro": "Iepurele roșu"
+  },
+  {
+   "key": "PARTNERSKILL_FireKirin_Dark_TextData",
+   "en": "Black Hare",
+   "ro": "Iepurele negru"
+  },
+  {
+   "key": "PARTNERSKILL_FlameBuffalo_TextData",
+   "en": "Warm Body",
+   "ro": "Corp cald"
+  },
+  {
+   "key": "PARTNERSKILL_FlowerDinosaur_TextData",
+   "en": "Fragrant Dragon",
+   "ro": "Dragon parfumat"
+  },
+  {
+   "key": "PARTNERSKILL_FlowerDinosaur_Electric_TextData",
+   "en": "Thunder Dragon",
+   "ro": "Dragon al tunetului"
+  },
+  {
+   "key": "PARTNERSKILL_FlowerDoll_TextData",
+   "en": "Blessing of the Flower Spirit",
+   "ro": "Binecuvântarea spiritului floral"
+  },
+  {
+   "key": "PARTNERSKILL_FlowerRabbit_TextData",
+   "en": "Helper Bunny",
+   "ro": "Iepuraș ajutător"
+  },
+  {
+   "key": "PARTNERSKILL_FlyingManta_TextData",
+   "en": "Zephyr Glider",
+   "ro": "Planor Zefir"
+  },
+  {
+   "key": "PARTNERSKILL_FoxMage_TextData",
+   "en": "Lord Fox",
+   "ro": "Lord Fox"
+  },
+  {
+   "key": "PARTNERSKILL_Ganesha_TextData",
+   "en": "Soothing Shower",
+   "ro": "Duș liniștitor"
+  },
+  {
+   "key": "PARTNERSKILL_Garm_TextData",
+   "en": "Direhowl Rider",
+   "ro": "Călăreț de Direhowl"
+  },
+  {
+   "key": "PARTNERSKILL_GhostBeast_TextData",
+   "en": "Messenger of Death",
+   "ro": "Mesagerul morții"
+  },
+  {
+   "key": "PARTNERSKILL_Gorilla_TextData",
+   "en": "Full-Power Gorilla Mode",
+   "ro": "Mod Gorilă la putere maximă"
+  },
+  {
+   "key": "PARTNERSKILL_GrassDragon_TextData",
+   "en": "Tentative text",
+   "ro": "Text provizoriu"
+  },
+  {
+   "key": "PARTNERSKILL_GrassMammoth_TextData",
+   "en": "Gaia Crusher",
+   "ro": "Zdrobitorul Gaiei"
+  },
+  {
+   "key": "PARTNERSKILL_GrassMammoth_Ice_TextData",
+   "en": "Ice Crusher",
+   "ro": "Zdrobitorul de gheață"
+  },
+  {
+   "key": "PARTNERSKILL_GrassPanda_TextData",
+   "en": "Grenadier Panda",
+   "ro": "Panda grenadier"
+  },
+  {
+   "key": "PARTNERSKILL_GrassPanda_Electric_TextData",
+   "en": "Grenadier Panda",
+   "ro": "Panda grenadier"
+  },
+  {
+   "key": "PARTNERSKILL_GrassRabbitMan_TextData",
+   "en": "Grassland Gymnast",
+   "ro": "Gimnastul pășunii"
+  },
+  {
+   "key": "PARTNERSKILL_GuardianDog_TextData",
+   "en": "Birds of a Feather",
+   "ro": "Cine se aseamănă se adună"
+  },
+  {
+   "key": "PARTNERSKILL_HadesBird_TextData",
+   "en": "Wings of Death",
+   "ro": "Aripile morții"
+  },
+  {
+   "key": "PARTNERSKILL_HawkBird_TextData",
+   "en": "Travel Companion",
+   "ro": "Companion de călătorie"
+  },
+  {
+   "key": "PARTNERSKILL_Hedgehog_TextData",
+   "en": "Jolt Bomb",
+   "ro": "Bombă cu electroșoc"
+  },
+  {
+   "key": "PARTNERSKILL_Hedgehog_Ice_TextData",
+   "en": "Cold Bomb",
+   "ro": "Bombă înghețată"
+  },
+  {
+   "key": "PARTNERSKILL_Horus_TextData",
+   "en": "Scorching Predator",
+   "ro": "Prădător pârjolitor"
+  },
+  {
+   "key": "PARTNERSKILL_IceDeer_TextData",
+   "en": "Cool Body",
+   "ro": "Corp răcoros"
+  },
+  {
+   "key": "PARTNERSKILL_IceFox_TextData",
+   "en": "Aurora Guide",
+   "ro": "Ghidul aurorei"
+  },
+  {
+   "key": "PARTNERSKILL_IceHorse_TextData",
+   "en": "Icy Steed",
+   "ro": "Armăsar înghețat"
+  },
+  {
+   "key": "PARTNERSKILL_IceHorse_Dark_TextData",
+   "en": "Black Steed",
+   "ro": "Armăsar negru"
+  },
+  {
+   "key": "PARTNERSKILL_JetDragon_TextData",
+   "en": "Aerial Missile",
+   "ro": "Rachetă aeriană"
+  },
+  {
+   "key": "PARTNERSKILL_Kelpie_TextData",
+   "en": "Aqua Spout",
+   "ro": "Gheizer acvatic"
+  },
+  {
+   "key": "PARTNERSKILL_Kelpie_Fire_TextData",
+   "en": "Lava Spout",
+   "ro": "Gheizer de lavă"
+  },
+  {
+   "key": "PARTNERSKILL_KingAlpaca_TextData",
+   "en": "King of Muscles",
+   "ro": "Regele mușchilor"
+  },
+  {
+   "key": "PARTNERSKILL_KingAlpaca_Ice_TextData",
+   "en": "Coldhearted King",
+   "ro": "Regele fără inimă"
+  },
+  {
+   "key": "PARTNERSKILL_KingBahamut_TextData",
+   "en": "Magma Kaiser",
+   "ro": "Kaiser de magmă"
+  },
+  {
+   "key": "PARTNERSKILL_Kirin_TextData",
+   "en": "Swift Deity",
+   "ro": "Divinitate sprintenă"
+  },
+  {
+   "key": "PARTNERSKILL_Kitsunebi_TextData",
+   "en": "Huggy Fire",
+   "ro": "Foc de îmbrățișat"
+  },
+  {
+   "key": "PARTNERSKILL_LazyDragon_TextData",
+   "en": "Hungry Missile",
+   "ro": "Rachetă înfometată"
+  },
+  {
+   "key": "PARTNERSKILL_LazyDragon_Electric_TextData",
+   "en": "Missile Party",
+   "ro": "Petrecere cu rachete"
+  },
+  {
+   "key": "PARTNERSKILL_LilyQueen_TextData",
+   "en": "Harvest Goddess",
+   "ro": "Zeița recoltei"
+  },
+  {
+   "key": "PARTNERSKILL_LilyQueen_Dark_TextData",
+   "en": "Goddess of the Tranquil Light",
+   "ro": "Zeița luminii liniștite"
+  },
+  {
+   "key": "PARTNERSKILL_LittleBriarRose_TextData",
+   "en": "Princess Gaze",
+   "ro": "Privirea prințesei"
+  },
+  {
+   "key": "PARTNERSKILL_LizardMan_TextData",
+   "en": "Too Cool to be Seen",
+   "ro": "Prea tare ca să fie văzut"
+  },
+  {
+   "key": "PARTNERSKILL_LizardMan_Fire_TextData",
+   "en": "Too Cool to be Seen",
+   "ro": "Prea tare ca să fie văzut"
+  },
+  {
+   "key": "PARTNERSKILL_Manticore_TextData",
+   "en": "Hellflame Lion",
+   "ro": "Leu cu flăcări infernale"
+  },
+  {
+   "key": "PARTNERSKILL_Manticore_Dark_TextData",
+   "en": "Darkflame Lion",
+   "ro": "Leu cu flăcări întunecate"
+  },
+  {
+   "key": "PARTNERSKILL_Monkey_TextData",
+   "en": "Cheery Rifle",
+   "ro": "Pușcă veselă"
+  },
+  {
+   "key": "PARTNERSKILL_MopBaby_TextData",
+   "en": "Fluffy",
+   "ro": "Pufos"
+  },
+  {
+   "key": "PARTNERSKILL_MopKing_TextData",
+   "en": "King of Fluff",
+   "ro": "Regele pufului"
+  },
+  {
+   "key": "PARTNERSKILL_Mutant_TextData",
+   "en": "Antigravity",
+   "ro": "Antigravitație"
+  },
+  {
+   "key": "PARTNERSKILL_NaughtyCat_TextData",
+   "en": "Glaring Cat's Eye",
+   "ro": "Ochi de pisică străpungător"
+  },
+  {
+   "key": "PARTNERSKILL_NegativeKoala_TextData",
+   "en": "Caffeine Inoculation",
+   "ro": "Inoculare cu cafeină"
+  },
+  {
+   "key": "PARTNERSKILL_NegativeOctopus_TextData",
+   "en": "Fried Squid",
+   "ro": "Calamar prăjit"
+  },
+  {
+   "key": "PARTNERSKILL_NightFox_TextData",
+   "en": "Kuudere",
+   "ro": "Kuudere"
+  },
+  {
+   "key": "PARTNERSKILL_Penguin_TextData",
+   "en": "Pengullet Launcher",
+   "ro": "Lansator de Pengullet"
+  },
+  {
+   "key": "PARTNERSKILL_PinkCat_TextData",
+   "en": "Cat Helper",
+   "ro": "Ajutor felin"
+  },
+  {
+   "key": "PARTNERSKILL_PinkKangaroo_TextData",
+   "en": "Tentative text",
+   "ro": "Text provizoriu"
+  },
+  {
+   "key": "PARTNERSKILL_PinkLizard_TextData",
+   "en": "Heart Drain",
+   "ro": "Scurgere a inimii"
+  },
+  {
+   "key": "PARTNERSKILL_PinkRabbit_TextData",
+   "en": "Happy-Go-Lucky Bunny",
+   "ro": "Iepuraș fără griji"
+  },
+  {
+   "key": "PARTNERSKILL_PlantSlime_TextData",
+   "en": "Logging Assistance",
+   "ro": "Asistență la tăiat lemne"
+  },
+  {
+   "key": "PARTNERSKILL_QueenBee_TextData",
+   "en": "Queen Bee Command",
+   "ro": "Comanda reginei"
+  },
+  {
+   "key": "PARTNERSKILL_Ronin_TextData",
+   "en": "Brandish Blade",
+   "ro": "Fluturare de lamă"
+  },
+  {
+   "key": "PARTNERSKILL_RaijinDaughter_TextData",
+   "en": "Lady of Lightning",
+   "ro": "Doamna fulgerului"
+  },
+  {
+   "key": "PARTNERSKILL_RedArmorBird_TextData",
+   "en": "Flame Wing",
+   "ro": "Aripă de flăcări"
+  },
+  {
+   "key": "PARTNERSKILL_RobinHood_TextData",
+   "en": "Grounded Archer",
+   "ro": "Arcaș cu picioarele pe pământ"
+  },
+  {
+   "key": "PARTNERSKILL_RobinHood_Ground_TextData",
+   "en": "Master Archer",
+   "ro": "Maestru arcaș"
+  },
+  {
+   "key": "PARTNERSKILL_SaintCentaur_TextData",
+   "en": "Holy Knight of the Firmament",
+   "ro": "Cavalerul sfânt al bolții cerești"
+  },
+  {
+   "key": "PARTNERSKILL_SakuraSaurus_TextData",
+   "en": "Love's First Blossom",
+   "ro": "Prima floare a iubirii"
+  },
+  {
+   "key": "PARTNERSKILL_SakuraSaurus_Water_TextData",
+   "en": "Purity's Full Bloom",
+   "ro": "Înflorirea deplină a purității"
+  },
+  {
+   "key": "PARTNERSKILL_Serpent_TextData",
+   "en": "Swift Swimmer",
+   "ro": "Înotător rapid"
+  },
+  {
+   "key": "PARTNERSKILL_Serpent_Ground_TextData",
+   "en": "Sand Swimmer",
+   "ro": "Înotător prin nisip"
+  },
+  {
+   "key": "PARTNERSKILL_SkyDragon_TextData",
+   "en": "Sky Dragon Affection",
+   "ro": "Afecțiunea dragonului ceresc"
+  },
+  {
+   "key": "PARTNERSKILL_SharkKid_TextData",
+   "en": "Angry Shark",
+   "ro": "Rechin furios"
+  },
+  {
+   "key": "PARTNERSKILL_SharkKid_Fire_TextData",
+   "en": "Angry Shark",
+   "ro": "Rechin furios"
+  },
+  {
+   "key": "PARTNERSKILL_SheepBall_TextData",
+   "en": "Fluffy Shield",
+   "ro": "Scut pufos"
+  },
+  {
+   "key": "PARTNERSKILL_SoldierBee_TextData",
+   "en": "Worker Bee",
+   "ro": "Albină lucrătoare"
+  },
+  {
+   "key": "PARTNERSKILL_Suzaku_TextData",
+   "en": "Wings of Flame",
+   "ro": "Aripi de flăcări"
+  },
+  {
+   "key": "PARTNERSKILL_Suzaku_Water_TextData",
+   "en": "Wings of Water",
+   "ro": "Aripi de apă"
+  },
+  {
+   "key": "PARTNERSKILL_SweetsSheep_TextData",
+   "en": "Candy Pop",
+   "ro": "Pocnet dulce"
+  },
+  {
+   "key": "PARTNERSKILL_ThunderDog_TextData",
+   "en": "Lightning Shepherd",
+   "ro": "Păstorul fulgerelor"
+  },
+  {
+   "key": "PARTNERSKILL_ThunderDragonMan_TextData",
+   "en": "Ferocious Thunder Dragon",
+   "ro": "Dragonul de trăsnet fioros"
+  },
+  {
+   "key": "PARTNERSKILL_Umihebi_TextData",
+   "en": "Stormbringer Sea Dragon",
+   "ro": "Dragon marin aducător de furtuni"
+  },
+  {
+   "key": "PARTNERSKILL_Umihebi_Fire_TextData",
+   "en": "Stormbringer Lava Dragon",
+   "ro": "Dragon de lavă aducător de furtuni"
+  },
+  {
+   "key": "PARTNERSKILL_VioletFairy_TextData",
+   "en": "Purification of Gaia",
+   "ro": "Purificarea Gaiei"
+  },
+  {
+   "key": "PARTNERSKILL_VolcanicMonster_TextData",
+   "en": "Ore-Loving Beast",
+   "ro": "Fiară iubitoare de minereu"
+  },
+  {
+   "key": "PARTNERSKILL_VolcanicMonster_Ice_TextData",
+   "en": "Ice-Loving Beast",
+   "ro": "Fiară iubitoare de gheață"
+  },
+  {
+   "key": "PARTNERSKILL_WaterLizard_TextData",
+   "en": "Tentative text",
+   "ro": "Text provizoriu"
+  },
+  {
+   "key": "PARTNERSKILL_Werewolf_TextData",
+   "en": "Dark Gleam Strike",
+   "ro": "Lovitură cu sclipire întunecată"
+  },
+  {
+   "key": "PARTNERSKILL_WeaselDragon_TextData",
+   "en": "Wriggling Weasel",
+   "ro": "Nevăstuică zvârcolitoare"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteMoth_TextData",
+   "en": "Silk Shroud",
+   "ro": "Giulgiu de mătase"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteTiger_TextData",
+   "en": "Dragon Hunter",
+   "ro": "Vânător de dragoni"
+  },
+  {
+   "key": "PARTNERSKILL_WindChimes_TextData",
+   "en": "Flying Trapeze",
+   "ro": "Trapez zburător"
+  },
+  {
+   "key": "PARTNERSKILL_WindChimes_Ice_TextData",
+   "en": "Winter Trapeze",
+   "ro": "Trapez de iarnă"
+  },
+  {
+   "key": "PARTNERSKILL_WizardOwl_TextData",
+   "en": "Dark Knowledge",
+   "ro": "Cunoaștere obscură"
+  },
+  {
+   "key": "PARTNERSKILL_Yeti_TextData",
+   "en": "Guardian of the Snowy Mountain",
+   "ro": "Păzitorul Muntelui Înzăpezit"
+  },
+  {
+   "key": "PARTNERSKILL_Yeti_Grass_TextData",
+   "en": "Guardian of the South",
+   "ro": "Păzitorul Sudului"
+  },
+  {
+   "key": "PARTNERSKILL_ThunderBird_TextData",
+   "en": "Thunderous",
+   "ro": "Tunător"
+  },
+  {
+   "key": "PARTNERSKILL_HerculesBeetle_TextData",
+   "en": "Cast-Iron Shell",
+   "ro": "Carapace din fontă"
+  },
+  {
+   "key": "PARTNERSKILL_WoolFox_TextData",
+   "en": "Fluffy Wool",
+   "ro": "Lână pufoasă"
+  },
+  {
+   "key": "PARTNERSKILL_LazyCatfish_TextData",
+   "en": "Soil Improver",
+   "ro": "Ameliorator de sol"
+  },
+  {
+   "key": "PARTNERSKILL_LavaGirl_TextData",
+   "en": "Magma Tears",
+   "ro": "Lacrimi de magmă"
+  },
+  {
+   "key": "PARTNERSKILL_FlameBambi_TextData",
+   "en": "Tiny Spark",
+   "ro": "Scânteie mică"
+  },
+  {
+   "key": "PARTNERSKILL_SifuDog_TextData",
+   "en": "Homeward Prayer",
+   "ro": "Rugăciune de întoarcere"
+  },
+  {
+   "key": "PARTNERSKILL_TentacleTurtle_TextData",
+   "en": "Spikey Carrier",
+   "ro": "Cărăuș țepos"
+  },
+  {
+   "key": "PARTNERSKILL_BrownRabbit_TextData",
+   "en": "Friend of Earth",
+   "ro": "Prietenul pământului"
+  },
+  {
+   "key": "PARTNERSKILL_FeatherOstrich_TextData",
+   "en": "Sand Sprint",
+   "ro": "Sprint pe nisip"
+  },
+  {
+   "key": "PARTNERSKILL_ScorpionMan_TextData",
+   "en": "Phantom Venom",
+   "ro": "Venin fantomatic"
+  },
+  {
+   "key": "PARTNERSKILL_NightLady_TextData",
+   "en": "Nightmare Iris",
+   "ro": "Iris de coșmar"
+  },
+  {
+   "key": "PARTNERSKILL_NightLady_Dark_TextData",
+   "en": "Nightmare Stare",
+   "ro": "Privire de coșmar"
+  },
+  {
+   "key": "PARTNERSKILL_MushroomDragon_TextData",
+   "en": "Rampant Spores",
+   "ro": "Spori nestăpâniți"
+  },
+  {
+   "key": "PARTNERSKILL_MushroomDragon_Dark_TextData",
+   "en": "Roiling Spores",
+   "ro": "Spori clocotitori"
+  },
+  {
+   "key": "PARTNERSKILL_LeafPrincess_TextData",
+   "en": "Floral Boost",
+   "ro": "Impuls floral"
+  },
+  {
+   "key": "PARTNERSKILL_MoonQueen_TextData",
+   "en": "Celestial Darkness",
+   "ro": "Întuneric celest"
+  },
+  {
+   "key": "PARTNERSKILL_SmallArmadillo_TextData",
+   "en": "Sandball Soccer",
+   "ro": "Fotbal cu bulgări de nisip"
+  },
+  {
+   "key": "PARTNERSKILL_CandleGhost_TextData",
+   "en": "Grave Robber",
+   "ro": "Jefuitor de morminte"
+  },
+  {
+   "key": "PARTNERSKILL_WingGolem_TextData",
+   "en": "Steel Guardian Mode",
+   "ro": "Mod Gardian de Oțel"
+  },
+  {
+   "key": "PARTNERSKILL_DarkAlien_TextData",
+   "en": "Unknown Invader",
+   "ro": "Invadator necunoscut"
+  },
+  {
+   "key": "PARTNERSKILL_MimicDog_TextData",
+   "en": "Master of Unlocking",
+   "ro": "Maestru al descuiatului"
+  },
+  {
+   "key": "PARTNERSKILL_KendoFrog_TextData",
+   "en": "Leap Stance",
+   "ro": "Postură de salt"
+  },
+  {
+   "key": "PASSIVE_TrainerATK_UP_1_TextData",
+   "en": "Vanguard",
+   "ro": "Avangardă"
+  },
+  {
+   "key": "PASSIVE_TrainerDEF_UP_1_TextData",
+   "en": "Stronghold Strategist",
+   "ro": "Strateg de fortăreață"
+  },
+  {
+   "key": "PASSIVE_TrainerWorkSpeed_UP_1_TextData",
+   "en": "Motivational Leader",
+   "ro": "Lider motivațional"
+  },
+  {
+   "key": "PASSIVE_TrainerMining_up1_TextData",
+   "en": "Mine Foreman",
+   "ro": "Maistru miner"
+  },
+  {
+   "key": "PASSIVE_TrainerLogging_up1_TextData",
+   "en": "Logging Foreman",
+   "ro": "Maistru forestier"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Normal_1_PAL_TextData",
+   "en": "Abnormal",
+   "ro": "Anormal"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Fire_1_PAL_TextData",
+   "en": "Suntan Lover",
+   "ro": "Iubitor de soare"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Aqua_1_PAL_TextData",
+   "en": "Waterproof",
+   "ro": "Impermeabil"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Thunder_1_PAL_TextData",
+   "en": "Insulated Body",
+   "ro": "Corp electroizolant"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Leaf_1_PAL_TextData",
+   "en": "Botanical Barrier",
+   "ro": "Barieră botanică"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Ice_1_PAL_TextData",
+   "en": "Heated Body",
+   "ro": "Corp încălzit"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Earth_1_PAL_TextData",
+   "en": "Earthquake Resistant",
+   "ro": "Rezistent la cutremure"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dark_1_PAL_TextData",
+   "en": "Cheery",
+   "ro": "Voios"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dragon_1_PAL_TextData",
+   "en": "Dragonkiller",
+   "ro": "Ucigaș de dragoni"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_1_PAL_TextData",
+   "en": "Spirit of Zen",
+   "ro": "Spirit Zen"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_1_PAL_TextData",
+   "en": "Pyromaniac",
+   "ro": "Piroman"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Aqua_1_PAL_TextData",
+   "en": "Hydromaniac",
+   "ro": "Hidroman"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Thunder_1_PAL_TextData",
+   "en": "Capacitor",
+   "ro": "Condensator"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_1_PAL_TextData",
+   "en": "Fragrant Foliage",
+   "ro": "Frunziș parfumat"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_1_PAL_TextData",
+   "en": "Coldblooded",
+   "ro": "Sânge rece"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_1_PAL_TextData",
+   "en": "Power of Gaia",
+   "ro": "Puterea Gaiei"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_1_PAL_TextData",
+   "en": "Veil of Darkness",
+   "ro": "Vălul întunericului"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_1_PAL_TextData",
+   "en": "Blood of the Dragon",
+   "ro": "Sânge de dragon"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_2_PAL_TextData",
+   "en": "Celestial Emperor",
+   "ro": "Împărat ceresc"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_2_PAL_TextData",
+   "en": "Flame Emperor",
+   "ro": "Împăratul flăcărilor"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Aqua_2_PAL_TextData",
+   "en": "Lord of the Sea",
+   "ro": "Stăpânul mărilor"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Thunder_2_PAL_TextData",
+   "en": "Lord of Lightning",
+   "ro": "Stăpânul fulgerelor"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_2_PAL_TextData",
+   "en": "Spirit Emperor",
+   "ro": "Împăratul spiritelor"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_2_PAL_TextData",
+   "en": "Ice Emperor",
+   "ro": "Împăratul gheții"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_2_PAL_TextData",
+   "en": "Earth Emperor",
+   "ro": "Împăratul pământului"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_2_PAL_TextData",
+   "en": "Lord of the Underworld",
+   "ro": "Stăpânul lumii de dincolo"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_2_PAL_TextData",
+   "en": "Divine Dragon",
+   "ro": "Dragon divin"
+  },
+  {
+   "key": "PASSIVE_NonKilling_TextData",
+   "en": "Mercy Hit",
+   "ro": "Lovitură milostivă"
+  },
+  {
+   "key": "PASSIVE_Witch_TextData",
+   "en": "Siren of the Void",
+   "ro": "Sirena Vidului"
+  },
+  {
+   "key": "PASSIVE_MaxInventoryWeight_up_Equip_1_TextData",
+   "en": "Max Carrying Capacity Lv. 1",
+   "ro": "Capacitate maximă de transport Nv. 1"
+  },
+  {
+   "key": "PASSIVE_MaxInventoryWeight_up_Equip_2_TextData",
+   "en": "Max Carrying Capacity Lv. 2",
+   "ro": "Capacitate maximă de transport Nv. 2"
+  },
+  {
+   "key": "PASSIVE_MaxInventoryWeight_up_Equip_3_TextData",
+   "en": "Max Carrying Capacity Lv. 3",
+   "ro": "Capacitate maximă de transport Nv. 3"
+  },
+  {
+   "key": "PASSIVE_NightOwl_TextData",
+   "en": "Night Owl",
+   "ro": "Pasăre de noapte"
+  },
+  {
+   "key": "PASSIVE_CoolTimeReduction_Up_1_TextData",
+   "en": "Serenity",
+   "ro": "Seninătate"
+  },
+  {
+   "key": "PASSIVE_CoolTimeReduction_Up_2_TextData",
+   "en": "Impatient",
+   "ro": "Nerăbdător"
+  },
+  {
+   "key": "PASSIVE_CoolTimeReduction_Up_3_TextData",
+   "en": "Tempest Fury",
+   "ro": "Furia furtunii"
+  },
+  {
+   "key": "PASSIVE_CoolTimeReduction_Down_1_TextData",
+   "en": "Easygoing",
+   "ro": "Nepăsător"
+  },
+  {
+   "key": "PASSIVE_Stamina_Up_1_TextData",
+   "en": "Infinite Stamina",
+   "ro": "Energie infinită"
+  },
+  {
+   "key": "PASSIVE_Stamina_Up_2_TextData",
+   "en": "Fit as a Fiddle",
+   "ro": "În formă maximă"
+  },
+  {
+   "key": "PASSIVE_Stamina_Up_3_TextData",
+   "en": "Eternal Engine",
+   "ro": "Motor etern"
+  },
+  {
+   "key": "PASSIVE_Stamina_Down_1_TextData",
+   "en": "Sickly",
+   "ro": "Bolnăvicios"
+  },
+  {
+   "key": "PASSIVE_SalePrice_Up_1_TextData",
+   "en": "Noble",
+   "ro": "Nobil"
+  },
+  {
+   "key": "PASSIVE_SalePrice_Up_2_TextData",
+   "en": "Fine Furs",
+   "ro": "Blănuri fine"
+  },
+  {
+   "key": "PASSIVE_SalePrice_Down_1_TextData",
+   "en": "Shabby",
+   "ro": "Uzat"
+  },
+  {
+   "key": "PASSIVE_Alien_TextData",
+   "en": "Otherworldly Cells",
+   "ro": "Celule din altă lume"
+  },
+  {
+   "key": "PASSIVE_Test_PalEgg_HatchingSpeed_Up_TextData",
+   "en": "Philanthropist",
+   "ro": "Filantrop"
+  },
+  {
+   "key": "PARTNERSKILL_KingBahamut_Dragon_TextData",
+   "en": "Dragon Kaiser",
+   "ro": "Kaiser dragon"
+  },
+  {
+   "key": "PARTNERSKILL_HerculesBeetle_Ground_TextData",
+   "en": "Fullmetal Shell",
+   "ro": "Carapace metalică"
+  },
+  {
+   "key": "PARTNERSKILL_Gorilla_Ground_TextData",
+   "en": "Full-Power Gorilla Pound",
+   "ro": "Izbitură de gorilă la putere maximă"
+  },
+  {
+   "key": "PARTNERSKILL_HadesBird_Electric_TextData",
+   "en": "Wings of Thunder",
+   "ro": "Aripi de tunet"
+  },
+  {
+   "key": "PARTNERSKILL_DarkScorpion_Ground_TextData",
+   "en": "Golden Scorpion",
+   "ro": "Scorpion auriu"
+  },
+  {
+   "key": "PARTNERSKILL_Ronin_Dark_TextData",
+   "en": "Void Blade",
+   "ro": "Lama vidului"
+  },
+  {
+   "key": "PARTNERSKILL_CatMage_Fire_TextData",
+   "en": "Blazing Black Magic",
+   "ro": "Magie neagră arzătoare"
+  },
+  {
+   "key": "PARTNERSKILL_FoxMage_Dark_TextData",
+   "en": "Black Fox Lord",
+   "ro": "Stăpânul vulpe neagră"
+  },
+  {
+   "key": "PARTNERSKILL_SkyDragon_Grass_TextData",
+   "en": "Grass Dragon Affection",
+   "ro": "Afecțiune de dragon de iarbă"
+  },
+  {
+   "key": "PARTNERSKILL_WeaselDragon_Fire_TextData",
+   "en": "Sparkling Weasel",
+   "ro": "Nevăstuică scânteietoare"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteAlienDragon_TextData",
+   "en": "Unknown Intruder",
+   "ro": "Intrus necunoscut"
+  },
+  {
+   "key": "PASSIVE_EternalFlame_TextData",
+   "en": "Eternal Flame",
+   "ro": "Flacără eternă"
+  },
+  {
+   "key": "PASSIVE_Vampire_TextData",
+   "en": "Vampiric",
+   "ro": "Vampiric"
+  },
+  {
+   "key": "PASSIVE_SphereModule_Heavy_TextData",
+   "en": "Sphere Weight +1",
+   "ro": "Greutate sferă +1"
+  },
+  {
+   "key": "PASSIVE_SphereModule_Curve_TextData",
+   "en": "Sphere Curve +1",
+   "ro": "Curbură sferă +1"
+  },
+  {
+   "key": "PASSIVE_SphereModule_Sniper_TextData",
+   "en": "Sphere Range +1",
+   "ro": "Rază sferă +1"
+  },
+  {
+   "key": "PASSIVE_SphereModule_Curve2_TextData",
+   "en": "Sphere Slider",
+   "ro": "Sferă curbată"
+  },
+  {
+   "key": "PASSIVE_SphereModule_Sniper2_TextData",
+   "en": "Sphere Range +2",
+   "ro": "Rază sferă +2"
+  },
+  {
+   "key": "PASSIVE_SphereModule_Homing_TextData",
+   "en": "Sphere Homing",
+   "ro": "Sferă teleghidată"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_1_BossDefeat_TextData",
+   "en": "Neutral Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Neutru (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_1_BossDefeat_TextData",
+   "en": "Fire Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Foc (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Water_1_BossDefeat_TextData",
+   "en": "Water Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Apă (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Electricity_1_BossDefeat_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_1_BossDefeat_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_1_BossDefeat_TextData",
+   "en": "Ice Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Gheață (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_1_BossDefeat_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_1_BossDefeat_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_1_BossDefeat_TextData",
+   "en": "Dragon Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Dragon (mică)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_2_BossDefeat_TextData",
+   "en": "Neutral Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune Neutru (medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_2_BossDefeat_TextData",
+   "en": "Fire Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune Foc (medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Water_2_BossDefeat_TextData",
+   "en": "Water Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Apă (Medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Electricity_2_BossDefeat_TextData",
+   "en": "Electric Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de tip Electric (Medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_2_BossDefeat_TextData",
+   "en": "Grass Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Iarbă (Medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_2_BossDefeat_TextData",
+   "en": "Ice Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Gheață (Medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_2_BossDefeat_TextData",
+   "en": "Ground Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Pământ (Medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_2_BossDefeat_TextData",
+   "en": "Dark Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Întuneric (Medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_2_BossDefeat_TextData",
+   "en": "Dragon Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Dragon (Medie)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_3_BossDefeat_TextData",
+   "en": "Neutral Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de tip Neutru (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_3_BossDefeat_TextData",
+   "en": "Fire Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Foc (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Water_3_BossDefeat_TextData",
+   "en": "Water Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Apă (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Electricity_3_BossDefeat_TextData",
+   "en": "Electric Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de tip Electric (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_3_BossDefeat_TextData",
+   "en": "Grass Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Iarbă (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_3_BossDefeat_TextData",
+   "en": "Ice Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Gheață (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_3_BossDefeat_TextData",
+   "en": "Ground Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Pământ (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_3_BossDefeat_TextData",
+   "en": "Dark Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Întuneric (Mare)"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_3_BossDefeat_TextData",
+   "en": "Dragon Damage Enhancement (Large)",
+   "ro": "Îmbunătățire a daunelor de tip Dragon (mare)"
+  },
+  {
+   "key": "PARTNERSKILL_Kitsunebi_Ice_TextData",
+   "en": "Huggy Frost",
+   "ro": "Îmbrățișare înghețată"
+  },
+  {
+   "key": "PARTNERSKILL_BerryGoat_Dark_TextData",
+   "en": "Venom Picker",
+   "ro": "Culegător de venin"
+  },
+  {
+   "key": "PARTNERSKILL_PinkRabbit_Grass_TextData",
+   "en": "Ground 'n' Pound",
+   "ro": "Trânteală și mărunțeală"
+  },
+  {
+   "key": "PARTNERSKILL_Werewolf_Ice_TextData",
+   "en": "Frozen Gleam Strike",
+   "ro": "Lovitură strălucitoare înghețată"
+  },
+  {
+   "key": "PARTNERSKILL_AmaterasuWolf_Dark_TextData",
+   "en": "Gloomhowl",
+   "ro": "Urlet sumbru"
+  },
+  {
+   "key": "PARTNERSKILL_RaijinDaughter_Water_TextData",
+   "en": "Lady of Dark Lightning",
+   "ro": "Doamna fulgerului întunecat"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteTiger_Ground_TextData",
+   "en": "Explosive Strength",
+   "ro": "Forță explozivă"
+  },
+  {
+   "key": "PARTNERSKILL_FengyunDeeper_Electric_TextData",
+   "en": "Stormcloud",
+   "ro": "Nor de furtună"
+  },
+  {
+   "key": "PARTNERSKILL_Horus_Water_TextData",
+   "en": "Tidal Predator",
+   "ro": "Prădător al mareei"
+  },
+  {
+   "key": "PARTNERSKILL_DarkMechaDragon_TextData",
+   "en": "Meteor Wings",
+   "ro": "Aripi de meteorit"
+  },
+  {
+   "key": "PARTNERSKILL_GhostRabbit_TextData",
+   "en": "Soul Collector",
+   "ro": "Colector de suflete"
+  },
+  {
+   "key": "PARTNERSKILL_NightBlueHorse_TextData",
+   "en": "Night Dancer",
+   "ro": "Dansator al nopții"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteShieldDragon_TextData",
+   "en": "Aegis Shield",
+   "ro": "Scut Aegis"
+  },
+  {
+   "key": "PARTNERSKILL_BlackPuppy_TextData",
+   "en": "Dig, Smokie! Dig!",
+   "ro": "Sapă, Smokie, sapă!"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteDeer_TextData",
+   "en": "Blessing of Purification",
+   "ro": "Binecuvântarea purificării"
+  },
+  {
+   "key": "PARTNERSKILL_MysteryMask_TextData",
+   "en": "Masquerade Dance",
+   "ro": "Dans de mascaradă"
+  },
+  {
+   "key": "PARTNERSKILL_GrimGirl_TextData",
+   "en": "Blade of Uncontrolled Passion",
+   "ro": "Lama pasiunii necontrolate"
+  },
+  {
+   "key": "PARTNERSKILL_PurpleSpider_TextData",
+   "en": "Tarantriss’ Web",
+   "ro": "Pânza lui Tarantriss"
+  },
+  {
+   "key": "PARTNERSKILL_BlueThunderHorse_TextData",
+   "en": "Plasma Dash",
+   "ro": "Elan de plasmă"
+  },
+  {
+   "key": "PARTNERSKILL_SnowTigerBeastman_TextData",
+   "en": "Blizzard Crash",
+   "ro": "Impact de viscol"
+  },
+  {
+   "key": "PARTNERSKILL_BlueberryFairy_TextData",
+   "en": "Prayer for Abundant Harvest",
+   "ro": "Rugă pentru recoltă îmbelșugată"
+  },
+  {
+   "key": "PARTNERSKILL_BadCatgirl_TextData",
+   "en": "Shot-Nyan Mode",
+   "ro": "Mod Shot-Nyan"
+  },
+  {
+   "key": "PARTNERSKILL_GoldenHorse_TextData",
+   "en": "Sandstorm's Blessing",
+   "ro": "Binecuvântarea furtunii de nisip"
+  },
+  {
+   "key": "PASSIVE_CaptureLevel_Up_1_TextData",
+   "en": "Capture Strength +1",
+   "ro": "Putere de captură +1"
+  },
+  {
+   "key": "PASSIVE_CaptureLevel_Up_2_TextData",
+   "en": "Capture Strength +2",
+   "ro": "Putere de captură +2"
+  },
+  {
+   "key": "PASSIVE_CaptureLevel_Up_3_TextData",
+   "en": "Capture Strength +3",
+   "ro": "Putere de captură +3"
+  },
+  {
+   "key": "PASSIVE_CaptureLevel_Up_4_TextData",
+   "en": "Capture Strength +4",
+   "ro": "Putere de captură +4"
+  },
+  {
+   "key": "PASSIVE_CaptureLevel_Up_5_TextData",
+   "en": "Capture Strength +5",
+   "ro": "Putere de captură +5"
+  },
+  {
+   "key": "PASSIVE_CaptureLevel_Up_6_TextData",
+   "en": "Capture Strength +6",
+   "ro": "Putere de captură +6"
+  },
+  {
+   "key": "PASSIVE_JumpPower_Increase_TextData",
+   "en": "Jump Power Boost",
+   "ro": "Salt amplificat"
+  },
+  {
+   "key": "PASSIVE_JumpCount_Increase1_TextData",
+   "en": "Jump Count Increase +1",
+   "ro": "Număr de sărituri +1"
+  },
+  {
+   "key": "PASSIVE_JumpCount_Increase2_TextData",
+   "en": "Jump Count Increase +2",
+   "ro": "Număr de sărituri +2"
+  },
+  {
+   "key": "PASSIVE_JumpCount_Increase3_TextData",
+   "en": "Jump Count Increase +3",
+   "ro": "Număr de sărituri +3"
+  },
+  {
+   "key": "PASSIVE_AirDash_1_TextData",
+   "en": "Aerial Dash +1",
+   "ro": "Elan aerian +1"
+  },
+  {
+   "key": "PASSIVE_AirDash_2_TextData",
+   "en": "Aerial Dash +2",
+   "ro": "Elan aerian +2"
+  },
+  {
+   "key": "PASSIVE_AirDash_3_TextData",
+   "en": "Aerial Dash +3",
+   "ro": "Elan aerian +3"
+  },
+  {
+   "key": "PASSIVE_AirDash_4_TextData",
+   "en": "Aerial Dash +4",
+   "ro": "Elan aerian +4"
+  },
+  {
+   "key": "PASSIVE_Invader_TextData",
+   "en": "Invader",
+   "ro": "Invadator"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_WeaselDragon_TextData",
+   "en": "Ice Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Gheață (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_MopKing_TextData",
+   "en": "Ice Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Gheață (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_PlantSlime_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_LazyCatfish_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_CaptainPenguin_TextData",
+   "en": "Water Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Apă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_BlueDragon_TextData",
+   "en": "Water Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Apă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_NaughtyCat_TextData",
+   "en": "Neutral Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Neutru (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_HawkBird_TextData",
+   "en": "Neutral Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Neutru (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_SkyDragon_TextData",
+   "en": "Dragon Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Dragon (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_CatVampire_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_KingAlpaca_TextData",
+   "en": "Neutral Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Neutru (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_SakuraSaurus_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_CatMage_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Ronin_TextData",
+   "en": "Fire Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune Foc (medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FengyunDeeper_TextData",
+   "en": "Neutral Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Neutru (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FlowerDoll_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_ThunderBird_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_HerculesBeetle_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_SakuraSaurus_Water_TextData",
+   "en": "Water Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Apă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FairyDragon_TextData",
+   "en": "Dragon Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Dragon (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_LazyDragon_Electric_TextData",
+   "en": "Dragon Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Dragon (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Kirin_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_QueenBee_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GrassPanda_Electric_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Mutant_TextData",
+   "en": "Neutral Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Neutru (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GrassRabbitMan_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Yeti_Grass_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GrassMammoth_TextData",
+   "en": "Grass Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Iarbă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_VioletFairy_TextData",
+   "en": "Grass Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Iarbă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_WhiteMoth_TextData",
+   "en": "Ice Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Gheață (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_DarkScorpion_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Suzaku_TextData",
+   "en": "Fire Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Foc (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Umihebi_TextData",
+   "en": "Water Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Apă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_KingAlpaca_Ice_TextData",
+   "en": "Ice Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Gheață (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FlowerDinosaur_Electric_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Anubis_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_BlackMetalDragon_TextData",
+   "en": "Dragon Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Dragon (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_KingBahamut_TextData",
+   "en": "Fire Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Foc (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_LilyQueen_Dark_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_DarkScorpion_Ground_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_WingGolem_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GrimGirl_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_BlueThunderHorse_TextData",
+   "en": "Electric Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de tip Electric (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_AmaterasuWolf_Dark_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FengyunDeeper_Electric_TextData",
+   "en": "Electric Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de tip Electric (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_WhiteDeer_TextData",
+   "en": "Neutral Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune Neutru (medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_WhiteShieldDragon_TextData",
+   "en": "Dragon Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Dragon (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Horus_Water_TextData",
+   "en": "Water Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Apă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_JetDragon_TextData",
+   "en": "Dragon Damage Enhancement (Large)",
+   "ro": "Îmbunătățire a daunelor de tip Dragon (mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_IceHorse_TextData",
+   "en": "Ice Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Gheață (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_SaintCentaur_1_TextData",
+   "en": "Neutral Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de tip Neutru (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_SaintCentaur_2_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_BlackPuppy_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GhostRabbit_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_NightBlueHorse_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_BlueberryFairy_TextData",
+   "en": "Grass Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Iarbă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_BadCatgirl_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GoldenHorse_TextData",
+   "en": "Ground Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Pământ (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_MysteryMask_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_PurpleSpider_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_IceHorse_Dark_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Kitsunebi_Ice_TextData",
+   "en": "Ice Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Gheață (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_RaijinDaughter_Water_TextData",
+   "en": "Dark Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Întuneric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_WhiteTiger_Ground_TextData",
+   "en": "Ground Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Pământ (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_BerryGoat_Dark_TextData",
+   "en": "Grass Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Iarbă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Werewolf_Ice_TextData",
+   "en": "Ice Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Gheață (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_PinkRabbit_Grass_TextData",
+   "en": "Grass Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Iarbă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_HerculesBeetle_Ground_TextData",
+   "en": "Ground Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Pământ (Medie)"
+  },
+  {
+   "key": "PARTNERSKILL_NegativeOctopus_Neutral_TextData",
+   "en": "Fried Killamari",
+   "ro": "Killamari prăjit"
+  },
+  {
+   "key": "PARTNERSKILL_Penguin_Electric_TextData",
+   "en": "Pengullet Lux Launcher",
+   "ro": "Lansator Pengullet Lux"
+  },
+  {
+   "key": "PARTNERSKILL_CaptainPenguin_Black_TextData",
+   "en": "Unyielding Storm Commander",
+   "ro": "Comandantul neclintit al furtunii"
+  },
+  {
+   "key": "PARTNERSKILL_FlyingManta_Thunder_TextData",
+   "en": "Jolt Glider",
+   "ro": "Planor cu șocuri"
+  },
+  {
+   "key": "PARTNERSKILL_BluePlatypus_Fire_TextData",
+   "en": "Fire Tackle",
+   "ro": "Plonjon de foc"
+  },
+  {
+   "key": "PARTNERSKILL_LazyCatfish_Gold_TextData",
+   "en": "Golden Harvest",
+   "ro": "Recoltă de aur"
+  },
+  {
+   "key": "PARTNERSKILL_TentacleTurtle_Ground_TextData",
+   "en": "Shiny Hauler",
+   "ro": "Cărăuș strălucitor"
+  },
+  {
+   "key": "PARTNERSKILL_KendoFrog_Dark_TextData",
+   "en": "Shadow Stance",
+   "ro": "Postură din umbră"
+  },
+  {
+   "key": "PARTNERSKILL_BlueDragon_Ice_TextData",
+   "en": "Icewing Dance",
+   "ro": "Dansul aripilor de gheață"
+  },
+  {
+   "key": "PARTNERSKILL_IceNarwhal_Fire_TextData",
+   "en": "Cozy Whale Cruiser",
+   "ro": "Croazieră caldă pe balenă"
+  },
+  {
+   "key": "PARTNERSKILL_GhostAnglerfish_Fire_TextData",
+   "en": "Abyssal Celebrity Chef",
+   "ro": "Bucătar-vedetă abisal"
+  },
+  {
+   "key": "PARTNERSKILL_StuffedShark_Fire_TextData",
+   "en": "Ember Chamber",
+   "ro": "Cameră de jăratec"
+  },
+  {
+   "key": "PARTNERSKILL_TentacleTurtle_NotUse_TextData",
+   "en": "en_text",
+   "ro": "en_text"
+  },
+  {
+   "key": "PARTNERSKILL_OctopusGirl_TextData",
+   "en": "Sticky Princess",
+   "ro": "Prințesă lipicioasă"
+  },
+  {
+   "key": "PARTNERSKILL_IceNarwhal_TextData",
+   "en": "Chilled Whale Cruiser",
+   "ro": "Croazieră rece pe balenă"
+  },
+  {
+   "key": "PARTNERSKILL_JellyfishFairy_TextData",
+   "en": "Jelliette Drop",
+   "ro": "Picătura lui Jelliette"
+  },
+  {
+   "key": "PARTNERSKILL_JellyfishGhost_TextData",
+   "en": "Jellroy Drop",
+   "ro": "Picătura lui Jellroy"
+  },
+  {
+   "key": "PARTNERSKILL_GhostAnglerfish_TextData",
+   "en": "Master of Darkness",
+   "ro": "Stăpânul întunericului"
+  },
+  {
+   "key": "PARTNERSKILL_IceWitch_TextData",
+   "en": "Witch's Icy Veil",
+   "ro": "Vălul înghețat al vrăjitoarei"
+  },
+  {
+   "key": "PARTNERSKILL_LeafMomonga_TextData",
+   "en": "Herbil Pulse",
+   "ro": "Puls de ierburi"
+  },
+  {
+   "key": "PARTNERSKILL_IceCrocodile_TextData",
+   "en": "Icy Maw",
+   "ro": "Fălci înghețate"
+  },
+  {
+   "key": "PARTNERSKILL_StuffedShark_TextData",
+   "en": "Water Gun",
+   "ro": "Pistol cu apă"
+  },
+  {
+   "key": "PARTNERSKILL_IceSeal_TextData",
+   "en": "Rider of the Snowy Mountain",
+   "ro": "Călărețul muntelui înzăpezit"
+  },
+  {
+   "key": "PARTNERSKILL_Plesiosaur_TextData",
+   "en": "Balmy Weather",
+   "ro": "Vreme blândă"
+  },
+  {
+   "key": "PARTNERSKILL_TropicalOstrich_TextData",
+   "en": "Samba Step",
+   "ro": "Pas de samba"
+  },
+  {
+   "key": "PARTNERSKILL_SnowPeafowl_TextData",
+   "en": "Peacock Pounce",
+   "ro": "Săritură de păun"
+  },
+  {
+   "key": "PARTNERSKILL_PoseidonOrca_TextData",
+   "en": "Sentinel of the Great Sea",
+   "ro": "Santinela Marii Mari"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster001_TextData",
+   "en": "Slime Body",
+   "ro": "Corp de mâzgă"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster001_Blue_TextData",
+   "en": "Slime Body",
+   "ro": "Corp de mâzgă"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster001_Red_TextData",
+   "en": "Slime Body",
+   "ro": "Corp de mâzgă"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster001_Purple_TextData",
+   "en": "Slime Body",
+   "ro": "Corp de mâzgă"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster001_Pink_TextData",
+   "en": "Slime Body",
+   "ro": "Corp de mâzgă"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster001_Rainbow_TextData",
+   "en": "Slime Body",
+   "ro": "Corp de mâzgă"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaBoss001_Small_TextData",
+   "en": "Demonic Sight",
+   "ro": "Privire demonică"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster002_TextData",
+   "en": "Enchant",
+   "ro": "Fermecare"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster003_TextData",
+   "en": "Bat Backup",
+   "ro": "Sprijin de la lilieci"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster003_Purple_TextData",
+   "en": "Bat Backup",
+   "ro": "Sprijin de la lilieci"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaBoss001_TextData",
+   "en": "Mad Eye Lunge",
+   "ro": "Fandare cu ochi nebun"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_BluePlatypus_Toboggan_Fire_TextData",
+   "en": "Fire Tackle",
+   "ro": "Plonjon de foc"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Neutral Damage Enhancement Lv. 1",
+   "ro": "Îmbunătățire daune Neutru Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Fire Damage Enhancement Lv. 1",
+   "ro": "Îmbunătățire daune Foc Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Water_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Water Damage Enhancement Lv. 1",
+   "ro": "Îmbunătățire daune Apă Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Electricity_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Electric Damage Enhancement Lv. 1",
+   "ro": "Îmbunătățire daune Electric Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Grass Damage Enhancement Lv. 1",
+   "ro": "Sporire daune de Iarbă Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Ice Damage Enhancement Lv. 1",
+   "ro": "Sporire daune de Gheață Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Ground Damage Enhancement Lv. 1",
+   "ro": "Sporire daune de Pământ Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Dark Damage Enhancement Lv. 1",
+   "ro": "Sporire daune de Întuneric Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_1_Otomo_Only_Equip_TextData",
+   "en": "Pal Dragon Damage Enhancement Lv. 1",
+   "ro": "Sporire daune de Dragon Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Neutral Damage Enhancement Lv. 2",
+   "ro": "Sporire daune Neutre Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Fire Damage Enhancement Lv. 2",
+   "ro": "Sporire daune de Foc Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Water_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Water Damage Enhancement Lv. 2",
+   "ro": "Sporire daune de Apă Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Electricity_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Electric Damage Enhancement Lv. 2",
+   "ro": "Sporire daune Electrice Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Grass Damage Enhancement Lv. 2",
+   "ro": "Sporire daune de Iarbă Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Ice Damage Enhancement Lv. 2",
+   "ro": "Sporire daune de Gheață Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Ground Damage Enhancement Lv. 2",
+   "ro": "Sporire daune de Pământ Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Dark Damage Enhancement Lv. 2",
+   "ro": "Sporire daune de Întuneric Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_2_Otomo_Only_Equip_TextData",
+   "en": "Pal Dragon Damage Enhancement Lv. 2",
+   "ro": "Sporire daune de Dragon Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Neutral Damage Enhancement Lv. 3",
+   "ro": "Sporire daune Neutre Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Fire Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Foc Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Water_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Water Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Apă Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Electricity_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Electric Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Electricitate Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Grass Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Iarbă Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Ice Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Gheață Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Ground Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Pământ Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Dark Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Întuneric Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_3_Otomo_Only_Equip_TextData",
+   "en": "Pal Dragon Damage Enhancement Lv. 3",
+   "ro": "Îmbunătățire daune de Dragon Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up1_Otomo_Only_Equip_TextData",
+   "en": "Pal Attack Up Lv. 1",
+   "ro": "Creștere atac Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up2_Otomo_Only_Equip_TextData",
+   "en": "Pal Attack Up Lv. 2",
+   "ro": "Creștere atac Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up3_Otomo_Only_Equip_TextData",
+   "en": "Pal Attack Up Lv. 3",
+   "ro": "Creștere atac Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_Defense_ACC_up1_Otomo_Only_Equip_TextData",
+   "en": "Pal Defense Up Lv. 1",
+   "ro": "Creștere apărare Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_Defense_ACC_up2_Otomo_Only_Equip_TextData",
+   "en": "Pal Defense Up Lv. 2",
+   "ro": "Creștere apărare Pal Nv. 2"
+  },
+  {
+   "key": "PASSIVE_Defense_ACC_up3_Otomo_Only_Equip_TextData",
+   "en": "Pal Defense Up Lv. 3",
+   "ro": "Creștere apărare Pal Nv. 3"
+  },
+  {
+   "key": "PASSIVE_PalExp_Increase_1_Otomo_Only_Equip_TextData",
+   "en": "Pal EXP Up Lv. 1",
+   "ro": "Creștere EXP Pal Nv. 1"
+  },
+  {
+   "key": "PASSIVE_PalExp_Increase_2_Otomo_Only_Equip_TextData",
+   "en": "Pal EXP Up Lv. 2",
+   "ro": "Creștere EXP Pal nv. 2"
+  },
+  {
+   "key": "PASSIVE_PalExp_Increase_3_Otomo_Only_Equip_TextData",
+   "en": "Pal EXP Up Lv. 3",
+   "ro": "Creștere EXP Pal nv. 3"
+  },
+  {
+   "key": "PASSIVE_Nushi_TextData",
+   "en": "Lunker",
+   "ro": "Captură măreață"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_IceNarwhal_TextData",
+   "en": "Ice Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Gheață (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_IceNarwhal_Fire_TextData",
+   "en": "Fire Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Foc (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_PoseidonOrca_TextData",
+   "en": "Water Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Apă (Mare)"
+  },
+  {
+   "key": "PASSIVE_SwimSpeed_up_1_TextData",
+   "en": "Sleek Stroke",
+   "ro": "Înot zvelt"
+  },
+  {
+   "key": "PASSIVE_SwimSpeed_up_2_TextData",
+   "en": "Ace Swimmer",
+   "ro": "Înotător de elită"
+  },
+  {
+   "key": "PASSIVE_SwimSpeed_up_3_TextData",
+   "en": "King of the Waves",
+   "ro": "Regele valurilor"
+  },
+  {
+   "key": "PASSIVE_YakushimaProtection_Equip_TextData",
+   "en": "Hallowed Guard",
+   "ro": "Gardă sfântă"
+  },
+  {
+   "key": "PASSIVE_YakushimaDagameBoost_Melee_Equip_TextData",
+   "en": "Hallowed Power: Close Range",
+   "ro": "Putere sfântă: corp la corp"
+  },
+  {
+   "key": "PASSIVE_YakushimaDagameBoost_Ranged_Equip_TextData",
+   "en": "Hallowed Power: Ranged",
+   "ro": "Putere sfântă: la distanță"
+  },
+  {
+   "key": "PASSIVE_YakushimaDagameBoost_Magic_Equip_TextData",
+   "en": "Hallowed Power: Magic",
+   "ro": "Putere sfântă: magie"
+  },
+  {
+   "key": "PASSIVE_YakushimaDagameBoost_Summon_Equip_TextData",
+   "en": "Hallowed Power: Summon",
+   "ro": "Putere sfântă: invocare"
+  },
+  {
+   "key": "PARTNERSKILL_YakushimaMonster002_PlaceHolder_TextData",
+   "en": "Enchant",
+   "ro": "Fermecare"
+  },
+  {
+   "key": "PASSIVE_GYM_NAME_Meadow_TextData",
+   "en": "Rayne Syndicate Boss",
+   "ro": "Boss al Sindicatului Rayne"
+  },
+  {
+   "key": "PASSIVE_GYM_NAME_Forest_TextData",
+   "en": "Free Pal Alliance Founder",
+   "ro": "Fondatorul Alianței Palilor Liberi"
+  },
+  {
+   "key": "PASSIVE_GYM_NAME_Desert_TextData",
+   "en": "PIDF Commander",
+   "ro": "Comandant PIDF"
+  },
+  {
+   "key": "PASSIVE_GYM_NAME_Volcano_TextData",
+   "en": "Brothers of the Eternal Pyre Soul Leader",
+   "ro": "Lider spiritual al Fraților Focului Veșnic"
+  },
+  {
+   "key": "PASSIVE_GYM_NAME_Snow_TextData",
+   "en": "PAL Genetic Research Unit Commander",
+   "ro": "Comandant al Unității de Cercetare Genetică Pal"
+  },
+  {
+   "key": "PASSIVE_GYM_NAME_Sakurajima_TextData",
+   "en": "Leader of the Moonflowers",
+   "ro": "Lider al Florilor de Lună"
+  },
+  {
+   "key": "PASSIVE_GYM_NAME_Viking_TextData",
+   "en": "Jarl of Feybreak ",
+   "ro": "Jarl din Feybreak"
+  },
+  {
+   "key": "PARTNERSKILL_LegendDeer_TextData",
+   "en": "Sacred Barrier",
+   "ro": "Barieră sacră"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_Ronin_Iai_PartnerSkill_TextData",
+   "en": "Iaigiri",
+   "ro": "Iaigiri"
+  },
+  {
+   "key": "PASSIVE_Salvation_TextData",
+   "en": "Savior",
+   "ro": "Salvator"
+  },
+  {
+   "key": "PASSIVE_OctaviaArmorVampire_TextData",
+   "en": "Blood Is Fuel",
+   "ro": "Sângele e combustibil"
+  },
+  {
+   "key": "PASSIVE_MiniNushi_TextData",
+   "en": "Whopper",
+   "ro": "Monstruozitate"
+  },
+  {
+   "key": "PASSIVE_Deffence_up2_2_TextData",
+   "en": "Heavyweight",
+   "ro": "Greu de doborât"
+  },
+  {
+   "key": "PASSIVE_WorldTree_ATK_TextData",
+   "en": "Twin-Edged Holy Blade",
+   "ro": "Lamă sfântă cu două tăișuri"
+  },
+  {
+   "key": "PASSIVE_WorldTree_DEF_TextData",
+   "en": "Sanctified Meat Shield",
+   "ro": "Scut de carne sfințit"
+  },
+  {
+   "key": "PASSIVE_WorldTree_CraftSpeed_TextData",
+   "en": "Demon’s Hand",
+   "ro": "Mână de demon"
+  },
+  {
+   "key": "PASSIVE_WorldTree_FullStomach_TextData",
+   "en": "World Tree's Bounty",
+   "ro": "Bogația Arborelui Lumii"
+  },
+  {
+   "key": "PASSIVE_WorldTree_Sanity_TextData",
+   "en": "Hermit Sage",
+   "ro": "Înțelept pustnic"
+  },
+  {
+   "key": "PASSIVE_WorldTree_MoveSpeed_TextData",
+   "en": "Dimensional Leap",
+   "ro": "Salt dimensional"
+  },
+  {
+   "key": "PASSIVE_WorldTree_ATK_DEF_TextData",
+   "en": "God of Destruction",
+   "ro": "Zeu al distrugerii"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteMoth_Neutral_TextData",
+   "en": "Gilded Shroud",
+   "ro": "Giulgiu aurit"
+  },
+  {
+   "key": "PARTNERSKILL_ElecSnail_TextData",
+   "en": "Charging Shell",
+   "ro": "Cochilie încărcătoare"
+  },
+  {
+   "key": "PARTNERSKILL_ElecSnail_Ground_TextData",
+   "en": "Grounding Shell",
+   "ro": "Cochilie de împământare"
+  },
+  {
+   "key": "PARTNERSKILL_IceSeal_Ground_TextData",
+   "en": "Snowy Mountain Slider",
+   "ro": "Alunecare pe muntele înzăpezit"
+  },
+  {
+   "key": "PARTNERSKILL_Kirin_Ice_TextData",
+   "en": "Frigid Deity",
+   "ro": "Divinitate înghețată"
+  },
+  {
+   "key": "PARTNERSKILL_ClioneTwins_TextData",
+   "en": "Magical Twin Powers",
+   "ro": "Puteri gemene magice"
+  },
+  {
+   "key": "PARTNERSKILL_FluffyBird_TextData",
+   "en": "Fluffy Flutterer",
+   "ro": "Fâlfâitor pufos"
+  },
+  {
+   "key": "PARTNERSKILL_MoonChild_TextData",
+   "en": "Hidden Dark Energy",
+   "ro": "Energie întunecată ascunsă"
+  },
+  {
+   "key": "PARTNERSKILL_CloverFairy_TextData",
+   "en": "Happy Clover",
+   "ro": "Trifoi norocos"
+  },
+  {
+   "key": "PARTNERSKILL_ClownRabbit_TextData",
+   "en": "Trick-Loving Fluffle",
+   "ro": "Blăniță amatoare de farse"
+  },
+  {
+   "key": "PARTNERSKILL_BlackPuppy_Ice_TextData",
+   "en": "Cryo Instincts",
+   "ro": "Instincte crio"
+  },
+  {
+   "key": "PARTNERSKILL_SwordCutlassfish_TextData",
+   "en": "Fish Fillet",
+   "ro": "File de pește"
+  },
+  {
+   "key": "PARTNERSKILL_SwordCutlassfish_Fire_TextData",
+   "en": "Seared Fish Fillet",
+   "ro": "File de pește perpelit"
+  },
+  {
+   "key": "PARTNERSKILL_GrassGolem_TextData",
+   "en": "Forest Laser",
+   "ro": "Laser de pădure"
+  },
+  {
+   "key": "PARTNERSKILL_GrassGolem_Dark_TextData",
+   "en": "Corruption Laser",
+   "ro": "Laser de corupție"
+  },
+  {
+   "key": "PARTNERSKILL_FlowerDoll_Fire_TextData",
+   "en": "Passion of the Flower Spirit",
+   "ro": "Pasiunea spiritului floral"
+  },
+  {
+   "key": "PARTNERSKILL_MushroomLady_TextData",
+   "en": "Charming Spore",
+   "ro": "Spor fermecător"
+  },
+  {
+   "key": "PARTNERSKILL_SumoDog_TextData",
+   "en": "Yokozuna's Presence",
+   "ro": "Prezență de yokozuna"
+  },
+  {
+   "key": "PARTNERSKILL_CactusDoll_TextData",
+   "en": "Hug Me Please",
+   "ro": "Îmbrățișează-mă, te rog"
+  },
+  {
+   "key": "PARTNERSKILL_CactusDoll_Dark_TextData",
+   "en": "Hug You So Much",
+   "ro": "Te îmbrățișez atât de mult"
+  },
+  {
+   "key": "PARTNERSKILL_RockBeast_TextData",
+   "en": "Power Stone",
+   "ro": "Piatră a puterii"
+  },
+  {
+   "key": "PARTNERSKILL_RockBeast_Ice_TextData",
+   "en": "Power Crystal",
+   "ro": "Cristal al puterii"
+  },
+  {
+   "key": "PARTNERSKILL_ThiefBird_TextData",
+   "en": "Dark-Nester",
+   "ro": "Cuibăritor în întuneric"
+  },
+  {
+   "key": "PARTNERSKILL_SleeveRabbit_TextData",
+   "en": "Long-Sleeved Hurray",
+   "ro": "Ura din mâneci lungi"
+  },
+  {
+   "key": "PARTNERSKILL_SnakeGirl_TextData",
+   "en": "Snake's Sagacity",
+   "ro": "Înțelepciunea șarpelui"
+  },
+  {
+   "key": "PARTNERSKILL_KabukiMan_TextData",
+   "en": "Stage Combat",
+   "ro": "Luptă de scenă"
+  },
+  {
+   "key": "PARTNERSKILL_SamuraiDog_TextData",
+   "en": "Best Boy",
+   "ro": "Băiat cuminte"
+  },
+  {
+   "key": "PARTNERSKILL_Sekhmet_TextData",
+   "en": "Desert Empress",
+   "ro": "Împărăteasa deșertului"
+  },
+  {
+   "key": "PARTNERSKILL_GhostRabbit_Grass_TextData",
+   "en": "Soul Binder",
+   "ro": "Legător de suflete"
+  },
+  {
+   "key": "PARTNERSKILL_LotusDragon_TextData",
+   "en": "Glorious Mist",
+   "ro": "Ceață glorioasă"
+  },
+  {
+   "key": "PARTNERSKILL_Monkey_Fire_TextData",
+   "en": "Chipper Chimp Gunfire",
+   "ro": "Foc de armă de cimpanzeu vesel"
+  },
+  {
+   "key": "PARTNERSKILL_DarkFlameFox_TextData",
+   "en": "Phantasmal Arcana",
+   "ro": "Arcane fantomatice"
+  },
+  {
+   "key": "PARTNERSKILL_FoxExorcist_TextData",
+   "en": "Burning Future",
+   "ro": "Viitor arzător"
+  },
+  {
+   "key": "PARTNERSKILL_VenusFlytrap_TextData",
+   "en": "Entangling Tongue",
+   "ro": "Limbă încurcătoare"
+  },
+  {
+   "key": "PARTNERSKILL_ElecLizard_TextData",
+   "en": "Chillswitch",
+   "ro": "Comutator rece"
+  },
+  {
+   "key": "PARTNERSKILL_MonochromeQueen_TextData",
+   "en": "Untainted Maiden",
+   "ro": "Fecioară neprihănită"
+  },
+  {
+   "key": "PARTNERSKILL_OctopusGirl_Neutral_TextData",
+   "en": "Cephalo-Princess",
+   "ro": "Prințesă cefalopodă"
+  },
+  {
+   "key": "PARTNERSKILL_HoodGhost_TextData",
+   "en": "Void-Dweller",
+   "ro": "Locuitor al Vidului"
+  },
+  {
+   "key": "PARTNERSKILL_BlueSkyDragon_TextData",
+   "en": "Azure Sovereign",
+   "ro": "Suveran azuriu"
+  },
+  {
+   "key": "PARTNERSKILL_GhostDragon_TextData",
+   "en": "Liberated Pterosaur",
+   "ro": "Pterozaur eliberat"
+  },
+  {
+   "key": "PARTNERSKILL_GhostDragon_Fire_TextData",
+   "en": "Resentful Pterosaur",
+   "ro": "Pterozaur ranchiunos"
+  },
+  {
+   "key": "PARTNERSKILL_PandaGirl_TextData",
+   "en": "Selfless Discipline",
+   "ro": "Disciplină altruistă"
+  },
+  {
+   "key": "PARTNERSKILL_VolcanoDragon_TextData",
+   "en": "Magma Overload",
+   "ro": "Supraîncărcare de magmă"
+  },
+  {
+   "key": "PARTNERSKILL_VolcanoDragon_Ice_TextData",
+   "en": "Ice Overload",
+   "ro": "Supraîncărcare de gheață"
+  },
+  {
+   "key": "PARTNERSKILL_MummyPal_TextData",
+   "en": "Resurrection",
+   "ro": "Înviere"
+  },
+  {
+   "key": "PARTNERSKILL_SweetsSheep_Ground_TextData",
+   "en": "Bitter Pop",
+   "ro": "Pocnitură amară"
+  },
+  {
+   "key": "PARTNERSKILL_KingWhale_TextData",
+   "en": "Resonant Guardian",
+   "ro": "Păzitor rezonant"
+  },
+  {
+   "key": "PARTNERSKILL_LanternButler_TextData",
+   "en": "Lantern Enchantment",
+   "ro": "Fermecarea felinarului"
+  },
+  {
+   "key": "PARTNERSKILL_LongCat_TextData",
+   "en": "Big Stretch",
+   "ro": "Marea întindere"
+  },
+  {
+   "key": "PARTNERSKILL_CubeTurtle_TextData",
+   "en": "Masonry Archelon",
+   "ro": "Archelon zidar"
+  },
+  {
+   "key": "PARTNERSKILL_CubeTurtle_Neutral_TextData",
+   "en": "Stone-Chaser Archelon",
+   "ro": "Archelon vânător de pietre"
+  },
+  {
+   "key": "PARTNERSKILL_ScorpionMan_Electric_TextData",
+   "en": "Scorpion Longwave",
+   "ro": "Unde lungi de scorpion"
+  },
+  {
+   "key": "PARTNERSKILL_DandelionGirl_TextData",
+   "en": "Fuzzy Fairy",
+   "ro": "Zână pufoasă"
+  },
+  {
+   "key": "PARTNERSKILL_RedFlowerBird_TextData",
+   "en": "Flower Dance",
+   "ro": "Dansul florilor"
+  },
+  {
+   "key": "PARTNERSKILL_ThunderFluffyBird_TextData",
+   "en": "Electro-Massage Incubation",
+   "ro": "Incubație cu electromasaj"
+  },
+  {
+   "key": "PARTNERSKILL_SmallYeti_TextData",
+   "en": "Invisible Eye",
+   "ro": "Ochi invizibil"
+  },
+  {
+   "key": "PARTNERSKILL_Mothman_TextData",
+   "en": "Spore Stalwart",
+   "ro": "Străjerul sporilor"
+  },
+  {
+   "key": "PARTNERSKILL_KingSunfish_TextData",
+   "en": "Charming Fish",
+   "ro": "Pește fermecător"
+  },
+  {
+   "key": "PARTNERSKILL_KingSunfish_Thunder_TextData",
+   "en": "Shocking Fish",
+   "ro": "Pește electrocutant"
+  },
+  {
+   "key": "PARTNERSKILL_ThunderBird_Ice_TextData",
+   "en": "Coldsnap",
+   "ro": "Val de ger"
+  },
+  {
+   "key": "PARTNERSKILL_WhiteDeer_Dark_TextData",
+   "en": "Blessing of Chaos",
+   "ro": "Binecuvântarea haosului"
+  },
+  {
+   "key": "PARTNERSKILL_NightBlueHorse_Neutral_TextData",
+   "en": "Light Dancer",
+   "ro": "Dansator de lumină"
+  },
+  {
+   "key": "PARTNERSKILL_DomeArmorDragon_TextData",
+   "en": "Indestructible Fortress",
+   "ro": "Fortăreață indestructibilă"
+  },
+  {
+   "key": "PARTNERSKILL_OniGhostGirl_TextData",
+   "en": "Grinning Death",
+   "ro": "Moarte rânjită"
+  },
+  {
+   "key": "PARTNERSKILL_WorldTreeDragon_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "PARTNERSKILL_WorldTreeDragon_Sub_TextData",
+   "en": "-",
+   "ro": "-"
+  },
+  {
+   "key": "PARTNERSKILL_GrassMinotaur_TextData",
+   "en": "Mother Nature's Menace",
+   "ro": "Amenințarea Mamei Natură"
+  },
+  {
+   "key": "PARTNERSKILL_GrassMinotaur_Ice_TextData",
+   "en": "Father Winter's Threat",
+   "ro": "Amenințarea Moșului Crivăț"
+  },
+  {
+   "key": "PARTNERSKILL_GhostBlackCat_TextData",
+   "en": "Death-Cheating Feline",
+   "ro": "Felină ce sfidează moartea"
+  },
+  {
+   "key": "PARTNERSKILL_ElecPomeranian_TextData",
+   "en": "Crackle Booster",
+   "ro": "Propulsor de scântei"
+  },
+  {
+   "key": "PARTNERSKILL_FlowerPrince_TextData",
+   "en": "Mist Stalwart",
+   "ro": "Barieră de ceață"
+  },
+  {
+   "key": "PARTNERSKILL_WingGolem_Fire_TextData",
+   "en": "Iron Guardian Mode",
+   "ro": "Mod Gardian de Fier"
+  },
+  {
+   "key": "PARTNERSKILL_ThunderDog_Ice_TextData",
+   "en": "Snow Shepherd",
+   "ro": "Păstorul zăpezii"
+  },
+  {
+   "key": "PASSIVE_Nocturnal_TextData",
+   "en": "Insomnia",
+   "ro": "Insomnie"
+  },
+  {
+   "key": "PASSIVE_SelfDeathAddItemDrop_up_1_TextData",
+   "en": "Sharing is Caring",
+   "ro": "Dar din dar"
+  },
+  {
+   "key": "PASSIVE_SelfDeathAddItemDrop_up_2_TextData",
+   "en": "Service-Minded",
+   "ro": "Spirit de serviciu"
+  },
+  {
+   "key": "PASSIVE_SelfDeathAddItemDrop_up_3_TextData",
+   "en": "Lavish Hospitality",
+   "ro": "Ospitalitate generoasă"
+  },
+  {
+   "key": "PASSIVE_WorkSuitabilityAddRank_MonsterFarm_1_TextData",
+   "en": "Farmhand",
+   "ro": "Muncitor la fermă"
+  },
+  {
+   "key": "PASSIVE_WorkSuitabilityAddRank_MonsterFarm_2_TextData",
+   "en": "Ranch Master",
+   "ro": "Maestru de fermă"
+  },
+  {
+   "key": "PASSIVE_MutationPal_Babysitter_TextData",
+   "en": "Babysitter",
+   "ro": "Bonă"
+  },
+  {
+   "key": "PASSIVE_MutationPal_Mutant_TextData",
+   "en": "Idiosyncratic",
+   "ro": "Idiosincratic"
+  },
+  {
+   "key": "PASSIVE_MutationPal_Immortal_TextData",
+   "en": "Immortality",
+   "ro": "Nemurire"
+  },
+  {
+   "key": "PASSIVE_MutationPal_ExplosionResist_TextData",
+   "en": "Heavily Armored",
+   "ro": "Blindaj greu"
+  },
+  {
+   "key": "PASSIVE_WoodDrop_Boost_1_TextData",
+   "en": "Logging Yield Up Lv. 1",
+   "ro": "Producție de lemne crescută Nv. 1"
+  },
+  {
+   "key": "PASSIVE_WoodDrop_Boost_2_TextData",
+   "en": "Logging Yield Up Lv. 2",
+   "ro": "Producție de lemne crescută Nv. 2"
+  },
+  {
+   "key": "PASSIVE_WoodDrop_Boost_3_TextData",
+   "en": "Logging Yield Up Lv. 3",
+   "ro": "Producție de lemne crescută Nv. 3"
+  },
+  {
+   "key": "PASSIVE_WoodDrop_Boost_4_TextData",
+   "en": "Logging Yield Up Lv. 4",
+   "ro": "Producție de lemne crescută Nv. 4"
+  },
+  {
+   "key": "PASSIVE_WoodDrop_Boost_5_TextData",
+   "en": "Logging Yield Up Lv. 5",
+   "ro": "Producție de lemne crescută Nv. 5"
+  },
+  {
+   "key": "PASSIVE_StonDrop_Boost_1_TextData",
+   "en": "Mining Yield Up Lv. 1",
+   "ro": "Producție de minerit crescută Nv. 1"
+  },
+  {
+   "key": "PASSIVE_StonDrop_Boost_2_TextData",
+   "en": "Mining Yield Up Lv. 2",
+   "ro": "Producție de minerit crescută Nv. 2"
+  },
+  {
+   "key": "PASSIVE_StonDrop_Boost_3_TextData",
+   "en": "Mining Yield Up Lv. 3",
+   "ro": "Producție de minerit crescută Nv. 3"
+  },
+  {
+   "key": "PASSIVE_StonDrop_Boost_4_TextData",
+   "en": "Mining Yield Up Lv. 4",
+   "ro": "Producție de minerit crescută Nv. 4"
+  },
+  {
+   "key": "PASSIVE_StonDrop_Boost_5_TextData",
+   "en": "Mining Yield Up Lv. 5",
+   "ro": "Randament la minerit Nv. 5"
+  },
+  {
+   "key": "PASSIVE_RideJumpCount_Increase1_TextData",
+   "en": "Lightfooted",
+   "ro": "Pas ușor"
+  },
+  {
+   "key": "PASSIVE_RideJumpCount_Increase2_TextData",
+   "en": "Sky Strider",
+   "ro": "Pășitor ceresc"
+  },
+  {
+   "key": "PASSIVE_FriendshipPoint_Increase_EquipSkill_TextData",
+   "en": "Party Pal Trust Boost",
+   "ro": "Sporire încredere Pali din echipă"
+  },
+  {
+   "key": "PASSIVE_AvoidDurationUp_EquipSkill_2_TextData",
+   "en": "Extended Dodge Invincibility",
+   "ro": "Invincibilitate prelungită la eschivă"
+  },
+  {
+   "key": "PASSIVE_Defuser_ExplosiveSpore_EquipSkill_TextData",
+   "en": "Explosion Immunity",
+   "ro": "Imunitate la explozii"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_RedFlowerBird_JumpKick_TextData",
+   "en": "Flower Stomp",
+   "ro": "Călcare florală"
+  },
+  {
+   "key": "ACTION_SKILL_Unique_SnakeGirl_SnakeShot_TextData",
+   "en": "Poison Scatter",
+   "ro": "Împrăștiere de venin"
+  },
+  {
+   "key": "PARTNERSKILL_DUMMY_None_TextData",
+   "en": "None",
+   "ro": "Niciuna"
+  },
+  {
+   "key": "PASSIVE_Invalid_ToxicGas_EquipSkill_TextData",
+   "en": "Toxic Gas Immunity",
+   "ro": "Imunitate la gaz toxic"
+  },
+  {
+   "key": "PASSIVE_HP_ACC_up4_TextData",
+   "en": "Health Up Lv. 4",
+   "ro": "Viață crescută Nv. 4"
+  },
+  {
+   "key": "PASSIVE_defense_ACC_up4_TextData",
+   "en": "Defense Up Lv. 4",
+   "ro": "Apărare crescută Nv. 4"
+  },
+  {
+   "key": "PASSIVE_WorkSpeed_ACC_up4_TextData",
+   "en": "Speedy Worker Lv. 4",
+   "ro": "Lucrător rapid Nv. 4"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up4_TextData",
+   "en": "Attack Up Lv. 4",
+   "ro": "Atac crescut Nv. 4"
+  },
+  {
+   "key": "PASSIVE_MaxInventoryWeight_up_Equip_4_TextData",
+   "en": "Max Carrying Capacity Lv. 4",
+   "ro": "Capacitate maximă de transport Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Normal_4_TextData",
+   "en": "Neutral Damage Reduction Lv. 4",
+   "ro": "Reducere daune neutre Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Fire_4_TextData",
+   "en": "Fire Damage Reduction Lv. 4",
+   "ro": "Reducere daune de foc Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Aqua_4_TextData",
+   "en": "Water Damage Reduction Lv. 4",
+   "ro": "Reducere daune de apă Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Thunder_4_TextData",
+   "en": "Electric Damage Reduction Lv. 4",
+   "ro": "Reducere daune electrice Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Leaf_4_TextData",
+   "en": "Grass Damage Reduction Lv. 4",
+   "ro": "Reducere daune de iarbă Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Ice_4_TextData",
+   "en": "Ice Damage Reduction Lv. 4",
+   "ro": "Reducere daune de gheață Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Earth_4_TextData",
+   "en": "Ground Damage Reduction Lv. 4",
+   "ro": "Reducere daune de pământ Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dark_4_TextData",
+   "en": "Dark Damage Reduction Lv. 4",
+   "ro": "Reducere daune de întuneric Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementResist_Dragon_4_TextData",
+   "en": "Dragon Damage Reduction Lv. 4",
+   "ro": "Reducere daune de dragon Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Normal_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Neutral Damage Enhancement Lv. 4",
+   "ro": "Sporire daune neutre Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Fire_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Fire Damage Enhancement Lv. 4",
+   "ro": "Sporire daune de foc Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Water_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Water Damage Enhancement Lv. 4",
+   "ro": "Sporire daune de apă Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Electricity_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Electric Damage Enhancement Lv. 4",
+   "ro": "Sporire daune electrice Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Leaf_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Grass Damage Enhancement Lv. 4",
+   "ro": "Sporire daune de iarbă Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Ice_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Ice Damage Enhancement Lv. 4",
+   "ro": "Sporire daune de gheață Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Earth_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Ground Damage Enhancement Lv. 4",
+   "ro": "Îmbunătățire daune de Pământ Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dark_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Dark Damage Enhancement Lv. 4",
+   "ro": "Îmbunătățire daune de Întuneric Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_ElementBoost_Dragon_4_Otomo_Only_Equip_TextData",
+   "en": "Pal Dragon Damage Enhancement Lv. 4",
+   "ro": "Îmbunătățire daune de Dragon Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up4_Otomo_Only_Equip_TextData",
+   "en": "Pal Attack Up Lv. 4",
+   "ro": "Creștere atac Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_Defense_ACC_up4_Otomo_Only_Equip_TextData",
+   "en": "Pal Defense Up Lv. 4",
+   "ro": "Creștere apărare Pal Nv. 4"
+  },
+  {
+   "key": "PASSIVE_PlayerSP_DecreaseRate_Passive_TextData",
+   "en": "Wellness Watcher",
+   "ro": "Supraveghetor de sănătate"
+  },
+  {
+   "key": "PASSIVE_AutoHPRegeneRate_Passive_TextData",
+   "en": "Healing Coach",
+   "ro": "Antrenor de vindecare"
+  },
+  {
+   "key": "PASSIVE_ReloadSpeedUp_Passive_TextData",
+   "en": "Reload Master",
+   "ro": "Maestru al reîncărcării"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FireKirin_TextData",
+   "en": "Fire Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Foc (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_CubeTurtle_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_VolcanicMonster_TextData",
+   "en": "Ground Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Pământ (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_KabukiMan_TextData",
+   "en": "Fire Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune Foc (medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_VolcanoDragon_Ice_TextData",
+   "en": "Ice Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Gheață (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GrassGolem_TextData",
+   "en": "Grass Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Iarbă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_MushroomLady_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_WhiteDeer_Dark_TextData",
+   "en": "Dark Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Întuneric (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_RockBeast_Ice_TextData",
+   "en": "Ice Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Gheață (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_LotusDragon_TextData",
+   "en": "Water Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Apă (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FoxExorcist_TextData",
+   "en": "Fire Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune Foc (medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_ThunderFluffyBird_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_ElecLizard_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_ElecSnail_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GhostDragon_TextData",
+   "en": "Dragon Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Dragon (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_LilyQueen_TextData",
+   "en": "Grass Damage Enhancement (Large)",
+   "ro": "Îmbunătățire daune de Iarbă (Mare)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_ElecPanda_TextData",
+   "en": "Electric Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de tip Electric (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_GrassGolem_Dark_TextData",
+   "en": "Dark Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Întuneric (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_Manticore_TextData",
+   "en": "Fire Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Foc (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FlameBuffalo_TextData",
+   "en": "Fire Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Foc (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_IceFox_TextData",
+   "en": "Ice Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Gheață (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_FoxMage_TextData",
+   "en": "Fire Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Foc (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_CubeTurtle_Neutral_TextData",
+   "en": "Neutral Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune Neutru (medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_MoonChild_TextData",
+   "en": "Dark Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Întuneric (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_ScorpionMan_Electric_TextData",
+   "en": "Electric Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Electric (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_RockBeast_TextData",
+   "en": "Ground Damage Enhancement (Medium)",
+   "ro": "Îmbunătățire daune de Pământ (Medie)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_VolcanoDragon_TextData",
+   "en": "Fire Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Foc (mică)"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_CactusDoll_TextData",
+   "en": "Grass Damage Enhancement (Small)",
+   "ro": "Îmbunătățire daune Iarbă (mică)"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up1_Armor_TextData",
+   "en": "Attack Up (S) Lv. 1",
+   "ro": "Creștere atac (M) Nv. 1"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up2_Armor_TextData",
+   "en": "Attack Up (S) Lv. 2",
+   "ro": "Creștere atac (M) Nv. 2"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up3_Armor_TextData",
+   "en": "Attack Up (S) Lv. 3",
+   "ro": "Creștere atac (M) Nv. 3"
+  },
+  {
+   "key": "PASSIVE_Attack_ACC_up4_Armor_TextData",
+   "en": "Attack Up (S) Lv. 4",
+   "ro": "Creștere atac (M) Nv. 4"
+  },
+  {
+   "key": "PASSIVE_StonWoodDrop_Boost_TextData",
+   "en": "Logging/Mining Yield Up",
+   "ro": "Creștere randament tăiat lemne/minerit"
+  },
+  {
+   "key": "PASSIVE_BossDefeatReward_DomeArmorDragon_TextData",
+   "en": "Dragon Damage Enhancement (Large)",
+   "ro": "Îmbunătățire a daunelor de tip Dragon (mare)"
+  }
+ ]
+}

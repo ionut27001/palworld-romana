@@ -1,0 +1,1850 @@
+{
+ "table": "DT_NamePrefixText_Common",
+ "entries": [
+  {
+   "key": "PREFIX_NAME_LONELY_TextData",
+   "en": "Guardian of the Dark Sun",
+   "ro": "Păzitorul Soarelui Întunecat"
+  },
+  {
+   "key": "PREFIX_NAME_PV5012_TextData",
+   "en": "Lord of the Darkness",
+   "ro": "Stăpânul Întunericului"
+  },
+  {
+   "key": "PREFIX_NAME_PV5014_TextData",
+   "en": "Queen of the Lake",
+   "ro": "Regina Lacului"
+  },
+  {
+   "key": "PREFIX_NAME_PV6012_TextData",
+   "en": "Messenger of Snow Catastrophe",
+   "ro": "Mesagerul Catastrofei de Zăpadă"
+  },
+  {
+   "key": "PREFIX_NAME_PV6013_TextData",
+   "en": "Master of the Flame Sky",
+   "ro": "Stăpânul Cerului de Flăcări"
+  },
+  {
+   "key": "PREFIX_NAME_ELECLION_BOSS_TextData",
+   "en": "King of Thunder",
+   "ro": "Regele Tunetului"
+  },
+  {
+   "key": "PREFIX_NAME_LILYQUEEN_BOSS_TextData",
+   "en": "Queen of Lilies",
+   "ro": "Regina Crinilor"
+  },
+  {
+   "key": "PREFIX_NAME_AMATERASUWOLF_BOSS_TextData",
+   "en": "Guardian of the Blue Flame",
+   "ro": "Păzitorul Flăcării Albastre"
+  },
+  {
+   "key": "PREFIX_NAME_SUZAKU_BOSS_TextData",
+   "en": "King of the Sky",
+   "ro": "Regele Cerului"
+  },
+  {
+   "key": "PREFIX_NAME_FAIRYDRAGON_BOSS_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "PREFIX_NAME_FENGYUNDEEPER_BOSS_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "BOSS_NAME_Alpaca_TextData",
+   "en": "Pompous Shanks",
+   "ro": "Picioare Înfumurate"
+  },
+  {
+   "key": "BOSS_NAME_AmaterasuWolf_TextData",
+   "en": "Guardian of the Azure Flame",
+   "ro": "Păzitorul Flăcării de Azur"
+  },
+  {
+   "key": "BOSS_NAME_Anubis_TextData",
+   "en": "Guardian of the Dark Sun",
+   "ro": "Păzitorul Soarelui Întunecat"
+  },
+  {
+   "key": "BOSS_NAME_Baphomet_TextData",
+   "en": "Hyena of the Wild",
+   "ro": "Hiena Sălbăticiei"
+  },
+  {
+   "key": "BOSS_NAME_Baphomet_Dark_TextData",
+   "en": "Hyena of the Darkest Night",
+   "ro": "Hiena Nopții celei mai Negre"
+  },
+  {
+   "key": "BOSS_NAME_Bastet_TextData",
+   "en": "Noble Glimmer",
+   "ro": "Sclipire Nobilă"
+  },
+  {
+   "key": "BOSS_NAME_Bastet_Ice_TextData",
+   "en": "Serene Glimmer",
+   "ro": "Sclipire senină"
+  },
+  {
+   "key": "BOSS_NAME_BeardedDragon_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "BOSS_NAME_BerryGoat_TextData",
+   "en": "Walking Farm",
+   "ro": "Fermă umblătoare"
+  },
+  {
+   "key": "BOSS_NAME_BirdDragon_TextData",
+   "en": "Aerial Marauder",
+   "ro": "Prădător aerian"
+  },
+  {
+   "key": "BOSS_NAME_BirdDragon_Ice_TextData",
+   "en": "Marauder of Frozen Skies",
+   "ro": "Prădător al cerurilor înghețate"
+  },
+  {
+   "key": "BOSS_NAME_BlackCentaur_TextData",
+   "en": "Dark Knight of Legend",
+   "ro": "Cavalerul întunecat de legendă"
+  },
+  {
+   "key": "BOSS_NAME_BlackFurDragon_TextData",
+   "en": "Guardian of the Forest",
+   "ro": "Păzitorul pădurii"
+  },
+  {
+   "key": "BOSS_NAME_BlackGriffon_TextData",
+   "en": "Unknown Life Form",
+   "ro": "Formă de viață necunoscută"
+  },
+  {
+   "key": "BOSS_NAME_BlackMetalDragon_TextData",
+   "en": "Draconic Monarch of Steel",
+   "ro": "Monarhul draconic de oțel"
+  },
+  {
+   "key": "BOSS_NAME_BlueDragon_TextData",
+   "en": "Lady of the Lake",
+   "ro": "Doamna lacului"
+  },
+  {
+   "key": "BOSS_NAME_BluePlatypus_TextData",
+   "en": "Rowdy Wave Ripper",
+   "ro": "Spintecătorul gălăgios de valuri"
+  },
+  {
+   "key": "BOSS_NAME_Boar_TextData",
+   "en": "Woodland Ruffian",
+   "ro": "Bătăușul codrului"
+  },
+  {
+   "key": "BOSS_NAME_BrownRabbit_TextData",
+   "en": "Indomitable Racer",
+   "ro": "Alergătorul de neoprit"
+  },
+  {
+   "key": "BOSS_NAME_CaptainPenguin_TextData",
+   "en": "Pioneer of the Frozen Sea",
+   "ro": "Pionierul mării înghețate"
+  },
+  {
+   "key": "BOSS_NAME_Carbunclo_TextData",
+   "en": "Coward of the Steppe",
+   "ro": "Lașul stepei"
+  },
+  {
+   "key": "BOSS_NAME_CatBat_TextData",
+   "en": "Trickster",
+   "ro": "Păcăliciul"
+  },
+  {
+   "key": "BOSS_NAME_CatMage_TextData",
+   "en": "Phantasmal Feline",
+   "ro": "Felină fantomatică"
+  },
+  {
+   "key": "BOSS_NAME_CatVampire_TextData",
+   "en": "Gloom-Shrouded Bloodsucker",
+   "ro": "Lipitoare învăluită în întuneric"
+  },
+  {
+   "key": "BOSS_NAME_ChickenPal_TextData",
+   "en": "Plump & Juicy",
+   "ro": "Gras și suculent"
+  },
+  {
+   "key": "BOSS_NAME_ColorfulBird_TextData",
+   "en": "Boom or Bust",
+   "ro": "Totul sau nimic"
+  },
+  {
+   "key": "BOSS_NAME_CowPal_TextData",
+   "en": "Prime Beef",
+   "ro": "Vită fragedă"
+  },
+  {
+   "key": "BOSS_NAME_CuteButterfly_TextData",
+   "en": "Butterfly Promenade",
+   "ro": "Promenada fluturelui"
+  },
+  {
+   "key": "BOSS_NAME_CuteFox_TextData",
+   "en": "Star of the Steppe",
+   "ro": "Steaua stepei"
+  },
+  {
+   "key": "BOSS_NAME_CuteMole_TextData",
+   "en": "Underground Explorer",
+   "ro": "Exploratorul din adâncuri"
+  },
+  {
+   "key": "BOSS_NAME_DarkCrow_TextData",
+   "en": "Shadow-Cloaked Schemer",
+   "ro": "Urzitor învăluit în umbră"
+  },
+  {
+   "key": "BOSS_NAME_DarkMutant_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "BOSS_NAME_DarkScorpion_TextData",
+   "en": "Unstoppable Stinger",
+   "ro": "Acul de neoprit"
+  },
+  {
+   "key": "BOSS_NAME_Deer_TextData",
+   "en": "Protector of the Herd",
+   "ro": "Protectorul turmei"
+  },
+  {
+   "key": "BOSS_NAME_Deer_Ground_TextData",
+   "en": "Golden Antlers",
+   "ro": "Coarne aurii"
+  },
+  {
+   "key": "BOSS_NAME_DreamDemon_TextData",
+   "en": "Dream Eater",
+   "ro": "Mâncătorul de vise"
+  },
+  {
+   "key": "BOSS_NAME_DrillGame_TextData",
+   "en": "Drilling Machine",
+   "ro": "Mașină de forat"
+  },
+  {
+   "key": "BOSS_NAME_Eagle_TextData",
+   "en": "Proud Courier",
+   "ro": "Curier mândru"
+  },
+  {
+   "key": "BOSS_NAME_ElecCat_TextData",
+   "en": "Livewire Tabby",
+   "ro": "Pisică electrizantă"
+  },
+  {
+   "key": "BOSS_NAME_ElecLion_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "BOSS_NAME_ElecPanda_TextData",
+   "en": "Claws of Lightning",
+   "ro": "Ghearele fulgerului"
+  },
+  {
+   "key": "BOSS_NAME_FairyDragon_TextData",
+   "en": "Gentle Sky Dragon",
+   "ro": "Dragonul blând al cerului"
+  },
+  {
+   "key": "BOSS_NAME_FairyDragon_Water_TextData",
+   "en": "Beast of the Tides",
+   "ro": "Faraonul mareelor"
+  },
+  {
+   "key": "BOSS_NAME_FeatherOstrich_TextData",
+   "en": "Brilliant Steps",
+   "ro": "Pași străluciți"
+  },
+  {
+   "key": "BOSS_NAME_FengyunDeeper_TextData",
+   "en": "Drifting Cloud",
+   "ro": "Nor plutitor"
+  },
+  {
+   "key": "BOSS_NAME_FireKirin_TextData",
+   "en": "Steed of Flames",
+   "ro": "Armăsarul flăcărilor"
+  },
+  {
+   "key": "BOSS_NAME_FireKirin_Dark_TextData",
+   "en": "Steed of Darkness",
+   "ro": "Armăsarul întunericului"
+  },
+  {
+   "key": "BOSS_NAME_FlameBuffalo_TextData",
+   "en": "Blazing Brute",
+   "ro": "Brută incandescentă"
+  },
+  {
+   "key": "BOSS_NAME_FlowerDinosaur_TextData",
+   "en": "Guardian of Blossoming Gardens",
+   "ro": "Păzitorul grădinilor înflorite"
+  },
+  {
+   "key": "BOSS_NAME_FlowerDinosaur_Electric_TextData",
+   "en": "Guardian of Lightning",
+   "ro": "Păzitorul fulgerului"
+  },
+  {
+   "key": "BOSS_NAME_FlowerDoll_TextData",
+   "en": "Lady of the Flower Garden",
+   "ro": "Doamna grădinii de flori"
+  },
+  {
+   "key": "BOSS_NAME_FlowerRabbit_TextData",
+   "en": "Star of the Flower Beds",
+   "ro": "Vedeta straturilor de flori"
+  },
+  {
+   "key": "BOSS_NAME_FlyingManta_TextData",
+   "en": "Soaring Skyfish",
+   "ro": "Peștele plutitor al cerului"
+  },
+  {
+   "key": "BOSS_NAME_FoxMage_TextData",
+   "en": "Fire-Licked Furball",
+   "ro": "Ghemotoc lins de flăcări"
+  },
+  {
+   "key": "BOSS_NAME_Ganesha_TextData",
+   "en": "Adorable Watering Can",
+   "ro": "Stropitoare adorabilă"
+  },
+  {
+   "key": "BOSS_NAME_Garm_TextData",
+   "en": "Hunter of the Steppe",
+   "ro": "Vânătorul stepei"
+  },
+  {
+   "key": "BOSS_NAME_GhostBeast_TextData",
+   "en": "Messenger of Death",
+   "ro": "Mesagerul morții"
+  },
+  {
+   "key": "BOSS_NAME_Gorilla_TextData",
+   "en": "Jungle Punk",
+   "ro": "Punkistul junglei"
+  },
+  {
+   "key": "BOSS_NAME_GrassDragon_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "BOSS_NAME_GrassMammoth_TextData",
+   "en": "King of the Forest",
+   "ro": "Regele pădurii"
+  },
+  {
+   "key": "BOSS_NAME_GrassMammoth_Ice_TextData",
+   "en": "King of the Tundra",
+   "ro": "Regele tundrei"
+  },
+  {
+   "key": "BOSS_NAME_GrassPanda_TextData",
+   "en": "Wanderer of the Forest",
+   "ro": "Hoinarul pădurii"
+  },
+  {
+   "key": "BOSS_NAME_GrassPanda_Electric_TextData",
+   "en": "Inheritor of the Storm",
+   "ro": "Moștenitorul furtunii"
+  },
+  {
+   "key": "BOSS_NAME_GrassRabbitMan_TextData",
+   "en": "Gale of the Forest",
+   "ro": "Vijelia pădurii"
+  },
+  {
+   "key": "BOSS_NAME_GuardianDog_TextData",
+   "en": "Unwavering Loyalty",
+   "ro": "Loialitate neclintită"
+  },
+  {
+   "key": "BOSS_NAME_HadesBird_TextData",
+   "en": "Wings of The Underworld",
+   "ro": "Aripile lumii de dincolo"
+  },
+  {
+   "key": "BOSS_NAME_HawkBird_TextData",
+   "en": "Wings of the Firmament",
+   "ro": "Aripile bolții cerești"
+  },
+  {
+   "key": "BOSS_NAME_Hedgehog_TextData",
+   "en": "Don't Touch!",
+   "ro": "Nu atinge!"
+  },
+  {
+   "key": "BOSS_NAME_Hedgehog_Ice_TextData",
+   "en": "Watch Your Feet!",
+   "ro": "Atenție la picioare!"
+  },
+  {
+   "key": "BOSS_NAME_HerculesBeetle_TextData",
+   "en": "Unyielding Colossus",
+   "ro": "Colos neclintit"
+  },
+  {
+   "key": "BOSS_NAME_Horus_TextData",
+   "en": "Sentinel of Dawn",
+   "ro": "Santinela Zorilor"
+  },
+  {
+   "key": "BOSS_NAME_IceDeer_TextData",
+   "en": "Frosthorn Beast",
+   "ro": "Bestia cu coarne de gheață"
+  },
+  {
+   "key": "BOSS_NAME_IceFox_TextData",
+   "en": "Frostbound Fox",
+   "ro": "Vulpea înghețată"
+  },
+  {
+   "key": "BOSS_NAME_IceHorse_TextData",
+   "en": "Legendary Steed of Ice",
+   "ro": "Armăsarul legendar al gheții"
+  },
+  {
+   "key": "BOSS_NAME_IceHorse_Dark_TextData",
+   "en": "Legendary Steed of Darkness",
+   "ro": "Armăsarul legendar al întunericului"
+  },
+  {
+   "key": "BOSS_NAME_JetDragon_TextData",
+   "en": "Legendary Celestial Dragon",
+   "ro": "Dragonul ceresc legendar"
+  },
+  {
+   "key": "BOSS_NAME_Kelpie_TextData",
+   "en": "Child of the Deep",
+   "ro": "Copilul adâncurilor"
+  },
+  {
+   "key": "BOSS_NAME_Kelpie_Fire_TextData",
+   "en": "Child of the Molten Depths",
+   "ro": "Copilul adâncurilor de lavă"
+  },
+  {
+   "key": "BOSS_NAME_KingAlpaca_TextData",
+   "en": "Supreme Fluff Commander",
+   "ro": "Comandantul suprem al pufului"
+  },
+  {
+   "key": "BOSS_NAME_KingAlpaca_Ice_TextData",
+   "en": "Azure Fluff Commander",
+   "ro": "Comandantul azuriu al pufului"
+  },
+  {
+   "key": "BOSS_NAME_KingBahamut_TextData",
+   "en": "Cursed Tyrant",
+   "ro": "Tiranul blestemat"
+  },
+  {
+   "key": "BOSS_NAME_Kirin_TextData",
+   "en": "Swift Deity",
+   "ro": "Divinitatea iute"
+  },
+  {
+   "key": "BOSS_NAME_Kitsunebi_TextData",
+   "en": "Revealer of Paths",
+   "ro": "Călăuza cărărilor"
+  },
+  {
+   "key": "BOSS_NAME_LazyDragon_TextData",
+   "en": "Gluttonous Dragon",
+   "ro": "Dragonul lacom"
+  },
+  {
+   "key": "BOSS_NAME_LazyDragon_Electric_TextData",
+   "en": "Gluttonous Thunder Dragon",
+   "ro": "Dragonul de trăsnet lacom"
+  },
+  {
+   "key": "BOSS_NAME_LilyQueen_TextData",
+   "en": "Empress of Lilies",
+   "ro": "Împărăteasa crinilor"
+  },
+  {
+   "key": "BOSS_NAME_LilyQueen_Dark_TextData",
+   "en": "Empress of the Abyss",
+   "ro": "Împărăteasa abisului"
+  },
+  {
+   "key": "BOSS_NAME_LittleBriarRose_TextData",
+   "en": "Thorny Rose",
+   "ro": "Trandafirul spinos"
+  },
+  {
+   "key": "BOSS_NAME_LizardMan_TextData",
+   "en": "Self-Proclaimed Genius",
+   "ro": "Geniul autoproclamat"
+  },
+  {
+   "key": "BOSS_NAME_LizardMan_Fire_TextData",
+   "en": "Self-Proclaimed Fashionista",
+   "ro": "Fashionistul autoproclamat"
+  },
+  {
+   "key": "BOSS_NAME_Manticore_TextData",
+   "en": "Crimson Goliath",
+   "ro": "Goliatul purpuriu"
+  },
+  {
+   "key": "BOSS_NAME_Manticore_Dark_TextData",
+   "en": "Inferno Goliath",
+   "ro": "Goliatul infernului"
+  },
+  {
+   "key": "BOSS_NAME_Monkey_TextData",
+   "en": "Dexterous Primate",
+   "ro": "Primatul îndemânatic"
+  },
+  {
+   "key": "BOSS_NAME_MopBaby_TextData",
+   "en": "Curious Floof",
+   "ro": "Ghemotocul curios"
+  },
+  {
+   "key": "BOSS_NAME_MopKing_TextData",
+   "en": "King of the Floof",
+   "ro": "Regele ghemotoacelor de blană"
+  },
+  {
+   "key": "BOSS_NAME_Mutant_TextData",
+   "en": "Extraterrestrial",
+   "ro": "Extraterestrul"
+  },
+  {
+   "key": "BOSS_NAME_NaughtyCat_TextData",
+   "en": "Marshmallow Body",
+   "ro": "Trup de bezea"
+  },
+  {
+   "key": "BOSS_NAME_NegativeKoala_TextData",
+   "en": "Several Sleepless Nights Later",
+   "ro": "După câteva nopți albe"
+  },
+  {
+   "key": "BOSS_NAME_NegativeOctopus_TextData",
+   "en": "Emotionless",
+   "ro": "Lipsit de emoții"
+  },
+  {
+   "key": "BOSS_NAME_NightFox_TextData",
+   "en": "Nighttime Prince",
+   "ro": "Prințul nopții"
+  },
+  {
+   "key": "BOSS_NAME_Penguin_TextData",
+   "en": "Ate Too Much",
+   "ro": "A mâncat prea mult"
+  },
+  {
+   "key": "BOSS_NAME_PinkCat_TextData",
+   "en": "The Cat's Pajamas",
+   "ro": "Miezul din gogoașă"
+  },
+  {
+   "key": "BOSS_NAME_PinkKangaroo_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "BOSS_NAME_PinkLizard_TextData",
+   "en": "Pal on the Prowl",
+   "ro": "Pal la agățat"
+  },
+  {
+   "key": "BOSS_NAME_PinkRabbit_TextData",
+   "en": "Heart-Melting Smile",
+   "ro": "Zâmbet răvășitor"
+  },
+  {
+   "key": "BOSS_NAME_PlantSlime_TextData",
+   "en": "Suddenly Transformed",
+   "ro": "Transformat pe neașteptate"
+  },
+  {
+   "key": "BOSS_NAME_QueenBee_TextData",
+   "en": "Empress of the Hive",
+   "ro": "Împărăteasa stupului"
+  },
+  {
+   "key": "BOSS_NAME_RaijinDaughter_TextData",
+   "en": "Born of the Storm",
+   "ro": "Născută din furtună"
+  },
+  {
+   "key": "BOSS_NAME_RedArmorBird_TextData",
+   "en": "Wings of Inferno",
+   "ro": "Aripile infernului"
+  },
+  {
+   "key": "BOSS_NAME_RobinHood_TextData",
+   "en": "Archer of the Forest",
+   "ro": "Arcașul pădurii"
+  },
+  {
+   "key": "BOSS_NAME_RobinHood_Ground_TextData",
+   "en": "Archer of the Sands",
+   "ro": "Arcașul nisipurilor"
+  },
+  {
+   "key": "BOSS_NAME_Ronin_TextData",
+   "en": "Vagrant Warrior",
+   "ro": "Războinic rătăcitor"
+  },
+  {
+   "key": "BOSS_NAME_SaintCentaur_TextData",
+   "en": "Holy Knight of Legend",
+   "ro": "Cavalerul sfânt de legendă"
+  },
+  {
+   "key": "BOSS_NAME_SakuraSaurus_TextData",
+   "en": "Winds of Spring",
+   "ro": "Vânturile primăverii"
+  },
+  {
+   "key": "BOSS_NAME_SakuraSaurus_Water_TextData",
+   "en": "Waves of Summer",
+   "ro": "Valurile verii"
+  },
+  {
+   "key": "BOSS_NAME_ScorpionMan_TextData",
+   "en": "Bad Boy",
+   "ro": "Băiat rău"
+  },
+  {
+   "key": "BOSS_NAME_Serpent_TextData",
+   "en": "The Ocean's Wrath",
+   "ro": "Furia Oceanului"
+  },
+  {
+   "key": "BOSS_NAME_Serpent_Ground_TextData",
+   "en": "The Desert's Wrath",
+   "ro": "Furia Deșertului"
+  },
+  {
+   "key": "BOSS_NAME_SkyDragon_TextData",
+   "en": "Snow-White Soarer",
+   "ro": "Zburătorul Alb ca Zăpada"
+  },
+  {
+   "key": "BOSS_NAME_SharkKid_TextData",
+   "en": "Sea Thug",
+   "ro": "Bătăușul Mării"
+  },
+  {
+   "key": "BOSS_NAME_SharkKid_Fire_TextData",
+   "en": "Volcano Thug",
+   "ro": "Bătăușul Vulcanului"
+  },
+  {
+   "key": "BOSS_NAME_SheepBall_TextData",
+   "en": "Big Floof",
+   "ro": "Marele Pufos"
+  },
+  {
+   "key": "BOSS_NAME_SifuDog_TextData",
+   "en": "State of Enlightenment",
+   "ro": "Stare de Iluminare"
+  },
+  {
+   "key": "BOSS_NAME_SoldierBee_TextData",
+   "en": "Captain of the Guard",
+   "ro": "Căpitanul Gărzii"
+  },
+  {
+   "key": "BOSS_NAME_Suzaku_TextData",
+   "en": "Ruler of the Crimson Dawn",
+   "ro": "Stăpânul Zorilor Purpurii"
+  },
+  {
+   "key": "BOSS_NAME_Suzaku_Water_TextData",
+   "en": "Ruler of the Cobalt Dusk",
+   "ro": "Stăpânul Amurgului de Cobalt"
+  },
+  {
+   "key": "BOSS_NAME_SweetsSheep_TextData",
+   "en": "Giant Cotton Candy",
+   "ro": "Vată de Zahăr Uriașă"
+  },
+  {
+   "key": "BOSS_NAME_ThunderBird_TextData",
+   "en": "Wings of Thunderbolt",
+   "ro": "Aripile Trăsnetului"
+  },
+  {
+   "key": "BOSS_NAME_ThunderDog_TextData",
+   "en": "Electro-Charged Zoomies",
+   "ro": "Alergătură Electrizată"
+  },
+  {
+   "key": "BOSS_NAME_ThunderDragonMan_TextData",
+   "en": "Roaring Thunder",
+   "ro": "Tunet Răsunător"
+  },
+  {
+   "key": "BOSS_NAME_Umihebi_TextData",
+   "en": "Emperor of the Sea",
+   "ro": "Împăratul Mării"
+  },
+  {
+   "key": "BOSS_NAME_Umihebi_Fire_TextData",
+   "en": "Volcanic Emperor",
+   "ro": "Împăratul Vulcanic"
+  },
+  {
+   "key": "BOSS_NAME_VioletFairy_TextData",
+   "en": "Voice of the Violets",
+   "ro": "Vocea Viorilor"
+  },
+  {
+   "key": "BOSS_NAME_VolcanicMonster_TextData",
+   "en": "Lava-Devouring Juggernaut",
+   "ro": "Colosul Devorator de Lavă"
+  },
+  {
+   "key": "BOSS_NAME_VolcanicMonster_Ice_TextData",
+   "en": "Ice-Breaking Juggernaut",
+   "ro": "Colosul Spărgător de Gheață"
+  },
+  {
+   "key": "BOSS_NAME_WaterLizard_TextData",
+   "en": "en_Text",
+   "ro": "en_Text"
+  },
+  {
+   "key": "BOSS_NAME_WeaselDragon_TextData",
+   "en": "Dancer on the Steppe",
+   "ro": "Dansatorul Stepei"
+  },
+  {
+   "key": "BOSS_NAME_Werewolf_TextData",
+   "en": "Enraptured by Moonlight",
+   "ro": "Vrăjit de Lumina Lunii"
+  },
+  {
+   "key": "BOSS_NAME_WhiteMoth_TextData",
+   "en": "Pallid Lady",
+   "ro": "Doamna Palidă"
+  },
+  {
+   "key": "BOSS_NAME_WhiteTiger_TextData",
+   "en": "Predator of Snowy Peaks",
+   "ro": "Prădătorul Vârfurilor Înzăpezite"
+  },
+  {
+   "key": "BOSS_NAME_WindChimes_TextData",
+   "en": "Bringer of Luck",
+   "ro": "Aducătorul de Noroc"
+  },
+  {
+   "key": "BOSS_NAME_WindChimes_Ice_TextData",
+   "en": "Glacial Harbinger",
+   "ro": "Vestitorul Glaciar"
+  },
+  {
+   "key": "BOSS_NAME_WingGolem_TextData",
+   "en": "Suit of Armor",
+   "ro": "Armură Însuflețită"
+  },
+  {
+   "key": "BOSS_NAME_WizardOwl_TextData",
+   "en": "Purveyor of Wisdom",
+   "ro": "Răspânditorul Înțelepciunii"
+  },
+  {
+   "key": "BOSS_NAME_Yeti_TextData",
+   "en": "Guardian of the Snowy Fields",
+   "ro": "Păzitorul Câmpiilor Înzăpezite"
+  },
+  {
+   "key": "BOSS_NAME_Yeti_Grass_TextData",
+   "en": "Guardian of the Grassy Fields",
+   "ro": "Păzitorul Pajiștilor Verzi"
+  },
+  {
+   "key": "BOSS_NAME_WoolFox_TextData",
+   "en": "Darling Furball",
+   "ro": "Ghemotoc Scump"
+  },
+  {
+   "key": "BOSS_NAME_LazyCatfish_TextData",
+   "en": "Perpetual Procrastinator",
+   "ro": "Procrastinator perpetuu"
+  },
+  {
+   "key": "GYM_NAME_Meadow_TextData",
+   "en": "Rayne Syndicate Boss",
+   "ro": "Bossul Sindicatului Rayne"
+  },
+  {
+   "key": "GYM_NAME_Forest_TextData",
+   "en": "Free Pal Alliance Founder",
+   "ro": "Fondatoarea Alianței Pal Liber"
+  },
+  {
+   "key": "GYM_NAME_Desert_TextData",
+   "en": "PIDF Commander",
+   "ro": "Comandant PIDF"
+  },
+  {
+   "key": "GYM_NAME_Volcano_TextData",
+   "en": "Brothers of the Eternal Pyre Soul Leader",
+   "ro": "Liderul spiritual al Fraților Rugului Etern"
+  },
+  {
+   "key": "GYM_NAME_Snow_TextData",
+   "en": "PAL Genetic Research Unit Commander",
+   "ro": "Comandantul Unității de Cercetare Genetică Pal"
+  },
+  {
+   "key": "GYM_NAME_Sakurajima_TextData",
+   "en": "Leader of the Moonflowers",
+   "ro": "Lidera florilor de lună"
+  },
+  {
+   "key": "GYM_NAME_Viking_TextData",
+   "en": "Jarl of Feybreak ",
+   "ro": "Jarl din Feybreak "
+  },
+  {
+   "key": "BOSS_NAME_LavaGirl_TextData",
+   "en": "Molten Daughter",
+   "ro": "Fiica magmei"
+  },
+  {
+   "key": "BOSS_NAME_FlameBambi_TextData",
+   "en": "Chief of the Herd",
+   "ro": "Căpetenia turmei"
+  },
+  {
+   "key": "BOSS_NAME_NightLady_TextData",
+   "en": "Eclipsed Siren",
+   "ro": "Sirena eclipsată"
+  },
+  {
+   "key": "BOSS_NAME_NightLady_Dark_TextData",
+   "en": "Twilight Siren",
+   "ro": "Sirena amurgului"
+  },
+  {
+   "key": "RAID_NAME_NightLady_TextData",
+   "en": "Eclipsed Siren",
+   "ro": "Sirena eclipsată"
+  },
+  {
+   "key": "RAID_NAME_NightLady_Dark_TextData",
+   "en": "Twilight Siren",
+   "ro": "Sirena amurgului"
+  },
+  {
+   "key": "RAID_NAME_NightLady_Dark_2_TextData",
+   "en": "Twilight Siren (Ultra)",
+   "ro": "Sirena amurgului (Ultra)"
+  },
+  {
+   "key": "RAID_NAME_KingBahamut_Dragon_TextData",
+   "en": "Incarnation of the Eternal Flame",
+   "ro": "Încarnarea Flăcării Eterne"
+  },
+  {
+   "key": "RAID_NAME_KingBahamut_Dragon_2_TextData",
+   "en": "Incarnation of the Eternal Flame (Ultra)",
+   "ro": "Încarnarea Flăcării Eterne (Ultra)"
+  },
+  {
+   "key": "BOSS_NAME_KingBahamut_Dragon_TextData",
+   "en": "Incarnation of the Eternal Flame",
+   "ro": "Încarnarea Flăcării Eterne"
+  },
+  {
+   "key": "BOSS_NAME_MoonQueen_TextData",
+   "en": "Crescent of the Darkest Night",
+   "ro": "Semiluna celei mai întunecate nopți"
+  },
+  {
+   "key": "BOSS_NAME_CandleGhost_TextData",
+   "en": "Flickering Flame",
+   "ro": "Flacără pâlpâitoare"
+  },
+  {
+   "key": "BOSS_NAME_DarkAlien_TextData",
+   "en": "Interloper from Outer Space",
+   "ro": "Intrus din spațiul cosmic"
+  },
+  {
+   "key": "BOSS_NAME_WhiteAlienDragon_TextData",
+   "en": "Planet-Devouring Dragon",
+   "ro": "Dragonul devorator de planete"
+  },
+  {
+   "key": "BOSS_NAME_LeafPrincess_TextData",
+   "en": "Primal Source of Hay Fever",
+   "ro": "Sursa primordială a rinitei alergice"
+  },
+  {
+   "key": "BOSS_NAME_SmallArmadillo_TextData",
+   "en": "Armored to the Teeth",
+   "ro": "Înarmat până-n dinți"
+  },
+  {
+   "key": "BOSS_NAME_KendoFrog_TextData",
+   "en": "Harakiri Master",
+   "ro": "Maestru al harakiri-ului"
+  },
+  {
+   "key": "BOSS_NAME_MimicDog_TextData",
+   "en": "Treasure Trove",
+   "ro": "Cufăr cu comori"
+  },
+  {
+   "key": "BOSS_NAME_MushroomDragon_TextData",
+   "en": "Creeping Mushroom",
+   "ro": "Ciupercă târâtoare"
+  },
+  {
+   "key": "BOSS_NAME_MushroomDragon_Dark_TextData",
+   "en": "Dangerous Mushroom",
+   "ro": "Ciupercă periculoasă"
+  },
+  {
+   "key": "BOSS_NAME_DarkScorpion_Ground_TextData",
+   "en": "Gold-Piercing Spear",
+   "ro": "Suliță ce străpunge aurul"
+  },
+  {
+   "key": "BOSS_NAME_WeaselDragon_Fire_TextData",
+   "en": "Cherry Blossom Dancer",
+   "ro": "Dansator printre flori de cireș"
+  },
+  {
+   "key": "BOSS_NAME_SkyDragon_Grass_TextData",
+   "en": "Evergreen Flyer",
+   "ro": "Zburător pururi-verde"
+  },
+  {
+   "key": "BOSS_NAME_HerculesBeetle_Ground_TextData",
+   "en": "Gold-Armored Warrior",
+   "ro": "Războinic cu armură de aur"
+  },
+  {
+   "key": "BOSS_NAME_Gorilla_Ground_TextData",
+   "en": "Up for a Brawl",
+   "ro": "Gata de bătaie"
+  },
+  {
+   "key": "BOSS_NAME_HadesBird_Electric_TextData",
+   "en": "Wings of Netherstorm",
+   "ro": "Aripile Furtunii de Jos"
+  },
+  {
+   "key": "BOSS_NAME_Ronin_Dark_TextData",
+   "en": "Samurai of Darkness",
+   "ro": "Samuraiul Întunericului"
+  },
+  {
+   "key": "BOSS_NAME_CatMage_Fire_TextData",
+   "en": "Fire-Licked Feline",
+   "ro": "Felină Linsă de Foc"
+  },
+  {
+   "key": "BOSS_NAME_FoxMage_Dark_TextData",
+   "en": "Phantasmal Furball",
+   "ro": "Ghem Fantomatic de Blană"
+  },
+  {
+   "key": "BOSS_NAME_Hunter_Rifle_TextData",
+   "en": "Amateur Hunter",
+   "ro": "Vânător Amator"
+  },
+  {
+   "key": "BOSS_NAME_Hunter_Fat_GatlingGun_TextData",
+   "en": "Intimidating Interviewer",
+   "ro": "Intervievator Intimidant"
+  },
+  {
+   "key": "BOSS_NAME_Believer_CrossBow_TextData",
+   "en": "Gloating Narcissist",
+   "ro": "Narcisist Încrezut"
+  },
+  {
+   "key": "BOSS_NAME_Believer_Fat_GiantClub_TextData",
+   "en": "Hostile Defender",
+   "ro": "Apărător Ostil"
+  },
+  {
+   "key": "BOSS_NAME_Police_Rifle_TextData",
+   "en": "Workplace Tyrant",
+   "ro": "Tiran la Locul de Muncă"
+  },
+  {
+   "key": "BOSS_NAME_FireCult_FlameThrower_TextData",
+   "en": "Black Magic Fanatic",
+   "ro": "Fanatic al Magiei Negre"
+  },
+  {
+   "key": "BOSS_NAME_Scientist_LaserRifle_TextData",
+   "en": "Kidnapper",
+   "ro": "Răpitor"
+  },
+  {
+   "key": "BOSS_NAME_Ninja_TextData",
+   "en": "Blundering Klutz",
+   "ro": "Împiedicat Nătâng"
+  },
+  {
+   "key": "BOSS_NAME_NinjaElite_TextData",
+   "en": "Street Assassin",
+   "ro": "Asasin de Stradă"
+  },
+  {
+   "key": "BOSS_NAME_Female_Soldier_TextData",
+   "en": "Scam Artist",
+   "ro": "Escroc"
+  },
+  {
+   "key": "BOSS_NAME_Female_Soldier02_TextData",
+   "en": "Attention-Seeking Monster",
+   "ro": "Monstru Dornic de Atenție"
+  },
+  {
+   "key": "BOSS_NAME_Female_Soldier03_TextData",
+   "en": "Pineapple Pizza Enthusiast",
+   "ro": "Fanatică a pizzei cu ananas"
+  },
+  {
+   "key": "BOSS_NAME_Female_Soldier04_TextData",
+   "en": "Dango Thief",
+   "ro": "Hoțomană de dango"
+  },
+  {
+   "key": "BOSS_NAME_Male_Soldier_TextData",
+   "en": "Insurance Fraudster",
+   "ro": "Fraudator de asigurări"
+  },
+  {
+   "key": "BOSS_NAME_Male_Soldier02_TextData",
+   "en": "Prolific Smoker",
+   "ro": "Fumător înrăit"
+  },
+  {
+   "key": "BOSS_NAME_Male_Soldier03_TextData",
+   "en": "Trigger-Happy Gunslinger",
+   "ro": "Pistolar cu degetul pe trăgaci"
+  },
+  {
+   "key": "BOSS_NAME_Male_Soldier04_TextData",
+   "en": "Cattle Rustler",
+   "ro": "Hoț de vite"
+  },
+  {
+   "key": "BOSS_NAME_Female_People_TextData",
+   "en": "Pyromaniac",
+   "ro": "Piromană"
+  },
+  {
+   "key": "BOSS_NAME_Female_People02_TextData",
+   "en": "Serial Cheater",
+   "ro": "Trișoare în serie"
+  },
+  {
+   "key": "BOSS_NAME_Female_People03_TextData",
+   "en": "Bounty Hunter Hunter",
+   "ro": "Vânătoare de vânători de recompense"
+  },
+  {
+   "key": "BOSS_NAME_Male_People_TextData",
+   "en": "Twin Bombers",
+   "ro": "Bombardieri gemeni"
+  },
+  {
+   "key": "BOSS_NAME_Male_People02_TextData",
+   "en": "Well-Meaning Quack",
+   "ro": "Șarlatan bine intenționat"
+  },
+  {
+   "key": "BOSS_NAME_Male_People03_TextData",
+   "en": "Dine-and-Dasher",
+   "ro": "Mâncător fără plată"
+  },
+  {
+   "key": "BOSS_NAME_Male_DesertPeople_TextData",
+   "en": "Escape Artist",
+   "ro": "Maestru al evadărilor"
+  },
+  {
+   "key": "BOSS_NAME_Female_DesertPeople_TextData",
+   "en": "Chronic Spoiler",
+   "ro": "Spoliatoare cronică"
+  },
+  {
+   "key": "BOSS_NAME_Viking_TextData",
+   "en": "Cannibal",
+   "ro": "Canibal"
+  },
+  {
+   "key": "BOSS_NAME_VikingElite_TextData",
+   "en": "Human Collector",
+   "ro": "Colecționar de oameni"
+  },
+  {
+   "key": "BOSS_NAME_Police_Old_TextData",
+   "en": "Serial Borrower ",
+   "ro": "Împrumutător în serie"
+  },
+  {
+   "key": "BOSS_NAME_DarkTrader_TextData",
+   "en": "Uninvited Guest",
+   "ro": "Oaspete nepoftit"
+  },
+  {
+   "key": "BOSS_NAME_Male_Trader01_TextData",
+   "en": "Serial Embezzler",
+   "ro": "Delapidator în serie"
+  },
+  {
+   "key": "BOSS_NAME_Male_Trader02_TextData",
+   "en": "Counterfeiter",
+   "ro": "Falsificator"
+  },
+  {
+   "key": "BOSS_NAME_Male_Trader03_TextData",
+   "en": "Horse Rustler",
+   "ro": "Hoț de cai"
+  },
+  {
+   "key": "BOSS_NAME_Hunter_Fat_GatlingGun_Quest_StrongOldMan_TextData",
+   "en": "Bag Snatcher",
+   "ro": "Hoț de genți"
+  },
+  {
+   "key": "PREDATOR_NAME_TextData",
+   "en": "Rampaging",
+   "ro": "Dezlănțuit"
+  },
+  {
+   "key": "RAID_NAME_DarkMechaDragon_TextData",
+   "en": "Invader from Space",
+   "ro": "Invadator din spațiu"
+  },
+  {
+   "key": "RAID_NAME_DarkMechaDragon_2_TextData",
+   "en": "Invader from Space (Ultra)",
+   "ro": "Invadator din spațiu (Ultra)"
+  },
+  {
+   "key": "BOSS_NAME_SecurityDrone_TextData",
+   "en": "Syndicate Secret Weapon",
+   "ro": "Arma secretă a Sindicatului"
+  },
+  {
+   "key": "BOSS_NAME_GoldenHorse_TextData",
+   "en": "Guardian Beast of Twilight",
+   "ro": "Bestia păzitoare a amurgului"
+  },
+  {
+   "key": "BOSS_NAME_BadCatgirl_TextData",
+   "en": "Night Shade Hunter",
+   "ro": "Vânător din umbra nopții"
+  },
+  {
+   "key": "BOSS_NAME_BlueberryFairy_TextData",
+   "en": "Indigo Handmaiden",
+   "ro": "Slujnica indigo"
+  },
+  {
+   "key": "BOSS_NAME_DarkMechaDragon_TextData",
+   "en": "Invader from Space",
+   "ro": "Invadator din spațiu"
+  },
+  {
+   "key": "BOSS_NAME_GhostRabbit_TextData",
+   "en": "Soul of the Dark Rabbit",
+   "ro": "Sufletul iepurelui întunecat"
+  },
+  {
+   "key": "BOSS_NAME_NightBlueHorse_TextData",
+   "en": "Midnight Blue Mane",
+   "ro": "Coamă Albastră ca Miezul Nopții"
+  },
+  {
+   "key": "BOSS_NAME_WhiteShieldDragon_TextData",
+   "en": "Guardian Dragon of Ironclad",
+   "ro": "Dragonul Păzitor al Blindajului"
+  },
+  {
+   "key": "BOSS_NAME_BlackPuppy_TextData",
+   "en": "Jet-Black Little Hero",
+   "ro": "Micul Erou Negru ca Păcura"
+  },
+  {
+   "key": "BOSS_NAME_WhiteDeer_TextData",
+   "en": "Beast of Salvation",
+   "ro": "Fiara Mântuirii"
+  },
+  {
+   "key": "BOSS_NAME_MysteryMask_TextData",
+   "en": "Hundred-Faced Apostle",
+   "ro": "Apostolul cu o Sută de Fețe"
+  },
+  {
+   "key": "BOSS_NAME_GrimGirl_TextData",
+   "en": "Crimson Butcher",
+   "ro": "Măcelarul Purpuriu"
+  },
+  {
+   "key": "BOSS_NAME_PurpleSpider_TextData",
+   "en": "Tactician of the Thread Realm",
+   "ro": "Tacticianul Tărâmului de Fire"
+  },
+  {
+   "key": "BOSS_NAME_BlueThunderHorse_TextData",
+   "en": "Blue Lightning Steed",
+   "ro": "Armăsarul Fulgerului Albastru"
+  },
+  {
+   "key": "BOSS_NAME_SnowTigerBeastman_TextData",
+   "en": "King of Frostfang",
+   "ro": "Regele Colților de Gheață"
+  },
+  {
+   "key": "BOSS_NAME_Kitsunebi_Ice_TextData",
+   "en": "Icy Blossom Voyager",
+   "ro": "Călătorul Florii Înghețate"
+  },
+  {
+   "key": "BOSS_NAME_RaijinDaughter_Water_TextData",
+   "en": "Born of the Thunderclouds",
+   "ro": "Născută din Norii de Furtună"
+  },
+  {
+   "key": "BOSS_NAME_WhiteTiger_Ground_TextData",
+   "en": "Predator of the Earth",
+   "ro": "Prădătorul Pământului"
+  },
+  {
+   "key": "BOSS_NAME_FengyunDeeper_Electric_TextData",
+   "en": "Drifting Thundercloud",
+   "ro": "Nor de Furtună în Derivă"
+  },
+  {
+   "key": "BOSS_NAME_BerryGoat_Dark_TextData",
+   "en": "Tainted Farm",
+   "ro": "Ferma Pângărită"
+  },
+  {
+   "key": "BOSS_NAME_Werewolf_Ice_TextData",
+   "en": "Enraptured by the Frozen Moonlight",
+   "ro": "Fascinat de Lumina Lunii Înghețate"
+  },
+  {
+   "key": "BOSS_NAME_Horus_Water_TextData",
+   "en": "Sentinel of the Tides",
+   "ro": "Santinela Mareelor"
+  },
+  {
+   "key": "BOSS_NAME_PinkRabbit_Grass_TextData",
+   "en": "Sparkling Smile",
+   "ro": "Zâmbet Strălucitor"
+  },
+  {
+   "key": "BOSS_NAME_AmaterasuWolf_Dark_TextData",
+   "en": "Guardian of the Dark Flame",
+   "ro": "Păzitorul Flăcării Întunecate"
+  },
+  {
+   "key": "BOSS_NAME_TentacleTurtle_TextData",
+   "en": "Mini Fortress",
+   "ro": "Mini Fortăreață"
+  },
+  {
+   "key": "BOSS_NAME_OctopusGirl_TextData",
+   "en": "Trickster of the Sea",
+   "ro": "Ștrengarul Mărilor"
+  },
+  {
+   "key": "BOSS_NAME_IceNarwhal_TextData",
+   "en": "Gentle Ice Lance",
+   "ro": "Suliță de Gheață Blândă"
+  },
+  {
+   "key": "BOSS_NAME_JellyfishFairy_TextData",
+   "en": "Sunlight Drifter",
+   "ro": "Hoinar în Lumina Soarelui"
+  },
+  {
+   "key": "BOSS_NAME_JellyfishGhost_TextData",
+   "en": "Shade Drifter",
+   "ro": "Hoinar în Umbră"
+  },
+  {
+   "key": "BOSS_NAME_GhostAnglerfish_TextData",
+   "en": "Temptation in the Deep",
+   "ro": "Tentația din Adâncuri"
+  },
+  {
+   "key": "BOSS_NAME_IceWitch_TextData",
+   "en": "Icy Smile",
+   "ro": "Zâmbet Înghețat"
+  },
+  {
+   "key": "BOSS_NAME_LeafMomonga_TextData",
+   "en": "Percussive Maintenance",
+   "ro": "Mentenanță prin Lovire"
+  },
+  {
+   "key": "BOSS_NAME_IceCrocodile_TextData",
+   "en": "Walking Refrigerator",
+   "ro": "Frigider Umblător"
+  },
+  {
+   "key": "BOSS_NAME_StuffedShark_TextData",
+   "en": "Eyes from the Abyss",
+   "ro": "Ochi din Abis"
+  },
+  {
+   "key": "BOSS_NAME_IceSeal_TextData",
+   "en": "Idol on Ice",
+   "ro": "Idol pe Gheață"
+  },
+  {
+   "key": "BOSS_NAME_Plesiosaur_TextData",
+   "en": "Ancient Bloombringer",
+   "ro": "Aducătorul Străvechi de Flori"
+  },
+  {
+   "key": "BOSS_NAME_TropicalOstrich_TextData",
+   "en": "No Dance, No Life",
+   "ro": "Fără dans, nu există viață"
+  },
+  {
+   "key": "BOSS_NAME_SnowPeafowl_TextData",
+   "en": "Snowlaced Feather Mantle",
+   "ro": "Mantia cu pene înzăpezite"
+  },
+  {
+   "key": "BOSS_NAME_PoseidonOrca_TextData",
+   "en": "Legend of the Seas",
+   "ro": "Legenda mărilor"
+  },
+  {
+   "key": "BOSS_NAME_NegativeOctopus_Neutral_TextData",
+   "en": "Devoid of Emotion",
+   "ro": "Lipsit de emoție"
+  },
+  {
+   "key": "BOSS_NAME_Penguin_Electric_TextData",
+   "en": "Had One Too Many",
+   "ro": "Băut peste măsură"
+  },
+  {
+   "key": "BOSS_NAME_CaptainPenguin_Black_TextData",
+   "en": "Pioneer of the Black",
+   "ro": "Pionierul negrului"
+  },
+  {
+   "key": "BOSS_NAME_FlyingManta_Thunder_TextData",
+   "en": "Sky-Swimming Fish",
+   "ro": "Peștele care înoată pe cer"
+  },
+  {
+   "key": "BOSS_NAME_BluePlatypus_Fire_TextData",
+   "en": "Runaway Wave Rider",
+   "ro": "Călărețul fugar al valurilor"
+  },
+  {
+   "key": "BOSS_NAME_LazyCatfish_Gold_TextData",
+   "en": "Piece of Cake",
+   "ro": "Floare la ureche"
+  },
+  {
+   "key": "BOSS_NAME_TentacleTurtle_Ground_TextData",
+   "en": "Golden Fortress",
+   "ro": "Fortăreața aurie"
+  },
+  {
+   "key": "BOSS_NAME_KendoFrog_Dark_TextData",
+   "en": "Natural Born Killer",
+   "ro": "Născut pentru a ucide"
+  },
+  {
+   "key": "BOSS_NAME_BlueDragon_Ice_TextData",
+   "en": "Lady of the Frozen Lake",
+   "ro": "Doamna lacului înghețat"
+  },
+  {
+   "key": "BOSS_NAME_IceNarwhal_Fire_TextData",
+   "en": "Gentle Crimson Lance",
+   "ro": "Blânda lance purpurie"
+  },
+  {
+   "key": "BOSS_NAME_GhostAnglerfish_Fire_TextData",
+   "en": "Longing in the Deep",
+   "ro": "Tânjire în adâncuri"
+  },
+  {
+   "key": "BOSS_NAME_StuffedShark_Fire_TextData",
+   "en": "Eyes from the Flames",
+   "ro": "Ochi din flăcări"
+  },
+  {
+   "key": "RAID_NAME_YakushimaBoss002_2_TextData",
+   "en": "[Master]",
+   "ro": "[Maestru]"
+  },
+  {
+   "key": "BOSS_NAME_LegendDeer_TextData",
+   "en": "King of Salvation",
+   "ro": "Regele Mântuirii"
+  },
+  {
+   "key": "RAID_NAME_LegendDeer_TextData",
+   "en": "King of Salvation",
+   "ro": "Regele Mântuirii"
+  },
+  {
+   "key": "RAID_NAME_LegendDeer_2_TextData",
+   "en": "King of Salvation (Ultra)",
+   "ro": "Regele Mântuirii (Ultra)"
+  },
+  {
+   "key": "BOSS_NAME_ElecPandaBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "BOSS_NAME_LilyQueenBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "BOSS_NAME_ThunderDragonManBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "BOSS_NAME_HorusBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "BOSS_NAME_BlackGriffonBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "BOSS_NAME_MoonQueenBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "BOSS_NAME_SnowTigerBeastmanBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "BOSS_NAME_BlueSkyDragonBossRush_TextData",
+   "en": "Highly Modified",
+   "ro": "Puternic modificat"
+  },
+  {
+   "key": "GYM_NAME_Sorajima_TextData",
+   "en": "High Keeper of the Azure Covenant",
+   "ro": "Înalt protector al Legământului de Azur"
+  },
+  {
+   "key": "BOSS_NAME_KingWhale_TextData",
+   "en": "Legendary Ocean King",
+   "ro": "Legendarul rege al oceanului"
+  },
+  {
+   "key": "GYM_NAME_LastBoss_TextData",
+   "en": "Nullstar Calamity",
+   "ro": "Calamitatea Stelei Nule"
+  },
+  {
+   "key": "GYM_NAME_LastBoss_Hard_TextData",
+   "en": "Blightstar Calamity",
+   "ro": "Calamitatea Stelei Pustiitoare"
+  },
+  {
+   "key": "BOSS_NAME_WildlifeSanctuaryDrone_TextData",
+   "en": "Ancient Relic",
+   "ro": "Replică antică"
+  },
+  {
+   "key": "BOSS_NAME_VolcanoDragon_TextData",
+   "en": "Scorched Wanderer",
+   "ro": "Rătăcitorul pârjolit"
+  },
+  {
+   "key": "BOSS_NAME_VolcanoDragon_Ice_TextData",
+   "en": "Frigid Voyager",
+   "ro": "Călătorul glacial"
+  },
+  {
+   "key": "BOSS_NAME_HoodGhost_TextData",
+   "en": "Vanishing Master",
+   "ro": "Maestrul disparițiilor"
+  },
+  {
+   "key": "BOSS_NAME_Sekhmet_TextData",
+   "en": "Cutthroat Sun Snuffer",
+   "ro": "Nemilosul stingător de soare"
+  },
+  {
+   "key": "BOSS_NAME_RockBeast_TextData",
+   "en": "Shambling Vein",
+   "ro": "Filoana clătinătoare"
+  },
+  {
+   "key": "BOSS_NAME_RockBeast_Ice_TextData",
+   "en": "Shuffling Glacier",
+   "ro": "Ghețarul târâtor"
+  },
+  {
+   "key": "BOSS_NAME_MoonChild_TextData",
+   "en": "Mantle of the Night Sky",
+   "ro": "Mantia Cerului Nopții"
+  },
+  {
+   "key": "BOSS_NAME_ClownRabbit_TextData",
+   "en": "Illusionist Cottontail",
+   "ro": "Iepurașul Iluzionist"
+  },
+  {
+   "key": "BOSS_NAME_CactusDoll_TextData",
+   "en": "Prickly Welcome",
+   "ro": "Primire Țepoasă"
+  },
+  {
+   "key": "BOSS_NAME_CactusDoll_Dark_TextData",
+   "en": "Binding Spines",
+   "ro": "Spini Încătușători"
+  },
+  {
+   "key": "BOSS_NAME_GrassGolem_TextData",
+   "en": "Twinhearted Azure Construct",
+   "ro": "Construct de Azur cu Două Inimi"
+  },
+  {
+   "key": "BOSS_NAME_GrassGolem_Dark_TextData",
+   "en": "Twinhearted Violet Construct",
+   "ro": "Construct Violet cu Două Inimi"
+  },
+  {
+   "key": "BOSS_NAME_CubeTurtle_TextData",
+   "en": "Sandsea Monolith",
+   "ro": "Monolitul Mării de Nisip"
+  },
+  {
+   "key": "BOSS_NAME_CubeTurtle_Neutral_TextData",
+   "en": "Sandsea Wardenstone",
+   "ro": "Piatra de Strajă a Mării de Nisip"
+  },
+  {
+   "key": "BOSS_NAME_SamuraiDog_TextData",
+   "en": "Zealous Alpha",
+   "ro": "Alfa Zelos"
+  },
+  {
+   "key": "BOSS_NAME_MummyPal_TextData",
+   "en": "Golden Blade of Duat",
+   "ro": "Lama de Aur a Duatului"
+  },
+  {
+   "key": "BOSS_NAME_KingSunfish_TextData",
+   "en": "Buoyant Baron",
+   "ro": "Baronul Plutitor"
+  },
+  {
+   "key": "BOSS_NAME_KingSunfish_Thunder_TextData",
+   "en": "Buoyant Brigadier",
+   "ro": "Brigadierul Plutitor"
+  },
+  {
+   "key": "BOSS_NAME_MonochromeQueen_TextData",
+   "en": "Veiled Dancer of Dusk",
+   "ro": "Dansatoarea Voalată a Amurgului"
+  },
+  {
+   "key": "BOSS_NAME_ElecSnail_TextData",
+   "en": "Sluggish Blue Bolt",
+   "ro": "Fulgerul Albastru Încet"
+  },
+  {
+   "key": "BOSS_NAME_ElecSnail_Ground_TextData",
+   "en": "Sluggish Dazzling Flash",
+   "ro": "Sclipirea Orbitoare Înceată"
+  },
+  {
+   "key": "BOSS_NAME_SumoDog_TextData",
+   "en": "Bangin' Yokozuna",
+   "ro": "Yokozuna bubuitor"
+  },
+  {
+   "key": "BOSS_NAME_ElecPomeranian_TextData",
+   "en": "Sulky Static",
+   "ro": "Static îmbufnat"
+  },
+  {
+   "key": "BOSS_NAME_ElecLizard_TextData",
+   "en": "Shockingly Laid-Back",
+   "ro": "Șocant de relaxat"
+  },
+  {
+   "key": "BOSS_NAME_RedFlowerBird_TextData",
+   "en": "Blooming Crooner",
+   "ro": "Cântăreț înflorit"
+  },
+  {
+   "key": "BOSS_NAME_ThiefBird_TextData",
+   "en": "Pitch Black Pilferer",
+   "ro": "Șterpelitor negru ca bezna"
+  },
+  {
+   "key": "BOSS_NAME_ThunderFluffyBird_TextData",
+   "en": "Buzzy Bundle",
+   "ro": "Ghemotoc zumzăitor"
+  },
+  {
+   "key": "BOSS_NAME_FluffyBird_TextData",
+   "en": "Totally Toasty",
+   "ro": "Complet rumenit"
+  },
+  {
+   "key": "BOSS_NAME_FoxExorcist_TextData",
+   "en": "Self-Serving Seer",
+   "ro": "Văzător oportunist"
+  },
+  {
+   "key": "BOSS_NAME_ClioneTwins_TextData",
+   "en": "Miraculously Close",
+   "ro": "Miraculos de apropiați"
+  },
+  {
+   "key": "BOSS_NAME_DandelionGirl_TextData",
+   "en": "Windborne Seedling",
+   "ro": "Lăstar purtat de vânt"
+  },
+  {
+   "key": "BOSS_NAME_SleeveRabbit_TextData",
+   "en": "Pristine Fisticuffs",
+   "ro": "Pumni imaculați"
+  },
+  {
+   "key": "BOSS_NAME_SmallYeti_TextData",
+   "en": "Alpine Dwarf",
+   "ro": "Pitic alpin"
+  },
+  {
+   "key": "BOSS_NAME_CloverFairy_TextData",
+   "en": "Dubiously Lucky",
+   "ro": "Dubios de norocos"
+  },
+  {
+   "key": "BOSS_NAME_GhostBlackCat_TextData",
+   "en": "Adorable Phantom Thief",
+   "ro": "Hoț fantomă adorabil"
+  },
+  {
+   "key": "BOSS_NAME_OniGhostGirl_TextData",
+   "en": "Freakily Cute",
+   "ro": "Bizar de drăguță"
+  },
+  {
+   "key": "BOSS_NAME_LongCat_TextData",
+   "en": "Plays Both Sides",
+   "ro": "Joacă la două capete"
+  },
+  {
+   "key": "BOSS_NAME_DarkFlameFox_TextData",
+   "en": "Flickering Shadow",
+   "ro": "Umbră pâlpâitoare"
+  },
+  {
+   "key": "BOSS_NAME_LanternButler_TextData",
+   "en": "Revealer of Truths",
+   "ro": "Dezvăluitorul adevărurilor"
+  },
+  {
+   "key": "BOSS_NAME_VenusFlytrap_TextData",
+   "en": "Open-Minded Glutton",
+   "ro": "Lacom cu mintea deschisă"
+  },
+  {
+   "key": "BOSS_NAME_SwordCutlassfish_TextData",
+   "en": "Splashy Determined Draw",
+   "ro": "Tăietură iute și zgomotoasă"
+  },
+  {
+   "key": "BOSS_NAME_SwordCutlassfish_Fire_TextData",
+   "en": "Blazing Determined Draw",
+   "ro": "Tăietură iute și arzătoare"
+  },
+  {
+   "key": "BOSS_NAME_SnakeGirl_TextData",
+   "en": "Salon Shunner",
+   "ro": "Fuga de salon"
+  },
+  {
+   "key": "BOSS_NAME_MushroomLady_TextData",
+   "en": "Cute as a Button",
+   "ro": "Drăgălașă ca o ciupercuță"
+  },
+  {
+   "key": "BOSS_NAME_Mothman_TextData",
+   "en": "Immortal Shade",
+   "ro": "Umbră nemuritoare"
+  },
+  {
+   "key": "BOSS_NAME_GhostDragon_TextData",
+   "en": "Wings of Freedom",
+   "ro": "Aripile libertății"
+  },
+  {
+   "key": "BOSS_NAME_GhostDragon_Fire_TextData",
+   "en": "Wings of Distrust",
+   "ro": "Aripile neîncrederii"
+  },
+  {
+   "key": "BOSS_NAME_FlowerPrince_TextData",
+   "en": "Bewitching Lurker",
+   "ro": "Pândar fermecător"
+  },
+  {
+   "key": "BOSS_NAME_GrassMinotaur_TextData",
+   "en": "Verdant Minotaur",
+   "ro": "Minotaurul înverzit"
+  },
+  {
+   "key": "BOSS_NAME_GrassMinotaur_Ice_TextData",
+   "en": "Frozen Minotaur",
+   "ro": "Minotaurul înghețat"
+  },
+  {
+   "key": "BOSS_NAME_LotusDragon_TextData",
+   "en": "Pure Bloom Dragon",
+   "ro": "Dragonul florii pure"
+  },
+  {
+   "key": "BOSS_NAME_PandaGirl_TextData",
+   "en": "Hardcore Heartbreaker",
+   "ro": "Seducător necruțător"
+  },
+  {
+   "key": "BOSS_NAME_KabukiMan_TextData",
+   "en": "Scorching Ovation",
+   "ro": "Ovație incandescentă"
+  },
+  {
+   "key": "BOSS_NAME_DomeArmorDragon_TextData",
+   "en": "Guardian of Luminous Trails",
+   "ro": "Păzitorul urmelor luminoase"
+  },
+  {
+   "key": "BOSS_NAME_WhiteDeer_Dark_TextData",
+   "en": "Beast of Chaos",
+   "ro": "Bestia haosului"
+  },
+  {
+   "key": "BOSS_NAME_WingGolem_Fire_TextData",
+   "en": "Blazing Suit of Armor",
+   "ro": "Armură înflăcărată"
+  },
+  {
+   "key": "BOSS_NAME_FlowerDoll_Fire_TextData",
+   "en": "Lady of the Ashen Wastes",
+   "ro": "Doamna ținuturilor de cenușă"
+  },
+  {
+   "key": "BOSS_NAME_IceSeal_Ground_TextData",
+   "en": "Star of the Dunes",
+   "ro": "Steaua dunelor"
+  },
+  {
+   "key": "BOSS_NAME_WhiteMoth_Neutral_TextData",
+   "en": "Gilded Lady",
+   "ro": "Doamna aurită"
+  },
+  {
+   "key": "BOSS_NAME_ThunderBird_Ice_TextData",
+   "en": "Wings of Frost",
+   "ro": "Aripi de brumă"
+  },
+  {
+   "key": "BOSS_NAME_BlackPuppy_Ice_TextData",
+   "en": "Chilly Little Hero",
+   "ro": "Micul erou înghețat"
+  },
+  {
+   "key": "BOSS_NAME_GhostRabbit_Grass_TextData",
+   "en": "Soul of the Green Rabbit",
+   "ro": "Sufletul iepurelui verde"
+  },
+  {
+   "key": "BOSS_NAME_NightBlueHorse_Neutral_TextData",
+   "en": "Silvermane",
+   "ro": "Coamă de argint"
+  },
+  {
+   "key": "BOSS_NAME_SweetsSheep_Ground_TextData",
+   "en": "King-Sized Confection",
+   "ro": "Dulceață uriașă"
+  },
+  {
+   "key": "BOSS_NAME_ThunderDog_Ice_TextData",
+   "en": "Frost-Fringed Zoomies",
+   "ro": "Furtună de zburdălnicie înghețată"
+  },
+  {
+   "key": "BOSS_NAME_OctopusGirl_Neutral_TextData",
+   "en": "Everyday Trickster",
+   "ro": "Ștrengar de zi cu zi"
+  },
+  {
+   "key": "BOSS_NAME_ScorpionMan_Electric_TextData",
+   "en": "Thunderboy",
+   "ro": "Băiatul Tunet"
+  },
+  {
+   "key": "BOSS_NAME_Kirin_Ice_TextData",
+   "en": "Blustery Blizzard Fiend",
+   "ro": "Demonul viscolului năpraznic"
+  },
+  {
+   "key": "BOSS_NAME_Monkey_Fire_TextData",
+   "en": "Flame Aficionado",
+   "ro": "Pasionatul flăcărilor"
+  },
+  {
+   "key": "BOSS_NAME_BlueSkyDragon_TextData",
+   "en": "Water God",
+   "ro": "Zeul Apei"
+  }
+ ]
+}
