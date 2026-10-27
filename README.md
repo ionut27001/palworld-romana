@@ -4,7 +4,7 @@ Traducere neoficială, făcută de fani, a textului din **Palworld**: meniuri, i
 dialoguri NPC, misiuni, jurnale, tutoriale, abilități, tehnologii, construcții, locuri de pe hartă
 (27 de tabele de text, ~14.700 de intrări). Numele Palilor rămân cele oficiale (Lamball, Cattiva...).
 
-**Descarcă mod-ul:** Nexus Mods: NEXUS_URL
+**Descarcă mod-ul:** Nexus Mods: https://www.nexusmods.com/palworld/mods/6001
 
 Acest repository e locul unde **oricine poate corecta traducerea**: o replică ciudată, un termen tradus inconsecvent,
 o descriere care nu sună românește. Corecturile acceptate intră în următoarea versiune a mod-ului.
